@@ -16,6 +16,10 @@ for s in plan["kept_segments"]:
 for i, c in enumerate(plan["d_spans"]):
     items.append((c["start"], c["end"], "d", i))
 items.sort(key=lambda x: x[0])
+# CHANTING RULE: hoist opening recitation invocations (first 10 min) to the head as intro
+intro = [it for it in items if it[2]=="d" and plan["d_spans"][it[3]]["kind"]=="recitation" and it[0] < 600]
+if intro:
+    items = intro + [it for it in items if it not in intro]
 work = f"/tmp/opencode/asm_p{part}"; os.makedirs(work, exist_ok=True)
 def enc(inp, out, extra_in=None, ss=None, to=None):
     cmd = ["ffmpeg","-y","-v","error"]
