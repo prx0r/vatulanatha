@@ -1,0 +1,267 @@
+{
+ "source": "Vijnana_Bhairava_1_-_INTRODUCTION [hm6HIqlovWo].mp3",
+ "target_min": 30,
+ "source_min": 76.0,
+ "kept_sec": 2323,
+ "kept_pct": 51,
+ "d_sec": 126.0,
+ "timebase": {
+  "native": "mp3"
+ },
+ "dropped_spans": [
+  {
+   "start": 1595,
+   "end": 1935,
+   "rank": 2
+  },
+  {
+   "start": 1283,
+   "end": 1595,
+   "rank": 2
+  },
+  {
+   "start": 814,
+   "end": 1017,
+   "rank": 2
+  },
+  {
+   "start": 1017,
+   "end": 1202,
+   "rank": 2
+  },
+  {
+   "start": 4304,
+   "end": 4419,
+   "rank": 2
+  },
+  {
+   "start": 3889,
+   "end": 3973,
+   "rank": 2
+  }
+ ],
+ "cuts": [
+  {
+   "start": 0.0,
+   "end": 42.0,
+   "kind": "music",
+   "reason": "opening music"
+  },
+  {
+   "start": 42.0,
+   "end": 82,
+   "kind": "intro",
+   "reason": "retreat welcome: privilege, invited by Swamiji, enlightened yogis"
+  },
+  {
+   "start": 130,
+   "end": 151.0,
+   "kind": "logistics",
+   "reason": "file distribution \u2014 the mangala text in your handouts"
+  },
+  {
+   "start": 803,
+   "end": 814.0,
+   "kind": "trim",
+   "reason": "transition: who has which text"
+  },
+  {
+   "start": 814.0,
+   "end": 1202,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 1274,
+   "end": 1944,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 2045,
+   "end": 2071,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 2216,
+   "end": 2231,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 2531,
+   "end": 2548,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 2714,
+   "end": 2739,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 2961,
+   "end": 2968,
+   "kind": "trim",
+   "reason": "short span inside removed region"
+  },
+  {
+   "start": 3062,
+   "end": 3084,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 3249,
+   "end": 3257,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 3521,
+   "end": 3564,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 3737,
+   "end": 3812,
+   "kind": "repetition",
+   "reason": "repeats qualification teaching + program lead-in (bee simile kept)"
+  },
+  {
+   "start": 3859,
+   "end": 4304.0,
+   "kind": "logistics",
+   "reason": "daily program: timetable, meditation slots, hatha yoga, tea, question times"
+  },
+  {
+   "start": 4304.0,
+   "end": 4419.0,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 4419.0,
+   "end": 4556.0,
+   "kind": "logistics",
+   "reason": "book distribution, photocopies, Hindi translations, close of introduction"
+  },
+  {
+   "start": 4556.0,
+   "end": 4558.54,
+   "kind": "trim",
+   "reason": "short span inside removed region"
+  }
+ ],
+ "d_spans": [
+  {
+   "start": 151.0,
+   "end": 277,
+   "kind": "recitation",
+   "reason": "Sanskrit mangala sloka chanted (Kshemaraja's verse)"
+  }
+ ],
+ "keep_summary": "mangala sloka + Sanskrit recitation -> Kshemaraja: title = your own consciousness -> Shaiva Upanishad / wrong-reasons selectivity -> masters quote it -> experience+knowledge -> Rudrayamala -> revelation as Shiva-Shakti dialogue -> descent of the word (para-pasyanti-madhama-vaikhari) -> ascent: meditation returns word to source -> Tantra-avataraka -> 112 ways/qualified receiver -> whatever practice is near -> bee simile",
+ "kept_segments": [
+  {
+   "start": 82,
+   "end": 130,
+   "grade": "A"
+  },
+  {
+   "start": 277,
+   "end": 513,
+   "grade": "A"
+  },
+  {
+   "start": 513,
+   "end": 676,
+   "grade": "A"
+  },
+  {
+   "start": 676,
+   "end": 803,
+   "grade": "A"
+  },
+  {
+   "start": 1202,
+   "end": 1274,
+   "grade": "A"
+  },
+  {
+   "start": 1944,
+   "end": 2045,
+   "grade": "A"
+  },
+  {
+   "start": 2071,
+   "end": 2216,
+   "grade": "A"
+  },
+  {
+   "start": 2231,
+   "end": 2531,
+   "grade": "A"
+  },
+  {
+   "start": 2548,
+   "end": 2714,
+   "grade": "A"
+  },
+  {
+   "start": 2739,
+   "end": 2848,
+   "grade": "A"
+  },
+  {
+   "start": 2848,
+   "end": 2961,
+   "grade": "A"
+  },
+  {
+   "start": 2968,
+   "end": 3062,
+   "grade": "A"
+  },
+  {
+   "start": 3084,
+   "end": 3138,
+   "grade": "B"
+  },
+  {
+   "start": 3138,
+   "end": 3249,
+   "grade": "A"
+  },
+  {
+   "start": 3257,
+   "end": 3521,
+   "grade": "A"
+  },
+  {
+   "start": 3564,
+   "end": 3737,
+   "grade": "A"
+  },
+  {
+   "start": 3812,
+   "end": 3859,
+   "grade": "A"
+  }
+ ],
+ "grade_counts": {
+  "A": 16,
+  "B": 1,
+  "C": 0,
+  "D": 1
+ },
+ "grade_minutes": {
+  "A": 37.8,
+  "B": 0.9,
+  "C": 0.0,
+  "D": 2.1
+ }
+}
