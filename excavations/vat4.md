@@ -60,6 +60,15 @@ Thesis question: what are the pairs, and what happens when they are swallowed?
 - context: Her own summary of 'swallowing': not destruction/exclusion/subordination — integration; consciousness as two interactive aspects moving in and out.
 - essay_use: Her signature line — coincidence of opposites
 
+### vat4-07 — examples fill (g1 gap 190→299s) [B]
+- timestamp: 00:03:10-->00:04:58
+- topics: tattva, cosmology
+- role: read_gap
+- layer: read
+- quote: "The arising and separation of the mode of activity of the pair consisting of the great elements, one by one, has the nature of subject and object"
+- context: COVERED-GAP: commentary statement + macro-micro examples (earth=smell/anus; ether=sound/speech-hearing; earth-water=objects vs fire-wind=subjects).
+- essay_use: Examples fill (G1 gap 190→299s)
+
 ## Reuse clusters
  (assigned at clustering — see 12-QUESTION-DEPTH)
 

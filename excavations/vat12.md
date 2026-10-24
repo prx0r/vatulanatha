@@ -50,6 +50,15 @@ Thesis question: what conditions the beyond?
 - quote: "Is there anything beyond?"
 - context: Her handoff: sūtra 12 = enlightenment at the perfect solar number; is there anything beyond? — Sūtra 13 answers.
 - essay_use: Loop-opener into vat13 — open-loop pair per 11-STICKINESS
+### vat12-06 — intro-read fill (g1 gap 55→198s) [B]
+- timestamp: 00:00:55-->00:03:18
+- topics: lineage, ethics
+- role: read_gap
+- layer: read
+- quote: "now the yoginists present the revelation which is free from the distinction between good and evil"
+- context: COVERED-GAP: commentary intro + great-awakening definition (sūtra line 01:38; mahābodha gloss: gnosis free of discursive stain, peace-beyond-peace, abodeless abode).
+- essay_use: Intro-read fill (G1 gap 55→198s)
+
 ## Reuse clusters
  (assigned at clustering step — see 12-QUESTION-DEPTH for the three essays)
 

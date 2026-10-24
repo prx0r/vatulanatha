@@ -78,6 +78,24 @@ Thesis question: what does it mean that one's true nature is ATTAINED — and by
 - context: Her structural claim (Brahma/Yoga/Siva sutra convention) — the text's own self-similarity, matches A-sub-B-sub-C.
 - essay_use: Fractal evidence from the source itself — document quote
 
+### vat1-09 — word-analysis fill (g1 gap 367→526s) [B]
+- timestamp: 00:06:07-->00:08:46
+- topics: praxis, nonduality
+- role: read_gap
+- layer: read
+- quote: "now i have understood in the sense of a mode"
+- context: COVERED-GAP: vṛtti word-analysis — vṛtti as mode/state; svarūpa across Kashmir Shaivism; Abhinavagupta's briefest definition of liberation (unfolding of true nature).
+- essay_use: Word-analysis fill (G1 gap 367→526s)
+
+### vat1-10 — commentary tail fill (g1 gap 625→807s) [B]
+- timestamp: 00:10:25-->00:13:27
+- topics: grace, nonduality
+- role: read_gap
+- layer: read
+- quote: "attained by the full expansion of the earth absorbing supreme soul by nada"
+- context: COVERED-GAP: commentary continuation — nāda/void absorption, thought+thought-free unification, akṛtaka pure consciousness, secret meaning, benediction introducing following sūtras.
+- essay_use: Commentary tail fill (G1 gap 625→807s)
+
 ## Reuse clusters
 - GRACE: vat1-03, vat1-07 (saktipata spoken twice), vat1-04 support
 - RECOGNITION bridge: vat1-05, vat1-06 (feeds PH cross-project)

@@ -60,6 +60,15 @@ Thesis question: where does a word come from?
 - context: Her musician's coda: the message for musicians. (Window incl. 'This sutra... can also have a message from musicians')
 - essay_use: The musician close — texture
 
+### vat7-07 — four-speeches commentary read (g1 gap 70→337s) [B]
+- timestamp: 00:01:10-->00:05:37
+- topics: speech, sound, cosmology
+- role: read_gap
+- layer: read
+- quote: "In the beginning, the four forms of speech will be described"
+- context: COVERED-GAP: long vṛtti read — parā peacock-quill/colors + banyan similes, madhyamā/vaikharī, arising-subsiding = creation-dissolution, mahānāda. Sub-verify at ear-check.
+- essay_use: Four-speeches commentary read (G1 gap 70→337s)
+
 ## Reuse clusters
  (assigned at clustering — see 12-QUESTION-DEPTH)
 

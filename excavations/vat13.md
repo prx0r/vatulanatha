@@ -60,6 +60,24 @@ Thesis question: what does the whole text land as?
 - context: Lakshman Joo's astonishment passage (her reading): the practitioner discovers the already-given — grace/realisation as recognition of what never left. THE close quote.
 - essay_use: The punchline — film/essay close material
 
+### vat13-07 — sūtra-13 middle read (g1 gap 194→600s) [B]
+- timestamp: 00:03:14-->00:06:40
+- topics: speech, mantra-gloss
+- role: read_gap
+- layer: read
+- quote: "by the power of the unspeakable speech"
+- context: COVERED-GAP: letter-A middle — four manifestations recap, bala/vitality, four goddesses (omitted by her), teacher-in-luminous-abode dissolving subjectivity via prāṇa, six-darshanas/four-āmnāya union.
+- essay_use: Sūtra-13 middle read (G1 gap 194→600s)
+
+### vat13-08 — wonder/mudrā block (g1 cont.) [B]
+- timestamp: 00:06:40-->00:09:38
+- topics: lineage, sudden-enlightenment
+- role: read_gap
+- layer: read
+- quote: "according to the vision of the tradition of excellent sitas"
+- context: COVERED-GAP: worship dissolved → constant expansion; great wonder = entry in own nature; conceit destroyed; mudra containing all mudras = absorption in silence.
+- essay_use: Wonder/mudrā block (G1 cont.)
+
 ## Reuse clusters
 - CLOSE slot: vat13-06 (punchline), vat13-01 (silence thesis)
 - SPEECH depth: vat13-03, vat13-05 (competing sūtra readings)

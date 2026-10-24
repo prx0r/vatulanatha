@@ -51,6 +51,24 @@ Thesis question: what happens the moment true nature is attained?
 - context: Her close: entry into great void = transcendent void = non-void = fullness (echoes vat3-04, sets up vat4's niravakāśa).
 - essay_use: Void=fullness echo — B bridge
 
+### vat2-06 — simultaneity-examples fill (g1 gap 213→369s) [B]
+- timestamp: 00:03:33-->00:06:09
+- topics: praxis, nonduality
+- role: read_gap
+- layer: read
+- quote: "such an experience can happen spontaneously without any preparation"
+- context: COVERED-GAP: simultaneity examples (body-universe bliss, senses merged in heart), Swamiji's turiya/turiyātīta, all states simultaneous with transcendent.
+- essay_use: Simultaneity-examples fill (G1 gap 213→369s)
+
+### vat2-07 — grāsa-lexicon fill (g1 gap 457→618s) [B]
+- timestamp: 00:07:37-->00:10:18
+- topics: nonduality, praxis
+- role: read_gap
+- layer: read
+- quote: "they don't like any expression which means suppressing but just dissolving"
+- context: COVERED-GAP: dissolution-not-suppression; ollaṅghana vs grāsa lexicon; Mahābhārata time-eating vs Trika yogi swallowing time → simultaneity.
+- essay_use: Grāsa-lexicon fill (G1 gap 457→618s)
+
 ## Reuse clusters
  (assigned at clustering — see 12-QUESTION-DEPTH)
 
