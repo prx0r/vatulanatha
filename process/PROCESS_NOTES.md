@@ -127,6 +127,13 @@ ffprobe -v error -show_entries format=duration -of csv=p=0 <mp3>
   (`prx0r/…`) when owner wants it public.
 
 ## 10. STANDARD (owner, 2026-10-25) — record this
+- **The formula (owner, verbatim):** *audio of a genius talking about a text —
+  using their voice as the excuse to finish analyzing a tough text.* Dependency runs
+  both ways: text makes the audio citable/scholarly; the genius voice makes the hard
+  text ingestible. Grammar is text-agnostic → every text x voice pair = next project.
+- **Bäumer = the host series** (complete on disk): PH 12/12 (recognition = next
+  project after Vātūlanātha), Vātūlanātha 13+3 (current), Spanda 16, Śivastotrāvalī 12,
+  VBT 16, Parātrīśikā 10; Śiva Sūtras 14 on R2. Text shelf per series tracked in 14.
 - One project = **one primary source, covered completely** (33-sermons standard:
   the goal was covering the sermons, not mining clips). Our project's primary source
   = the Vātūlanāthasūtra + vṛtti → goal: FULL coverage (all 13, nothing missed —
