@@ -34,7 +34,7 @@ levin/science-of-consciousness/cimc/sivananda-vishnudevananda ~200 — out of sc
 | source | what | status |
 |---|---|---|
 | **Lakshmanjoo Secret Supreme** | 10h38m original 1971 (Tantrāloka oral) | $0 checkout — OWNER |
-| **Sanderson "Readings in the Tantrāloka"** | YouTube/OCHS, series I…VIII+ (2022–25) + "Śāktism among the Śaivas" ×3 + podcast reading of his 6 Encyclopedia articles `wkKfHLEYM6Y` | **the "sanderson readings as audio" — EXIST ON YOUTUBE** — queue next |
+| **Sanderson "Readings in the Tantrāloka"** | YouTube/OCHS I–VIII (`hxaz7FbtPFk,84tdRYVdR8s,pttYPa3GjOY,cUvqLJqamM4,8kMEU7XZsbM,mAp85s2Tma8,JLK2mtXTWCc,FRnc6qJyX2I`) + Śāktism-1 `l3A-KYFfcko` + podcast `wkKfHLEYM6Y` + IX–XII `OrEPEgEY18o` | **QUEUED (9 downloading)** |
 | Dyczkowski free lectures | 12 pages (Locating Trika, Heart, Bhairava Stava, Sources of TL, Vyomavyapin, OM, Anuttara, Kashi, Yoginis, Kundalini, Tantras-Buddhism 37m) — Drive-embed scrape (karma-rebirth pattern) | TODO |
 | Lakshmanjoo Academy blog | "The real way of realization of reality…" (Abhinavagupta Gītā cmt), "What is mahasamadhi" — text + audio excerpts | TODO fetch |
 | Wallis / Sarvapriyananda more | YouTube freely | easy later |
@@ -68,3 +68,11 @@ levin/science-of-consciousness/cimc/sivananda-vishnudevananda ~200 — out of sc
 - Every foreign clip = excavation unit discipline (verbatim/timestamp/grade).
 - Disk watch: **6.5G free (96%)** — Secret Supreme ≈1.5G, Sanderson ≈0.4G, baumer dl
   still running. Clean or expand before big gets.
+
+## E. General YouTube sweep (yt-dlp search works from this box — whole YT is inventory)
+- Lakshmanjoo short clips on YT ("Final goal in Kashmir Shaivism", meditation clips…) — texture
+- Navjivan Rastogi "Insights of Abhinavagupta" series (2024, Hindi-English) — academic
+- Raja Choudhury Trika/Abhinavagupta talks; Alka Tyagi intro; Dyczkowski SAND19 interview
+- Dyczkowski CIIS 2010 = the free *Tantras-Buddhism* lecture page (same event)
+- kashmirshaivainstitute.com (Ishwar Ashram) = official Lakshmanjoo archive — more audio/translations there
+- re-confirm: Secret Supreme = "essence of the first fifteen chapters of Abhinavagupta's Tantrāloka" (institute site agrees)
