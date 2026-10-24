@@ -33,7 +33,14 @@ is re-posed (rising complexity), and the SAME A clips land unchanged.
 - open→close pairs per 11-STICKINESS open-loops: each question marked
   in the manifest with where it gets closed.
 
-## The three questions (Bäumer Vātūlanātha, 3-essay verdict)
+## MEASURED VERDICT (2026-10-25, see PROCESS_NOTES §5)
+The three questions below were assigned PRE-measurement. Keyword counts across all
+13 transcripts killed two candidates ("sudden" = 0 hits in sūtras 4–12; "grace" =
+12 hits, partial) and crowned the corpus question: **"What is realisation?"**
+(attainment/resting-in-own-nature = 65 hits, every lecture; the 13 sūtras are its
+aspects). "What is grace?" lives on as our separate commentary film's question.
+The beat grammar below is UNCHANGED — only the question set moved.
+
 | essay | question | A-core |
 |---|---|---|
 | GRACE | **"What is grace?"** | vat3 glance · vat3 uncreated · vat8 transmission · vat10 without-cause |

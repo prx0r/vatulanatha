@@ -10,6 +10,10 @@ Port of `../analayo-nibbana/process/` (see its 00→08). What differs here:
   only (07 standard, never a sentence beyond the gloss) · HUMAN = film narration
   with citations (marked human bridges, provenance required).
 
+## Read this first
+`PROCESS_NOTES.md` — the living build log: what emerged from the audio,
+how the question was measured, correction log, status board.
+
 ## Status (2026-10-25)
 - [x] 00-INPUTS: 13/13 transcribed (8 CF + 8 srt); decompiled 13/13 (`decompile/`)
       text_read vs explanation spans; ear-check flags recorded (17 spans)
