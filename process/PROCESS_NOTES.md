@@ -111,7 +111,10 @@ grep -c '^### ' excavations/*.md; grep -ho '\[A\]\|\[B\]' excavations/vat*.md | 
 ffprobe -v error -show_entries format=duration -of csv=p=0 <mp3>
 ```
 - **Done:** inputs, decompile ×13, Sanskrit ×13, key_v2 draft, FORMULA, question rule,
-  question measurement, excavations 5/13.
+  question measurement, excavations 5/13, supplements (Wallis/Sarvapriyananda/Sanderson
+  batch), **Secret Supreme text landed** (`supplements/lakshmanjoo/`: OCR txt 43k words
+  + 172p PDF — book = edited form OF the 1971 audio recordings, chapter-aligned, so it
+  serves as the transcript/index for the $0 audio when it arrives).
 - **Next:** vat13, vat4, vat7, vat2, vat5, vat6, vat9, vat11 (1.5 A/file discipline)
   → CATALOGUE → clustering + convergence → SPINE slots for "What is realisation?"
   → A/B/C manifests → render (analayo settings: loudnorm −16 LUFS, afade 0.15,
@@ -122,3 +125,15 @@ ffprobe -v error -show_entries format=duration -of csv=p=0 <mp3>
   filtered; confirm credits before TTS).
 - **Repo:** git-committed per stage (see log); push target like the others
   (`prx0r/…`) when owner wants it public.
+
+## 10. STANDARD (owner, 2026-10-25) — record this
+- One project = **one primary source, covered completely** (33-sermons standard:
+  the goal was covering the sermons, not mining clips). Our project's primary source
+  = the Vātūlanāthasūtra + vṛtti → goal: FULL coverage (all 13, nothing missed —
+  run the coverage-audit: every decompile span has a unit or an explicit C-mark).
+- Same grammar everywhere → remixable later (voice grammar 15 + FORMULA + key
+  standard carry across projects: future projects = Secret Supreme own-series,
+  Tantrāloka, PH…).
+- Supplements (Lakshmanjoo/Sanderson/Wallis) stay OUTSIDE the Vātūlanātha coverage
+  ledger — they feed the overlap-map for multi-voice assembly, they don't excuse
+  coverage gaps in the primary source.
