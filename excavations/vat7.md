@@ -69,6 +69,15 @@ Thesis question: where does a word come from?
 - context: COVERED-GAP: long vṛtti read — parā peacock-quill/colors + banyan similes, madhyamā/vaikharī, arising-subsiding = creation-dissolution, mahānāda. Sub-verify at ear-check.
 - essay_use: Four-speeches commentary read (G1 gap 70→337s)
 
+### vat7-08 — gravity-of-speech claim (g1 gap 396→462s) [B]
+- timestamp: 00:06:36-->00:07:42
+- topics: speech, praxis
+- role: claim
+- layer: read
+- quote: "their speech has a gravity and depth which is precisely derived from universal I-consciousness"
+- context: COVERED-GAP: application — when the four states' edges appear in awareness, svara is within; as observed in an enlightened person every letter descends whole from parā; speech-gravity claim.
+- essay_use: Gravity-of-speech claim (G1 gap 396→462s)
+
 ## Reuse clusters
  (assigned at clustering — see 12-QUESTION-DEPTH)
 

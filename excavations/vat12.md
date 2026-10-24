@@ -25,7 +25,7 @@ Thesis question: what conditions the beyond?
 - essay_use: Rebirth line + mahamukti — dual-hook clip (GRACE + rebirth project)
 
 ### vat12-03 — spontaneous lexicon — b depth [B]
-- timestamp: 00:04:02-->00:04:24
+- timestamp: 00:04:02-->00:04:51
 - topics: grace, sudden-enlightenment
 - role: claim
 - layer: explain

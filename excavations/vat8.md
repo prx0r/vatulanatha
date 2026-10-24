@@ -34,7 +34,7 @@ Thesis question: if it is not by will, what makes it happen — and what do you 
 - essay_use: Sūtra card + the spontaneous-emergence claim
 
 ### vat8-04 — grace core: transmission-from-guru (c5 clip) [A]
-- timestamp: 00:02:57-->00:03:26
+- timestamp: 00:02:57-->00:04:10
 - topics: grace, guru, lineage
 - role: claim
 - layer: read

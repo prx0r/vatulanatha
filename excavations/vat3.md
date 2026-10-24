@@ -61,7 +61,7 @@ Thesis question: how does one enter the void between the boards — and who show
 - essay_use: Technical body layer — B depth only
 
 ### vat3-07 — how the practice actually works — b spine [B]
-- timestamp: 00:06:42-->00:07:05
+- timestamp: 00:06:42-->00:07:29
 - topics: madhya, nonduality, praxis
 - role: method
 - layer: explain

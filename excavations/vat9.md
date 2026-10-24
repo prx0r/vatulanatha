@@ -51,6 +51,15 @@ Thesis question: what does permanent realisation feel like from inside?
 - context: Devī-quote block: ud-yoga = fountain-force, establishment, taste-nectar, complete consumption → 'when the whole process is over the entry in the realm of universal consciousness takes place'.
 - essay_use: Closing formula of the commentary
 
+### vat9-06 — swamiji four-energies translation (g1 gap 259→300s) [B]
+- timestamp: 00:04:19-->00:04:50
+- topics: cosmology, nonduality
+- role: claim
+- layer: read
+- quote: "when in each and every act you feel the functioning of four energies you never get away from your own self-establishment"
+- context: COVERED-GAP: Swamiji's translation of the sūtra + her correlation note (four deities ↔ universal/ordinary states of consciousness ↔ divine energies).
+- essay_use: Swamiji four-energies translation (G1 gap 259→300s)
+
 ## Reuse clusters
  (assigned at clustering — see 12-QUESTION-DEPTH)
 

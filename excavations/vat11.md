@@ -51,6 +51,15 @@ Thesis question: what does the realised one DO?
 - context: Her clarification of Swamiji's 'agitation': not kṣoba but spanda — 'consciousness in this tradition is dynamic... there is a dynamism of consciousness'.
 - essay_use: Spanda-not-static — B (ties Śiva Sūtra 1.5)
 
+### vat11-06 — five-natures list (g1 gap 84→148s) [B]
+- timestamp: 00:01:24-->00:02:28
+- topics: praxis, senses
+- role: method
+- layer: read
+- quote: "The five modes of activity are of the nature of"
+- context: COVERED-GAP: the sūtra line + five-nature definitions (anashrita without support, avatuta restrictions thrown off, unmata mad, savabhakshya all-consuming, mahavyapaka omnipervasive) + joyful upsurge lead.
+- essay_use: Five-natures list (G1 gap 84→148s)
+
 ## Reuse clusters
  (assigned at clustering — see 12-QUESTION-DEPTH)
 

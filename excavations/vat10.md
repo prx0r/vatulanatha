@@ -68,6 +68,15 @@ Thesis question: what happens when the senses stop being obstacles?
 - quote: "his divinized senses attain the state of pure consciousness which radiates throughout the universe"
 - context: The payoff: not only the yogi perfected — the senses themselves become pure consciousness radiating through the universe.
 - essay_use: The radiance payoff — conduct-material A
+### vat10-08 — mahāvākya claim (g1 gap 160→226s) [B]
+- timestamp: 00:02:40-->00:03:46
+- topics: nonduality, lineage
+- role: claim
+- layer: read
+- quote: "The sutra is here called Mahavakya, like the fundamental sentences of the Upanishads"
+- context: COVERED-GAP: the sūtra as Mahāvākya + completion-claim (only with cosmic expansion is the process complete, indestructible); Swamiji variant-reading note follows.
+- essay_use: Mahāvākya claim (G1 gap 160→226s)
+
 ## Reuse clusters
  (assigned at clustering step — see 12-QUESTION-DEPTH for the three essays)
 

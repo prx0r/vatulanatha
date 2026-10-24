@@ -25,7 +25,7 @@ Thesis question: what blocks sudden enlightenment, and what falls away?
 - essay_use: Commentary hinge 5→6
 
 ### vat6-03 — three-coverings taxonomy — b depth [B]
-- timestamp: 00:01:49-->00:03:01
+- timestamp: 00:01:49-->00:04:22
 - topics: tattva, cosmology
 - role: method
 - layer: read
