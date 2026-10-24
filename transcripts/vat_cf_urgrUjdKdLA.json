@@ -1,0 +1,522 @@
+{
+ "source": "/home/box/Downloads/yt/baumer/Vatulanatha_Sutra_10 [urgrUjdKdLA].mp3",
+ "duration": 409.488,
+ "engine": "cf-whisper-large-v3-turbo",
+ "sentences": [
+  {
+   "t": 4.42,
+   "end": 5.26,
+   "text": "Namaskar."
+  },
+  {
+   "t": 6.66,
+   "end": 13.78,
+   "text": "Sutra 10 makes it very clear that the mystical experience is not cut off from sense experience."
+  },
+  {
+   "t": 14.26,
+   "end": 21.52,
+   "text": "On the contrary, all the senses are transfigured and transmuted into the supreme consciousness,"
+  },
+  {
+   "t": 22.0,
+   "end": 27.88,
+   "text": "which is compared to the sun and its rays, which are nothing but divine energies."
+  },
+  {
+   "t": 29.66,
+   "end": 34.64,
+   "text": "Ananda Shaktipada introduces the Sutra in the following way, quote."
+  },
+  {
+   "t": 35.9,
+   "end": 43.46,
+   "text": "Having revealed the system of the oral teaching concerning the four deities in the previous Sutra,"
+  },
+  {
+   "t": 43.82,
+   "end": 48.78,
+   "text": "now he will explain the secret of the psyche of the twelve currents."
+  },
+  {
+   "t": 49.62,
+   "end": 51.88,
+   "text": "Vada Shabha Chakra Rahasya."
+  },
+  {
+   "t": 52.92,
+   "end": 54.18,
+   "text": "Sutra 10"
+  },
+  {
+   "t": 54.18,
+   "end": 60.1,
+   "text": "Vada Shabha Udayena Maha Marici Vikasara."
+  },
+  {
+   "t": 60.76,
+   "end": 68.6,
+   "text": "By the rise of the twelve currents, there occurs expansion of the great rays of consciousness."
+  },
+  {
+   "t": 69.28,
+   "end": 70.28,
+   "text": "Commentary."
+  },
+  {
+   "t": 71.92,
+   "end": 77.22,
+   "text": "The five cognitive senses, beginning with hearing, along with the mind,"
+  },
+  {
+   "t": 77.54,
+   "end": 82.46,
+   "text": "and the five senses of action, beginning with speech, along with the intellect,"
+  },
+  {
+   "t": 82.92,
+   "end": 86.4,
+   "text": "are the twelve currents as they arise collectively."
+  },
+  {
+   "t": 86.4,
+   "end": 95.96,
+   "text": "Their radiant manifestation, ul-lasa, constitutes the current of the all-absorbing consciousness spontaneously,"
+  },
+  {
+   "t": 96.72,
+   "end": 104.46,
+   "text": "without any cause, by their mode of action of supreme freedom, without any constraint,"
+  },
+  {
+   "t": 105.02,
+   "end": 108.62,
+   "text": "in the absolute stillness of the luminous abode."
+  },
+  {
+   "t": 108.62,
+   "end": 116.98,
+   "text": "By that flow, there happens an expansion of the great rays of consciousness, unobstructed,"
+  },
+  {
+   "t": 117.2,
+   "end": 120.96,
+   "text": "within the flow of each of the senses,"
+  },
+  {
+   "t": 121.64,
+   "end": 129.14,
+   "text": "takes the form of upsurge, manifestation, regime, consumption, and repose."
+  },
+  {
+   "t": 129.14,
+   "end": 134.44,
+   "text": "These are the five phases of Khamma, which we have encountered before,"
+  },
+  {
+   "t": 135.18,
+   "end": 140.4,
+   "text": "Utyuga, Avabhasa, Charvana, Anangrasa, and Vishwanti."
+  },
+  {
+   "t": 142.1,
+   "end": 146.7,
+   "text": "This is the great awakening, Mahaprabhata,"
+  },
+  {
+   "t": 147.28,
+   "end": 150.88,
+   "text": "by the dissolution of the perception of all distinctions,"
+  },
+  {
+   "t": 151.36,
+   "end": 158.94,
+   "text": "such as what is restricted and unrestricted, conscious and inert, being of ever-absorbing nature."
+  },
+  {
+   "t": 160.16,
+   "end": 165.96,
+   "text": "Being ever indestructible, it is established everywhere and at all times."
+  },
+  {
+   "t": 166.34,
+   "end": 170.46,
+   "text": "This is the meaning of the great saying, end of the quote."
+  },
+  {
+   "t": 171.52,
+   "end": 177.68,
+   "text": "The sutra is here called Mahavakya, like the fundamental sentences of the Upanishads."
+  },
+  {
+   "t": 179.02,
+   "end": 184.34,
+   "text": "Calling this a great awakening shows that the process is only complete"
+  },
+  {
+   "t": 184.34,
+   "end": 190.18,
+   "text": "when there is not only introversion, but also expansion into the cosmic consciousness,"
+  },
+  {
+   "t": 190.62,
+   "end": 192.02,
+   "text": "which is indestructible."
+  },
+  {
+   "t": 194.0,
+   "end": 198.1,
+   "text": "Swami Lakshman too has accepted a different reading of the sutra,"
+  },
+  {
+   "t": 198.94,
+   "end": 203.82,
+   "text": "Vadasya Vaha Ulla Sena instead of Udayena, in the Kashmir edition."
+  },
+  {
+   "t": 203.82,
+   "end": 206.38,
+   "text": "But the meaning does not differ much."
+  },
+  {
+   "t": 208.14,
+   "end": 210.26,
+   "text": "His translation reads, quote,"
+  },
+  {
+   "t": 211.18,
+   "end": 214.32,
+   "text": "By giving rise to twelvefold flow of energies,"
+  },
+  {
+   "t": 214.72,
+   "end": 217.1,
+   "text": "the expansion of supreme energy,"
+  },
+  {
+   "t": 217.42,
+   "end": 220.58,
+   "text": "the preeminent Svatanthya Shakti prevails."
+  },
+  {
+   "t": 222.06,
+   "end": 226.98,
+   "text": "And his commentary throws much light on the applicability of this sutra."
+  },
+  {
+   "t": 226.98,
+   "end": 227.78,
+   "text": "Quote,"
+  },
+  {
+   "t": 229.26,
+   "end": 233.92,
+   "text": "Though these twelvefold flows are verily twelvefold experiences"
+  },
+  {
+   "t": 233.92,
+   "end": 239.72,
+   "text": "from five senses of action, five senses of cognition, mind and intellect,"
+  },
+  {
+   "t": 240.04,
+   "end": 243.7,
+   "text": "yet we have to make it possible in such a way"
+  },
+  {
+   "t": 243.7,
+   "end": 248.4,
+   "text": "that these very experiences are transformed in Ullasa,"
+  },
+  {
+   "t": 248.94,
+   "end": 250.9,
+   "text": "the upward flow of Shakti."
+  },
+  {
+   "t": 250.9,
+   "end": 254.68,
+   "text": "Only in that case, Maha Mariji Vikasar,"
+  },
+  {
+   "t": 254.92,
+   "end": 259.08,
+   "text": "expansion of the supreme energy will surely take place."
+  },
+  {
+   "t": 260.16,
+   "end": 263.58,
+   "text": "The entire range of these flows of energy"
+  },
+  {
+   "t": 263.58,
+   "end": 268.0,
+   "text": "is virtually the expansion of one Shakti"
+  },
+  {
+   "t": 268.0,
+   "end": 273.16,
+   "text": "defined as Maha Mariji or Svatanthya Shakti in scriptures,"
+  },
+  {
+   "t": 273.68,
+   "end": 279.08,
+   "text": "who is the all-inclusive one infinite Shakti of the supreme being."
+  },
+  {
+   "t": 280.54,
+   "end": 284.86,
+   "text": "When all the senses are transformed in the formation of energy"
+  },
+  {
+   "t": 284.86,
+   "end": 287.6,
+   "text": "in the super-god consciousness state,"
+  },
+  {
+   "t": 288.0,
+   "end": 291.3,
+   "text": "whatever we see with these gross eyes,"
+  },
+  {
+   "t": 291.58,
+   "end": 295.04,
+   "text": "we see the supreme being shining before us."
+  },
+  {
+   "t": 295.44,
+   "end": 296.78,
+   "text": "In the same way,"
+  },
+  {
+   "t": 297.02,
+   "end": 299.8,
+   "text": "other senses too get transformed"
+  },
+  {
+   "t": 299.8,
+   "end": 302.88,
+   "text": "from the state of senses to the energies"
+  },
+  {
+   "t": 302.88,
+   "end": 307.88,
+   "text": "and the expansion of Svatanthya pervades all around."
+  },
+  {
+   "t": 308.04,
+   "end": 309.02,
+   "text": "End of the quote."
+  },
+  {
+   "t": 311.34,
+   "end": 314.72,
+   "text": "That the senses are called flows or currents"
+  },
+  {
+   "t": 314.72,
+   "end": 317.62,
+   "text": "is already true in the natural condition,"
+  },
+  {
+   "t": 317.94,
+   "end": 319.44,
+   "text": "where they are flowing out"
+  },
+  {
+   "t": 319.44,
+   "end": 322.4,
+   "text": "towards their respective objects of perception."
+  },
+  {
+   "t": 323.54,
+   "end": 324.98,
+   "text": "At the next higher stage,"
+  },
+  {
+   "t": 325.26,
+   "end": 328.9,
+   "text": "the yogi internalizes this externalizing tendency"
+  },
+  {
+   "t": 328.9,
+   "end": 332.12,
+   "text": "and he makes them merge in the heart center."
+  },
+  {
+   "t": 332.82,
+   "end": 336.66,
+   "text": "This is what happens in the Kattlobanishad,"
+  },
+  {
+   "t": 336.82,
+   "end": 338.14,
+   "text": "the famous mantra,"
+  },
+  {
+   "t": 338.44,
+   "end": 340.56,
+   "text": "Paranchi Karni da Trima Tsvayambhu,"
+  },
+  {
+   "t": 340.98,
+   "end": 344.22,
+   "text": "that the creator has made these openings"
+  },
+  {
+   "t": 344.22,
+   "end": 347.72,
+   "text": "towards the outer external."
+  },
+  {
+   "t": 347.72,
+   "end": 350.22,
+   "text": "But some sage has come"
+  },
+  {
+   "t": 350.22,
+   "end": 352.16,
+   "text": "and he turned it with him,"
+  },
+  {
+   "t": 352.54,
+   "end": 353.46,
+   "text": "Avrita Chakshu,"
+  },
+  {
+   "t": 353.6,
+   "end": 355.18,
+   "text": "he turned the eyes with him"
+  },
+  {
+   "t": 355.18,
+   "end": 358.08,
+   "text": "and attained the Atman directly."
+  },
+  {
+   "t": 359.1,
+   "end": 362.86,
+   "text": "This is the stage of internalizing."
+  },
+  {
+   "t": 363.6,
+   "end": 367.28,
+   "text": "Without a complete and stable internalization,"
+  },
+  {
+   "t": 367.64,
+   "end": 369.24,
+   "text": "no progress can be made."
+  },
+  {
+   "t": 370.4,
+   "end": 372.36,
+   "text": "It is the third and highest stage"
+  },
+  {
+   "t": 372.36,
+   "end": 375.72,
+   "text": "which has been expressed in the brevity of this sutra."
+  },
+  {
+   "t": 375.72,
+   "end": 379.2,
+   "text": "Here, the yogi makes this flow rise,"
+  },
+  {
+   "t": 379.42,
+   "end": 381.26,
+   "text": "hence Udaya or Ulasa,"
+  },
+  {
+   "t": 381.48,
+   "end": 382.82,
+   "text": "as the reading may be."
+  },
+  {
+   "t": 383.88,
+   "end": 387.56,
+   "text": "And instead of being held in internal absorption,"
+  },
+  {
+   "t": 388.06,
+   "end": 390.34,
+   "text": "the senses become transformed"
+  },
+  {
+   "t": 390.34,
+   "end": 392.2,
+   "text": "into divine energies."
+  },
+  {
+   "t": 392.64,
+   "end": 395.52,
+   "text": "And thus, it is not only the yogi"
+  },
+  {
+   "t": 395.52,
+   "end": 398.24,
+   "text": "or mystic who attains perfection,"
+  },
+  {
+   "t": 398.62,
+   "end": 400.76,
+   "text": "but his divinized senses"
+  },
+  {
+   "t": 400.76,
+   "end": 404.12,
+   "text": "attain the state of pure consciousness"
+  },
+  {
+   "t": 404.12,
+   "end": 407.94,
+   "text": "which radiates throughout the universe."
+  },
+  {
+   "t": 407.94,
+   "end": 408.02,
+   "text": "and thus, it is not only the yogi,"
+  },
+  {
+   "t": 408.08,
+   "end": 408.14,
+   "text": "but his divinized senses,"
+  },
+  {
+   "t": 408.14,
+   "end": 408.22,
+   "text": "but his divinized senses,"
+  },
+  {
+   "t": 408.34,
+   "end": 408.44,
+   "text": "but his divinized senses,"
+  },
+  {
+   "t": 408.44,
+   "end": 408.92,
+   "text": "but his divinized senses,"
+  },
+  {
+   "t": 408.92,
+   "end": 409.04,
+   "text": "but his divinized senses,"
+  },
+  {
+   "t": 409.04,
+   "end": 409.1,
+   "text": "but his divinized senses,"
+  },
+  {
+   "t": 409.1,
+   "end": 409.32,
+   "text": "and his divinized senses,"
+  },
+  {
+   "t": 409.34,
+   "end": 409.42,
+   "text": "and his divinized senses,"
+  }
+ ]
+}

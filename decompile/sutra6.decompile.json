@@ -1,0 +1,57 @@
+{
+ "video": "VV3IRJ-wLG8",
+ "file": "Vatulanatha_Sutra_6 [VV3IRJ-wLG8].mp3",
+ "duration": 380.9,
+ "decompiled_by": "hand+markers",
+ "text_reads": [
+  {
+   "start": 62,
+   "end": 102,
+   "kind": "text_read",
+   "confidence": "high",
+   "note": "commentary introduction (\"having taught the arising of the great union...\")"
+  },
+  {
+   "start": 109,
+   "end": 255,
+   "kind": "text_read",
+   "confidence": "high",
+   "note": "three-coverings interpretations block -> \"end of the quote of the commentary\" @255"
+  },
+  {
+   "start": 262,
+   "end": 270,
+   "kind": "text_read",
+   "confidence": "high",
+   "note": "Swamiji translation (\"throwing away the three-fold coverings...\")"
+  },
+  {
+   "start": 270,
+   "end": 287,
+   "kind": "text_read",
+   "confidence": "med",
+   "note": "Swamiji another meaning (\"the other noah knowledge and the law\")"
+  }
+ ],
+ "explanation_spans": [
+  {
+   "start": 0.0,
+   "end": 62
+  },
+  {
+   "start": 102,
+   "end": 109
+  },
+  {
+   "start": 255,
+   "end": 262
+  },
+  {
+   "start": 287,
+   "end": 380.9
+  }
+ ],
+ "needs_earcheck": [
+  270
+ ]
+}

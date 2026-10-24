@@ -1,0 +1,96 @@
+{
+ "video": "ZrTkwSh3GRE",
+ "file": "Vatulanatha_Sutra_1 [ZrTkwSh3GRE].mp3",
+ "duration": 845.11,
+ "decompiled_by": "hand+markers",
+ "text_reads": [
+  {
+   "start": 106,
+   "end": 153,
+   "kind": "text_read",
+   "confidence": "high",
+   "note": "her own s\u016btra translations read (maha sahasa + alternative)"
+  },
+  {
+   "start": 464,
+   "end": 490,
+   "kind": "text_read",
+   "confidence": "med",
+   "note": "Abhinavagupta liberation definition quote (\"unfolding of ... to nature\")"
+  },
+  {
+   "start": 508,
+   "end": 526,
+   "kind": "text_read",
+   "confidence": "med",
+   "note": "Swami Lakshman Joo quote (\"we are mostly not living in our true nature\")"
+  },
+  {
+   "start": 579,
+   "end": 610,
+   "kind": "text_read",
+   "confidence": "high",
+   "note": "Ananta\u015baktip\u0101da commentary: \"can happen to anyone anywhere anytime... shaktipata\" (C3)"
+  },
+  {
+   "start": 634,
+   "end": 660,
+   "kind": "text_read",
+   "confidence": "high",
+   "note": "\"it is attained by the full expansion... thought-free processes\""
+  },
+  {
+   "start": 697,
+   "end": 729,
+   "kind": "text_read",
+   "confidence": "high",
+   "note": "\"continue the translation it is by transcending all conceptions...\""
+  },
+  {
+   "start": 783,
+   "end": 807,
+   "kind": "text_read",
+   "confidence": "med",
+   "note": "closing benediction of the commentary"
+  }
+ ],
+ "explanation_spans": [
+  {
+   "start": 0.0,
+   "end": 106
+  },
+  {
+   "start": 153,
+   "end": 464
+  },
+  {
+   "start": 490,
+   "end": 508
+  },
+  {
+   "start": 526,
+   "end": 579
+  },
+  {
+   "start": 610,
+   "end": 634
+  },
+  {
+   "start": 660,
+   "end": 697
+  },
+  {
+   "start": 729,
+   "end": 783
+  },
+  {
+   "start": 807,
+   "end": 845.11
+  }
+ ],
+ "needs_earcheck": [
+  464,
+  508,
+  783
+ ]
+}

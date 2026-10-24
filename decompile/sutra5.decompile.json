@@ -1,0 +1,84 @@
+{
+ "video": "0LCYhSfS2Zg",
+ "file": "Vatulanatha_Sutra_5 [0LCYhSfS2Zg].mp3",
+ "duration": 394.56,
+ "decompiled_by": "hand+markers",
+ "text_reads": [
+  {
+   "start": 47,
+   "end": 74,
+   "kind": "text_read",
+   "confidence": "med",
+   "note": "commentary link-intro (\"he now reveals the direct experience of the union\")"
+  },
+  {
+   "start": 129,
+   "end": 146,
+   "kind": "text_read",
+   "confidence": "high",
+   "note": "Swamiji translation quote (\"quote by firmly uniting siddhas...\")"
+  },
+  {
+   "start": 154,
+   "end": 216,
+   "kind": "text_read",
+   "confidence": "high",
+   "note": "commentary quote (\"quote the sitas and yoginis are the sense objects...\" -> end of quote @216)"
+  },
+  {
+   "start": 241,
+   "end": 266,
+   "kind": "text_read",
+   "confidence": "med",
+   "note": "Swamiji further interpretation quote (\"it is a union of god consciousness...\")"
+  },
+  {
+   "start": 298,
+   "end": 315,
+   "kind": "text_read",
+   "confidence": "high",
+   "note": "quote (\"there will be no discretion of master and disciple...\")"
+  },
+  {
+   "start": 348,
+   "end": 363,
+   "kind": "text_read",
+   "confidence": "high",
+   "note": "quote (\"he becomes the beloved of the yoginis...\")"
+  }
+ ],
+ "explanation_spans": [
+  {
+   "start": 0.0,
+   "end": 47
+  },
+  {
+   "start": 74,
+   "end": 129
+  },
+  {
+   "start": 146,
+   "end": 154
+  },
+  {
+   "start": 216,
+   "end": 241
+  },
+  {
+   "start": 266,
+   "end": 298
+  },
+  {
+   "start": 315,
+   "end": 348
+  },
+  {
+   "start": 363,
+   "end": 394.56
+  }
+ ],
+ "needs_earcheck": [
+  47,
+  241
+ ]
+}

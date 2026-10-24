@@ -1,0 +1,46 @@
+{
+ "video": "urgrUjdKdLA",
+ "file": "transcripts/vat_cf_urgrUjdKdLA.json",
+ "duration": 409.488,
+ "decompiled_by": "hand+markers",
+ "text_reads": [
+  {
+   "start": 111,
+   "end": 170,
+   "kind": "text_read",
+   "confidence": "high",
+   "note": "\"commentary. Quote, The five cognitive senses...\""
+  },
+  {
+   "start": 209,
+   "end": 231,
+   "kind": "text_read",
+   "confidence": "med",
+   "note": "\"This is the great saying, end of the quote\" region"
+  },
+  {
+   "start": 228,
+   "end": 311,
+   "kind": "text_read",
+   "confidence": "high",
+   "note": "Lakshman Joo translation+commentary quote -> \"End of the quote\" @311"
+  }
+ ],
+ "explanation_spans": [
+  {
+   "start": 0.0,
+   "end": 111
+  },
+  {
+   "start": 170,
+   "end": 209
+  },
+  {
+   "start": 311,
+   "end": 409.49
+  }
+ ],
+ "needs_earcheck": [
+  209
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "video": "Tdo6xcQcmRc",
+ "file": "transcripts/vat_cf_Tdo6xcQcmRc.json",
+ "duration": 566.064,
+ "decompiled_by": "hand+markers",
+ "text_reads": [
+  {
+   "start": 129,
+   "end": 176,
+   "kind": "text_read",
+   "confidence": "high",
+   "note": "\"Sutra 8. Rasa Tritaya...\" + intro quote"
+  },
+  {
+   "start": 177,
+   "end": 471,
+   "kind": "text_read",
+   "confidence": "high",
+   "note": "commentary block: three essences... \"End of the quote\" @471"
+  },
+  {
+   "start": 484,
+   "end": 544,
+   "kind": "text_read",
+   "confidence": "med",
+   "note": "Lakshman Joo three-rasas quote (\"when we admit...\" )"
+  }
+ ],
+ "explanation_spans": [
+  {
+   "start": 0.0,
+   "end": 129
+  },
+  {
+   "start": 471,
+   "end": 484
+  },
+  {
+   "start": 544,
+   "end": 566.06
+  }
+ ],
+ "needs_earcheck": [
+  484
+ ]
+}

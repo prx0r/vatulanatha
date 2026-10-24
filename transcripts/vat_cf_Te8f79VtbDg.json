@@ -1,0 +1,467 @@
+{
+ "source": "/home/box/Downloads/yt/baumer/Vatulanatha_Sutra_11 [Te8f79VtbDg].mp3",
+ "duration": 475.8,
+ "engine": "cf-whisper-large-v3-turbo",
+ "sentences": [
+  {
+   "t": 5.78,
+   "end": 6.0,
+   "text": "Namaskar."
+  },
+  {
+   "t": 9.74,
+   "end": 16.38,
+   "text": "Sutra 11 has to be approached from the perspective of a Siddha or Jivamukta,"
+  },
+  {
+   "t": 16.66,
+   "end": 22.84,
+   "text": "and in the light of his or her integral experience and mode of activity."
+  },
+  {
+   "t": 24.0,
+   "end": 26.54,
+   "text": "The meaning hangs on the translation of Charya,"
+  },
+  {
+   "t": 26.54,
+   "end": 32.56,
+   "text": "which in the context of the Agamas denotes the practice and conduct of an initiate,"
+  },
+  {
+   "t": 32.94,
+   "end": 39.1,
+   "text": "but here is not related to any rules of behavior, but to a state transcending them."
+  },
+  {
+   "t": 39.84,
+   "end": 45.22,
+   "text": "The number five is all-inclusive, but specifically related to the sense organs"
+  },
+  {
+   "t": 45.22,
+   "end": 50.8,
+   "text": "and the absorption of their respective sensations into consciousness."
+  },
+  {
+   "t": 51.52,
+   "end": 55.68,
+   "text": "The introduction by Ananda Shaktipada reads as follows."
+  },
+  {
+   "t": 56.98,
+   "end": 61.42,
+   "text": "After having revealed the unobstructed permanent absorption,"
+  },
+  {
+   "t": 61.78,
+   "end": 67.68,
+   "text": "which is realized without any cause in the perspective of the rise of the twelve currents,"
+  },
+  {
+   "t": 68.5,
+   "end": 75.36,
+   "text": "now the yoginis will explain the oral tradition of the five modes of activity, Charya."
+  },
+  {
+   "t": 84.52,
+   "end": 92.06,
+   "text": "By the emergence of five modes of activity, a state of waveless absorption is attained."
+  },
+  {
+   "t": 93.36,
+   "end": 94.16,
+   "text": "Commentary."
+  },
+  {
+   "t": 94.86,
+   "end": 98.92,
+   "text": "The five modes of activity are of the nature of"
+  },
+  {
+   "t": 99.8,
+   "end": 101.88,
+   "text": "Anashrita, without support."
+  },
+  {
+   "t": 102.94,
+   "end": 105.84,
+   "text": "Abatuta, having thrown off all restrictions."
+  },
+  {
+   "t": 106.78,
+   "end": 109.14,
+   "text": "Unmata, mad, insane."
+  },
+  {
+   "t": 110.48,
+   "end": 116.56,
+   "text": "Savapaksha, all-consuming, and the great omnipervasive one, Mahaviyapaka."
+  },
+  {
+   "t": 117.14,
+   "end": 121.96,
+   "text": "Their emergence is a joyful upsurge of the nature of expansion,"
+  },
+  {
+   "t": 122.28,
+   "end": 127.98,
+   "text": "which rises from within the collective energies, with or without restraint."
+  },
+  {
+   "t": 128.9,
+   "end": 135.56,
+   "text": "When this happens, nothing but the truth of unsurpassed absorption is experienced,"
+  },
+  {
+   "t": 136.16,
+   "end": 145.62,
+   "text": "which is characterized as a complete pervasion, devoid of the fluctuations which arise in the case of the individual way,"
+  },
+  {
+   "t": 145.86,
+   "end": 148.38,
+   "text": "the way of energy, and the divine way."
+  },
+  {
+   "t": 148.38,
+   "end": 151.58,
+   "text": "Anava, shakta, shambhava."
+  },
+  {
+   "t": 152.0,
+   "end": 159.66,
+   "text": "Now, this is surprising that even shambhava is excluded from this state because there is a fluctuation."
+  },
+  {
+   "t": 160.08,
+   "end": 164.42,
+   "text": "Any upaya has a movement, even shambhava."
+  },
+  {
+   "t": 164.58,
+   "end": 166.2,
+   "text": "Only an upaya is beyond."
+  },
+  {
+   "t": 166.96,
+   "end": 167.88,
+   "text": "Come back."
+  },
+  {
+   "t": 168.58,
+   "end": 174.34,
+   "text": "Now, I will explain in due order the five modes of activity in detail."
+  },
+  {
+   "t": 175.46,
+   "end": 176.26,
+   "text": "Anashrita."
+  },
+  {
+   "t": 176.26,
+   "end": 183.06,
+   "text": "In that context, the supportless mode, which is due to a state devoid of foundation,"
+  },
+  {
+   "t": 183.88,
+   "end": 189.52,
+   "text": "arises in order to withdraw the objects of its own perception into consciousness,"
+  },
+  {
+   "t": 190.02,
+   "end": 193.58,
+   "text": "by making sounds enter into the cavity of the ear."
+  },
+  {
+   "t": 194.42,
+   "end": 197.38,
+   "text": "It is of the nature of supreme space."
+  },
+  {
+   "t": 198.38,
+   "end": 203.28,
+   "text": "Our dhuta, the mode of having shaken off all conditionings,"
+  },
+  {
+   "t": 203.28,
+   "end": 209.52,
+   "text": "is manifested by an unrestricted state on the part of the power of vision,"
+  },
+  {
+   "t": 210.28,
+   "end": 215.52,
+   "text": "moving everywhere, in order to withdraw its own objects into consciousness."
+  },
+  {
+   "t": 216.64,
+   "end": 222.14,
+   "text": "Ummata, the mode of madness, related to the organ of smell,"
+  },
+  {
+   "t": 223.36,
+   "end": 228.48,
+   "text": "is manifested freely like the behavior of a mindless lunatic,"
+  },
+  {
+   "t": 228.74,
+   "end": 235.02,
+   "text": "who does not discriminate at the relationship between what is acceptable and what is not acceptable,"
+  },
+  {
+   "t": 235.32,
+   "end": 239.72,
+   "text": "in order to absorb its respective objects into consciousness."
+  },
+  {
+   "t": 240.94,
+   "end": 246.62,
+   "text": "Sava Bhakshya, the all-consuming mode, related to the sense of taste,"
+  },
+  {
+   "t": 247.4,
+   "end": 253.66,
+   "text": "has a tendency of swallowing all the residual traces, samskara, which are to be consumed."
+  },
+  {
+   "t": 254.68,
+   "end": 260.82,
+   "text": "It rises in order to devour its own objects, which are to be absorbed in consciousness."
+  },
+  {
+   "t": 262.2,
+   "end": 269.06,
+   "text": "At Sava Vyapika, the all-pervasive mode, is manifested by the activity of the sense of touch,"
+  },
+  {
+   "t": 269.52,
+   "end": 277.38,
+   "text": "due to its only pervasiveness, in order to appropriate all the sensations of touch in consciousness."
+  },
+  {
+   "t": 278.98,
+   "end": 283.52,
+   "text": "This is the emergence of the Five Moods of Supreme Activity."
+  },
+  {
+   "t": 286.18,
+   "end": 288.68,
+   "text": "End of the quote of Ananda Shakti Bhada."
+  },
+  {
+   "t": 289.8,
+   "end": 294.56,
+   "text": "The interpretation by Swami Lakshman Chu differs from Ananda Shakti Bhada,"
+  },
+  {
+   "t": 294.74,
+   "end": 298.86,
+   "text": "but it is too brief in what has come down to us,"
+  },
+  {
+   "t": 298.86,
+   "end": 305.0,
+   "text": "because this is a transcript from an oral teaching, to be directly related to the Sutta."
+  },
+  {
+   "t": 305.66,
+   "end": 311.16,
+   "text": "However, as always, Swamiji provides the key for understanding the whole process."
+  },
+  {
+   "t": 311.68,
+   "end": 317.4,
+   "text": "He distinguishes charia from karma, action of the limited, individual way."
+  },
+  {
+   "t": 317.4,
+   "end": 324.1,
+   "text": "He defines it in the present context, which is in agreement with Ananda Shakti Bhada."
+  },
+  {
+   "t": 324.48,
+   "end": 324.76,
+   "text": "Quote,"
+  },
+  {
+   "t": 325.56,
+   "end": 332.04,
+   "text": "When we enter through all the senses in God consciousness, then that act is called charia."
+  },
+  {
+   "t": 333.36,
+   "end": 336.34,
+   "text": "One version of his translation reads,"
+  },
+  {
+   "t": 337.94,
+   "end": 343.72,
+   "text": "When observance of the five great acts gets established in the realized being,"
+  },
+  {
+   "t": 344.08,
+   "end": 349.74,
+   "text": "the supreme state, where there is no agitation at all, is entered into."
+  },
+  {
+   "t": 351.02,
+   "end": 353.84,
+   "text": "And he describes the five acts as follows."
+  },
+  {
+   "t": 353.84,
+   "end": 355.94,
+   "text": "One, silence."
+  },
+  {
+   "t": 356.38,
+   "end": 358.8,
+   "text": "Two, agitative movement."
+  },
+  {
+   "t": 359.4,
+   "end": 361.58,
+   "text": "Three, agitated state."
+  },
+  {
+   "t": 362.04,
+   "end": 363.68,
+   "text": "Four, confirmation."
+  },
+  {
+   "t": 364.46,
+   "end": 366.68,
+   "text": "And five, supreme silence."
+  },
+  {
+   "t": 366.98,
+   "end": 369.38,
+   "text": "Known also as Niranjanatham."
+  },
+  {
+   "t": 370.78,
+   "end": 379.36,
+   "text": "The main difference between the two interpretations is that Swamiji takes the five modes of charia in the sense of stages of ascent."
+  },
+  {
+   "t": 380.5,
+   "end": 381.38,
+   "text": "Quote,"
+  },
+  {
+   "t": 381.38,
+   "end": 385.8,
+   "text": "We have to start from objectivity in silenced mind."
+  },
+  {
+   "t": 386.36,
+   "end": 390.14,
+   "text": "Then agitative movement comes in our view in silence."
+  },
+  {
+   "t": 390.58,
+   "end": 393.1,
+   "text": "And that too we have got to be aware."
+  },
+  {
+   "t": 393.76,
+   "end": 398.28,
+   "text": "That awareness will lead us to the kingdom of God consciousness."
+  },
+  {
+   "t": 399.78,
+   "end": 405.04,
+   "text": "Confirmation of the agitated state is in no way other than the supreme spirit."
+  },
+  {
+   "t": 405.5,
+   "end": 407.96,
+   "text": "Now we understand what he means by agitation."
+  },
+  {
+   "t": 407.96,
+   "end": 409.6,
+   "text": "Not the ordinary Kshoba."
+  },
+  {
+   "t": 409.72,
+   "end": 411.08,
+   "text": "We also say it's not Kshoba."
+  },
+  {
+   "t": 411.4,
+   "end": 412.6,
+   "text": "But it is Spanda."
+  },
+  {
+   "t": 413.18,
+   "end": 418.36,
+   "text": "So, because we know that consciousness in this tradition is dynamic."
+  },
+  {
+   "t": 418.82,
+   "end": 421.24,
+   "text": "So it is not totally static."
+  },
+  {
+   "t": 421.44,
+   "end": 422.36,
+   "text": "But there is Spanda."
+  },
+  {
+   "t": 422.5,
+   "end": 425.3,
+   "text": "There is a dynamism of consciousness."
+  },
+  {
+   "t": 425.94,
+   "end": 428.2,
+   "text": "The supreme vibrative movement."
+  },
+  {
+   "t": 428.2,
+   "end": 433.18,
+   "text": "In that supreme behavior, there is no agitation at all."
+  },
+  {
+   "t": 434.98,
+   "end": 445.4,
+   "text": "In conclusion, I will come back to the five ways of charia as given by Amantashaktipada in this characteristic original terminology."
+  },
+  {
+   "t": 447.0,
+   "end": 452.12,
+   "text": "These five which are states of ecstasy related to the divinized senses."
+  },
+  {
+   "t": 452.56,
+   "end": 457.54,
+   "text": "Which absorb and transform their objects into pure consciousness."
+  },
+  {
+   "t": 458.56,
+   "end": 461.86,
+   "text": "They show the great freedom of the liberated being."
+  },
+  {
+   "t": 462.32,
+   "end": 470.84,
+   "text": "A freedom which finds expression in a variety of ways which reach their ultimate repose in a complete absorption."
+  },
+  {
+   "t": 470.84,
+   "end": 473.24,
+   "text": "InLEANTIA JOSHI Mr. R mundial samara stanie."
+  },
+  {
+   "t": 474.52,
+   "end": 475.32,
+   "text": "sought"
+  },
+  {
+   "t": 475.32,
+   "end": 475.74,
+   "text": "an"
+  }
+ ]
+}

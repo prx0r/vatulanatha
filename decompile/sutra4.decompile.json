@@ -1,0 +1,72 @@
+{
+ "video": "STb30XHtbGU",
+ "file": "transcripts/vat_cf_STb30XHtbGU.json",
+ "duration": 534.072,
+ "decompiled_by": "hand+markers",
+ "text_reads": [
+  {
+   "start": 101,
+   "end": 124,
+   "kind": "text_read",
+   "confidence": "high",
+   "note": "Lakshman Joo manuscript translation -> niravakasa"
+  },
+  {
+   "start": 200,
+   "end": 220,
+   "kind": "text_read",
+   "confidence": "high",
+   "note": "\"commentary begins with a clear statement, quote, The arising...\""
+  },
+  {
+   "start": 234,
+   "end": 263,
+   "kind": "text_read",
+   "confidence": "high",
+   "note": "\"Thus, quote, The element earth...\" -> speech and hearing"
+  },
+  {
+   "start": 301,
+   "end": 353,
+   "kind": "text_read",
+   "confidence": "high",
+   "note": "\"quote, that the object of experience... niravakasa\""
+  },
+  {
+   "start": 405,
+   "end": 448,
+   "kind": "text_read",
+   "confidence": "med",
+   "note": "\"Its establishment is attained by a few who receive the vision...\" (C7)"
+  }
+ ],
+ "explanation_spans": [
+  {
+   "start": 0.0,
+   "end": 101
+  },
+  {
+   "start": 124,
+   "end": 200
+  },
+  {
+   "start": 220,
+   "end": 234
+  },
+  {
+   "start": 263,
+   "end": 301
+  },
+  {
+   "start": 353,
+   "end": 405
+  },
+  {
+   "start": 448,
+   "end": 534.07
+  }
+ ],
+ "needs_earcheck": [
+  405
+ ]
+}

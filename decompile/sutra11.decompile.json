@@ -1,0 +1,57 @@
+{
+ "video": "Te8f79VtbDg",
+ "file": "transcripts/vat_cf_Te8f79VtbDg.json",
+ "duration": 475.8,
+ "decompiled_by": "hand+markers",
+ "text_reads": [
+  {
+   "start": 96,
+   "end": 140,
+   "kind": "text_read",
+   "confidence": "high",
+   "note": "Ananda Shaktipada introduction quote"
+  },
+  {
+   "start": 140,
+   "end": 286,
+   "kind": "text_read",
+   "confidence": "med",
+   "note": "five modes detailed commentary -> \"End of the quote of Ananda Shakti Bhada\""
+  },
+  {
+   "start": 311,
+   "end": 345,
+   "kind": "text_read",
+   "confidence": "high",
+   "note": "Lakshman Joo quote (\"When we enter through all the senses...\")"
+  },
+  {
+   "start": 348,
+   "end": 404,
+   "kind": "text_read",
+   "confidence": "high",
+   "note": "his five acts + ascent quote (\"We have to start from objectivity...\")"
+  }
+ ],
+ "explanation_spans": [
+  {
+   "start": 0.0,
+   "end": 96
+  },
+  {
+   "start": 286,
+   "end": 311
+  },
+  {
+   "start": 345,
+   "end": 348
+  },
+  {
+   "start": 404,
+   "end": 475.8
+  }
+ ],
+ "needs_earcheck": [
+  140
+ ]
+}

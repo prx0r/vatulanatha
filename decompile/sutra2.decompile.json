@@ -1,0 +1,58 @@
+{
+ "video": "mHTSwh7PTDg",
+ "file": "Vatulanatha_Sutra_2 [mHTSwh7PTDg].mp3",
+ "duration": 652.06,
+ "decompiled_by": "hand+markers",
+ "text_reads": [
+  {
+   "start": 61,
+   "end": 116,
+   "kind": "text_read",
+   "confidence": "med",
+   "note": "commentary introductory sentence + \"they reveal the simultaneity\" (her gloss inside)"
+  },
+  {
+   "start": 159,
+   "end": 192,
+   "kind": "text_read",
+   "confidence": "high",
+   "note": "Swamiji manuscript quote (\"quote by that achievement simultaneously...\")"
+  },
+  {
+   "start": 369,
+   "end": 457,
+   "kind": "text_read",
+   "confidence": "high",
+   "note": "Ananta\u015baktip\u0101da interpretation block (\"by attaining one's true nature...\")"
+  },
+  {
+   "start": 457,
+   "end": 486,
+   "kind": "text_read",
+   "confidence": "med",
+   "note": "\"this expression dissolution... end of the code\" marker"
+  }
+ ],
+ "explanation_spans": [
+  {
+   "start": 0.0,
+   "end": 61
+  },
+  {
+   "start": 116,
+   "end": 159
+  },
+  {
+   "start": 192,
+   "end": 369
+  },
+  {
+   "start": 486,
+   "end": 652.06
+  }
+ ],
+ "needs_earcheck": [
+  61,
+  457
+ ]
+}

@@ -1,0 +1,68 @@
+{
+ "video": "WD8uLV7uWI4",
+ "file": "transcripts/vat_cf_WD8uLV7uWI4.json",
+ "duration": 560.856,
+ "decompiled_by": "hand+markers",
+ "text_reads": [
+  {
+   "start": 101,
+   "end": 224,
+   "kind": "text_read",
+   "confidence": "low",
+   "note": "chumma account, explicit \"End of the quote\" @224, start fuzzy"
+  },
+  {
+   "start": 236,
+   "end": 260,
+   "kind": "text_read",
+   "confidence": "high",
+   "note": "\"commentary reads, quote, The attainment taught here...\""
+  },
+  {
+   "start": 340,
+   "end": 355,
+   "kind": "text_read",
+   "confidence": "high",
+   "note": "\"Vamiji writes, where he bursts open...\""
+  },
+  {
+   "start": 366,
+   "end": 452,
+   "kind": "text_read",
+   "confidence": "high",
+   "note": "\"He identifies, quote, the upper board...\" -> great teaching"
+  },
+  {
+   "start": 449,
+   "end": 469,
+   "kind": "text_read",
+   "confidence": "high",
+   "note": "\"quote, Thus it has been stated... End of the quote\" @469"
+  }
+ ],
+ "explanation_spans": [
+  {
+   "start": 0.0,
+   "end": 101
+  },
+  {
+   "start": 224,
+   "end": 236
+  },
+  {
+   "start": 260,
+   "end": 340
+  },
+  {
+   "start": 355,
+   "end": 366
+  },
+  {
+   "start": 469,
+   "end": 560.86
+  }
+ ],
+ "needs_earcheck": [
+  101
+ ]
+}

@@ -1,0 +1,104 @@
+{
+ "video": "_p--mXPt-pk",
+ "file": "transcripts/vat_cf__p--mXPt-pk.json",
+ "duration": 911.544,
+ "decompiled_by": "hand+markers",
+ "text_reads": [
+  {
+   "start": 136,
+   "end": 312,
+   "kind": "text_read",
+   "confidence": "med",
+   "note": "letter-A / four-sounds commentary block (long)"
+  },
+  {
+   "start": 312,
+   "end": 355,
+   "kind": "text_read",
+   "confidence": "med",
+   "note": "power/vitality continuation"
+  },
+  {
+   "start": 355,
+   "end": 470,
+   "kind": "text_read",
+   "confidence": "med",
+   "note": "teacher-in-luminous-abode + six-darshanas block"
+  },
+  {
+   "start": 480,
+   "end": 615,
+   "kind": "text_read",
+   "confidence": "high",
+   "note": "colophon quote: \"a certain Kaula ascetic... Vatulanatha has revealed\" -> \"End of the quote\""
+  },
+  {
+   "start": 647,
+   "end": 660,
+   "kind": "text_read",
+   "confidence": "high",
+   "note": "Sankha closing verse quote -> \"End of the quote\" @660"
+  },
+  {
+   "start": 661,
+   "end": 684,
+   "kind": "text_read",
+   "confidence": "high",
+   "note": "\"Let us first listen to his translation of the sutra\" quote"
+  },
+  {
+   "start": 700,
+   "end": 716,
+   "kind": "text_read",
+   "confidence": "med",
+   "note": "\"Quote, That Akatana-gata-balena means...\""
+  },
+  {
+   "start": 730,
+   "end": 754,
+   "kind": "text_read",
+   "confidence": "high",
+   "note": "\"Quote, Visma-yoga-mutra means...\" -> \"End of the quote\" @754"
+  },
+  {
+   "start": 756,
+   "end": 778,
+   "kind": "text_read",
+   "confidence": "med",
+   "note": "Kasvarata Swamata quote"
+  }
+ ],
+ "explanation_spans": [
+  {
+   "start": 0.0,
+   "end": 136
+  },
+  {
+   "start": 470,
+   "end": 480
+  },
+  {
+   "start": 615,
+   "end": 647
+  },
+  {
+   "start": 684,
+   "end": 700
+  },
+  {
+   "start": 716,
+   "end": 730
+  },
+  {
+   "start": 778,
+   "end": 911.54
+  }
+ ],
+ "needs_earcheck": [
+  136,
+  312,
+  355,
+  700,
+  756
+ ]
+}

@@ -1,0 +1,48 @@
+{
+ "video": "czW1e6ifrU4",
+ "file": "transcripts/vat_cf_czW1e6ifrU4.json",
+ "duration": 393.504,
+ "decompiled_by": "hand+markers",
+ "text_reads": [
+  {
+   "start": 72,
+   "end": 120,
+   "kind": "text_read",
+   "confidence": "high",
+   "note": "Ananda Shaktipada introduction"
+  },
+  {
+   "start": 134,
+   "end": 237,
+   "kind": "text_read",
+   "confidence": "high",
+   "note": "commentary quote -> \"This is the meaning of the Sutra, end of the quote\" @237"
+  },
+  {
+   "start": 293,
+   "end": 365,
+   "kind": "text_read",
+   "confidence": "high",
+   "note": "Lakshman Joo translation + elaboration quote -> \"End of the quote\" @365"
+  }
+ ],
+ "explanation_spans": [
+  {
+   "start": 0.0,
+   "end": 72
+  },
+  {
+   "start": 120,
+   "end": 134
+  },
+  {
+   "start": 237,
+   "end": 293
+  },
+  {
+   "start": 365,
+   "end": 393.5
+  }
+ ],
+ "needs_earcheck": []
+}

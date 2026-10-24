@@ -1,0 +1,64 @@
+[
+ {
+  "clip": 1,
+  "sutra": 3,
+  "card": {
+   "sanskrit": "ubhayapaṭṭoddhaṭṭanānmahāśūnyatāpraveśa ḥ || 3 ||",
+   "translit": "ubhayapaṭṭoddhaṭṭanād mahāśūnyatāpraveśaḥ",
+   "source": "text/vatula_s03.txt",
+   "provenance": "corpus-verbatim"
+  },
+  "fish_tts": "Break open the two boards and you enter the great void.",
+  "fish_first_hearing": true,
+  "baumer": {
+   "file": "Vatulanatha_Sutra_3 [WD8uLV7uWI4].mp3",
+   "start": 236,
+   "end": 260,
+   "dur": 24,
+   "what": "reads the commentary opening: attainment at the highest plane, shown by Niskriyananda"
+  },
+  "provenance": {
+   "card": "text/vatula_s03.txt#verse",
+   "fish": "build/key_v1.json",
+   "baumer": "archive-clip decompile/sutra3#reads[1]"
+  }
+ },
+ {
+  "clip": 2,
+  "sutra": 3,
+  "card": null,
+  "fish_tts": "The descent of grace, shown in a look.",
+  "fish_first_hearing": true,
+  "baumer": {
+   "file": "Vatulanatha_Sutra_3 [WD8uLV7uWI4].mp3",
+   "start": 101,
+   "end": 224,
+   "dur": 123,
+   "what": "THE GLANCE: Chumma Sanketa Prakasa account - Niskriyananda falls at the siddha's glance (C1 cold open)"
+  },
+  "provenance": {
+   "card": null,
+   "fish": "build/key_v1.json#shaktipata",
+   "baumer": "archive-clip decompile/sutra3#reads[0]"
+  }
+ },
+ {
+  "clip": 3,
+  "sutra": 3,
+  "card": null,
+  "fish_tts": "Your own true nature. What you already are.",
+  "fish_first_hearing": true,
+  "baumer": {
+   "file": "Vatulanatha_Sutra_3 [WD8uLV7uWI4].mp3",
+   "start": 452,
+   "end": 480,
+   "dur": 28,
+   "what": "her explanation: the point of the practice is awareness; Vamiji's note; madhya"
+  },
+  "provenance": {
+   "card": null,
+   "fish": "build/key_v1.json#svarupa",
+   "baumer": "archive-clip decompile/sutra3#explains[1]"
+  }
+ }
+]

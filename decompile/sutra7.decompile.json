@@ -1,0 +1,28 @@
+{
+ "video": "fulacD3QOWs",
+ "file": "transcripts/vat_cf_fulacD3QOWs.json",
+ "duration": 541.992,
+ "decompiled_by": "hand+markers",
+ "text_reads": [
+  {
+   "start": 88,
+   "end": 330,
+   "kind": "text_read",
+   "confidence": "med",
+   "note": "long Ananda Shaktipada intro+four-speeches commentary (huge quote block)"
+  }
+ ],
+ "explanation_spans": [
+  {
+   "start": 0.0,
+   "end": 88
+  },
+  {
+   "start": 330,
+   "end": 541.99
+  }
+ ],
+ "needs_earcheck": [
+  88
+ ]
+}
