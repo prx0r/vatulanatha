@@ -1,0 +1,106 @@
+{
+ "source": "1kBPUTrmvNs.mp3",
+ "target_min": 30,
+ "source_min": 9.4,
+ "kept_sec": 450.0,
+ "kept_pct": 79,
+ "d_sec": 14,
+ "timebase": {
+  "native": "mp3"
+ },
+ "dropped_spans": [],
+ "cuts": [
+  {
+   "start": 0.0,
+   "end": 5.9,
+   "kind": "trim",
+   "reason": "short span inside removed region"
+  },
+  {
+   "start": 5.9,
+   "end": 78,
+   "kind": "music",
+   "reason": "opening instrumental before she speaks"
+  },
+  {
+   "start": 494,
+   "end": 496,
+   "kind": "trim",
+   "reason": "short span inside removed region"
+  },
+  {
+   "start": 544,
+   "end": 566.05,
+   "kind": "logistics",
+   "reason": "periphery = program/discipline practicalities; no disturbance tail"
+  }
+ ],
+ "d_spans": [
+  {
+   "start": 93,
+   "end": 107,
+   "kind": "recitation",
+   "reason": "mangala sloka to the Guru recited (ASR-silent) \u2014 hoisted to intro per chanting rule"
+  }
+ ],
+ "keep_summary": "sloka to the Guru -> three meanings of homecoming (atmosphere / to our own core / finding the tradition) -> Kashmir vishan + anti-fundamentalism base -> interfaith practice story -> pratyabhijna = recognition of our own true nature -> periphery to center",
+ "kept_segments": [
+  {
+   "start": 78,
+   "end": 93,
+   "grade": "A"
+  },
+  {
+   "start": 107,
+   "end": 152.8,
+   "grade": "A"
+  },
+  {
+   "start": 152.8,
+   "end": 205.3,
+   "grade": "A"
+  },
+  {
+   "start": 205.3,
+   "end": 229,
+   "grade": "B"
+  },
+  {
+   "start": 229,
+   "end": 385,
+   "grade": "A"
+  },
+  {
+   "start": 385,
+   "end": 415,
+   "grade": "B"
+  },
+  {
+   "start": 415,
+   "end": 494,
+   "grade": "A"
+  },
+  {
+   "start": 496,
+   "end": 527,
+   "grade": "B"
+  },
+  {
+   "start": 527,
+   "end": 544,
+   "grade": "A"
+  }
+ ],
+ "grade_counts": {
+  "A": 6,
+  "B": 3,
+  "C": 0,
+  "D": 1
+ },
+ "grade_minutes": {
+  "A": 6.1,
+  "B": 1.4,
+  "C": 0.0,
+  "D": 0.2
+ }
+}
