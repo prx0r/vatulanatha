@@ -16,6 +16,7 @@ Port of `../analayo-nibbana/process/` (see its 00→08). What differs here:
 - [x] Sanskrit: 13 sūtra verses + vṛtti chunks (`text/vatula_sNN.txt`, `text/sutra_verses.txt`)
 - [x] Key v1: `build/key_v1.json` (49 maps) + `build/loanwords_v1.json` (23) — DRAFT, owner vets
 - [x] Sample beats: `build/beats_sutra3.sample.json`
+- [x] question rule locked: `12-QUESTION-DEPTH.md` (one question per essay, posed → pause → A-clip answers)
 - [ ] owner signs key + ear-check flags
 - [ ] full beat files per sūtra (pool → gold), then GRACE modes A/B/C
 - [ ] Fish TTS lines (confirm credits), assembly, verify.sh
