@@ -76,3 +76,13 @@ levin/science-of-consciousness/cimc/sivananda-vishnudevananda ~200 — out of sc
 - Dyczkowski CIIS 2010 = the free *Tantras-Buddhism* lecture page (same event)
 - kashmirshaivainstitute.com (Ishwar Ashram) = official Lakshmanjoo archive — more audio/translations there
 - re-confirm: Secret Supreme = "essence of the first fifteen chapters of Abhinavagupta's Tantrāloka" (institute site agrees)
+
+## F. kashmirshaivainstitute.com verdict (probed 2026-10-25)
+`/storebook` = "Text & Audio Archive" but products are BOOKS (₹700–1500 cart+shipping,
+no free MP3 served; "Technical Specifications" empty). 13 titles: Light-on-Tantra TL
+vols 1–3, Śiva Sūtras, VBT manual, Spanda Kārikā, Paramārthasāra, Secret Supreme ₹700,
+Oral Teachings (Bodhapañcadaśikā/Parapraveśikā/kundalini), Gītā, Śivastotrāvalī,
+Stava Cintāmaṇī, Wisdom. Text targets from this shelf: **VBT manual + Paramārthasāra
+edition** (both already partially held elsewhere).
+Free AUDIO paths re-confirmed: shopify $0 Secret Supreme (10h38m) · YouTube
+@lakshmanjooacademy · lakshmanjooacademy.org free weekly-sangha recordings.

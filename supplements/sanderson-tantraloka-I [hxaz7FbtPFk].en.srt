@@ -1,0 +1,2059 @@
+1
+00:00:00,000 --> 00:00:07,000
+i'm absolutely delighted to welcome back again professor alexis sanderson to the oxford central hindu studies to present
+
+2
+00:00:07,000 --> 00:00:14,000
+his readings i'm sure he needs no introduction but professor samson is the spalding professor of eastern religion
+
+3
+00:00:14,000 --> 00:00:23,000
+and ethics emeritus at all souls college and um his work in
+
+4
+00:00:23,000 --> 00:00:31,000
+on the shivers of the tantric traditions he's really opened that out and and we've we have we have to rethink the history
+
+5
+00:00:31,000 --> 00:00:39,000
+of indian religions because of professor sanderson's work it's no exaggeration to say that he's the world's leading expert in shaivism and the
+
+6
+00:00:39,000 --> 00:00:46,000
+tantric traditions and religion generally in medieval india so it's not only the content that is
+
+7
+00:00:46,000 --> 00:00:55,000
+opened out for us such that we have to kind of rethink and rewrite the history of indian religions in the medieval period but also
+
+8
+00:00:55,000 --> 00:01:04,000
+how to do it i mean he shows us how to how to how to study these traditions um you go back to the sources and by the
+
+9
+00:01:04,000 --> 00:01:12,000
+sources uh professor sanderson means the manuscript sources so we go back to the manuscript sources and not only the manuscript sources but also epigraphical
+
+10
+00:01:12,000 --> 00:01:21,000
+sources the the um you know the grants that kings land grants and this sort of thing so there's a very wide kind of remit to the
+
+11
+00:01:21,000 --> 00:01:28,000
+range of sources that professor sanderson looks at in order to construct or reconstruct this this history of
+
+12
+00:01:28,000 --> 00:01:35,000
+medieval indian religion and um the shaivism uh buddhism jainism vice
+
+13
+00:01:35,000 --> 00:01:43,000
+versa and the traditions as well and not only narrowly focusing on the text but uh professor sanderson also
+
+14
+00:01:43,000 --> 00:01:51,000
+looks over the fence at what's going on on the um in the garden next door as it were so i'm absolutely delighted to welcome him
+
+15
+00:01:51,000 --> 00:02:01,000
+back to oxford centre for hindu studies and he's going to present today the opening verses of abhinav tantra
+
+16
+00:02:01,000 --> 00:02:10,000
+thank you very much for a nice introduction it's lovely to be back some familiar faces and some new ones
+
+17
+00:02:10,000 --> 00:02:18,000
+um yes as professor flood said i'm going to do the opening verses of another good testament two years ago
+
+18
+00:02:18,000 --> 00:02:27,000
+i read the upper gata the introductory section of the tantra logo here from the first article which begins at verse 22 and goes on to 122.
+
+19
+00:02:27,000 --> 00:02:34,000
+and my first idea was that i would continue to press on perhaps finish the first article but then i always had it on my
+
+20
+00:02:34,000 --> 00:02:41,000
+conscience that i'd avoided doing the first 21 verses which are former unit in themselves
+
+21
+00:02:41,000 --> 00:02:49,000
+termed the adiwa the preface or introduction and unlike prefaces to western works which tend to be rather bland and
+
+22
+00:02:49,000 --> 00:02:57,000
+courteous and knowledgeable and so forth abner gupta's immensely dense and full very
+
+23
+00:02:57,000 --> 00:03:04,000
+interesting information if you know what to look for of course much of it is benedictory
+
+24
+00:03:04,000 --> 00:03:13,000
+as as normal in the indian shark strip work but the content of the benedictions is so interesting and it also involves
+
+25
+00:03:13,000 --> 00:03:21,000
+acknowledging his various teachers and by doing that we get some sense of the complex interaction of various traditions which have flown into his
+
+26
+00:03:21,000 --> 00:03:29,000
+understanding to come into his own discipline he's drawn into his understanding of scriptural literature now he's
+
+27
+00:03:29,000 --> 00:03:38,000
+very far from what we would call an objective scholar he's not a historian of shamanism he's constructing
+
+28
+00:03:38,000 --> 00:03:46,000
+a vision of chinese and a way of reading for his time and his time is an extremely sophisticated one
+
+29
+00:03:46,000 --> 00:03:55,000
+kashmir is a tiny country its land its inhabitable land area is not much larger than the county of kent
+
+30
+00:03:55,000 --> 00:04:03,000
+we don't know the population but i would say it's very unlikely to ever be more than half a million possibly more but i think not very
+
+31
+00:04:03,000 --> 00:04:10,000
+likely of whom what percentage were learned in brahmins presumably rather a small percentage so
+
+32
+00:04:10,000 --> 00:04:18,000
+it's a bit like ancient athens in a way the small community in a very isolated part of the world extraordinarily creative
+
+33
+00:04:18,000 --> 00:04:28,000
+between the 8th and 11th centuries particularly in the domain of chinese but not only in the domain
+
+34
+00:04:28,000 --> 00:04:36,000
+cultural productivity or creativity in the religious sphere begins in the second century with extraordinary contributions to
+
+35
+00:04:36,000 --> 00:04:44,000
+buddhism buddhism was the first religion of kashmir in my view you have no evidence that brahmanism was there in the second century
+
+36
+00:04:44,000 --> 00:04:52,000
+the first evidence of anything brahmanical and associated schreiber envisioned a phenomena comes up in the fourth and fifth centuries
+
+37
+00:04:52,000 --> 00:05:00,000
+and it seems to me very possible what we're looking at is a situation in which north indian influences from the gupta
+
+38
+00:05:00,000 --> 00:05:07,000
+area and their predecessors had almost no impact in kashmir it was part of a larger buddhist world
+
+39
+00:05:07,000 --> 00:05:14,000
+including gandara and it was only secondarily
+
+40
+00:05:14,000 --> 00:05:21,000
+that brahmanical culture was introduced and when once it had been it was greatly developed and the brahmins who came in
+
+41
+00:05:21,000 --> 00:05:29,000
+came from all parts of india brought in by kings through land grants who clearly invested on a grand scale in
+
+42
+00:05:29,000 --> 00:05:36,000
+bringing in men who were unable to say no to offers they couldn't refuse would you like
+
+43
+00:05:36,000 --> 00:05:45,000
+five acres of prime agricultural land and a hundred serves to to farm them by the metastar river in the kashmir valley
+
+44
+00:05:45,000 --> 00:05:53,000
+these are attractive offices and people accepted them so i haven't have a gupta's ancestor a tree gupta
+
+45
+00:05:53,000 --> 00:06:00,000
+was a brahmana of madhya asia probably a kanye kupja probably not quite sure and he was brought in by the
+
+46
+00:06:00,000 --> 00:06:09,000
+in the kashmir king lolita ditcher and given a land grant by the vitastar river and literally on the banks of vitasta with a
+
+47
+00:06:09,000 --> 00:06:18,000
+splendid view of the mountains in the north we can roughly guess where it was in fact and there the families stayed and
+
+48
+00:06:18,000 --> 00:06:25,000
+although they'd come in from madhya desha they don't refer to themselves as madhya shia as the brahmins of muddy they call
+
+49
+00:06:25,000 --> 00:06:33,000
+themselves kashmir and that also raises an interesting question about national identity among brahmanas brahmanas are on the move they don't always stay
+
+50
+00:06:33,000 --> 00:06:42,000
+forever in one area rather like the middle class in the north of england they don't think of themselves as really there they happen to be there for the time
+
+51
+00:06:42,000 --> 00:06:52,000
+being but they are like rahman's mobile they could go anywhere in principle they're not all
+
+52
+00:06:52,000 --> 00:07:01,000
+which is the correct form of the the word for a kashmiri in sanskrit um he's not claiming that his ancestors are i've been kashmiri from
+
+53
+00:07:01,000 --> 00:07:09,000
+beginning this time he's simply saying that i'm now kashmiri and by nationality as we might say if we've lived in france for two or three generations and
+
+54
+00:07:09,000 --> 00:07:18,000
+we're french and there is this very strong sense of national identity most sanskrit authors do not refer to
+
+55
+00:07:18,000 --> 00:07:25,000
+their nationality it seems to me very unusual this strong sense of national identity that kashmiri and brahmins have
+
+56
+00:07:25,000 --> 00:07:34,000
+they frequently refer them to themselves as kashmiris but this is not so common among other groups of brahmanas there are some exceptions but on the whole
+
+57
+00:07:34,000 --> 00:07:42,000
+people identified themselves through caste and gotra and learning rather than nationality the kashmiris
+
+58
+00:07:42,000 --> 00:07:50,000
+stand out in having this strong sense of national identity now so i've decided to do these opening
+
+59
+00:07:50,000 --> 00:07:57,000
+verses in fact i'm going to start by doing only one of them which is the opening verse verse 1.
+
+60
+00:07:57,000 --> 00:08:04,000
+um and by the time i've never looked it had been the convention in india for many centuries
+
+61
+00:08:04,000 --> 00:08:13,000
+that an author should open a composition it's a grand composition like this with a form of words designed to promote the successful
+
+62
+00:08:13,000 --> 00:08:20,000
+completion um of the work by dispelling the hindering powers the vigna
+
+63
+00:08:20,000 --> 00:08:28,000
+the hindering powers that were believed to strive to impede the completion of any pious endeavor and these impediments
+
+64
+00:08:28,000 --> 00:08:35,000
+are abstract entities like laziness torpor ill health so forth get in the way of
+
+65
+00:08:35,000 --> 00:08:43,000
+completing a project but they're also personified as deities there's a whole mass in the in the in
+
+66
+00:08:43,000 --> 00:08:50,000
+the cultural outlook here of beings whose purpose is to get in the way of completion of any pious endeavor
+
+67
+00:08:50,000 --> 00:08:57,000
+so we have this model that orthodox brahmanism is facing
+
+68
+00:08:57,000 --> 00:09:05,000
+this major enemy at all times this is invisible horde of obstructing forces so you must guard against their
+
+69
+00:09:05,000 --> 00:09:13,000
+eruption by every means hence absolute orthopraxy is necessary if you infringe any of the regulations
+
+70
+00:09:13,000 --> 00:09:21,000
+you're in a state of vulnerability to possession these creatures will come in and deflect you
+
+71
+00:09:21,000 --> 00:09:27,000
+so this is the kind of environment in which he's beginning his work um so from the fourth or fifth century
+
+72
+00:09:27,000 --> 00:09:34,000
+a.d onwards this auspicious beginning verse was commonly one in which the author turned to the deity or deities
+
+73
+00:09:34,000 --> 00:09:43,000
+plural of his personal devotion his ishta devatar expressing his obeisance namaskara
+
+74
+00:09:43,000 --> 00:09:52,000
+or supplication are shirvada ashram the opening verse of the time triloka
+
+75
+00:09:52,000 --> 00:10:01,000
+exemplifies the second of these forms because it is a prayer for enlightenment it's an ashrae it's not a pranama verse
+
+76
+00:10:01,000 --> 00:10:29,000
+it's a asian vada seeking enlightenment and wishing it on on others so let's first read it
+
+77
+00:10:29,000 --> 00:10:37,000
+it's an immensely tricky verse it's superficially straightforward but all kinds of ambiguities one of the most incorrect things i was
+
+78
+00:10:37,000 --> 00:10:44,000
+ever taught as a student in as a sanskritist was that um sanskrit is a wonderfully clear language
+
+79
+00:10:44,000 --> 00:10:52,000
+it isn't it can be but the learners go to great lengths to make sure that it isn't
+
+80
+00:10:52,000 --> 00:11:01,000
+they leave a high level of ambiguity there it's for the reader out of courtesy if you like a challenge to the reader to be able to remove
+
+81
+00:11:01,000 --> 00:11:10,000
+the other possibilities through a dense detailed knowledge of context so the learners are writing for the learned for the most part
+
+82
+00:11:10,000 --> 00:11:18,000
+they're not writing handbooks for school boys and school girls they're writing to each other and this makes life quite difficult considering
+
+83
+00:11:18,000 --> 00:11:27,000
+how short life is i mean to get into a position where one can actually root out the alternative meanings it's not easy
+
+84
+00:11:27,000 --> 00:11:34,000
+um and jayarata only surviving commentator on the town triloga a 13th century author a long time after the
+
+85
+00:11:34,000 --> 00:11:42,000
+writing of the country oprah itself um his commentary is a great achievement but it's not always right in my view
+
+86
+00:11:42,000 --> 00:11:50,000
+it's often arbitrary it stays on the road and it stays doc finally on the road it doesn't go off into the ditch
+
+87
+00:11:50,000 --> 00:11:59,000
+but i think often its interpretations are somewhat arbitrary and i don't hesitate to disagree with him um it's not our job to
+
+88
+00:11:59,000 --> 00:12:07,000
+to passively accept everything that every scholar from the early medieval period says we have to use our own judgment
+
+89
+00:12:07,000 --> 00:12:17,000
+so let me first pause the sentence for you go to the last line last quarter
+
+90
+00:12:17,000 --> 00:12:25,000
+i'll give a literal translation first may my heart mama
+
+91
+00:12:25,000 --> 00:12:35,000
+may it flash forth may it burst forth may it be fully illumined some spot this is a predative imperative
+
+92
+00:12:35,000 --> 00:12:48,000
+then it's not much used in classical sanskrit other than in our shirvadas it's a form of the imperative
+
+93
+00:12:48,000 --> 00:12:56,000
+and the qualification there is which is mayam full of
+
+94
+00:12:56,000 --> 00:13:03,000
+from the suffix mayak which in sanskrit has a number of meanings um full of
+
+95
+00:13:03,000 --> 00:13:10,000
+replete with practice also it can mean a transformation of
+
+96
+00:13:10,000 --> 00:13:20,000
+something a product of something like gol mayan cow dung from gokau or in later usage very much so in
+
+97
+00:13:20,000 --> 00:13:28,000
+medantic usage it means one with so ananda maya consisting of nothing but
+
+98
+00:13:28,000 --> 00:13:35,000
+there are yet other usages intent upon um says in the bhagavad-gita
+
+99
+00:13:35,000 --> 00:13:42,000
+i'm not meaning one with me but devoted to me intent on me thinking of nothing but me
+
+100
+00:13:42,000 --> 00:13:50,000
+focused on me so maya actually which is treated as a suffix by the sanskrit grammarians um has quite a wide range of
+
+101
+00:13:50,000 --> 00:13:58,000
+meanings but here i take it in the sense of practice replete with full of
+
+102
+00:13:58,000 --> 00:14:06,000
+full of what um or embodying also we could say the bliss of the ultimate
+
+103
+00:14:06,000 --> 00:14:14,000
+there you see ambiguity it could be and amrita i take it to be amrita in the sense of bliss literally
+
+104
+00:14:14,000 --> 00:14:20,000
+the nectar the deathless which in this discourse is often used as a synonym
+
+105
+00:14:20,000 --> 00:14:27,000
+the bliss of the ultimate so made flash forth
+
+106
+00:14:27,000 --> 00:14:39,000
+um
+
+107
+00:14:39,000 --> 00:14:47,000
+rather i got slightly confused there in another column i talked as though we were reading another mayan which worked perfectly
+
+108
+00:14:47,000 --> 00:14:56,000
+well actually the sense would be much the same but in fact kulam here is being used in the sense of body
+
+109
+00:14:56,000 --> 00:15:03,000
+this is not just a specialist use of cowlers this is a use found in ordinary sanskrit as well the lexicographers list that is one of
+
+110
+00:15:03,000 --> 00:15:11,000
+the means so whose body i which embodies the bliss
+
+111
+00:15:11,000 --> 00:15:19,000
+of the ultimate and which is also
+
+112
+00:15:19,000 --> 00:15:28,000
+consisting of or replete with mayam the visage
+
+113
+00:15:28,000 --> 00:15:37,000
+sending forth creation but also emission and i translated here as infinite
+
+114
+00:15:37,000 --> 00:15:43,000
+creative power because that is how this saga is understood in the metaphysical contact context it's that
+
+115
+00:15:43,000 --> 00:15:52,000
+power of consciousness whereby it has an infinite creative potential to manifest itself itself as our complex
+
+116
+00:15:52,000 --> 00:16:01,000
+universe so this heart to which he's praying whose manifestation he he seeks
+
+117
+00:16:01,000 --> 00:16:07,000
+consists of that infinite creative power with sargon which is spuri tabhava
+
+118
+00:16:07,000 --> 00:16:18,000
+that whose nature bhava has become manifest has shown forth spuritab
+
+119
+00:16:18,000 --> 00:16:30,000
+in the union yamalai
+
+120
+00:16:30,000 --> 00:16:38,000
+so who are these two what is this the pair from whose union
+
+121
+00:16:38,000 --> 00:16:56,000
+this infinite creative potential is manifested that's covered in the first two lines the first two partners of the verse
+
+122
+00:16:56,000 --> 00:17:05,000
+whose radiance in the senses is
+
+123
+00:17:05,000 --> 00:17:16,000
+in ever new creation whose radiance is in ever new creation
+
+124
+00:17:16,000 --> 00:17:25,000
+and is whose ground whose support whose basis are shreya is
+
+125
+00:17:25,000 --> 00:17:37,000
+pure khala
+
+126
+00:17:37,000 --> 00:17:44,000
+which we might translate here is used as a synonym of ideation now i'm using the word ideation to
+
+127
+00:17:44,000 --> 00:17:52,000
+translate vimarsha so in this kashmiri non-dualism on the philosophical side derived elaborated by
+
+128
+00:17:52,000 --> 00:18:00,000
+utpaladeva subsequently expounded by abnor gupta above all reality is seen as the coexistence the
+
+129
+00:18:00,000 --> 00:18:08,000
+inseparability of the light of consciousness and its dynamism because conscience is something dynamic in the system it is not something on
+
+130
+00:18:08,000 --> 00:18:17,000
+which we superimpose action through illusion consciousness is inherently dynamic in all its manifestations
+
+131
+00:18:17,000 --> 00:18:25,000
+so she the mother metaphorically speaking the mother shakti who is radiant in every new creation and
+
+132
+00:18:25,000 --> 00:18:35,000
+whose substrate whose basis is the power of ideation color without any tape vimala so uncontracted
+
+133
+00:18:35,000 --> 00:18:43,000
+untrammeled untainted pure infinite power of ideation so it's an absolute autonomy
+
+134
+00:18:43,000 --> 00:18:50,000
+that's why power of absolute autonomy there's nothing it can't do it is by definition autonomous
+
+135
+00:18:50,000 --> 00:18:58,000
+it needs nothing outside itself in order to exist it exists through itself alone and
+
+136
+00:18:58,000 --> 00:19:06,000
+the father janaka who is barita
+
+137
+00:19:06,000 --> 00:19:14,000
+all containing literally whose nature tanul is used here in the sense of atma whose nature is barita full to
+
+138
+00:19:14,000 --> 00:19:21,000
+overflowing all containing and this is a subtle allusion to the nirvatchanam of the word biola
+
+139
+00:19:21,000 --> 00:19:29,000
+the word bioever is regularly glossed by the commentators as meaning barita in involving the word baritone literally
+
+140
+00:19:29,000 --> 00:19:37,000
+full of so is that a shiva perceived in his all-embodying nature so we just they
+
+141
+00:19:37,000 --> 00:19:44,000
+distinguish between um shiva and salvation as a visualizer transcending all lower
+
+142
+00:19:44,000 --> 00:19:52,000
+levels of reality as the highest reality but um not as other than the manifest universe ultimately he expands as it
+
+143
+00:19:52,000 --> 00:20:00,000
+were into a wishful maya all-embodying reality and in that all-inclusive reality is often referred
+
+144
+00:20:00,000 --> 00:20:09,000
+to as bhairava as opposed to shiva in this non-dualistic shaiba discourse so um
+
+145
+00:20:09,000 --> 00:20:16,000
+the trigger system which is what is being expounded in tantra loca claims that its specificity is that it
+
+146
+00:20:16,000 --> 00:20:23,000
+recognizes both these polarities of consciousness it is simultaneously by a kind of miracle both
+
+147
+00:20:23,000 --> 00:20:32,000
+all transcending and all embodying like cognition on our own small scale
+
+148
+00:20:32,000 --> 00:20:41,000
+so the scidontikis are seen to perceive shiva as wish world transcending um there's indeed they do
+
+149
+00:20:41,000 --> 00:20:49,000
+um but i've never got to won't swallow that view he says shiva does not exist somewhere transcending all other powers of
+
+150
+00:20:49,000 --> 00:20:57,000
+manifestation like a pot and a concrete entity somehow above everything else on top of the pile
+
+151
+00:20:57,000 --> 00:21:07,000
+no he is this very light of consciousness manifest as our experience it's a different perspective
+
+152
+00:21:07,000 --> 00:21:16,000
+um but for shema raja in the pupil of navagupta in his rather useful little world the praty big archdio he points out that the
+
+153
+00:21:16,000 --> 00:21:25,000
+shaktis believe that shiva is wish for maya the said antigua is that he is vishwa tiruna but we followers of systems such
+
+154
+00:21:25,000 --> 00:21:33,000
+as the tricker and the crammer hold that he is both both transcendent and all in body
+
+155
+00:21:33,000 --> 00:21:40,000
+and that is the nature of consciousness to be both whether it's the consciousness of an ant or the consciousness of consciousness
+
+156
+00:21:40,000 --> 00:21:56,000
+itself so to speak yeah
+
+157
+00:21:56,000 --> 00:22:04,000
+whose innate light his radiance the light of reality which is actually the light of consciousness
+
+158
+00:22:04,000 --> 00:22:17,000
+is gupta preserved maintained through his five mukas shaivi
+
+159
+00:22:17,000 --> 00:22:25,000
+here refers to shakti in the language of these texts can be used in the sense of
+
+160
+00:22:25,000 --> 00:22:32,000
+one of consciousness's consciousnesses constitutive powers and these are five in this context
+
+161
+00:22:32,000 --> 00:22:43,000
+consciousness bliss pre-cognitive impulse cognition and action chid
+
+162
+00:22:43,000 --> 00:22:51,000
+these five powers so this totality seen from the point of view of bhairava is
+
+163
+00:22:51,000 --> 00:22:58,000
+a state of the light of consciousness maintained at all times through the operation of these five powers not just children and under
+
+164
+00:22:58,000 --> 00:23:05,000
+but all five nothing lies outside this reality um
+
+165
+00:23:05,000 --> 00:23:12,000
+and if you like from us from a kramer perspective kriya is the highest of these powers it's the most inclusive the
+
+166
+00:23:12,000 --> 00:23:19,000
+most long duel yes perhaps that's a little bit
+
+167
+00:23:19,000 --> 00:23:28,000
+difficult to grasp but the idea is that if you were to define ultimate reality only as the highest you're excluding everything else
+
+168
+00:23:28,000 --> 00:23:35,000
+this higher non-duality includes everything including duality it's all real consciousness has this miraculous about
+
+169
+00:23:35,000 --> 00:23:43,000
+this miraculous power this miraculous power to appear as everything while remaining one remaining undivided just like our own
+
+170
+00:23:43,000 --> 00:23:52,000
+consciousness from moment to moment yeah so let me read through the translation
+
+171
+00:23:52,000 --> 00:24:00,000
+again um slightly less free i pre rather slightly more free than the one i've just done
+
+172
+00:24:00,000 --> 00:24:08,000
+i pray that through this work i've supplied the words through this work the core of my consciousness and i've translated hiroyama's core of my
+
+173
+00:24:08,000 --> 00:24:14,000
+consciousness rather than as heart because heart has all the wrong connotations in english the heart is the
+
+174
+00:24:14,000 --> 00:24:22,000
+seat of the emotions also conveys the essence of something as
+
+175
+00:24:22,000 --> 00:24:29,000
+in english the heart of the matter in sanskrit it works like that in sanskrit too so it is
+
+176
+00:24:29,000 --> 00:24:36,000
+combined the the word conveys the core of my consciousness my heart
+
+177
+00:24:36,000 --> 00:24:44,000
+means the core of my consciousness and one might say that mama here the genitive singular of the present of the
+
+178
+00:24:44,000 --> 00:24:52,000
+first person singular pronoun is to be understood as well objectively
+
+179
+00:24:52,000 --> 00:25:00,000
+the heart of i the heart of i consciousness we all have our eye consciousness and every cognition that we experience but
+
+180
+00:25:00,000 --> 00:25:08,000
+according to this non-dualistic view the core of that eye is a completely liberated state
+
+181
+00:25:08,000 --> 00:25:16,000
+which contracts itself in every moment of cognition so through your own intuition of eye awareness that arises with every cognition
+
+182
+00:25:16,000 --> 00:25:24,000
+is seen as a as a avenue into this fully expanded
+
+183
+00:25:24,000 --> 00:25:34,000
+eye this purna so the heart of i the core of my
+
+184
+00:25:34,000 --> 00:25:44,000
+consciousness or the core of eye consciousness yeah embodying the bliss of the ultimate
+
+185
+00:25:44,000 --> 00:25:52,000
+made flash forth some sport replete with the infinite creative power manifested by the union of these two the mother grounded in untrammeled
+
+186
+00:25:52,000 --> 00:26:01,000
+ideation a radiant in ever new creation and the father all containing in square brackets
+
+187
+00:26:01,000 --> 00:26:09,000
+who maintains the light of consciousness through his five powers now after that within angle brackets you have a second
+
+188
+00:26:09,000 --> 00:26:17,000
+translation because the verse is designed to convey two different meanings
+
+189
+00:26:17,000 --> 00:26:24,000
+in the first two the first part of the verse so we have to go back again and to the
+
+190
+00:26:24,000 --> 00:26:32,000
+beginning i pray that through this work the core of my consciousness embodying the bliss of the ultimate may flash forth
+
+191
+00:26:32,000 --> 00:26:43,000
+born from born from the emission
+
+192
+00:26:43,000 --> 00:27:00,000
+that burst forth in the union of these two um
+
+193
+00:27:00,000 --> 00:27:16,000
+designed to accommodate the second meaning she whose constituents are vit la
+
+194
+00:27:16,000 --> 00:27:24,000
+so the name of his mother we hear from this passage was vimala if you read pandey's history of
+
+195
+00:27:24,000 --> 00:27:32,000
+gupta philosophical and historical study you will be told that his name her name was vimela oops
+
+196
+00:27:32,000 --> 00:27:40,000
+no hindu woman has ever been called vimela but vimalia as we all know is a very common name even to this day among women it's not rare
+
+197
+00:27:40,000 --> 00:27:48,000
+though it may be pronounced in certain parts of india the indian world so my mother vimala
+
+198
+00:27:48,000 --> 00:27:56,000
+abhinav sri mahal who's here in the sense of whose
+
+199
+00:27:56,000 --> 00:28:08,000
+big day whose joy was the birth of abhinava which you know you refer to yourself in the third person in such contexts
+
+200
+00:28:08,000 --> 00:28:16,000
+whose great joy was my boss and immediately nothing's this man is a negative
+
+201
+00:28:16,000 --> 00:28:24,000
+but we'll think about that later i think he's not negative there's evidence that his mother died when he was a baby before he reached
+
+202
+00:28:24,000 --> 00:28:33,000
+childhood amnesia because he says at some point in the 37th book the final book of tanjongoka my mother killer sanskrit
+
+203
+00:28:33,000 --> 00:28:41,000
+particle killer separated me from her when i was but a child but an infant balia eva
+
+204
+00:28:41,000 --> 00:28:48,000
+yeah and the killer serves there to indicate that he himself has no
+
+205
+00:28:48,000 --> 00:28:56,000
+memory of that it's something he knows through a report rather than through direct experience so that suggests that his mother
+
+206
+00:28:56,000 --> 00:29:03,000
+and of course perinatal death was extremely common in in before the scientific age so it
+
+207
+00:29:03,000 --> 00:29:10,000
+seemed that his mother died when she was presumably only a teenager because marriage occurred extremely early in
+
+208
+00:29:10,000 --> 00:29:17,000
+traditional brahmanical circles so she's a young girl and she's she died but the one joyful thing that she
+
+209
+00:29:17,000 --> 00:29:26,000
+experienced was the birth of another so it may be more a compassionate statement than an egotistic one my mother who at least had
+
+210
+00:29:26,000 --> 00:29:35,000
+one joy in her life which was to give birth to to me there was a he did have a younger brother so one more child followed him
+
+211
+00:29:35,000 --> 00:29:42,000
+presumably in quick succession um but um he was called manora tagupta and he's part of admiral gupta's disciples
+
+212
+00:29:42,000 --> 00:29:50,000
+circuit a group of disciples um so anyway she seems to have died young and while he was still a child
+
+213
+00:29:50,000 --> 00:29:58,000
+and he made the most of that he said my mother separated me from herself when
+
+214
+00:29:58,000 --> 00:30:06,000
+i was just a child so i told killer he takes that as the beginning of his spiritual life
+
+215
+00:30:06,000 --> 00:30:14,000
+he says for mother above all is is that relative who binds you above all
+
+216
+00:30:14,000 --> 00:30:22,000
+when once that radical attachment has been dissolved liberation in life rests in the palm of your hand that sounds rather broken
+
+217
+00:30:22,000 --> 00:30:30,000
+to mothers in general but that's that's what he says his father then educated him started him off in his brahmanical education before
+
+218
+00:30:30,000 --> 00:30:41,000
+he went on to other archarias for further study so he was brought up in a very male environment
+
+219
+00:30:41,000 --> 00:30:51,000
+now excuse me while i scroll through my
+
+220
+00:30:51,000 --> 00:30:59,000
+commentary on these opening verses is very long and i'm skipping ahead and looking for what i want to say next yeah
+
+221
+00:30:59,000 --> 00:31:06,000
+okay so this supplication
+
+222
+00:31:06,000 --> 00:31:15,000
+that is the first verse should be understood as a testimony of the act of self-realization that will enable the work to proceed to to proceed
+
+223
+00:31:15,000 --> 00:31:23,000
+unhindered to its completion that being the conventional understanding of among removes all obstacles by immersing
+
+224
+00:31:23,000 --> 00:31:32,000
+himself in the goal by referring to it and meditating upon it in his opening verse he intends to promote the successful
+
+225
+00:31:32,000 --> 00:31:41,000
+completion of the whole world he did complete it it's a very impressively large work um but this is not its whole meaning
+
+226
+00:31:41,000 --> 00:31:49,000
+both types of opening verse both namaskara and ashinvada express emotion in the ultimate nature of the self
+
+227
+00:31:49,000 --> 00:31:58,000
+but whereas verses of obeisance do so directly verses of supplication such as this do so only by implication
+
+228
+00:31:58,000 --> 00:32:06,000
+to the extent that they describe the deity they imply an act of immersion in its nature but their explicit reference
+
+229
+00:32:06,000 --> 00:32:13,000
+is to an act of prayer for a state that is yet to be accomplished rather than siddha
+
+230
+00:32:13,000 --> 00:32:22,000
+furthermore supplicatory verses are generally altruistic they are usually prayers that the deity act for the benefit of others
+
+231
+00:32:22,000 --> 00:32:30,000
+usually the audience or more impersonally the whole world or all the virtues thus
+
+232
+00:32:30,000 --> 00:32:38,000
+although abner gupta leaves the beneficiaries unstated in this verse the force of convention conveys that he is praying for the enlightenment of
+
+233
+00:32:38,000 --> 00:32:46,000
+others either of others alone or of others and himself which of these does he intend does he
+
+234
+00:32:46,000 --> 00:32:54,000
+include himself among the beneficiaries or is he excluding himself praying that we may attain the enlightenment that he has already
+
+235
+00:32:54,000 --> 00:33:02,000
+attained his exalted status in the tradition might be taken to support the latter reading
+
+236
+00:33:02,000 --> 00:33:10,000
+i that he's not he's already got it he doesn't need to pray for himself but i propose that it is the inclusive
+
+237
+00:33:10,000 --> 00:33:18,000
+reading that he wished to convey namely may my core be fully revealed to us all this accommodates the doctrine stated in
+
+238
+00:33:18,000 --> 00:33:27,000
+the passage quoted above that even those who have achieved enlightenment must constantly reinforce it through acts of immersion while they
+
+239
+00:33:27,000 --> 00:33:35,000
+remain in the body acts of emotion some are asia immersing yourself in the intuition of your inner nature
+
+240
+00:33:35,000 --> 00:33:43,000
+if he thought this was necessary for the venerable utpaladeva as indeed he does in his commentary on the ishwara practice
+
+241
+00:33:43,000 --> 00:33:50,000
+he would surely have thought it necessary for himself but more importantly it is this alternative alone that accommodates what
+
+242
+00:33:50,000 --> 00:33:57,000
+i take to be implied by the fact that he doesn't specify who is to benefit namely that the distinction between self
+
+243
+00:33:57,000 --> 00:34:06,000
+and other is ultimately unreal or superimposed that self and other are merely the modes
+
+244
+00:34:06,000 --> 00:34:13,000
+of appearance of the true self my core who they are mama the true core that expresses itself as
+
+245
+00:34:13,000 --> 00:34:21,000
+all consciousness and all its objects the basis of this implication must be that the alternate must be the
+
+246
+00:34:21,000 --> 00:34:28,000
+alternative that includes both self and other my core then is not abhinav gupta's as opposed to ours who are yet to be
+
+247
+00:34:28,000 --> 00:34:35,000
+enlightened but rather the core of his being that is the core of all beings that's how you see it
+
+248
+00:34:35,000 --> 00:34:43,000
+or we may say my core here mama is intended to mean the core of i
+
+249
+00:34:43,000 --> 00:34:52,000
+that is to say the innermost awareness that animates all manifestation in the most view marker that animates all precaution
+
+250
+00:34:52,000 --> 00:35:00,000
+the same analysis will apply to the pronoun implied pronoun us in may my call be revealed to us all
+
+251
+00:35:00,000 --> 00:35:13,000
+for within abu navar gupta shaivism we can only mean the plurality of eyes projected by and in the one eye
+
+252
+00:35:13,000 --> 00:35:21,000
+in support of the proposition that he includes himself among the beneficiaries we can cite the prayer for enlightenment that opens his commentary on the second
+
+253
+00:35:21,000 --> 00:35:30,000
+section of utpaladeva's ishwara prachabigya karika there too i've never got to praise inclusively saying
+
+254
+00:35:30,000 --> 00:35:37,000
+may the glorious consult of gauri reveal to us the ultimate reality and in support of a non-dualistic
+
+255
+00:35:37,000 --> 00:35:44,000
+interpretation of this inclusive prayer that is to say that we means i in the plural the plurality of eyes the aspects
+
+256
+00:35:44,000 --> 00:35:52,000
+of the one true eye we can cite bhaskar akantas commentary on that prayer quote may he reveal to us the ultimate
+
+257
+00:35:52,000 --> 00:36:01,000
+all-containing reality that is his nature that is to say to the agents of awareness who being aspects of him are the object of limited
+
+258
+00:36:01,000 --> 00:36:09,000
+eye consciousness this then is the function and purpose of the verse through it i'm never going to expresses
+
+259
+00:36:09,000 --> 00:36:17,000
+his own emotion in the true self as the precondition of successful exposition and at the same time praise for enlightenment
+
+260
+00:36:17,000 --> 00:36:25,000
+both for his own that his prospering influence may sustain his work as he descends for our benefit into the unenlightened state of
+
+261
+00:36:25,000 --> 00:36:33,000
+conceptual thinking and that we his audience may attain the same enlightenment in our turn suggesting through the impersonality of
+
+262
+00:36:33,000 --> 00:36:40,000
+the supplication that he and we are ultimately the one self indeed that the deity and the
+
+263
+00:36:40,000 --> 00:36:48,000
+beneficiaries of its favor are identical in the highest awareness but the verse also exists to empower
+
+264
+00:36:48,000 --> 00:36:56,000
+those who undertake to teach or study the work after its completion we too ought to contemplate its meaning in order to experience to the extent of
+
+265
+00:36:56,000 --> 00:37:03,000
+our capacity the non-dual consciousness that that alone can hold at bay the powers that would have impeded i've
+
+266
+00:37:03,000 --> 00:37:11,000
+never grouped its progress i will not now try hard to impede ours as the attempt to follow him
+
+267
+00:37:11,000 --> 00:37:18,000
+the reader is invited to activate the awareness that inspired and sustained the original act of composition
+
+268
+00:37:18,000 --> 00:37:25,000
+reading the verse as though it were his own reaching towards his true identity and praying for the enlightenment of all others
+
+269
+00:37:25,000 --> 00:37:34,000
+both those who are as contemporaries and those who will follow thus the contemplation of the verse evokes not only the non-duality of
+
+270
+00:37:34,000 --> 00:37:41,000
+consciousness in the timeless metaphysical sense but also the non-duality of the transmission of enlightenment through
+
+271
+00:37:41,000 --> 00:37:49,000
+time from generation to generation as abner gupta says the lineage is to be understood lineage of gurus of teachers
+
+272
+00:37:49,000 --> 00:37:56,000
+and pupils is to be understood as a single state of being within which individual identities are incidental
+
+273
+00:37:56,000 --> 00:38:04,000
+this is the basis of the doctrine that the guru lineage and the deity are one and the same and the justification of the injunction
+
+274
+00:38:04,000 --> 00:38:12,000
+that the initiate must look upon the guru as the deity incarnate which is not to say to to be unaware of his human identity
+
+275
+00:38:12,000 --> 00:38:21,000
+but that the religiously prescribed perception should be of the deity manifest through the guru's teaching this doesn't mean that you need to be
+
+276
+00:38:21,000 --> 00:38:30,000
+blind to his indiscretions or crimes and this is expressed rather eloquently
+
+277
+00:38:30,000 --> 00:38:39,000
+by the south indian kramer master of maheshwaranda in his maharta manjari parimala
+
+278
+00:38:39,000 --> 00:38:47,000
+where he says and so the gist is this that the venerable line of gurus is of the nature of all containing
+
+279
+00:38:47,000 --> 00:38:54,000
+consciousness therefore this apparent plurality of theirs is not in accordance with the way things are in reality
+
+280
+00:38:54,000 --> 00:39:03,000
+it is accepted only in a figurative sense by virtue of the line's association with diverse adventitious conditions
+
+281
+00:39:03,000 --> 00:39:10,000
+just as a single thing casts a variety of reflections because of the difference between the surfaces on which it appears
+
+282
+00:39:10,000 --> 00:39:17,000
+such as a mirror water or oil the fact that the guru lineage is inflected by bodies and the like that
+
+283
+00:39:17,000 --> 00:39:24,000
+are plural does not cause any true plurality to appear here as i myself have taught in my pardo
+
+284
+00:39:24,000 --> 00:39:31,000
+cordia unfortunately a lost work by mahesh randa quote the exalted array of powers that
+
+285
+00:39:31,000 --> 00:39:39,000
+we are to worship in the crummer is in the final analysis the shiva that constitutes the essence of the self
+
+286
+00:39:39,000 --> 00:39:49,000
+and he is one with the venerable guru and the worshiper himself so now let us consider more closely the
+
+287
+00:39:49,000 --> 00:39:57,000
+terms in which the ultimate reality is expressed in the verse the core that i've never go to contemplates and whose contemplation he
+
+288
+00:39:57,000 --> 00:40:04,000
+invites is his own consciousness in its ultimate universe enfolding nature as the non-dual essence of the union of
+
+289
+00:40:04,000 --> 00:40:11,000
+bhairava and his innate power it is this that he prays may be revealed through his work
+
+290
+00:40:11,000 --> 00:40:19,000
+this union is presented as the inseparability of the light of consciousness and the ideation that is its dynamic core
+
+291
+00:40:19,000 --> 00:40:27,000
+bharava as that radiance prakasha is consciousness as the constant and totality of manifestation
+
+292
+00:40:27,000 --> 00:40:35,000
+seen without reference to its modes ideation the marsha his power is that by means of which this ever
+
+293
+00:40:35,000 --> 00:40:43,000
+manifest consciousness appears in those modes representing itself variously as the differentiated reality of common
+
+294
+00:40:43,000 --> 00:40:50,000
+experience as the aesthetic synthesis of that plurality within the unity of self-awareness
+
+295
+00:40:50,000 --> 00:40:58,000
+as non-duality through the complete retraction of that plurality and as the state of absolute potential this
+
+296
+00:40:58,000 --> 00:41:05,000
+in the core of consciousness the ultimate non-duality parama dwayam
+
+297
+00:41:05,000 --> 00:41:13,000
+that contains all three modes in a timeless simultaneity so peda
+
+298
+00:41:13,000 --> 00:41:21,000
+abeda and paramat vitamin paramedia
+
+299
+00:41:21,000 --> 00:41:28,000
+distinguishes his own doctrine from advaita by saying it is a paramar dwight doctrine or paramad by a doctrine
+
+300
+00:41:28,000 --> 00:41:35,000
+because it excludes nothing from his point of view advaita vedanta is limited by the fact
+
+301
+00:41:35,000 --> 00:41:44,000
+that it excludes and can offer no account for plurality in fact other than navidya which makes two a video
+
+302
+00:41:44,000 --> 00:41:51,000
+so that's the dilemma from have never got this point the essence of that union of prakasha
+
+303
+00:41:51,000 --> 00:42:00,000
+and vimarsha the core for them is then the manifest represented in this mode of higher non-duality
+
+304
+00:42:00,000 --> 00:42:07,000
+the state in which the manifest and ideation are perfectly fused in the undifferentiated but all-inclusive
+
+305
+00:42:07,000 --> 00:42:14,000
+totality of absolute potential this state of fusion is the very essence of consciousness
+
+306
+00:42:14,000 --> 00:42:22,000
+it is present as the basis of all experience the mother radiant in ever new creation
+
+307
+00:42:22,000 --> 00:42:31,000
+is the power of ideation itself it is untrammeled because although it manifests the factors of time place and form that the limit contracted
+
+308
+00:42:31,000 --> 00:42:40,000
+consciousness it is not subject to them being the inexhaustible freedom of consciousness to appear in any configuration or none
+
+309
+00:42:40,000 --> 00:42:49,000
+the father all containing bhairava is shiva as the totality of this manifestation and his five faces are the five paths which i
+
+310
+00:42:49,000 --> 00:42:56,000
+referred earlier by virtue of which this manifestation has sustained consciousness bliss pre-cognitive
+
+311
+00:42:56,000 --> 00:43:04,000
+impulse cognition and action when these two are fused that is to say when their natural state of fusion becomes manifest in the process of
+
+312
+00:43:04,000 --> 00:43:12,000
+immersion consciousness rests blissful in itself alone having withdrawn the modes of extroversion in which it appears to
+
+313
+00:43:12,000 --> 00:43:21,000
+reach outwards to what is other than itself in terms of the modes of plurality synthesis and non-duality it shines
+
+314
+00:43:21,000 --> 00:43:28,000
+forth here as the state of higher non-duality that is the ground and substance of all three and in terms of the five powers of
+
+315
+00:43:28,000 --> 00:43:36,000
+manifestation it shines forth as the first two consciousness and bliss or more exactly as consciousness
+
+316
+00:43:36,000 --> 00:43:44,000
+blissful through fusion with itself the powers of precognitive impulse cognition and action having been withdrawn and
+
+317
+00:43:44,000 --> 00:43:52,000
+dissolved within this state as their ground and source seeing that this reality embodies the
+
+318
+00:43:52,000 --> 00:43:59,000
+bliss literally the nectar of the ultimate abner alludes to its definition in the
+
+319
+00:43:59,000 --> 00:44:07,000
+alphabetic code which he will expound in the third chapter of this work in those terms the ultimate anutara is
+
+320
+00:44:07,000 --> 00:44:15,000
+the first sound first speech sound the short vowel and bliss
+
+321
+00:44:15,000 --> 00:44:22,000
+is the second the long vowel r understood as the fusion of two short us you know
+
+322
+00:44:22,000 --> 00:44:31,000
+playing on grammar a plus that gives r according to sandy rules of sanskrit of these two the first is the ultimate
+
+323
+00:44:31,000 --> 00:44:38,000
+in the masculine gender another i shiva as the undifferentiated manifestation and the second is the ultimate in the
+
+324
+00:44:38,000 --> 00:44:46,000
+feminine gender the ideation or creative intuition of that ultimate the innate urge of
+
+325
+00:44:46,000 --> 00:44:54,000
+manifestation to present itself to represent itself as the universe abner gupta's core his
+
+326
+00:44:54,000 --> 00:45:03,000
+is bliss the long r because it is the bliss of self-containment that arises when the ultimate and its power realize their
+
+327
+00:45:03,000 --> 00:45:11,000
+state of fusion literally the violent merger that is to say when manifestation
+
+328
+00:45:11,000 --> 00:45:21,000
+immersed in itself alone experiences infinite bliss in the relish of its state of absolute potential
+
+329
+00:45:21,000 --> 00:45:29,000
+as evidence in favor of this interpretation of the core i offer two passages from abnormal gupta's works on the malini vijay ottara the malibu
+
+330
+00:45:29,000 --> 00:45:37,000
+jyotra is the rude text on which the tantra loka is a kind of selective commentary and the two works uh to which i'm
+
+331
+00:45:37,000 --> 00:45:46,000
+referring are the um the the first is um the malini vijayotra sorry the malni
+
+332
+00:45:46,000 --> 00:45:53,000
+vigil vertiga which was the first of his works on the trigger at least of those that survive and the second is the tantra loker
+
+333
+00:45:53,000 --> 00:46:01,000
+itself now the first passage is on your handout in a slightly smaller typeface under the translation of the first verse
+
+334
+00:46:01,000 --> 00:46:08,000
+and if we had lots and lots of time i would be happy to go through the sanskrit but what i'll do instead is read the
+
+335
+00:46:08,000 --> 00:46:16,000
+translation and comment if necessary the text is fairly secure i think um
+
+336
+00:46:16,000 --> 00:46:24,000
+reasonably well transmitted that one or two corrections were necessary i put my inventions there or haneda's
+
+337
+00:46:24,000 --> 00:46:31,000
+imaginations the supreme awareness that has arisen before all others from the unlimited
+
+338
+00:46:31,000 --> 00:46:39,000
+ground that contains all things in their pure non-duality is manifested all pervading in the plenitude of its powers
+
+339
+00:46:39,000 --> 00:46:46,000
+sharing the nature of that ground free of the dualizing that will distinguish between that which should be sought and
+
+340
+00:46:46,000 --> 00:46:54,000
+that which spirit should be rejected these being its own manifestations within the domain of differentiated awareness
+
+341
+00:46:54,000 --> 00:47:03,000
+divided only in as much as the radiance it emits is diffracted in the process of its expansion
+
+342
+00:47:03,000 --> 00:47:10,000
+this whose nature is the power of representation or ideation is the core of shiva in this state he attains the highest
+
+343
+00:47:10,000 --> 00:47:19,000
+non-duality by experiencing intimate union with the power that is eternally one with his nature when this occurs the highest mouth
+
+344
+00:47:19,000 --> 00:47:27,000
+arises now mouth here is understood figuratively what he's expanding here is the various streams of revelation that
+
+345
+00:47:27,000 --> 00:47:35,000
+constitute the shaiva canon and here he's talking about the highest nondualistic revelation so it's a stream of consciousness rather
+
+346
+00:47:35,000 --> 00:47:43,000
+than mouth the idea is that the scriptures figuratively come forth from the five faces of shiva and in this system there's a hidden sixth face which is the
+
+347
+00:47:43,000 --> 00:47:50,000
+source of the kaula revelation when this occurs the highest mouth
+
+348
+00:47:50,000 --> 00:47:57,000
+arises the ground in which absolute potential flows it is the seed of the universe beautiful with the
+
+349
+00:47:57,000 --> 00:48:05,000
+all-embracing bliss that surges up in the expansion of the ultimate holding in new non-duality all the mouths all the
+
+350
+00:48:05,000 --> 00:48:13,000
+shaktis that will emerge thereafter it is this that is meant in the scriptures by such terms as the heart
+
+351
+00:48:13,000 --> 00:48:20,000
+the inner pulse spandaha cognition grit
+
+352
+00:48:20,000 --> 00:48:28,000
+it is the seed of the universe beautiful with the all-embracing bliss that surges up in the expansion of the ultimate
+
+353
+00:48:28,000 --> 00:48:35,000
+so there's a duplication there holding in non-duality all the mouse that will emerge thereafter excuse the duplication it is this that is meant in
+
+354
+00:48:35,000 --> 00:48:44,000
+the scriptures by such terms etc sorry here the contraction caused by the inhibition of consciousness through the
+
+355
+00:48:44,000 --> 00:48:51,000
+emergence of differentiated entities has fallen away and the three powers that are the conscious subjects precognitive
+
+356
+00:48:51,000 --> 00:49:00,000
+impulse cognition and action have become nothing but that subject's state of immersion in his own bliss the master sumananda taught this when he
+
+357
+00:49:00,000 --> 00:49:07,000
+declared in his shivadeshji when one rests in must in the experience of the unmingled bliss of one's consciousness
+
+358
+00:49:07,000 --> 00:49:15,000
+then one's pre-cognitive impulse cognition and action are no more than that experience one exists as the fusion of those three
+
+359
+00:49:15,000 --> 00:49:22,000
+powers in their subtlest form at that time one is undivided completely immersed in the bliss that is
+
+360
+00:49:22,000 --> 00:49:33,000
+consciousness so this is um
+
+361
+00:49:33,000 --> 00:49:41,000
+the first piece of evidence in favor of my interpretation of the call as arnold fusion of the two tours
+
+362
+00:49:41,000 --> 00:49:48,000
+the second passage comes from tantra itself and you have it there
+
+363
+00:49:48,000 --> 00:49:55,000
+i translate it as follows so this universe is a reflection in the lord in the perfectly reflective void of
+
+364
+00:49:55,000 --> 00:50:04,000
+bhairava's consciousness and arises under the influence of nothing outside that consciousness this ability of the lord to embody
+
+365
+00:50:04,000 --> 00:50:11,000
+himself as the universe without drawing on anything outside his own nature is the supreme goddess that our masters
+
+366
+00:50:11,000 --> 00:50:20,000
+call creativity pratibha the feminine ultimate
+
+367
+00:50:20,000 --> 00:50:30,000
+it is the supreme power of universality shakti the power by which conscious can manifest itself as everything
+
+368
+00:50:30,000 --> 00:50:38,000
+the ability of this deity bioreverb embodied in the sound ah
+
+369
+00:50:38,000 --> 00:50:47,000
+to manifest the universe although transcending it
+
+370
+00:50:47,000 --> 00:50:54,000
+the power by which the lord has ever won this power kalaki shakti from which the lord i consciousness prakash is never
+
+371
+00:50:54,000 --> 00:51:01,000
+separated if prakash was separated from me marshall would be dead
+
+372
+00:51:01,000 --> 00:51:09,000
+there'd be no active awareness of any kind the combination yamalam rupam of these two
+
+373
+00:51:09,000 --> 00:51:16,000
+is dynamic fusion the dynamic fusion that enables the universe to be emitted into consciousness
+
+374
+00:51:16,000 --> 00:51:25,000
+it is this that we mean by the power of bliss ananda shakti this is the ultimate reality beyond both the universe transcending and the
+
+375
+00:51:25,000 --> 00:51:32,000
+universal it is the goddess devi the essence saaram and the core prelim
+
+376
+00:51:32,000 --> 00:51:39,000
+it is the highest omnipotent state of absolute potential so i think that drives the point home
+
+377
+00:51:39,000 --> 00:51:50,000
+fairly fairly clearly um
+
+378
+00:51:50,000 --> 00:51:57,000
+so the core that abner gupta invokes as the source of inspiration and the goal to be realized is the state of absolute potential in
+
+379
+00:51:57,000 --> 00:52:06,000
+which the three powers of pre-cognitive impulse cognition and action and the three modes of plurality synthesis and non-duality
+
+380
+00:52:06,000 --> 00:52:15,000
+are fused in blissful all-embracing consciousness now it might be thought that in making this the object of his prayer abner
+
+381
+00:52:15,000 --> 00:52:23,000
+gupta has disregarded the convention that such verses should invoke the author's chosen deity ishta devita
+
+382
+00:52:23,000 --> 00:52:30,000
+for it would appear that this core is no deity at all but at best the ground in which bhairav and his power mingle and
+
+383
+00:52:30,000 --> 00:52:38,000
+lose their separate identities but the breach of convention is only apparent for at the center of abner gupta's
+
+384
+00:52:38,000 --> 00:52:46,000
+pantheon of contemplation and worship is a goddess who is this core he is merely leaving his readers to
+
+385
+00:52:46,000 --> 00:52:54,000
+recognize her for themselves this so like the reality she personifies
+
+386
+00:52:54,000 --> 00:53:03,000
+she is pervasive in his work but veiled and concealed one doesn't name the object of one's true love as it were
+
+387
+00:53:03,000 --> 00:53:28,000
+this is carlos the destroyer of time the goddess of the grammar
+
+388
+00:53:28,000 --> 00:53:37,000
+the destroyer of time she who destroys time um the mandala that enthrones the tricker's
+
+389
+00:53:37,000 --> 00:53:45,000
+deities and symbolizes their interrelation is known as the trishula mandala um i'm sorry i'm hopeless i'm hoping to
+
+390
+00:53:45,000 --> 00:53:56,000
+try i won't really try but the name is
+
+391
+00:53:56,000 --> 00:54:03,000
+and this consists of the usual square enclosure um at the center is a trident with three
+
+392
+00:54:03,000 --> 00:54:10,000
+prongs of course and on the tips of the trident are three lotuses and the three goddesses of the trigger sit enthroned
+
+393
+00:54:10,000 --> 00:54:20,000
+on those three lotuses at its center is a trident with a lotus
+
+394
+00:54:20,000 --> 00:54:29,000
+on the cusp of each of its three prongs on these lotuses three goddesses are installed par in the center
+
+395
+00:54:29,000 --> 00:54:38,000
+to her right and upper to her left eye to our right and that's the norm in the trigger these
+
+396
+00:54:38,000 --> 00:54:47,000
+three goddesses are worshipped as a triad hence the name tricker but in abner gupta's form of the trigger
+
+397
+00:54:47,000 --> 00:54:55,000
+this triangle structure has been as it were um overcoated by a tetradic system taken
+
+398
+00:54:55,000 --> 00:55:02,000
+from the crammer and a fourth goddess is added above the central the goddess on the central cusp
+
+399
+00:55:02,000 --> 00:55:11,000
+and that is kala sankarshini in the system of the devya yamada now the dvr yongla does not survive
+
+400
+00:55:11,000 --> 00:55:18,000
+unfortunately at least it hasn't come to light yet it's not likely to come to light in kashmir now
+
+401
+00:55:18,000 --> 00:55:27,000
+and it's i've found that trace of it in lepaul the other likely source of such a survival um but it's often referred to by abner
+
+402
+00:55:27,000 --> 00:55:35,000
+gupta so we know something about what is distinctive of it it's an important part of his scriptural synthesis the way he puts together his trigger
+
+403
+00:55:35,000 --> 00:55:44,000
+so in the trigger of the devyayamala it is ruled that khalasang karashni should be installed above para as the
+
+404
+00:55:44,000 --> 00:55:52,000
+ultimate ground and you'll see that in your um item three on page three
+
+405
+00:55:52,000 --> 00:55:59,000
+where it says deities of the maha dharma yaga yaga here means mandala in technical terminology rather than
+
+406
+00:55:59,000 --> 00:56:07,000
+worship and it's called the maha dhamma the yaga of the primal sacrifice known as the mahadamura
+
+407
+00:56:07,000 --> 00:56:15,000
+and it says the goddess para is on the central cusp on the cusp to her right and opera on the cusp to her left
+
+408
+00:56:15,000 --> 00:56:24,000
+learn that the illustrious goddess khalasam karshani is established transcending para above the central cusp
+
+409
+00:56:24,000 --> 00:56:31,000
+and there's also a passage here from abner gupta's treatment of the mandala taught in the devyayama that's in item
+
+410
+00:56:31,000 --> 00:56:40,000
+four and he writes above it he should trace another lotus on the area at the middle of the staff of the trident then he should trace a
+
+411
+00:56:40,000 --> 00:56:49,000
+third lotus at the upper limit of the central cusp of the tribes and in the same way two others flanking it to the right and left
+
+412
+00:56:49,000 --> 00:56:56,000
+on the lateral cusps of the trident the seed pods at the center of the lotuses should be yellow each of the each of the filament should
+
+413
+00:56:56,000 --> 00:57:04,000
+have three equal segments colored red yellow and white the petals on the boundary line around each lotus should be white the trident should be colored
+
+414
+00:57:04,000 --> 00:57:11,000
+in with black powder but it should have a white vertical line along its axis its tip should have flames added with red
+
+415
+00:57:11,000 --> 00:57:20,000
+powder and the staff in which the trident is fixed should be colored yellow he should always proceed by worshipping sadashiva in the lotus at
+
+416
+00:57:20,000 --> 00:57:27,000
+the center of the trident and then para above him on the cusp of the central blade the next goddess parappara on her
+
+417
+00:57:27,000 --> 00:57:36,000
+right and upper on her left above para the goddess khalasam karishmi is present constantly engaged in the resolution of
+
+418
+00:57:36,000 --> 00:57:43,000
+this array of the deities of the trident accomplishing this simply through her spontaneous power or urge
+
+419
+00:57:43,000 --> 00:57:51,000
+and then one more passage again taken from the tantra loca
+
+420
+00:57:51,000 --> 00:57:59,000
+it is called khalasan karshny in which he is worshipped above para and it is called matrix
+
+421
+00:57:59,000 --> 00:58:08,000
+in the malni vijayotra well that's a bit of a cheat actually because there is a matrix at barbara goddess or deity in the malay videotra but there's no reason
+
+422
+00:58:08,000 --> 00:58:16,000
+to associate it with colossal encouragement but it's structurally parallel so it has two aspects in the multivitamin system are higher and lower
+
+423
+00:58:16,000 --> 00:58:25,000
+and of course connects that with the deviatic structure thereby feeding the krama
+
+424
+00:58:25,000 --> 00:58:40,000
+khalasan kashmir-based tradition into the understanding of the tricker um
+
+425
+00:58:40,000 --> 00:58:48,000
+uh i actually worked out how this manner is to be drawn from the instructions in the modern video from
+
+426
+00:58:48,000 --> 00:58:56,000
+the basic manner of the trident with the lettuces and that was published in the study i did a very long time ago called
+
+427
+00:58:56,000 --> 00:59:04,000
+mandala and argument identity in the tricker of kashmir i think and i don't know how good your eyesight is
+
+428
+00:59:04,000 --> 00:59:11,000
+um it's rather pale here but that's i don't suppose anyone can see that i can barely see it myself but
+
+429
+00:59:11,000 --> 00:59:19,000
+that's essentially the design i could handle a computer better i'd have included a picture of it in your
+
+430
+00:59:19,000 --> 00:59:28,000
+hand that was beyond me um so what i'm saying is that although the
+
+431
+00:59:28,000 --> 00:59:36,000
+first verse seems to be specifying no specific deity in fact he's alluding to khalasan kashmi and this is interesting because it shows
+
+432
+00:59:36,000 --> 00:59:44,000
+that although in a sense this is a shiva text all these are shaiva texts if you said to abner gupta you'll know shaiva he would be most offended well
+
+433
+00:59:44,000 --> 00:59:52,000
+i'm a shy verb but the very essence of shiva is the goddess the hidden essence of shiva is the goddess and the highest
+
+434
+00:59:52,000 --> 01:00:01,000
+forms of worship are directed towards the contemplation of palestine this point in shiva's nature which shiva cannot get behind and perceive
+
+435
+01:00:01,000 --> 01:00:09,000
+his immediate identity that is the goddess so they are crypto chakras we can say although
+
+436
+01:00:09,000 --> 01:00:17,000
+externally to the world they're shivers wearing shiver uh in their personal devotion they're actually
+
+437
+01:00:17,000 --> 01:00:25,000
+devotees of the goddess although devotion here is why it may include bhakti the traditional sense it's a highly
+
+438
+01:00:25,000 --> 01:00:33,000
+contemplative business and if you were to ask i've never looked into seriously well what is the goddess you have to say well it is the power of ideation that constitutes the very essence of
+
+439
+01:00:33,000 --> 01:00:40,000
+manifestation so in a sense we see here um a strong urge to rationalize
+
+440
+01:00:40,000 --> 01:00:48,000
+um a system which is rooted in rather less rational things if you like more emotional
+
+441
+01:00:48,000 --> 01:00:57,000
+and indeed magical uh notions uh attempt to rationalize and in a sense to dissolve the theistic content in a
+
+442
+01:00:57,000 --> 01:01:04,000
+way or rather to re reprogram it in some rather radical way and in this in this
+
+443
+01:01:04,000 --> 01:01:11,000
+sense the difference between late buddhism and shaivism is not very great they're both forms of atheism in a
+
+444
+01:01:11,000 --> 01:01:19,000
+way in the sense that the naive belief in a kind of formed deity which demands
+
+445
+01:01:19,000 --> 01:01:26,000
+your submission and adoration has been obliterated through metaphysical speculation what is that
+
+446
+01:01:26,000 --> 01:01:35,000
+what is shiva what is the goddess prakash and vimanisha what is uh chakra sombra the embodiment of
+
+447
+01:01:35,000 --> 01:01:42,000
+compassion and emptiness in various ways have been elaborated which deconstruct theism in a sense
+
+448
+01:01:42,000 --> 01:01:49,000
+and therefore in a way bring indian religion um more in keeping with
+
+449
+01:01:49,000 --> 01:01:57,000
+mainstream brahmanical thinking which is also strongly atheistic in a way at least in its metaphysics
+
+450
+01:01:57,000 --> 01:02:10,000
+and also vedanta which of course distinguishes in mature vedanta between saguaro brahma and near brahma
+
+451
+01:02:10,000 --> 01:02:18,000
+the benefit of the unenlightened person who project on to the quality less absolute human or theistic
+
+452
+01:02:18,000 --> 01:02:26,000
+attributes so i think in a way it is rather interesting here because i feel in love never writing a strong
+
+453
+01:02:26,000 --> 01:02:35,000
+devotion in a way but it's a wild dog that he's trying to keep on a lead you know he's constantly coming back to a more metaphysical contemplative
+
+454
+01:02:35,000 --> 01:02:44,000
+standpoint and the same is true the great founder of the practical philosopher's philosophical system two generations before scholastic
+
+455
+01:02:44,000 --> 01:02:51,000
+generations before gupta he seems to be initiated in the census re-reading
+
+456
+01:02:51,000 --> 01:02:58,000
+of the theological categories in terms of epistemological or metaphysical entities
+
+457
+01:02:58,000 --> 01:03:06,000
+yet he also produced a collection of hymns that were adapted after his death into the shivers torture where we see also an expression of
+
+458
+01:03:06,000 --> 01:03:14,000
+intense devotion so here's the nature of religion it serves more than one purpose and the great thing about it is it
+
+459
+01:03:14,000 --> 01:03:23,000
+doesn't have to be entirely coherent and the same is true of tantric worship you go into the structure of it and ask what does it mean what is it expressing
+
+460
+01:03:23,000 --> 01:03:32,000
+contradictory things on the one hand devotion to the deity on the other hand saying that the deity is nothing but oneself
+
+461
+01:03:32,000 --> 01:03:40,000
+so in a sense the function of ritual in the sense is to enable contradictions
+
+462
+01:03:40,000 --> 01:03:47,000
+contrary urges to be combined and excused in a sense you deal with both requirements both the devotional and the
+
+463
+01:03:47,000 --> 01:03:56,000
+metaphysical both the devotional and the magical in a sense as well because the idea is that by identifying yourself with shiva you
+
+464
+01:03:56,000 --> 01:04:03,000
+acquire the powers of ship you can direct the ritual to mundane ends as though you were shiver himself
+
+465
+01:04:03,000 --> 01:04:18,000
+there was magic in there as well no um
+
+466
+01:04:18,000 --> 01:04:26,000
+so our call is none other than this fourth goddess but there's one more meaning the second
+
+467
+01:04:26,000 --> 01:04:34,000
+meaning which i must briefly explain while invoking carla sanchez the fourth goddess as the embodiment of the highest reality
+
+468
+01:04:34,000 --> 01:04:42,000
+i've never got to also alludes to his own birth from the union of his parents vimala and narasimha gupta
+
+469
+01:04:42,000 --> 01:04:50,000
+pancho gupta means his name whose name was pancho gupta
+
+470
+01:04:50,000 --> 01:04:58,000
+panchamukha is a name for a for a lion nothing to do with the number five by
+
+471
+01:04:58,000 --> 01:05:06,000
+the way rather from a root meaning to open wide so a lion is one with
+
+472
+01:05:06,000 --> 01:05:15,000
+opens his mouth wide when it rolls so it's a name for as in pra pancha same root panchamuka so panchapu gupta means
+
+473
+01:05:15,000 --> 01:05:23,000
+singha gupta and singha gupta is short for narasimhagupta kind a very common kind of abbreviation
+
+474
+01:05:23,000 --> 01:05:34,000
+just as the name satyabhama can be bharma by abbreviation so narasimha gupta can be singagupta
+
+475
+01:05:34,000 --> 01:05:47,000
+so the second reading hidden within the verse is alluding to the names of his parents vivilla another singer
+
+476
+01:05:47,000 --> 01:05:55,000
+information on his parents would be inappropriate in this context you may think worried not that there is no ordinary act of procreation that i've
+
+477
+01:05:55,000 --> 01:06:04,000
+never got to agree with to mind when reading this first one looks for the second meaning because the words janaka and janani are rather surprising
+
+478
+01:06:04,000 --> 01:06:12,000
+in that context and it's always some inconsi incongruity of that kind some slight incongruity which leads the reader to look for a
+
+479
+01:06:12,000 --> 01:06:20,000
+second meaning because in order to combine two meanings in one verse one must fit slightly less well than the other one must look slightly more artificial
+
+480
+01:06:20,000 --> 01:06:27,000
+and so janaka and janani look a bit artificial if you were just trying to make a metaphysical statement why why say that
+
+481
+01:06:27,000 --> 01:06:35,000
+just saying the martial and prevalent so that alerts one to look for some reference to a real mother and father and we have it
+
+482
+01:06:35,000 --> 01:06:46,000
+um encoded in vimela and uh so the reason why it's not an appalling
+
+483
+01:06:46,000 --> 01:06:54,000
+dorsa to refer to his procreate the act of his procreation is that
+
+484
+01:06:54,000 --> 01:07:03,000
+what he's referring to here is no ordinary act of procreation it is rather the supramundane sexual union practiced in the course of worship by
+
+485
+01:07:03,000 --> 01:07:11,000
+those initiated in the khaola form of deshaivism for as he will explain in artnica 29 of
+
+486
+01:07:11,000 --> 01:07:19,000
+the tantra loka in the climax of his treatise the sexual act is practiced there as a means of realizing precisely the state
+
+487
+01:07:19,000 --> 01:07:28,000
+of absolute potential nissarga adam rated in this opening verse this internal condition of the immersion
+
+488
+01:07:28,000 --> 01:07:35,000
+in that state of absolute potential which differentiates this union from the mundane from mundane copulation
+
+489
+01:07:35,000 --> 01:07:44,000
+is indicated by abner gupta in the epithet which i take to indicate the state of inclusive universality that
+
+490
+01:07:44,000 --> 01:07:51,000
+characterizes this absolute jay rata claims in his commentary that this epithet should be construed as
+
+491
+01:07:51,000 --> 01:07:58,000
+referring to both vimala and narasimha gupta the precondition of carla union being that both should be immersed in
+
+492
+01:07:58,000 --> 01:08:06,000
+awareness of themselves as shiva and his consult he explains moreover that by including this reference to carla union in the
+
+493
+01:08:06,000 --> 01:08:13,000
+opening verse i've never gupta the preeminence of the kaula form of the trigger
+
+494
+01:08:13,000 --> 01:08:21,000
+which he sees as the most direct means of evoking the state of the core and thereby attaining enlightenment
+
+495
+01:08:21,000 --> 01:08:28,000
+although the greater part of his text will be devoted to the tantric form of the system the tantra prakria
+
+496
+01:08:28,000 --> 01:08:34,000
+the whole exposition will be pervaded by the principles of the kulapratria kaula principles
+
+497
+01:08:34,000 --> 01:08:43,000
+in short it is a work on the tantric and kaula forms of the tricker from the standpoint of the latter
+
+498
+01:08:43,000 --> 01:08:51,000
+jayarata the commentator also explains that abhinava gupta in informing his readers that he himself is the product of such an enlightened union
+
+499
+01:08:51,000 --> 01:08:59,000
+is telling them that he is competent to instruct his readers in the nature and means of enlightenment for he tells us elsewhere that anyone
+
+500
+01:08:59,000 --> 01:09:06,000
+who is conceived through such a union comes into this world already the receptacle of enlightenment
+
+501
+01:09:06,000 --> 01:09:12,000
+that for which others must strive is his natural and i think i've given you a couple of
+
+502
+01:09:12,000 --> 01:09:20,000
+quotes then yeah under item six the expression all embracing this is a quotation from joy wrestler's commentary
+
+503
+01:09:20,000 --> 01:09:27,000
+he's commenting on the word in the root verse the expression
+
+504
+01:09:27,000 --> 01:09:35,000
+should be construed in accordance with the maxim of the crow's eye to qualify both that which follows the father and
+
+505
+01:09:35,000 --> 01:09:43,000
+that which precedes the mother because both are required by such scriptural texts as the following to aim to merge themselves with the state of
+
+506
+01:09:43,000 --> 01:09:50,000
+immersion experienced by shiva and shakti they should meditate in each other on
+
+507
+01:09:50,000 --> 01:09:58,000
+the nature that is shiva and his shakti they should not entertain human ideas of each other involving lust delusion and
+
+508
+01:09:58,000 --> 01:10:06,000
+the rest the highest adepts should do everything with the cultivation of enlightenment in mind
+
+509
+01:10:06,000 --> 01:10:14,000
+so because he tells us that he is in this way the product of such a union that is to say of the union of parents who are little
+
+510
+01:10:14,000 --> 01:10:23,000
+less than a sinner and the yogini the author claims that he himself is a receptacle of the non-dual knowledge that is the ultimate goal
+
+511
+01:10:23,000 --> 01:10:32,000
+this is in accordance with what he has said in the following verse anyone whose body has been produced in the womb from such a mingling is termed
+
+512
+01:10:32,000 --> 01:10:41,000
+yogini bhu born from a yogurt he is automatically the receptacle of knowledge automatically a rudra
+
+513
+01:10:41,000 --> 01:10:48,000
+and in this way abner to conveys to us his fitness to compose a work that is a summary of the essence of all the
+
+514
+01:10:48,000 --> 01:10:54,000
+tricker's scriptures i think jaira hit the nail on the head he's exactly right that's why it's not
+
+515
+01:10:54,000 --> 01:11:00,000
+an opposite to mention that okay i'll stop there um
