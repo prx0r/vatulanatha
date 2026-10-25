@@ -34,6 +34,21 @@ Essay 1 calibration (locked 2026-10-24): 130.7m original (Karma 93.9 + Markji 36
 
 Essay-0 selection follows `process/ESSAY0-FORMULA.md` (7 tests, question → sanskrit → translation → plain → audio → stack-read → lock).
 
+## THE UNFOLDING — form mirrors content (owner, 2026-10-25)
+
+The keystone: **the essay does not DESCRIBE unfoldment — it PERFORMS it.**
+- Essay 0 = the seed (`bīja`) — the compressed answer (her word: *unfoldment*).
+- A, B, C = the same seed unfolding at growing depth — exactly as realisation
+  unfolds from what-you-already-are; the listener's understanding grows the way
+  the text says realisation grows: not by addition, by expansion of the same thing.
+- THREE mirrors of one shape (the fractal made doctrine):
+  1. her text: sūtra 1 contains all → the vṛtti unfolds it → detail (her own claim);
+  2. the teaching: unfoldment, not acquisition (vat1-05 — the seed itself);
+  3. our essay: 0 → A → B → C, re-heard 4×, each hearing WIDER not different.
+- Consequences: never replace the seed with a NEW idea at each layer (that would
+  be accumulation = the wrong ontology) — each layer only EXPANDS the same
+  sentence; bells = the rings of the unfolding; ending on C = the seed complete.
+
 ## VIDEO RUN-ORDER — the Russian dolls end to end (owner, locked 2026-10-25)
 
 The finished video plays the nesting **linearly**, with bells marking each threshold:
