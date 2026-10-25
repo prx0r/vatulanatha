@@ -186,6 +186,28 @@ The path, kept honest — three owner rejections in one sitting:
 - Verification habit kept: every Sanskrit line printed = checked against
   `text/vatula_s*.txt` (corpus Muktabodha), IAST per card rules.
 
+## 9c. ERROR LOG — the composed-gloss leak (three occurrences, owner-caught)
+
+**Pattern:** my own words keep leaking into tiers that must hold only exact text.
+1. v1 screen: Kaul's full clunkly sentence promoted as "the hook" (wrong tier use).
+2. v2 screen: added strips + composed answer plains ("Realisation isn't acquired…
+   unfolding of what you already are" — summary/bloat; rejected).
+3. **v4 S-row: wrote a composed MEANING** ("by great sudden-force, one's true
+   nature is attained") **next to a translation row that said something clunkier**
+   — my gloss posing as the translation, two rows contradicting (owner: "so why is
+   that not the translation in essay 0???").
+
+**Root cause:** when a tier needs a meaning I generate one instead of ROUTING to
+the tier that already holds it (the translation row) — and I annotate "helpfully".
+
+**Rules (now binding):**
+- Sanskrit row = phrase + source pointer. **No meanings, ever.** Meaning = TIER B.
+- If the exact translation for a pick is weak (Kaul's clunkliness), the fix is to
+  choose a BETTER EXISTING exact translation (e.g. Bäumer's own — now T1 default),
+  never to compose a fresh gloss.
+- Contradiction check before shipping any menu/doc: does every stated meaning come
+  from a file? If it exists only in my prose → strip it (git history keeps it).
+
 ## 10. STANDARD (owner, 2026-10-25) — record this
 - **The formula (owner, verbatim):** *audio of a genius talking about a text —
   using their voice as the excuse to finish analyzing a tough text.* Dependency runs
