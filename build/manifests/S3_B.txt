@@ -1,0 +1,22 @@
+# S3 How does realisation happen? — B (20 clips) A+depth 16.1m
+# uid	start	end	grade	mp3
+vat1-01	39	98	B	None
+vat1-02	106	161	B	None
+vat1-03	310	334	A	None
+vat1-04	334	367	B	None
+vat1-07	579	625	A	None
+vat1-10	625	807	B	None
+vat2-01	61	93	B	None
+vat3-01	101	224	A	None
+vat3-02	257	266	A	None
+vat3-08	469	510	A	None
+vat4-05	405	448	B	None
+vat6-01	3	55	A	None
+vat8-01	52	68	A	None
+vat8-03	158	176	A	None
+vat8-04	177	250	A	None
+vat10-03	71	105	A	None
+vat11-02	148	166	A	None
+vat12-01	7	55	B	None
+vat12-03	242	291	B	None
+vat13-02	156	164	B	None

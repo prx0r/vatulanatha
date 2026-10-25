@@ -1,0 +1,9 @@
+# S5 What is the fruit of realisation? — B (7 clips) A+depth 9.1m
+# uid	start	end	grade	mp3
+vat12-06	55	198	B	None
+vat12-02	198	237	A	None
+vat12-04	291	366	A	None
+vat12-05	369	390	B	None
+vat13-01	79	129	A	None
+vat13-08	400	578	B	None
+vat13-06	829	866	A	None
