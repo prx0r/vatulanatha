@@ -52,7 +52,7 @@ Thesis question: what does it mean that one's true nature is ATTAINED — and by
 - essay_use: The recognition-shaped core in one sentence
 
 ### vat1-06 — recognition bridge — cross-project hook (ph series) [A]
-- timestamp: 00:09:12-->00:09:39
+- timestamp: 00:09:12-->00:09:30
 - topics: recognition
 - role: claim
 - layer: explain
@@ -79,7 +79,7 @@ Thesis question: what does it mean that one's true nature is ATTAINED — and by
 - essay_use: Fractal evidence from the source itself — document quote
 
 ### vat1-09 — the master's definition of liberation [A]
-- timestamp: 00:07:53-->00:08:46
+- timestamp: 00:07:53-->00:00:520
 - topics: recognition, nonduality
 - role: claim
 - layer: read

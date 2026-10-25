@@ -16,7 +16,7 @@ Thesis question: what does permanent realisation feel like from inside?
 - essay_use: Hinge 8→9 (four deities)
 
 ### vat9-02 — the resting-in-own-being line (matches 42-hit vocabulary) [A]
-- timestamp: 00:00:55-->00:01:53
+- timestamp: 00:00:55-->00:01:51
 - topics: nonduality, praxis
 - role: claim
 - layer: explain
