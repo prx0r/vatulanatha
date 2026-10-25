@@ -115,22 +115,28 @@ ffprobe -v error -show_entries format=duration -of csv=p=0 <mp3>
   batch), **Secret Supreme text landed** (`supplements/lakshmanjoo/`: OCR txt 43k words
   + 172p PDF — book = edited form OF the 1971 audio recordings, chapter-aligned, so it
   serves as the transcript/index for the $0 audio when it arrives).
-- **Next:** **S4 Essay-0 lock** (audition: `build/essay0_audition/*.mp3`, owner ear,
-  mix allowed) → S5 A/B/C collate under SPINE (Russian dolls) → S6 three-layer
-  beats → S7 render + gates.
-- **S2 DONE:** 96/96 assigned (81 auto + 15 logged overrides), totals reconcile,
-  **CONVERGENCE PASSED** (A-distribution matches reading-preview ±2; biggest = S3
-  as predicted) → `excavations/ASSIGNMENT.md`, `build/assignment.json`.
-- **S3 DONE:** `SPINE.md` — 5 question-sections (what it is → where → how → what it
-  does → what remains), anchor quotes, sūtra-order inside. Blind-clustering failure
-  log in `17` (why designed-profiles was the method). (analayo settings: loudnorm −16 LUFS, afade 0.15,
-  pause-snap, breath 1.5/water 2.5) → verify.sh.
-- **Known gaps:** 17 ear-check spans unreviewed · key_v2 unsigned · Grace film's
-  narration unwritten (separate track) · mangala chant handling: chanting rule says
-  keep/hoist — decide at manifest time · no Fish TTS yet (plain lines written, not
-  filtered; confirm credits before TTS).
-- **Repo:** git-committed per stage (see log); push target like the others
-  (`prx0r/…`) when owner wants it public.
+- **S2 DONE** (convergence PASSED, 2 logged review rounds → 20 overrides total).
+- **S3 DONE:** `SPINE.md` — 5 standalone-clarity questions, fundamental progression,
+  anchors, sūtra-order; standalone-clarity + fundamental-progression laws locked.
+- **S4 (essays/compressed answers):** pattern locked (Q → TEXT → PLAIN → AUDIO per
+  question); **master opener auditioned-pending owner** (`build/essay0_audition/`).
+- **S5 DONE:** Russian-doll manifests ×5 sections (append-only verified, her-order);
+  **KNOWN: B-superset overrun 86m vs FORMULA 20–40m → depth-selection at flow-read**
+  (documented in manifests/README). A total 17.8m ✓ in band.
+- **S6 DONE:** gospel beats `build/seg{1..5}_beats.json` (101 beats, resolved windows);
+  filter `fish_filter_vatula.py` deterministic (sha256:2505ed9050b7dc53); plain 13/13.
+- **S7 PREP DONE:** `SPEAKERS.md` (5 seats), `process/verify.sh` **ALL GATES PASS**
+  (G1 totals 96/85.9m · G5 provenance 96/96 · G6 TTS clean · hash · files);
+  `tools/render_vatula.py` + **A-previews rendered**: S1 2.3m · S2 4.6m · S3 9.2m ·
+  S4 1.8m · S5 4.1m (~22m with beds; content 17.8m in band).
+
+**Remaining (owner-dependent first):**
+1. Ear: essay-0 pick/mix from `build/essay0_audition/` → S4 lock.
+2. TTS credits confirm (Guyzo voice) → generate question+plain tracks → re-render filled.
+3. B depth-selection flow-read (fix 86m overrun → 20–40m ship list).
+4. G8 listen pass on previews; then C texture + full assembly.
+5. Parked: Secret Supreme $0 checkout; Sanderson batch stopped by owner; baumer
+   channel download stopped at 91/147 (resume: download_all.py).
 
 ## 10. STANDARD (owner, 2026-10-25) — record this
 - **The formula (owner, verbatim):** *audio of a genius talking about a text —
