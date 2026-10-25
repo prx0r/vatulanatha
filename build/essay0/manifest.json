@@ -1,21 +1,61 @@
 {
- "sans": {
-  "S1": "mahāsāhasavṛttyā svarūpalābhaḥ",
-  "S2": "kasyacit kvacit kadācit akasmādeva",
-  "S3": "devīcatuṣṭayollāsena sadaiva svaviśrāntyavasthitiḥ"
+ "rule": "Card per beat = the sūtra of the answer-unit (ESSAY0-SPINE:22). roots: text/sutra_verses.txt + kaul_sutras_en + plain via fish_filter_vatula.",
+ "answers": {
+  "1": {
+   "question": "What is realisation?",
+   "answer_unit": "vat1-05",
+   "sutra": 1,
+   "sans": "mahāsāhasavṛttyā svarūpalābhaḥ",
+   "trans": "The real nature is acquired by the firm stay in the pre-eminent sahasa."
+  },
+  "2": {
+   "question": "What is the self?",
+   "answer_unit": "vat4-03",
+   "sutra": 4,
+   "sans": "yugmagrāsānniravakāśasaṃvinniṣṭhā",
+   "trans": "The firm stay in the universal consciousness is brought about by the destruction of the couple."
+  },
+  "3": {
+   "question": "How does realisation happen?",
+   "answer_unit": "vat8-01",
+   "sutra": 8,
+   "sans": "rasatritayāsvādanenānicchocchalitaṃ vigatabandhaṃ paraṃ brahma",
+   "trans": "On the enjoyment of the triple happiness, the unfettered supreme Brahman of the involuntary and sudden appearance (comes to revelation)."
+  },
+  "4": {
+   "question": "What does realisation do to experience?",
+   "answer_unit": "vat10-07",
+   "sutra": 10,
+   "sans": "dvādaśavāhodayena mahāmarīcivikāsaḥ",
+   "trans": "The play of the big rays follows the emanation of the twelve currents."
+  },
+  "5": {
+   "question": "What is the fruit of realisation?",
+   "answer_unit": "vat13-06",
+   "sutra": 13,
+   "sans": "akathanakathābalena mahāvismayamudrā- prāptyā khasvaratā",
+   "trans": "The attainment of the unity takes place, through the acquisition of the mudra of great wonderment, by virtue of the concentration on the real nature."
+  }
  },
- "trans": {
-  "T1": "The real nature is acquired by the firm stay in the pre-eminent sahasa.",
-  "T2": "takes place somewhere, sometime, unexpectedly by the firm stay in the pre-eminent sahasa",
-  "T3": "by the mode of great intensity one attains one's true nature",
-  "T4": "Sahasa literally means an unexpected happening"
- },
- "plain": {
-  "P1": "The real nature is acquired by the firm stay in the pre-eminent great intensity.",
-  "P2": "takes place somewhere, sometime, unexpectedly by the firm stay in the pre-eminent great intensity",
-  "P3": "Permanence of the immersion in the real self takes place for ever by the full development of the four deities.",
-  "P4": "great intensity literally means an unexpected happening"
- },
- "menu": "build/essay0/MICRO-SESSION.md",
- "lock": "build/essay0_lock.json"
+ "legacy_old_keys": {
+  "sans": {
+   "S1": "mahāsāhasavṛttyā svarūpalābhaḥ",
+   "S2": "kasyacit kvacit kadācit akasmādeva",
+   "S3": "devīcatuṣṭayollāsena sadaiva svaviśrāntyavasthitiḥ"
+  },
+  "trans": {
+   "T1": "The real nature is acquired by the firm stay in the pre-eminent sahasa.",
+   "T2": "takes place somewhere, sometime, unexpectedly by the firm stay in the pre-eminent sahasa",
+   "T3": "by the mode of great intensity one attains one's true nature",
+   "T4": "Sahasa literally means an unexpected happening"
+  },
+  "plain": {
+   "P1": "The real nature is acquired by the firm stay in the pre-eminent great intensity.",
+   "P2": "takes place somewhere, sometime, unexpectedly by the firm stay in the pre-eminent great intensity",
+   "P3": "Permanence of the immersion in the real self takes place for ever by the full development of the four deities.",
+   "P4": "great intensity literally means an unexpected happening"
+  },
+  "menu": "build/essay0/MICRO-SESSION.md",
+  "lock": "build/essay0_lock.json"
+ }
 }

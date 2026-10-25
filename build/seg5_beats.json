@@ -7,7 +7,9 @@
   "pause_breaths": 2,
   "text": {
    "source": "text/kaul_sutras_en.json#13",
-   "verbatim": "The attainment of the unity takes place, through the acquisition of the mudra of great wonderment, by virtue of the concentration on the real nature."
+   "verbatim": "The attainment of the unity takes place, through the acquisition of the mudra of great wonderment, by virtue of the concentration on the real nature.",
+   "sanskrit": "akathanakathābalena mahāvismayamudrā- prāptyā khasvaratā",
+   "sanskrit_src": "text/sutra_verses.txt (PDF-verified, never whisper)"
   },
   "plain": {
    "source": "build/plain_sutras_v1.json#13",
@@ -31,7 +33,9 @@
   "question": "What is the fruit of realisation?",
   "text": {
    "source": "text/kaul_sutras_en.json#12",
-   "verbatim": "Release from merit and demerit accompanies the inspiration of the great enlightenment."
+   "verbatim": "Release from merit and demerit accompanies the inspiration of the great enlightenment.",
+   "sanskrit": "mahābodhasamāveśātpuṇyapāpāsaṃbandhaḥ",
+   "sanskrit_src": "text/sutra_verses.txt (PDF-verified, never whisper)"
   },
   "plain": {
    "source": "build/plain_sutras_v1.json#12",
@@ -59,7 +63,9 @@
   "question": "What is the fruit of realisation?",
   "text": {
    "source": "text/kaul_sutras_en.json#12",
-   "verbatim": "Release from merit and demerit accompanies the inspiration of the great enlightenment."
+   "verbatim": "Release from merit and demerit accompanies the inspiration of the great enlightenment.",
+   "sanskrit": "mahābodhasamāveśātpuṇyapāpāsaṃbandhaḥ",
+   "sanskrit_src": "text/sutra_verses.txt (PDF-verified, never whisper)"
   },
   "plain": {
    "source": "build/plain_sutras_v1.json#12",
@@ -87,7 +93,9 @@
   "question": "What is the fruit of realisation?",
   "text": {
    "source": "text/kaul_sutras_en.json#12",
-   "verbatim": "Release from merit and demerit accompanies the inspiration of the great enlightenment."
+   "verbatim": "Release from merit and demerit accompanies the inspiration of the great enlightenment.",
+   "sanskrit": "mahābodhasamāveśātpuṇyapāpāsaṃbandhaḥ",
+   "sanskrit_src": "text/sutra_verses.txt (PDF-verified, never whisper)"
   },
   "plain": {
    "source": "build/plain_sutras_v1.json#12",
@@ -115,7 +123,9 @@
   "question": "What is the fruit of realisation?",
   "text": {
    "source": "text/kaul_sutras_en.json#12",
-   "verbatim": "Release from merit and demerit accompanies the inspiration of the great enlightenment."
+   "verbatim": "Release from merit and demerit accompanies the inspiration of the great enlightenment.",
+   "sanskrit": "mahābodhasamāveśātpuṇyapāpāsaṃbandhaḥ",
+   "sanskrit_src": "text/sutra_verses.txt (PDF-verified, never whisper)"
   },
   "plain": {
    "source": "build/plain_sutras_v1.json#12",
@@ -143,7 +153,9 @@
   "question": "What is the fruit of realisation?",
   "text": {
    "source": "text/kaul_sutras_en.json#13",
-   "verbatim": "The attainment of the unity takes place, through the acquisition of the mudra of great wonderment, by virtue of the concentration on the real nature."
+   "verbatim": "The attainment of the unity takes place, through the acquisition of the mudra of great wonderment, by virtue of the concentration on the real nature.",
+   "sanskrit": "akathanakathābalena mahāvismayamudrā- prāptyā khasvaratā",
+   "sanskrit_src": "text/sutra_verses.txt (PDF-verified, never whisper)"
   },
   "plain": {
    "source": "build/plain_sutras_v1.json#13",
@@ -171,7 +183,9 @@
   "question": "What is the fruit of realisation?",
   "text": {
    "source": "text/kaul_sutras_en.json#13",
-   "verbatim": "The attainment of the unity takes place, through the acquisition of the mudra of great wonderment, by virtue of the concentration on the real nature."
+   "verbatim": "The attainment of the unity takes place, through the acquisition of the mudra of great wonderment, by virtue of the concentration on the real nature.",
+   "sanskrit": "akathanakathābalena mahāvismayamudrā- prāptyā khasvaratā",
+   "sanskrit_src": "text/sutra_verses.txt (PDF-verified, never whisper)"
   },
   "plain": {
    "source": "build/plain_sutras_v1.json#13",
@@ -199,7 +213,9 @@
   "question": "What is the fruit of realisation?",
   "text": {
    "source": "text/kaul_sutras_en.json#13",
-   "verbatim": "The attainment of the unity takes place, through the acquisition of the mudra of great wonderment, by virtue of the concentration on the real nature."
+   "verbatim": "The attainment of the unity takes place, through the acquisition of the mudra of great wonderment, by virtue of the concentration on the real nature.",
+   "sanskrit": "akathanakathābalena mahāvismayamudrā- prāptyā khasvaratā",
+   "sanskrit_src": "text/sutra_verses.txt (PDF-verified, never whisper)"
   },
   "plain": {
    "source": "build/plain_sutras_v1.json#13",

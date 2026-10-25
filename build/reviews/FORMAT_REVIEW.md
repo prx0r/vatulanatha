@@ -32,8 +32,8 @@ Analayo) with the interlinear card added. **No format change needed.**
 
 | # | sev | gap |
 |---|---|---|
-| G-1 | **MEDIUM** | **Sanskrit unwired in every cell.** Fix is mechanical: parse `sutra_verses.txt` (13 lines, keyed by `\|\| N \|\|`), add `sanskrit` field = verse[lecture] to all 96 unit cells + 5 openers. One script; no content decisions. |
-| G-2 | MEDIUM | Essay-0 card pool (known 0-1/0-2): only 3 of 5 questions have a sans line; keys misaligned; **T3/P3 pair broken** (P3 ≠ f(T3)). Rebuild as Q1..Q5 → {sans, trans, plain} in one pass. |
+| G-1 | ~~MEDIUM~~ **WIRED** | Sanskrit now in **101/101 cells** (2026-10-25): `text.sanskrit` = verse[lecture], source-tagged PDF-never-whisper. Legitimacy audit of all 13 stacks → `SANSKRIT_CHECK.md` (**13/13 aligned**). |
+| G-2 | ~~MEDIUM~~ **WIRED** | Essay-0 card pool rebuilt by owner rule (card = sūtra of the answer-unit): Q1→1, Q2→4, Q3→8, Q4→10, Q5→13; 5 full stacks {sans, trans}. Old ad-hoc keys kept as `legacy_old_keys`. T3/P3 break retired. |
 | G-3 | note | The 📺 layers are **screen** layers — audio render (render_vatula) rightly skips them; no video pipeline exists yet. Format is defined for the card, wiring is for when video/composite happens. |
 | G-4 | note | **Dyczkowski**: correctly declared as second commentator seat, correctly absent from main-essay cells (main walk = Bäumer's own lectures on the text). Supplements (8 indexed lectures) enter later as their own tier — no action now. |
 | G-5 | state | question + plain audio = silent slots until TTS (build-state, not format). |
