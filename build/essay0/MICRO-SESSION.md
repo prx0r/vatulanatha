@@ -55,8 +55,10 @@ All options: source-verified strings or filter-generated plains. Zero composed t
 > **"by the mode of great intensity one attains one's true nature"**
 > *— Bäumer's translation of the sūtra*
 >
-> **"The real nature is acquired by the firm stay in the pre-eminent great intensity."**
-> *— plain rendering (generated, key-vetted)*
+> **"by the mode of great intensity one attains one's true nature"**
+> *— plain = filter(CHOSEN TRANSLATION) → honest no-op (her line already plain;*
+> *the filter found nothing to replace. The earlier Kaul-derived plain line was
+> a cross-translation leak — removed)*
 > ---
 >
 > **HER VOICE (20s, gold vat1-05):**

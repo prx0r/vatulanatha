@@ -53,7 +53,8 @@ Pool = every existing exact rendering of the Step-2 phrases. Pick per phrase:
 - One natural S↔T match per column; cross-picks allowed but must not contradict.
 
 ## Step 4 — THE PLAIN (mechanical only)
-- Output of fish_filter over the chosen translation — nothing else (07 ownership).
+- Output of fish_filter over **the chosen translation T** — regenerated at pick time,
+  never a pre-baked line from a different source (9c-4). Nothing else (07 ownership).
 - Passes 07: ASCII letters, no forbidden punctuation, ≤ ~25 words.
 - Identical to translation = honest no-op (allowed).
 

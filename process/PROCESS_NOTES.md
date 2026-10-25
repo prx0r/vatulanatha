@@ -200,6 +200,11 @@ The path, kept honest — three owner rejections in one sitting:
 **Root cause:** when a tier needs a meaning I generate one instead of ROUTING to
 the tier that already holds it (the translation row) — and I annotate "helpfully".
 
+4. **v5 stack assembly: cross-translation contamination** — translation tier held
+   Bäumer's rendering while the plain tier held a Kaul-derived line (the plains
+   were pre-baked from `kaul_sutras_en.json`, not from the PICKED T). Two
+   different translations of one sūtra stacked (owner caught instantly).
+
 **Rules (now binding):**
 - Sanskrit row = phrase + source pointer. **No meanings, ever.** Meaning = TIER B.
 - If the exact translation for a pick is weak (Kaul's clunkliness), the fix is to
@@ -207,6 +212,9 @@ the tier that already holds it (the translation row) — and I annotate "helpful
   never to compose a fresh gloss.
 - Contradiction check before shipping any menu/doc: does every stated meaning come
   from a file? If it exists only in my prose → strip it (git history keeps it).
+- **P = filter(CHOSEN T), always** (9c-4): the plain tier is generated FROM the
+  picked translation at lock time — never a pre-baked line from a different source.
+  `plain_sutras_v1.json` = reference set for Kaul picks only.
 
 ## 10. STANDARD (owner, 2026-10-25) — record this
 - **The formula (owner, verbatim):** *audio of a genius talking about a text —
