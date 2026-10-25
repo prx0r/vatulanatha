@@ -1,56 +1,40 @@
-# ESSAY 0 — the micro-session, exact stack (v3, 2026-10-25)
+# ESSAY 0 — THE PICK MENU (v4, 2026-10-25)
 
-Stack law (owner): **Sanskrit exact phrase → exact translation as it is → exact plain
-English as generated. No summaries, no strips, no composed sentences.** The answer to
-"What is realisation?" in the session = her clip; the three tiers are the interlinear
-record under it. Audio form: `essay0_{1,2,3}.mp3` (+ `essay0_listen_all.mp3`).
+Owner picks **one from each row** (+ audio) → reply like `S2 T2 P1 A2` → I write
+`build/essay0_lock.json`. All options are exact (source-verified) or mechanical
+(filter-generated) — zero composed sentences. Cross-row mixes allowed; rows1/2/3
+also pair naturally (each row option = one subject: sūtra1 / grace-clause / sūtra9).
 
----
+## ROW A — SANSKRIT (exact phrase)
+| # | phrase | source |
+|---|---|---|
+| **S1** | `mahāsāhasavṛttyā svarūpalābhaḥ` | sūtra 1 — "by the workings of great sudden-force, one's true nature is attained" |
+| **S2** | `kasyacit kvacit kadācit akasmādeva` | sūtra 1 vṛtti — "to someone, somewhere, sometime, of its own accord" |
+| **S3** | `devīcatuṣṭayollāsena sadaiva svaviśrāntyavasthitiḥ` | sūtra 9 — "by the rejoicing of the four goddesses, for ever abidance in one's own repose" |
 
-## Candidate 1 — unfoldment → `essay0_1.mp3` (30s)
+## ROW B — TRANSLATION (as it is)
+| # | line | source |
+|---|---|---|
+| **T1** | "The real nature is acquired by the firm stay in the pre-eminent sahasa." | Kaul, sūtra 1 |
+| **T2** | "takes place somewhere, sometime, unexpectedly by the firm stay in the pre-eminent sahasa" | Kaul, gloss |
+| **T3** | "Permanence of the immersion in the real self takes place for ever by the full development of the four deities." | Kaul, sūtra 9 |
+| spare | T4: "Sahasa literally means an unexpected happening" (Kaul gloss) · T5: "by the mode of great intensity one attains one's true nature" (Bäumer's own translation, vat1-02) |
 
-> **What is realisation?**  *(2 breaths)*
+## ROW C — PLAIN (generated, `plain_sutras_v1` / fish_filter — mechanical)
+| # | line |
+|---|---|
+| **P1** | "The real nature is acquired by the firm stay in the pre-eminent great intensity." |
+| **P2** | "takes place somewhere, sometime, unexpectedly by the firm stay in the pre-eminent great intensity" |
+| **P3** | "Permanence of the immersion in the real self takes place for ever by the full development of the four deities." |
+| spare | P4: "great intensity literally means an unexpected happening" |
 
-> **SANSKRIT (exact):** `mahāsāhasavṛttyā svarūpalābhaḥ`  ·  Vātūlanātha 1
-> **TRANSLATION (Kaul 1923, as it is):** "The real nature is acquired by the firm stay in the pre-eminent sahasa."
-> **PLAIN (generated, `plain_sutras_v1`):** "The real nature is acquired by the firm stay in the pre-eminent great intensity."
+## ROW D — HER VOICE (audio candidates, built)
+| # | clip | file |
+|---|---|---|
+| **A1** | "…the definition of it is the unfoldment of our true being…" (8:54–9:14) | `essay0_1.mp3` (30s) |
+| **A2** | "…a state of resting in one's own being" (1:40–1:55, vat9) | `essay0_2.mp3` (25s) |
+| **A3** | her quoting Abhinavagupta's definition of liberation (7:50–8:10, ASR-rough) | `essay0_3.mp3` (30s) |
 
-> **HER VOICE (clip 8:54–9:14):** "…attainment means to become what we truly are…
-> **the definition of it is the unfoldment of our true being, of our true nature.**"
-
----
-
-## Candidate 2 — resting → `essay0_2.mp3` (25s)
-
-> **What is realisation?**  *(2 breaths)*
-
-> **SANSKRIT (exact):** `devīcatuṣṭayollāsena sadaiva svaviśrāntyavasthitiḥ`  ·  Vātūlanātha 9
-> **TRANSLATION (Kaul 1923, as it is):** "Permanence of the immersion in the real self takes place for ever by the full development of the four deities."
-> **PLAIN (generated, `plain_sutras_v1`):** "Permanence of the immersion in the real self takes place for ever by the full development of the four deities."
-
-> **HER VOICE (clip 1:40–1:55):** "**what we are all aiming at is a state of
-> resting in one's own being**"
-
----
-
-## Candidate 3 — the definition through her → `essay0_3.mp3` (30s)
-
-> **What is realisation?**  *(2 breaths)*
-
-> **SANSKRIT (exact):** `mahāsāhasavṛttyā svarūpalābhaḥ`  ·  Vātūlanātha 1
-> **TRANSLATION (Kaul 1923, as it is):** "The real nature is acquired by the firm stay in the pre-eminent sahasa."
-> **PLAIN (generated, `plain_sutras_v1`):** "The real nature is acquired by the firm stay in the pre-eminent great intensity."
-
-> **HER VOICE (clip 7:50–8:10):** "Abhinavagupta gives the briefest definition of
-> liberation… **it is the unfolding … of the true nature**" *(ASR middle — ear-check)*
-
----
-
-Provenance: SANSKRIT = `text/sutra_verses.txt` (Muktabodha corpus) · TRANSLATION =
-`text/kaul_sutras_en.json` (OCR-repaired, KSTS 1923) · PLAIN =
-`build/plain_sutras_v1.json` (fish_filter_vatula, sha256:2505ed9050b7dc53) ·
-clip quotes = `excavations/vat*.md` (verified). Human-composed answer drafts from
-earlier rounds: **rejected as bloat** (kept only in git history).
-
-## Lock
-`build/essay0_lock.json` → {"pick": "1|2|3|mix", ...} → verify.sh G12 LOCKED.
+**Natural affinities:** S1↔T1↔P1↔A1 (the attainment stack) · S2↔T2↔P2↔A3 (grace/own-accord) ·
+S3↔T3↔P3↔A2 (the resting stack). Any cross-pick legal.
+Listen all: `essay0_listen_all.mp3` (91s).

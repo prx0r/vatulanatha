@@ -1,37 +1,21 @@
 {
- "1": {
-  "window": [
-   534,
-   554
-  ],
-  "mp3": "Vatulanatha_Sutra_1 [ZrTkwSh3GRE].mp3",
-  "label": "unfoldment-definition (her words: 'the definition of it is the unfoldment of our true being')",
-  "text": "text/kaul_sutras_en.json#1",
-  "plain": "build/plain_sutras_v1.json#1",
-  "shape": "question(slot) -> 2-breath pause -> plain(slot) -> clip"
+ "sans": {
+  "S1": "mahāsāhasavṛttyā svarūpalābhaḥ",
+  "S2": "kasyacit kvacit kadācit akasmādeva",
+  "S3": "devīcatuṣṭayollāsena sadaiva svaviśrāntyavasthitiḥ"
  },
- "2": {
-  "window": [
-   100,
-   115
-  ],
-  "mp3": "Vatulanatha_Sutra_9 [HNyggIvPzEQ].mp3",
-  "label": "resting-in-own-being ('a state of resting in one's own being')",
-  "text": "text/kaul_sutras_en.json#1",
-  "plain": "build/plain_sutras_v1.json#1",
-  "shape": "question(slot) -> 2-breath pause -> plain(slot) -> clip"
+ "trans": {
+  "T1": "The real nature is acquired by the firm stay in the pre-eminent sahasa.",
+  "T2": "takes place somewhere, sometime, unexpectedly by the firm stay in the pre-eminent sahasa",
+  "T3": "by the mode of great intensity one attains one's true nature",
+  "T4": "Sahasa literally means an unexpected happening"
  },
- "3": {
-  "window": [
-   470,
-   490
-  ],
-  "mp3": "Vatulanatha_Sutra_1 [ZrTkwSh3GRE].mp3",
-  "label": "Abhinavagupta-via-her ('the unfolding ... to nature ... expansion of the true nature')",
-  "text": "text/kaul_sutras_en.json#1",
-  "plain": "build/plain_sutras_v1.json#1",
-  "shape": "question(slot) -> 2-breath pause -> plain(slot) -> clip"
+ "plain": {
+  "P1": "The real nature is acquired by the firm stay in the pre-eminent great intensity.",
+  "P2": "takes place somewhere, sometime, unexpectedly by the firm stay in the pre-eminent great intensity",
+  "P3": "Permanence of the immersion in the real self takes place for ever by the full development of the four deities.",
+  "P4": "great intensity literally means an unexpected happening"
  },
- "written_form": "build/essay0/MICRO-SESSION.md",
- "lock": "build/essay0_lock.json (owner)"
+ "menu": "build/essay0/MICRO-SESSION.md",
+ "lock": "build/essay0_lock.json"
 }
