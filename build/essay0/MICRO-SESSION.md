@@ -37,3 +37,38 @@ All options: source-verified strings or filter-generated plains. Zero composed t
 | **A3** | her quoting Abhinavagupta's definition (ASR-rough) | `essay0_3.mp3` (30s) |
 
 **Natural stacks:** S1-T1-P1-A1 · S2-T2-P2-A3 · S3-T3-P3-A2. Cross-picks legal.
+
+---
+
+# ✅ FORMULA PICK (steps 1–6 ran, 2026-10-25): **S1 T1 P1 A1**
+(Ear-stamp at step 7 = owner → write `essay0_lock.json`.)
+
+# ESSAY 0 — THE FULL SESSION (final draft)
+
+> ## What is realisation?
+> *(pause — 2 breaths)*
+>
+> ---
+> **`mahāsāhasavṛttyā svarūpalābhaḥ`**
+> *Vātūlanātha Sūtra 1*
+>
+> **"by the mode of great intensity one attains one's true nature"**
+> *— Bäumer's translation of the sūtra*
+>
+> **"The real nature is acquired by the firm stay in the pre-eminent great intensity."**
+> *— plain rendering (generated, key-vetted)*
+> ---
+>
+> **HER VOICE (20s, gold vat1-05):**
+> *"…attainment does not mean to get something which we do not have — attainment
+> means to become what we truly are… **the definition of it is the unfoldment of
+> our true being, of our true nature.**"*
+
+**The enquiry it opens:** if the definition is *unfoldment, not acquisition* — then
+what is realised (S1) follows into: what is the self that unfolds (S2) → why can't
+you force it (S3) → what it does to experience (S4) → what remains (S5).
+Heard 4× in the finished video: head, A, B, C — bells at each return.
+
+Audio: `build/essay0/essay0_1.mp3` · Files: S=`text/sutra_verses.txt` ·
+T=`vat-text/sutra1.txt` (her render, vat1-02) · P=`build/plain_sutras_v1.json#1` ·
+provenance all verified (G0–G5, G12 pending lock).
