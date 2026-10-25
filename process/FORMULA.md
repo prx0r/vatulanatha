@@ -32,6 +32,8 @@ Essay 1 calibration (locked 2026-10-24): 130.7m original (Karma 93.9 + Markji 36
 
 ---
 
+Essay-0 selection follows `process/ESSAY0-FORMULA.md` (7 tests, question → sanskrit → translation → plain → audio → stack-read → lock).
+
 ## VIDEO RUN-ORDER — the Russian dolls end to end (owner, locked 2026-10-25)
 
 The finished video plays the nesting **linearly**, with bells marking each threshold:
