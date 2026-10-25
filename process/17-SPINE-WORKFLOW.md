@@ -17,7 +17,13 @@
    5 What is the fruit of realisation?
 2. **Three essays, Russian dolls** — A ⊂ B ⊂ C (FORMULA, append-only), collated
    under the spine sections and ORDERED properly within each section.
-3. **Essay 0 = the minimal response.** Shape: `[“What is realisation?”] → [pause] →
+3. **ESSAY 0 = THE SPINE ITSELF (owner re-correction, final):** the complete list
+   of spine questions, **each with its compressed response** — the whole essay in
+   miniature (5 gospel beats, question → interlinear → plain → her answer).
+   The video plays ALL of Essay 0 at each layer head → the spine is heard 4×,
+   each time followed by that layer's expansion. (The S1 micro-session built
+   earlier = BEAT 1 of 5 — form is right, scope was wrong.)
+   Beat shape: `[“What is realisation?”] → [pause] →
    [“Realisation is …”]` — one minimal, beautiful answer, ~10–25s, spoken by
    Bäumer (now) or Lakshmanjoo (when $0 audio lands). **It opens every version,
    every time — so it must be the best line we have.** (Analayo's analogue: seed →
@@ -89,8 +95,9 @@ Supplements: Wallis/Sarvapriyananda/Sanderson-I audio+subs; Secret Supreme text+
   Order inside sections = her sūtra order (fractal law, §7 of notes).
 
 ## BUILD ORDER LAW (owner, added 2026-10-25 — correction after B overrun)
-**ESSAY 0 FIRST.** Build the most-compressed answer (the gold dust) before anything
-else; everything grows OUTWARD from it: essay0 → A (sections at speed, anchored on
+**ESSAY 0 FIRST.** Build the SPINE in miniature — all five questions each with its
+compressed answer (the gold dust) — before anything else; everything grows
+OUTWARD from it: essay0(the 5-Q spine) → A (sections at speed, anchored on
 the same answer) → B (A + depth that EXPANDS the essay0 answer) → C (A+B + texture).
 Never build a superset first and select inward — that's what produced the B 86m
 overrun. B-length rule of thumb: B ≈ A × 1.6–2 (FORMULA: 20–40m); every added B
@@ -107,9 +114,11 @@ Every beat, every section, no exceptions, in this order:
 (= analayo's three-layer: Nanananda-words → plain → Analayo. Also the traditional
 order: sūtra line → translation → commentary. Question+pause precede per 12.)
 
-## ESSAY 0 REDEFINED — compressed answer PER question (owner)
-Not only the master opener: each spine question gets "the most concise response
-that still explains it fully" = its TEXT+PLAIN pair answering the question in
-minimal words — then the AUDIO of that section unfolds it fully.
-Q → text(verbatim answer) → plain(translation) → audio(speaker expands).
-Master opener still auditioned from `build/essay0_audition/` (3 extracts).
+## ESSAY 0 = SPINE, built as 5 gospel beats (final definition)
+Each spine question gets "the most concise response that still explains it fully"
+= its TEXT+PLAIN pair, then the AUDIO answers. All five TOGETHER = Essay 0.
+Beat form: Q → interlinear(sanskrit+translation on screen) → plain(spoken) → her
+voice (compressed, ≤~30s). Build order = spine order (S1→S5). Per-beat candidates
+auditioned from `build/essay0/`; formula picks (proposed): S1 vat1-05-definition ·
+S2 vat4-03 co-presence · S3 vat8-01 inner-impulse · S4 vat10-07 radiance ·
+S5 vat13-06 already-feeling. Owner ear can override any beat.

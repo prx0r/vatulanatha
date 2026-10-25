@@ -216,6 +216,14 @@ the tier that already holds it (the translation row) — and I annotate "helpful
   picked translation at lock time — never a pre-baked line from a different source.
   `plain_sutras_v1.json` = reference set for Kaul picks only.
 
+## 9e. CORRECTION — what Essay 0 IS (owner, final, 2026-10-25)
+I built and shipped "Essay 0" as the S1 OPENER micro-session. Wrong scope.
+**ESSAY 0 = THE SPINE**: the complete list of five spine questions, each with its
+compressed response (5 gospel beats, S1→S5) — the whole essay in miniature, heard
+4× (head, A, B, C). The S1 micro-session = beat 1 of 5 (form was right).
+All earlier references to "essay 0 = the seed/opener" are superseded; see
+`build/essay0/ESSAY0-SPINE.md` for the real structure.
+
 ## 10. STANDARD (owner, 2026-10-25) — record this
 - **The formula (owner, verbatim):** *audio of a genius talking about a text —
   using their voice as the excuse to finish analyzing a tough text.* Dependency runs

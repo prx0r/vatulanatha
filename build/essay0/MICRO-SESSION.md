@@ -1,4 +1,7 @@
-# ESSAY 0 — HEAD RESPONSE (the original, restored) + alternates
+# ESSAY 0 — BEAT 1 of 5 (S1 · What is realisation?) — + alternates
+
+*(ESSAY 0 ITSELF = the full five-question spine — see `ESSAY0-SPINE.md`;
+this file = its first beat, the master-question opener.)*
 
 **Flow criterion (owner):** essay 0 must be the SEED of 0→A→B→C — A elaborates it,
 B deepens it, C textures it. The natural flow decides the pick, not isolation-testing.

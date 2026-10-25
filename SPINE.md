@@ -139,7 +139,7 @@ how does it happen → what does it do → what is the fruit.
 - vat13-06 [A] the punchline — film/essay close material
 - vat13-08 [B] wonder/mudrā block (g1 cont.)
 
-## Essay 0 (compressed answer per question — gospel beat below)
+## Essay 0 = THE SPINE (all five questions × compressed answers — gospel beats)
 
 Shape: `[QUESTION] → [TEXT VERBATIM] → [PLAIN ENGLISH] → [AUDIO SPEAKER]`.
 Master opener audition: `build/essay0_audition/` (3 extracts, owner ear, mix allowed).
