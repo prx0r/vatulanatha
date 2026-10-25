@@ -1,0 +1,182 @@
+[
+ {
+  "seq": 0,
+  "kind": "section-opener",
+  "question": "What is realisation?",
+  "pause_breaths": 2,
+  "text": {
+   "source": "text/kaul_sutras_en.json#1",
+   "verbatim": "The real nature is acquired by the firm stay in the pre-eminent sahasa."
+  },
+  "plain": {
+   "source": "build/plain_sutras_v1.json#1",
+   "line": "The real nature is acquired by the firm stay in the pre-eminent great intensity.",
+   "tts_line": "The real nature is acquired by the firm stay in the pre-eminent great intensity."
+  },
+  "audio": {
+   "file": null,
+   "note": "ESSAY-0 slot: owner ear pick (build/essay0_audition/); fallback vat1-05 534-554s"
+  },
+  "provenance": {
+   "text": "kaul_sutras_en (OCR-repaired)",
+   "plain": "fish_filter_vatula sha2505ed90",
+   "question": "HUMAN/spine-S1"
+  }
+ },
+ {
+  "seq": 1,
+  "kind": "unit",
+  "question": "What is realisation?",
+  "text": {
+   "source": "text/kaul_sutras_en.json#1",
+   "verbatim": "The real nature is acquired by the firm stay in the pre-eminent sahasa."
+  },
+  "plain": {
+   "source": "build/plain_sutras_v1.json#1",
+   "line": "The real nature is acquired by the firm stay in the pre-eminent great intensity.",
+   "tts_line": "The real nature is acquired by the firm stay in the pre-eminent great intensity."
+  },
+  "audio": {
+   "file": "Vatulanatha_Sutra_1 [ZrTkwSh3GRE].mp3",
+   "uid": "vat1-05",
+   "grade": "A",
+   "note": "start/end resolve from excavation timestamp at manifest stage"
+  },
+  "unit_title": "the recognition-shaped core in one sentence",
+  "provenance": {
+   "quote": "excavations/vat1.md",
+   "text": "kaul_sutras_en (OCR-repaired)",
+   "plain": "fish_filter_vatula"
+  }
+ },
+ {
+  "seq": 2,
+  "kind": "unit",
+  "question": "What is realisation?",
+  "text": {
+   "source": "text/kaul_sutras_en.json#1",
+   "verbatim": "The real nature is acquired by the firm stay in the pre-eminent sahasa."
+  },
+  "plain": {
+   "source": "build/plain_sutras_v1.json#1",
+   "line": "The real nature is acquired by the firm stay in the pre-eminent great intensity.",
+   "tts_line": "The real nature is acquired by the firm stay in the pre-eminent great intensity."
+  },
+  "audio": {
+   "file": "Vatulanatha_Sutra_1 [ZrTkwSh3GRE].mp3",
+   "uid": "vat1-06",
+   "grade": "A",
+   "note": "start/end resolve from excavation timestamp at manifest stage"
+  },
+  "unit_title": "recognition bridge — cross-project hook (ph series)",
+  "provenance": {
+   "quote": "excavations/vat1.md",
+   "text": "kaul_sutras_en (OCR-repaired)",
+   "plain": "fish_filter_vatula"
+  }
+ },
+ {
+  "seq": 3,
+  "kind": "unit",
+  "question": "What is realisation?",
+  "text": {
+   "source": "text/kaul_sutras_en.json#1",
+   "verbatim": "The real nature is acquired by the firm stay in the pre-eminent sahasa."
+  },
+  "plain": {
+   "source": "build/plain_sutras_v1.json#1",
+   "line": "The real nature is acquired by the firm stay in the pre-eminent great intensity.",
+   "tts_line": "The real nature is acquired by the firm stay in the pre-eminent great intensity."
+  },
+  "audio": {
+   "file": "Vatulanatha_Sutra_1 [ZrTkwSh3GRE].mp3",
+   "uid": "vat1-08",
+   "grade": "B",
+   "note": "start/end resolve from excavation timestamp at manifest stage"
+  },
+  "unit_title": "fractal evidence from the source itself — document quote",
+  "provenance": {
+   "quote": "excavations/vat1.md",
+   "text": "kaul_sutras_en (OCR-repaired)",
+   "plain": "fish_filter_vatula"
+  }
+ },
+ {
+  "seq": 4,
+  "kind": "unit",
+  "question": "What is realisation?",
+  "text": {
+   "source": "text/kaul_sutras_en.json#1",
+   "verbatim": "The real nature is acquired by the firm stay in the pre-eminent sahasa."
+  },
+  "plain": {
+   "source": "build/plain_sutras_v1.json#1",
+   "line": "The real nature is acquired by the firm stay in the pre-eminent great intensity.",
+   "tts_line": "The real nature is acquired by the firm stay in the pre-eminent great intensity."
+  },
+  "audio": {
+   "file": "Vatulanatha_Sutra_1 [ZrTkwSh3GRE].mp3",
+   "uid": "vat1-09",
+   "grade": "B",
+   "note": "start/end resolve from excavation timestamp at manifest stage"
+  },
+  "unit_title": "word-analysis fill (g1 gap 367→526s)",
+  "provenance": {
+   "quote": "excavations/vat1.md",
+   "text": "kaul_sutras_en (OCR-repaired)",
+   "plain": "fish_filter_vatula"
+  }
+ },
+ {
+  "seq": 5,
+  "kind": "unit",
+  "question": "What is realisation?",
+  "text": {
+   "source": "text/kaul_sutras_en.json#9",
+   "verbatim": "Permanence of the immersion in the real self takes place for ever by the full development of the four deities."
+  },
+  "plain": {
+   "source": "build/plain_sutras_v1.json#9",
+   "line": "Permanence of the immersion in the real self takes place for ever by the full development of the four deities.",
+   "tts_line": "Permanence of the immersion in the real self takes place for ever by the full development of the four deities."
+  },
+  "audio": {
+   "file": "Vatulanatha_Sutra_9 [HNyggIvPzEQ].mp3",
+   "uid": "vat9-02",
+   "grade": "A",
+   "note": "start/end resolve from excavation timestamp at manifest stage"
+  },
+  "unit_title": "the resting-in-own-being line (matches 42-hit vocabulary)",
+  "provenance": {
+   "quote": "excavations/vat9.md",
+   "text": "kaul_sutras_en (OCR-repaired)",
+   "plain": "fish_filter_vatula"
+  }
+ },
+ {
+  "seq": 6,
+  "kind": "unit",
+  "question": "What is realisation?",
+  "text": {
+   "source": "text/kaul_sutras_en.json#13",
+   "verbatim": "The attainment of the unity takes place, through the acquisition of the mudra of great wonderment, by virtue of the concentration on the real nature."
+  },
+  "plain": {
+   "source": "build/plain_sutras_v1.json#13",
+   "line": "The attainment of the unity takes place, through the acquisition of the mudra of great wonderment, by virtue of the concentration on the real nature.",
+   "tts_line": "The attainment of the unity takes place, through the acquisition of the mudra of great wonderment, by virtue of the concentration on the real nature."
+  },
+  "audio": {
+   "file": "Vatulanatha_Sutra_13 [_p--mXPt-pk].mp3",
+   "uid": "vat13-04",
+   "grade": "B",
+   "note": "start/end resolve from excavation timestamp at manifest stage"
+  },
+  "unit_title": "self-claim: the whole tradition in 13 sūtras",
+  "provenance": {
+   "quote": "excavations/vat13.md",
+   "text": "kaul_sutras_en (OCR-repaired)",
+   "plain": "fish_filter_vatula"
+  }
+ }
+]
