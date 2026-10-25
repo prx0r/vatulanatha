@@ -143,8 +143,11 @@ ffprobe -v error -show_entries format=duration -of csv=p=0 <mp3>
   vatula + dyczkowski in one query). Embeddings = phase 2 (needs local model).
   Every future port loads into it — see corpus/UNIFIED-SCHEMA.md.
 
+**THE GOAL (owner, 2026-10-25): get the Bäumer VIDEO fully done and polished.**
+Everything below serves that; embeddings/cross-project growth parked until then.
+
 **Remaining (owner-dependent first):**
-1. Ear: essay-0 pick/mix from **`build/essay0/` (built form, prefer)** or audition/ raw cuts → write `build/essay0_lock.json`.
+1. Ear: essay-0 pick/mix from **`build/essay0/`** → write `build/essay0_lock.json` (unblocks video head).
 2. TTS credits confirm (Guyzo voice) → generate question+plain tracks → re-render filled.
 3. B depth-selection flow-read **growing outward from the locked essay0** (86m superset → 20–40m ship list; every clip must deepen the essay0 answer).
 4. G8 listen pass on previews; then C texture + full assembly.

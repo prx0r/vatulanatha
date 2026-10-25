@@ -29,3 +29,23 @@ Essay 1 calibration (locked 2026-10-24): 130.7m original (Karma 93.9 + Markji 36
 - Sanskrit card lines come from `text/sutra_verses.txt` (corpus), NEVER from whisper.
 - Speakers: BAUMER (archive, reading vs explaining per `decompile/`) · PLAIN (key-only,
   written lines) · HUMAN (film narration with citations, marked bridges).
+
+---
+
+## VIDEO RUN-ORDER — the Russian dolls end to end (owner, locked 2026-10-25)
+
+The finished video plays the nesting **linearly**, with bells marking each threshold:
+
+```
+[BELL] → ESSAY 0 → [BELL] → A (sections at speed) → [BELL] → B (+depth) → [BELL] → C (+texture)
+```
+
+- **Essay 0 recurs FOUR times** — at the head, then re-entered at the head of A,
+  of B, and of C: **the same compressed answer, heard at expanding depth** (the
+  seed re-lands as each layer opens; by the end of C the listener has it 4×).
+- Bells: question-bell opens each section (12 grammar); **layer-bell** at each
+  0→A→B→C threshold (analayo 09-BELLS-ZOOM pattern: motto-bell 880Hz/2.5s for
+  sections, zoom-bell 220Hz/6.0s for layer crossings — same units, port at render).
+- Append-only holds: A never rewrites essay0, B never rewrites A, C never rewrites B —
+  the recursion is RE-HEARING, not re-editing.
+- This is the ship shape: one video, four passes of the same core, bells as the map.
