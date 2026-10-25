@@ -9,6 +9,12 @@ Russian dolls: A ⊂ B ⊂ C collate under these sections (S5).
 project coinages, no insider shorthand; a stranger hears it alone and knows what
 is asked. Questions never depend on each other.
 
+**Question criteria (owner, upgraded):** every spine question must be
+(a) standalone, (b) **cutting** — the sharpest insight-loaded form the content
+supports (clear-but-blunt = fail), (c) content-grounded (measured), (d) part of
+one **logical enquiry**: each question follows from the previous answer-space,
+and essay-0's response OPENS (not closes) the enquiry.
+
 **Fundamental progression (owner):** what is realisation → what is the self →
 how does it happen → what does it do → what is the fruit.
 
@@ -142,3 +148,18 @@ Each section's compressed answer = its anchor TEXT+PLAIN pair (picked at S6).
 ## Section order in the film
 S1 → S2 → S3 → S4 → S5 (the fundamental progression above).
 Within each: her sūtra order. A = sections at speed · B = +depth · C = +texture (her order).
+
+## AUDIT — cutting-test on the locked set (2026-10-25) + sharpened candidates
+| # | current (standalone ✓) | cutting verdict | sharpened candidate (content-grounded) |
+|---|---|---|---|
+| 1 | What is realisation? | clear, not cutting — names a topic | **"What is realised, if nothing is attained?"** (vat1-05: attainment ≠ getting; vat8/11: nothing by method) |
+| 2 | What is the self? | basic — under-asks | **"Where do you end?"** (vat4-03 co-presence; vat5 union — the section literally dissolves the boundary) |
+| 3 | How does realisation happen? | neutral how-to | **"Why can't you make it happen?"** (vat11-02 beyond-upāya, vat8-01 not-by-will, vat3-01 the glance) |
+| 4 | What does realisation do to experience? | wordy | **"What happens to the senses?"** (vat10-07 radiance, vat11 five-modes) |
+| 5 | What is the fruit of realisation? | serviceable | **"What survives realisation?"** (vat12-02 not-reborn, vat13-01 silence, vat13-06 already-feeling) |
+
+Sharpened set chains as one enquiry: if nothing is attained → where do you end →
+why can't you make it → what happens to the senses → what survives.
+Essay-0 under #1's sharpened form: the response ITSELF (her unfoldment/resting
+clip) answers "if nothing is attained" — opening the how/where/why that follow.
+**Owner picks: current set, sharpened set, or mix per row.**

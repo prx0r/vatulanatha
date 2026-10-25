@@ -3,11 +3,26 @@
 Follow in order. Every step is a TEST, not taste. Output = the pick string
 `S? T? P? A?` → `build/essay0_lock.json` → G12.
 
-## Step 1 — THE QUESTION (never invented)
-- Must be the **measured corpus question**: highest keyword-density, present in
-  every lecture (method: PROCESS_NOTES §5). For this text: "What is realisation?"
-- Secondary questions come only from SPINE.md (sections already measured).
-- Test: could a stranger hearing only the question know what is asked? (clarity law)
+## Step 1 — THE QUESTION (never invented) — four criteria, all mandatory
+1. **Standalone**: stranger hears it cold and knows exactly what is asked
+   (clarity law — no coinages, no shorthand, no cross-references).
+2. **Cutting**: the most incisive, insight-loaded form the content supports —
+   it should cut through an assumption (a sharp question presupposes the text's
+   own answer), not just name a topic. "Clear" without "sharp" = fail.
+3. **Content-grounded**: the corpus must actually answer it (measured density,
+   present in every lecture for the master — PROCESS_NOTES §5 method).
+4. **Enquiry-chaining**: together with the other section questions it forms ONE
+   logical enquiry — each question follows from the answer-space of the previous,
+   and essay-0's response must OPEN the enquiry (invites depth), not close it.
+   Recurrence test: after essay 0, the listener should still lean in ("…and
+   then what / how / why") — that pull carries A→B→C.
+Current measured master: "What is realisation?" — cutting-test audit + sharpened
+candidates: see AUDIT section below (owner picks).
+
+## Step 1b — enquiry-open test (on the whole essay-0 stack)
+Read the locked stack aloud: does it close the question dead, or open it?
+Required: the response is complete enough to satisfy, sharp enough to raise the
+next lean-in (the four recurrences then feel earned, not repetitive).
 
 ## Step 2 — THE SANSKRIT (the text's own compact answer)
 Rank candidate phrases 0–2 each; pick top ≤3:
@@ -53,3 +68,18 @@ Any mismatch between rows = fail, re-pick.
 The locked essay 0 is heard **4× in the finished video** (head, A, B, C) with
 layer-bells at each re-entry — the formula must therefore survive re-hearing:
 rhythm over cleverness, ≤25s, no term.
+
+## AUDIT — cutting-test on the locked set (2026-10-25) + sharpened candidates
+| # | current (standalone ✓) | cutting verdict | sharpened candidate (content-grounded) |
+|---|---|---|---|
+| 1 | What is realisation? | clear, not cutting — names a topic | **"What is realised, if nothing is attained?"** (vat1-05: attainment ≠ getting; vat8/11: nothing by method) |
+| 2 | What is the self? | basic — under-asks | **"Where do you end?"** (vat4-03 co-presence; vat5 union — the section literally dissolves the boundary) |
+| 3 | How does realisation happen? | neutral how-to | **"Why can't you make it happen?"** (vat11-02 beyond-upāya, vat8-01 not-by-will, vat3-01 the glance) |
+| 4 | What does realisation do to experience? | wordy | **"What happens to the senses?"** (vat10-07 radiance, vat11 five-modes) |
+| 5 | What is the fruit of realisation? | serviceable | **"What survives realisation?"** (vat12-02 not-reborn, vat13-01 silence, vat13-06 already-feeling) |
+
+Sharpened set chains as one enquiry: if nothing is attained → where do you end →
+why can't you make it → what happens to the senses → what survives.
+Essay-0 under #1's sharpened form: the response ITSELF (her unfoldment/resting
+clip) answers "if nothing is attained" — opening the how/where/why that follow.
+**Owner picks: current set, sharpened set, or mix per row.**
