@@ -20,6 +20,7 @@ CONTENT = {  # explicit domain nouns — a question must name one
  'guru','sudden','upaya','realised','karma','worth','end-result','survives'  # survives->needs noun too
 }
 PRONOUNS = {'it','this','that','these','those','them','they','he','she','his','her'}
+ANCHOR = {'realisation','realization','realised','realized','realise','realize','self'}  # every question varies on S1's topic
 OBJLESS_HINT = re.compile(r'\b(happen|happens|do it|does it|make it|go|goes|end up|turn out)\b', re.I)
 
 def words(q): return re.findall(r"[A-Za-z']+", q)
@@ -32,6 +33,9 @@ def check(q):
                                  'can','could','do','does','did','should','would','has','have','may'}:
         fails.append("not interrogative form")
     if len(ws) > 9: fails.append(f"verbose ({len(ws)} words > 9)")
+    anchor = [w for w in low if w in ANCHOR]
+    if not anchor:
+        fails.append("no realisation-anchor (must vary on S1's topic, not drift generic)")
     content = [w for w in low if w in CONTENT or w.rstrip('s') in CONTENT]
     if not content: fails.append("no explicit content noun (vague/context-dependent)")
     pron = [w for w in low if w in PRONOUNS]

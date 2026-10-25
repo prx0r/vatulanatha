@@ -166,8 +166,11 @@ clip) answers "if nothing is attained" — opening the how/where/why that follow
 
 ---
 
-## PICK MATRIX — 3 validated variants per question (G0-passed, owner picks)
-All below pass `validate_questions.py` (current = A-row default).
+## PICK MATRIX — RESOLVED: **current five LOCKED** (owner, 2026-10-25)
+Comparison verdict: current set is perfect; S4-A confirmed ("makes me curious").
+Sharpened variants archived below as tested-but-rejected — the general failure
+mode: dropping the realisation-anchor goes generic ("what happens to the senses?"
+= worse). New G0 check enforces the anchor. Archive:
 
 | # | A (current) | B (sharpened) | C (alt angle) |
 |---|---|---|---|

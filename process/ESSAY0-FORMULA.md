@@ -11,7 +11,12 @@ Follow in order. Every step is a TEST, not taste. Output = the pick string
    own answer), not just name a topic. "Clear" without "sharp" = fail.
 3. **Content-grounded**: the corpus must actually answer it (measured density,
    present in every lecture for the master — PROCESS_NOTES §5 method).
-4. **Enquiry-chaining**: together with the other section questions it forms ONE
+4. **Topic-anchored (the senses-rule)**: every question varies on S1's topic —
+   the realisation-domain (realisation / self). Sharpening that DROPS the anchor
+   to go generic = fail (owner-rejected: "What happens to the senses?" — worse;
+   it stops being about realisation). The sharpen must keep the anchor AND gain
+   the explicit object.
+5. **Enquiry-chaining**: together with the other section questions it forms ONE
    logical enquiry — each question follows from the answer-space of the previous,
    and essay-0's response must OPEN the enquiry (invites depth), not close it.
    Recurrence test: after essay 0, the listener should still lean in ("…and
