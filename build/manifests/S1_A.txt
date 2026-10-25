@@ -1,5 +1,5 @@
-# S1 What is realisation? — A · negation → master-definition → state (sentence-edge trims, seed at layer heads) (3 clips)
+# S1 What is realisation? — A · negation → definition → state (sentence edges) (3 clips)
 # uid	start	end	grade	mp3
-vat1-06	552	570	A	Vatulanatha_Sutra_1 [ZrTkwSh3GRE].mp3
-vat1-09	473	520	A	Vatulanatha_Sutra_1 [ZrTkwSh3GRE].mp3
+vat1-06	560	570	A	Vatulanatha_Sutra_1 [ZrTkwSh3GRE].mp3
+vat1-09	464	497	A	Vatulanatha_Sutra_1 [ZrTkwSh3GRE].mp3
 vat9-02	55	111	A	Vatulanatha_Sutra_9 [HNyggIvPzEQ].mp3

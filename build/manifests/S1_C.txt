@@ -1,7 +1,7 @@
 # S1 — C = A+B + texture (5 clips)
 # uid	start	end	grade	mp3
-vat1-06	552	570	A	Vatulanatha_Sutra_1 [ZrTkwSh3GRE].mp3
-vat1-09	473	520	A	Vatulanatha_Sutra_1 [ZrTkwSh3GRE].mp3
+vat1-06	560	570	A	Vatulanatha_Sutra_1 [ZrTkwSh3GRE].mp3
+vat1-09	464	497	A	Vatulanatha_Sutra_1 [ZrTkwSh3GRE].mp3
 vat1-08	807	840	B	Vatulanatha_Sutra_1 [ZrTkwSh3GRE].mp3
 vat13-04	600	628	B	Vatulanatha_Sutra_1 [ZrTkwSh3GRE].mp3
 vat9-02	55	111	A	Vatulanatha_Sutra_9 [HNyggIvPzEQ].mp3

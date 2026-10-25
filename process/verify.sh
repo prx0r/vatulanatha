@@ -115,7 +115,7 @@ for f in glob.glob('excavations/vat*.md'):
     for m in PAT.finditer(open(f).read()):
         a=int(m.group(2))*60+int(m.group(3)); b=int(m.group(4))*60+int(m.group(5))
         A.append((m.group(1),a,b))
-cands={'1-unfoldment':(534,554),'2-resting':(100,115),'3-abhinavagupta':(470,490)}
+cands={'1-unfoldment':(534,552),'2-resting':(100,111),'3-abhinavagupta':(470,490)}
 for name,(s,e) in cands.items():
     ov=max((min(e,b)-max(s,a)) for _,a,b in A)
     frac=ov/(e-s)
