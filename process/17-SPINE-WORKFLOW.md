@@ -12,7 +12,10 @@
 3. **Essay 0 = the minimal response.** Shape: `[“What is realisation?”] → [pause] →
    [“Realisation is …”]` — one minimal, beautiful answer, ~10–25s, spoken by
    Bäumer (now) or Lakshmanjoo (when $0 audio lands). **It opens every version,
-   every time — so it must be the best line we have.** (Analayo had exactly this:
+   every time — so it must be the best line we have.** (Analayo had exactly this: (Analayo had exactly this: seed → 1 sentence (motto) → 1 word ("stilling").)
+   **Acceptance test (owner correction): the line must COMPLETE the sentence
+   "Realisation is ___".** A line about how attainment *arrives* (becoming vs
+   getting) answers a different question — rejected for Essay 0 even if A-grade.
    seed → 1 sentence (motto) → 1 word ("stilling"). Ours is the motto-equivalent.)
 
 ## The attack (structured workflow — current position marked)
