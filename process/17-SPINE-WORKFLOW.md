@@ -3,6 +3,10 @@
 ## Design laws (from the owner)
 1. **Structure emerges from the audio** — clustering → convergence → the spine
    falls out; never hand-picked first (question measurement precedent, §5 of notes).
+   **The spine = the sections, and each section IS A QUESTION** (owner, corrected
+   2026-10-25): master question first ("What is realisation?"), then the sub-
+   questions the clusters ask. Section names are never slot-labels — always the
+   question the units in it answer.
 2. **Three essays, Russian dolls** — A ⊂ B ⊂ C (FORMULA, append-only), collated
    under the spine sections and ORDERED properly within each section.
 3. **Essay 0 = the minimal response.** Shape: `[“What is realisation?”] → [pause] →
@@ -37,8 +41,9 @@
 ## Essay 0 — candidate answers (audition list)
 | # | line | source | dur | why |
 |---|---|---|---|---|
-| **1** | "attainment does not mean to get something which we do not have — it means to become what we truly are" | **vat1-05 (A)**, her own words | ~26s window, core sentence ~10s | the definition + the twist in one; already A |
-| **2** | "a state of resting in one's own being" | **vat9-02 (A)** | line ~8s | the 42-hit vocabulary distilled; quiet, beautiful |
+| **1** | "the definition of it is the unfoldment of our true being" (…) "of our true nature" | **vat1** 8:55–9:14 (inside vat1-05's window), her own words | ~15s | she literally says THE DEFINITION; unfoldment = the corpus's own answer |
+| **2** | "a state of resting in one's own being" | **vat9-02 (A)** | line ~8s | completes the sentence cleanly; quiet, beautiful |
+| 2b | Abhinavagupta-via-her: "it is the unfolding of … to nature … this unfolding or revelation or expansion of the true nature" | vat1 7:53–8:10 (in vat1-09 window) | ~15s | the master's definition through her — EAR-CHECK (ASR garbles the middle) |
 | 3 | "by the mode of great intensity one attains one's true nature" | vat1-02 (her sūtra render, B) | ~6s | the text's own answer, spoken |
 | 4 | Kaul-EN card "…one's true nature is attained" + clip 1 | text+audio pair | card+10s | if we want the primary source in the open |
 | 5 | Lakshmanjoo version | Secret Supreme (audio pending; OCR line 5618 "realisation of your own nature…") | — | upgrade path after $0 get; keep 1 as anchor until then |
