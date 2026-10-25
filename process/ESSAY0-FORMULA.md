@@ -64,6 +64,14 @@ Pool = every existing exact rendering of the Step-2 phrases. Pick per phrase:
   (definitional sentence beats descriptive);
 - (e) needs no term to make sense (07 Test 2) — quote verified (G5).
 
+## Step 5b — THE FLOW TEST (owner, the deciding criterion)
+The response must be the **SEED of 0→A→B→C**: read the five section questions as
+the elaboration of this one response — does each section open a facet of IT?
+(A = sides of the seed, B = its mechanics, C = the seed heard inside the source.)
+A response that is merely true but doesn't seed the walk loses to one that does.
+2026-10-25 result: the original (unfoldment-definition) passes; thematic
+one-offers (all-at-once / unnameable / awakening) kept as alternates only.
+
 ## Step 6 — THE STACK READ (contradiction check, 9c)
 Read top to bottom: S → T → P → her voice. They must be **one thought in
 increasing plainness**. Any meaning that exists only in our prose = strip.

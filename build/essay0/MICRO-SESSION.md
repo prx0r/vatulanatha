@@ -1,43 +1,39 @@
-# ESSAY 0 — THREE RESPONSES, 4 TIERS (sanskrit → translation → plain → bäumer)
+# ESSAY 0 — HEAD RESPONSE (the original, restored) + alternates
 
-Tier law: SANSKRIT = exact text · TRANSLATION = exact (lecturer's own first, else Kaul)
-· PLAIN = key-vetted plain of the SANSKRIT (card_lines; V1 flagged DRAFT — owner signs)
-· BÄUMER = her voice, verified window. One source per tier, nothing mixed.
-
----
-
-## V1 — one taste, all at once  →  `essay0_4.mp3` (24s)
-
-> **What is realisation?** *(2 breaths)*
->
-> **SANSKRIT:** `sarvavṛttimahāsāmarasyamekakāle pracakṣate`
-> **TRANSLATION:** "by attaining that nature or mahasasa there is simultaneity
-> simultaneously the expansion of all modes or states" — *Bäumer's own*
-> **PLAIN:** "All the flows of consciousness become one taste, all at once."
-> *(drafted card entry — sign to lock)*
-> **BÄUMER:** she speaks exactly those words (sūtra 2 · 2:04–2:23)
-
-## V2 — what cannot be named  →  `essay0_5.mp3` (32s)
-
-> **What is realisation?** *(2 breaths)*
->
-> **SANSKRIT:** `trikañcukaparityāgānnirākhyapadāvasthitiḥ` · Sūtra 6
-> **TRANSLATION:** "The inexpressible stage appears on the abandonment of the
-> three veils." — *Kaul 1923*
-> **PLAIN:** "drop the three coverings and you abide in what cannot be named"
-> **BÄUMER:** she reads sūtra 6 — "throwing away the three-fold coverings the
-> inexpressible stage of transcendental consciousness is revealed" (4:22–4:49)
-
-## V3 — the great awakening  →  `essay0_6.mp3` (34s)
-
-> **What is realisation?** *(2 breaths)*
->
-> **SANSKRIT:** `mahābodhasamāveśātpuṇyapāpāsaṃbandhaḥ` · Sūtra 12
-> **TRANSLATION:** "Release from merit and demerit accompanies the inspiration of
-> the great enlightenment." — *Kaul 1923*
-> **PLAIN:** "enter the great awakening and the grip of good and evil loosens"
-> **BÄUMER:** her intro-read carrying sūtra 12 (1:33–2:02)
+**Flow criterion (owner):** essay 0 must be the SEED of 0→A→B→C — A elaborates it,
+B deepens it, C textures it. The natural flow decides the pick, not isolation-testing.
 
 ---
-Listen: `essay0_listen_new3.mp3` (96s, V1|V2|V3 back to back).
-Pick: **V1 / V2 / V3** → `build/essay0_lock.json` → G12 LOCKED → build runs.
+
+## ✅ HEAD — the original / formula pick → `essay0_1.mp3` (20s)
+
+> **What is realisation?** *(2 breaths)*
+>
+> **SANSKRIT:** `mahāsāhasavṛttyā svarūpalābhaḥ` · Sūtra 1
+>
+> **TRANSLATION:** "by the mode of great intensity one attains one's true nature"
+> — *Bäumer's own*
+>
+> **PLAIN:** "by the force of great intensity you come to your own true nature" *(card, key-vetted)*
+>
+> **BÄUMER:** *"…attainment means to become what we truly are… **the definition of
+> it is the unfoldment of our true being, of our true nature.**"*
+
+### Why it's the natural seed (the flow test)
+- **A** (sections at speed) = the facets of THIS unfoldment: what is realisation
+  → what is the self (what unfolds) → how it happens (what does the unfolding) →
+  what it does → what remains. Every section answers the seed from a new side.
+- **B** (+depth) = why unfoldment and not acquisition — the mechanics that make
+  it possible (the whole "not-getting" argument).
+- **C** (+texture) = the full walk in her order — the seed heard a 4th time inside
+  the source itself.
+- The 4 recurrences all re-land on *the same sentence* — nothing to re-explain,
+  only to deepen. The thematic variants below (V1–V3) answer the question but
+  don't seed the walk the same way.
+
+## Alternates (kept, audited — not the seed)
+- V1 all-at-once (`essay0_4`) · V2 unnameable (`essay0_5`) · V3 great-awakening
+  (`essay0_6`) · V-resting (`essay0_2`) · V-Abhinavagupta (`essay0_3`)
+  — full stacks in git history (`MICRO-SESSION.md` revisions).
+
+**Lock:** `build/essay0_lock.json` → {"pick": "head"} → G12.
