@@ -5,7 +5,7 @@ B deepens it, C textures it. The natural flow decides the pick, not isolation-te
 
 ---
 
-## ✅ HEAD — the original / formula pick → `essay0_1.mp3` (20s)
+## ✅ HEAD — the original / formula pick → `essay0_1.mp3` (26s)
 
 > **What is realisation?** *(2 breaths)*
 >
