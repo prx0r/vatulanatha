@@ -9,7 +9,7 @@ audio comes from.
 |---|---|---|---|---|
 | 1 | **Pratyabhijñā Hṛdayam (recognition)** — Bäumer | **ON DISK 12/12** (`baumer/Pratyabhijñā_Hṛdayam_*`) | PH verses inside Kṣemarāja Vimarśinī (corpus `passages/isvarapratyabhijnavivrtivimarsini`) + Torella | ready to start after Vātūlanātha; plugs into gochema recognition essays |
 | 2 | Spanda Kārikā — Bäumer | **ON DISK 16** | `corpus/sources/spandapradipika/` (+ SK text check) | ready |
-| 3 | Śiva Sūtras — Bäumer | **R2 `longform-audio/bettina-baumer-shiva-sutras/` (14)** — pull when wanted (0 local; channel dl stopped) | `corpus/sources/sivasutra/` + Kṣemarāja vārttika ✓ | ready (pull R2) |
+| 3 | Śiva Sūtras — Bäumer | **DONE — became its own repo `prx0r/shiva-sutras`** (audio via YT-captions + CF, 2 mp3s pulled from this R2 path, 11 left there) | `corpus/sources/sivasutra/` used there ✓ | ✅ closed 2026-10-25: 308 units, 14/14 transcripts pass-1, spine+essay0 built — no action here |
 | 4 | Śivastotrāvalī — Bäumer | **ON DISK 12** | Sanskrit (Bailley cite+buy rule per tantraessays/primary) | text buy later |
 | 5 | Vijnana Bhairava — Bäumer | **ON DISK 16** | translation = buy target (Dyczkowski) | audio ahead of text |
 | 6 | Parātrīśikā-Vivaraṇa — Bäumer | **ON DISK 10** | vivaraṇa refs in corpus/sanderson | later |
