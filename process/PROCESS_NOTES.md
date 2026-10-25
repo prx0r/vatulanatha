@@ -115,10 +115,15 @@ ffprobe -v error -show_entries format=duration -of csv=p=0 <mp3>
   batch), **Secret Supreme text landed** (`supplements/lakshmanjoo/`: OCR txt 43k words
   + 172p PDF — book = edited form OF the 1971 audio recordings, chapter-aligned, so it
   serves as the transcript/index for the $0 audio when it arrives).
-- **Next:** S2 clustering + convergence → **S3 SPINE.md** → **S4 Essay-0 lock**
-  (minimal-response opener, candidates in `17-SPINE-WORKFLOW.md`) → S5 A/B/C
-  collate (Russian dolls) → S6 three-layer beats → S7 render + gates.
-  (excavations DONE 13/13, 96 units, G1 closed, CATALOGUE generated) (analayo settings: loudnorm −16 LUFS, afade 0.15,
+- **Next:** **S4 Essay-0 lock** (audition: `build/essay0_audition/*.mp3`, owner ear,
+  mix allowed) → S5 A/B/C collate under SPINE (Russian dolls) → S6 three-layer
+  beats → S7 render + gates.
+- **S2 DONE:** 96/96 assigned (81 auto + 15 logged overrides), totals reconcile,
+  **CONVERGENCE PASSED** (A-distribution matches reading-preview ±2; biggest = S3
+  as predicted) → `excavations/ASSIGNMENT.md`, `build/assignment.json`.
+- **S3 DONE:** `SPINE.md` — 5 question-sections (what it is → where → how → what it
+  does → what remains), anchor quotes, sūtra-order inside. Blind-clustering failure
+  log in `17` (why designed-profiles was the method). (analayo settings: loudnorm −16 LUFS, afade 0.15,
   pause-snap, breath 1.5/water 2.5) → verify.sh.
 - **Known gaps:** 17 ear-check spans unreviewed · key_v2 unsigned · Grace film's
   narration unwritten (separate track) · mangala chant handling: chanting rule says
