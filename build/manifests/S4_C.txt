@@ -1,6 +1,5 @@
 # S4 What does realisation do to experience? — C (near-complete)
-# = A+B below (append-only superset) PLUS texture:
-#   full sources in HER order minus C-marked windows (excavations/C-MARKS.md)
+# = A+B PLUS texture: full sources HER order minus C-MARKS
 # uid	start	end	grade	mp3
 vat4-07	190	298	B	Vatulanatha_Sutra_4 [STb30XHtbGU].mp3
 vat7-01	48	70	B	Vatulanatha_Sutra_7 [fulacD3QOWs].mp3
@@ -16,7 +15,7 @@ vat9-03	113	214	B	Vatulanatha_Sutra_9 [HNyggIvPzEQ].mp3
 vat9-04	214	259	B	Vatulanatha_Sutra_9 [HNyggIvPzEQ].mp3
 vat9-06	259	290	B	Vatulanatha_Sutra_9 [HNyggIvPzEQ].mp3
 vat9-05	300	346	B	Vatulanatha_Sutra_9 [HNyggIvPzEQ].mp3
-vat10-01	6	29	B	Vatulanatha_Sutra_10 [urgrUjdKdLA].mp3
+vat10-01	6	29	A	Vatulanatha_Sutra_10 [urgrUjdKdLA].mp3
 vat10-02	35	69	B	Vatulanatha_Sutra_10 [urgrUjdKdLA].mp3
 vat10-04	108	160	B	Vatulanatha_Sutra_10 [urgrUjdKdLA].mp3
 vat10-08	160	226	B	Vatulanatha_Sutra_10 [urgrUjdKdLA].mp3

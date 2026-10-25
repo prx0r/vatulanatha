@@ -1,4 +1,4 @@
-# S3 How does realisation happen? — B (20 clips) A+depth 16.1m
+# S3 How does realisation happen? — B (20 clips) A+depth 16.1m (superset draft)
 # uid	start	end	grade	mp3
 vat1-01	39	98	B	Vatulanatha_Sutra_1 [ZrTkwSh3GRE].mp3
 vat1-02	106	161	B	Vatulanatha_Sutra_1 [ZrTkwSh3GRE].mp3

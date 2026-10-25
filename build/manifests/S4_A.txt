@@ -1,5 +1,6 @@
-# S4 What does realisation do to experience? — A (3 clips) gold 1.3m
+# S4 What does realisation do to experience? — A (4 clips) gold 1.6m
 # uid	start	end	grade	mp3
 vat7-02	337	360	A	Vatulanatha_Sutra_7 [fulacD3QOWs].mp3
 vat7-04	462	482	A	Vatulanatha_Sutra_7 [fulacD3QOWs].mp3
+vat10-01	6	29	A	Vatulanatha_Sutra_10 [urgrUjdKdLA].mp3
 vat10-07	375	408	A	Vatulanatha_Sutra_10 [urgrUjdKdLA].mp3

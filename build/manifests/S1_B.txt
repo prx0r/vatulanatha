@@ -1,7 +1,6 @@
-# S1 What is realisation? — B (6 clips) A+depth 5.5m
+# S1 What is realisation? — B (5 clips) A+depth 5.1m (superset draft)
 # uid	start	end	grade	mp3
 vat1-09	367	526	B	Vatulanatha_Sutra_1 [ZrTkwSh3GRE].mp3
-vat1-05	526	552	A	Vatulanatha_Sutra_1 [ZrTkwSh3GRE].mp3
 vat1-06	552	579	A	Vatulanatha_Sutra_1 [ZrTkwSh3GRE].mp3
 vat1-08	807	840	B	Vatulanatha_Sutra_1 [ZrTkwSh3GRE].mp3
 vat9-02	55	113	A	Vatulanatha_Sutra_9 [HNyggIvPzEQ].mp3

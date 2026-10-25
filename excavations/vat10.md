@@ -6,13 +6,13 @@ Thesis question: what happens when the senses stop being obstacles?
 
 ## Units
 
-### vat10-01 — thesis line for methodless-conduct material [B]
+### vat10-01 — thesis line for methodless-conduct material [A]
 - timestamp: 00:00:06-->00:00:29
 - topics: senses, nonduality
 - role: claim
 - layer: explain
 - quote: "the mystical experience is not cut off from sense experience"
-- context: Her frame: senses are transfigured into supreme consciousness, compared to sun and rays — divine energies.
+- context: Her frame: senses are transfigured into supreme consciousness, compared to sun and rays — divine energies. PROMOTED B→A 2026-10-25 (read-through): S4 had no opener stating its thesis — promotion with written note (analayo rule).
 - essay_use: Thesis line for methodless-conduct material
 
 ### vat10-02 — section opener [B]

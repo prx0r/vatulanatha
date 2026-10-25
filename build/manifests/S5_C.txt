@@ -1,6 +1,5 @@
 # S5 What is the fruit of realisation? — C (near-complete)
-# = A+B below (append-only superset) PLUS texture:
-#   full sources in HER order minus C-marked windows (excavations/C-MARKS.md)
+# = A+B PLUS texture: full sources HER order minus C-MARKS
 # uid	start	end	grade	mp3
 vat12-06	55	198	B	Vatulanatha_Sutra_12 [czW1e6ifrU4].mp3
 vat12-02	198	237	A	Vatulanatha_Sutra_12 [czW1e6ifrU4].mp3

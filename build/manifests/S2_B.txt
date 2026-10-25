@@ -1,4 +1,4 @@
-# S2 What is the self? — B (34 clips) A+depth 26.3m
+# S2 What is the self? — B (34 clips) A+depth 26.3m (superset draft)
 # uid	start	end	grade	mp3
 vat2-03	159	184	B	Vatulanatha_Sutra_2 [mHTSwh7PTDg].mp3
 vat2-02	192	213	A	Vatulanatha_Sutra_2 [mHTSwh7PTDg].mp3

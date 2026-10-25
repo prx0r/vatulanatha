@@ -25,3 +25,11 @@ Order inside all three = her sūtra order (fractal law). 96 units = Σ pool (ass
 
 Ratios vs analayo math: pool→A ÷6.7 (theirs ÷3.3 — our A is the tighter cut, correct
 for the FORMULA essay bands; their constant measured a different artifact).
+
+## Logged rules from the read-through (2026-10-25)
+- **SEED-CAP:** `vat1-05` excluded from S1 section lists — plays only at LAYER
+  HEADS (essay0). Stacking it right after essay0 = analayo's stacked-motto bug (G3).
+- **PROMOTION:** `vat10-01` B→A (noted in excavation) — S4 had no opener stating
+  its thesis; read-through found the hole.
+- **FLAG for G8:** S2 opens on `vat2-02` (simultaneity) — weakest joint under
+  "What is the self?"; her-order keeps it for now; if it jars → move to B.
