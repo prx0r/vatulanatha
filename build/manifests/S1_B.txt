@@ -1,8 +1,5 @@
-# S1 What is realisation? — B (6 clips) A+depth 5.5m
+# S1 What is realisation? — B ship-list (3 clips, +depth 1.6m) [selected, hold-up tested]
 # uid	start	end	grade	mp3
-vat1-09	367	526	B	Vatulanatha_Sutra_1 [ZrTkwSh3GRE].mp3
-vat1-05	526	552	A	Vatulanatha_Sutra_1 [ZrTkwSh3GRE].mp3
-vat1-06	552	579	A	Vatulanatha_Sutra_1 [ZrTkwSh3GRE].mp3
-vat1-08	807	840	B	Vatulanatha_Sutra_1 [ZrTkwSh3GRE].mp3
-vat9-02	55	113	A	Vatulanatha_Sutra_9 [HNyggIvPzEQ].mp3
-vat13-04	600	628	B	Vatulanatha_Sutra_13 [_p--mXPt-pk].mp3
+vat1-06	560	570	A	Vatulanatha_Sutra_1 [ZrTkwSh3GRE].mp3
+vat1-09	464	497	A	Vatulanatha_Sutra_1 [ZrTkwSh3GRE].mp3
+vat9-02	55	111	A	Vatulanatha_Sutra_9 [HNyggIvPzEQ].mp3

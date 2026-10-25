@@ -1,12 +1,9 @@
-# S3 How does realisation happen? — B (20 clips) A+depth 16.1m
+# S3 How does realisation happen? — B ship-list (17 clips, +depth 11.6m) [selected, hold-up tested]
 # uid	start	end	grade	mp3
 vat1-01	39	98	B	Vatulanatha_Sutra_1 [ZrTkwSh3GRE].mp3
-vat1-02	106	161	B	Vatulanatha_Sutra_1 [ZrTkwSh3GRE].mp3
 vat1-03	310	334	A	Vatulanatha_Sutra_1 [ZrTkwSh3GRE].mp3
 vat1-04	334	367	B	Vatulanatha_Sutra_1 [ZrTkwSh3GRE].mp3
 vat1-07	579	625	A	Vatulanatha_Sutra_1 [ZrTkwSh3GRE].mp3
-vat1-10	625	807	B	Vatulanatha_Sutra_1 [ZrTkwSh3GRE].mp3
-vat2-01	61	93	B	Vatulanatha_Sutra_2 [mHTSwh7PTDg].mp3
 vat3-01	101	224	A	Vatulanatha_Sutra_3 [WD8uLV7uWI4].mp3
 vat3-02	257	266	A	Vatulanatha_Sutra_3 [WD8uLV7uWI4].mp3
 vat3-08	469	510	A	Vatulanatha_Sutra_3 [WD8uLV7uWI4].mp3

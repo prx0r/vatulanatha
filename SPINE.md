@@ -19,7 +19,7 @@ and essay-0's response OPENS (not closes) the enquiry.
 how does it happen → what does it do → what is the fruit.
 
 ## S1. What is realisation?
-6 units (3A/3B) · 5.5m · sūtras [1, 9, 13]
+6 units (3A/3B; seed-cap: vat1-05 plays only at layer heads) · 5.3m · sūtras [1, 9, 13]
 **Anchor:** `vat1-05` — "attainment does not mean to get something which we do not have attainment means to become what we truly are"
 
 - vat1-05 [A] the recognition-shaped core in one sentence
@@ -94,7 +94,7 @@ how does it happen → what does it do → what is the fruit.
 - vat13-02 [B] transmission echo — b depth (ties vat8-04)
 
 ## S4. What does realisation do to experience?
-29 units (3A/26B) · 29.0m · sūtras [4, 7, 9, 10, 11, 13]
+29 units (4A/25B — vat10-01 promoted, opener) · 29.0m · sūtras [4, 7, 9, 10, 11, 13]
 **Anchor:** `vat10-07` — "his divinized senses attain the state of pure consciousness which radiates throughout the universe"
 
 - vat4-07 [B] examples fill (g1 gap 190→299s)
@@ -139,7 +139,7 @@ how does it happen → what does it do → what is the fruit.
 - vat13-06 [A] the punchline — film/essay close material
 - vat13-08 [B] wonder/mudrā block (g1 cont.)
 
-## Essay 0 (compressed answer per question — gospel beat below)
+## Essay 0 = THE SPINE (all five questions × compressed answers — gospel beats)
 
 Shape: `[QUESTION] → [TEXT VERBATIM] → [PLAIN ENGLISH] → [AUDIO SPEAKER]`.
 Master opener audition: `build/essay0_audition/` (3 extracts, owner ear, mix allowed).
@@ -183,3 +183,42 @@ mode: dropping the realisation-anchor goes generic ("what happens to the senses?
 Owner feeling flagged: **S4-A not 100% right** — B is the bluntest content-noun form
 (senses = what the section actually treats), C is the mid option.
 Reply like `S4B` + `S3B` (any rows; untouched rows keep A) → G0 re-runs → SPINE updates.
+
+---
+
+# ⬛ CANON v1 — THE ESSAY STRUCTURE (owner-final. Do not re-derive, do not re-scope.)
+
+```
+ESSAY 0  = THE SPINE        = the five questions, in order.
+                              "What is realisation?" → "What is the self?" →
+                              "How does realisation happen?" → "What does realisation
+                              do to experience?" → "What is the fruit of realisation?"
+ESSAY A  = SPINE EXPANDED    = each question answered with its GOLD clips,
+                              sections at speed (artifacts: manifests S1–S5_A ✓)
+ESSAY B  = A EXPANDED        = same walk + DEPTH (artifacts: S*_B, selection pending)
+ESSAY C  = B EXPANDED        = same walk + TEXTURE (her full lectures, her order,
+                              minus C-MARKS exclusions)
+```
+
+- **Nesting: 0 ⊂ A ⊂ B ⊂ C — append-only** (never rewrite the inner layer).
+- **Essay 0 is the list of QUESTIONS.** Answers, interlinear cards, compressed-answer
+  clips and bells are **machinery that lives INSIDE A/B/C** (section openers) — they
+  are never "essay 0".
+- The spine plays at the head, then re-opens at each layer head: **heard 4×, each
+  time answered deeper** (expansion, never new material).
+- Artifacts: SPINE.md = essay 0 · S{1..5}_A = essay A · S{1..5}_B = essay B ·
+  C-rule + full sources = essay C · `build/essay0/` = A's opener machinery only.
+
+## Lineage — how this maps to the 33-sermons builds (reviewed 2026-10-25)
+| theirs (analayo / tantraessays) | ours |
+|---|---|
+| 6-section argument scaffold (§1 What it is … §6 Remains) + seed (1-sentence motto) | **Essay 0 = the spine (5 questions)** — same job: the skeleton that everything expands |
+| essay A (10–20m gold-only) ⊂ B (20–40, contains A) ⊂ C (rest) — FORMULA, append-only | **identical** for our A/B/C |
+| V1 pool → V2 gold → V3 core (audio product, ÷3.5/layer) | our C ≈ their pool, our A ≈ their gold; core ≈ the spine-recurrence density |
+| motto recurs at layer heads (bells) | the spine re-opens at layer heads (bells) |
+| cluster-by-problem, convergence test | identical (S2 method) |
+
+**One sentence, forever:** *essay 0 is the questions; A answers them with gold;
+B deepens; C floods with texture; each layer re-opens the same spine wider.*
+---
+

@@ -1,0 +1,13 @@
+{
+ "kind": "essay0-spine-read",
+ "order": [
+  "What is realisation?",
+  "What is the self?",
+  "How does realisation happen?",
+  "What does realisation do to experience?",
+  "What is the fruit of realisation?"
+ ],
+ "cell": "bell -> question-slot(\u22482s) -> breath(1.5s)",
+ "bells": "question-opening bell 880Hz/2.5s (09 grammar); terminal breath",
+ "tts": "question slots silent until credits"
+}

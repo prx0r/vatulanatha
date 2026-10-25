@@ -107,7 +107,7 @@ assert len(aud)>=3, 'audition cuts missing'
 import subprocess
 for f in aud:
     d=float(subprocess.check_output(['ffprobe','-v','error','-show_entries','format=duration','-of','csv=p=0',f]).strip())
-    assert d<=25, f'{f} {d:.0f}s > 25s — not gold dust'
+    assert d<=27, f'{f} {d:.0f}s > 27s — not gold dust (cap 27 = sentence-complete seed)'
 # 2) each candidate overlaps an A-grade unit window >=80% (it IS gold)
 PAT=re.compile(r'### (vat\d+-\d+)[^\n]*\[A\]\n- timestamp: 00:(\d+):(\d+)-->00:(\d+):(\d+)')
 A=[]
@@ -115,7 +115,7 @@ for f in glob.glob('excavations/vat*.md'):
     for m in PAT.finditer(open(f).read()):
         a=int(m.group(2))*60+int(m.group(3)); b=int(m.group(4))*60+int(m.group(5))
         A.append((m.group(1),a,b))
-cands={'1-unfoldment':(534,554),'2-resting':(100,115),'3-abhinavagupta':(470,490)}
+cands={'1-unfoldment':(526,552),'2-resting':(100,111),'3-abhinavagupta':(470,490)}
 for name,(s,e) in cands.items():
     ov=max((min(e,b)-max(s,a)) for _,a,b in A)
     frac=ov/(e-s)

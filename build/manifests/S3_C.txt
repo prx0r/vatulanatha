@@ -1,6 +1,5 @@
 # S3 How does realisation happen? — C (near-complete)
-# = A+B below (append-only superset) PLUS texture:
-#   full sources in HER order minus C-marked windows (excavations/C-MARKS.md)
+# = A+B PLUS texture: full sources HER order minus C-MARKS
 # uid	start	end	grade	mp3
 vat1-01	39	98	B	Vatulanatha_Sutra_1 [ZrTkwSh3GRE].mp3
 vat1-02	106	161	B	Vatulanatha_Sutra_1 [ZrTkwSh3GRE].mp3

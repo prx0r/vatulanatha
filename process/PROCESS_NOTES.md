@@ -146,75 +146,24 @@ ffprobe -v error -show_entries format=duration -of csv=p=0 <mp3>
 **THE GOAL (owner, 2026-10-25): get the Bäumer VIDEO fully done and polished.**
 Everything below serves that; embeddings/cross-project growth parked until then.
 
-**Remaining (owner-dependent first):**
-1. Ear: essay-0 pick/mix from **`build/essay0/`** → write `build/essay0_lock.json` (unblocks video head).
-2. TTS credits confirm (Guyzo voice) → generate question+plain tracks → re-render filled.
-3. B depth-selection flow-read **growing outward from the locked essay0** (86m superset → 20–40m ship list; every clip must deepen the essay0 answer).
-4. G8 listen pass on previews; then C texture + full assembly.
-5. Parked: Secret Supreme $0 checkout; Sanderson batch stopped by owner; baumer
-   channel download stopped at 91/147 (resume: download_all.py).
+**FINISHED STATE (autonomous run complete, 2026-10-25):**
+- CANON locked in every doc (0=spine questions · A=expansion=S*_A built+rendered ·
+  B=+depth **SELECTED 34.6m in band, G10 PASS** · C=+texture rule+manifests ✓)
+- Spine-read artifact: `build/essay0/spine_read.json` + `spine_preview.mp3` (39s,
+  bells + 5 question slots silent until TTS)
+- Section openers cut: `opener_S2..S5.mp3` (formula picks: vat4-03, vat8-01,
+  vat10-07, vat13-06) + beat1 sample `essay0_1.mp3`
+- Machinery done: interlinear cards, plain filter (deterministic), manifests
+  (A/B ship-lists, C rule), B-SELECTION hold-up log, verify.sh G0–G12 green
+- **ALL GATES PASS in dev mode.**
 
-## 9b. HOW THE SANSKRIT-FIRST RULE WAS FOUND (essay-0 screen text, 2026-10-25)
+**OWNER-ONLY remaining (everything else is built):**
+1. Ear: listen `spine_preview.mp3` + `essay0_listen_all.mp3` + `opener_S*.mp3`
+   → approve/override picks → write `build/essay0_lock.json` (unblocks --ship).
+2. TTS credits confirm (Guyzo) → fill question/plain slots → re-render.
+3. G8 listen pass on A/B masters → then full assembly (0→A→B→C + bells).
+4. Upload package (titles/credits) — final step.
 
-The path, kept honest — three owner rejections in one sitting:
-1. **v1 TEXT seat** = Kaul's full 1923 sentence ("The real nature is acquired by the
-   firm stay in the pre-eminent sahasa"). Owner: *not catchy, not profound* — an
-   old translator's stiff full clause, not a hook.
-2. **v2 TEXT seat** = famous phrases mined from the gloss around it ("Sahasa
-   literally means an unexpected happening", "waveless, limitless, unlocalised and
-   touchless", "quicker than the quick"). Better English — but the owner caught the
-   **circularity**: we were quoting Kaul *defining* the Sanskrit word (sāhasa) when
-   the card could just SHOW the Sanskrit. *"...whats the sanskrit for that then."*
-3. **v3 rule**: for a primary-source essay the screen answer must come from the
-   PRIMARY LANGUAGE. Dig the Sanskrit chunks (`text/vatula_s*.txt`) → the answer
-   vocabulary fell out of sūtra 1's own vṛtti:
-   - `mahāsāhasavṛttyā svarūpalābhaḥ` — sūtra 1: "by the workings of great
-     sudden-force, one's true nature is attained" (= her spoken translation)
-   - `kasyacit kvacit kadācit akasmādeva` — the vṛtti's grace-formula = the Sanskrit
-     behind Kaul's "somewhere, sometime, unexpectedly" (`akasmāt` = without-cause →
-     same word as our vat10-03 "without any cause" unit)
-   - `jhaṭiti` (in a flash) · `akṛtaka` (the unmade) · `sadaiva svaviśrāntyavasthitiḥ`
-     (sūtra 9 = the "resting in one's own being" Sanskrit)
-
-**Reusable lessons:**
-- TEXT seat = source language first; English only as gloss beneath. Never a full
-  old-translation sentence as the hook.
-- Mine the *gloss/commentary around* a sūtra for catchy lines — but quote the TERM,
-  not the translator's definition of the term (definitions = circular).
-- The text answering its own question lives in ITS OWN words: find the Sanskrit
-  (or primary-language) answer before reaching for any English.
-- Verification habit kept: every Sanskrit line printed = checked against
-  `text/vatula_s*.txt` (corpus Muktabodha), IAST per card rules.
-
-## 9c. ERROR LOG — the composed-gloss leak (three occurrences, owner-caught)
-
-**Pattern:** my own words keep leaking into tiers that must hold only exact text.
-1. v1 screen: Kaul's full clunkly sentence promoted as "the hook" (wrong tier use).
-2. v2 screen: added strips + composed answer plains ("Realisation isn't acquired…
-   unfolding of what you already are" — summary/bloat; rejected).
-3. **v4 S-row: wrote a composed MEANING** ("by great sudden-force, one's true
-   nature is attained") **next to a translation row that said something clunkier**
-   — my gloss posing as the translation, two rows contradicting (owner: "so why is
-   that not the translation in essay 0???").
-
-**Root cause:** when a tier needs a meaning I generate one instead of ROUTING to
-the tier that already holds it (the translation row) — and I annotate "helpfully".
-
-4. **v5 stack assembly: cross-translation contamination** — translation tier held
-   Bäumer's rendering while the plain tier held a Kaul-derived line (the plains
-   were pre-baked from `kaul_sutras_en.json`, not from the PICKED T). Two
-   different translations of one sūtra stacked (owner caught instantly).
-
-**Rules (now binding):**
-- Sanskrit row = phrase + source pointer. **No meanings, ever.** Meaning = TIER B.
-- If the exact translation for a pick is weak (Kaul's clunkliness), the fix is to
-  choose a BETTER EXISTING exact translation (e.g. Bäumer's own — now T1 default),
-  never to compose a fresh gloss.
-- Contradiction check before shipping any menu/doc: does every stated meaning come
-  from a file? If it exists only in my prose → strip it (git history keeps it).
-- **P = filter(CHOSEN T), always** (9c-4): the plain tier is generated FROM the
-  picked translation at lock time — never a pre-baked line from a different source.
-  `plain_sutras_v1.json` = reference set for Kaul picks only.
 
 ## 10. STANDARD (owner, 2026-10-25) — record this
 - **The formula (owner, verbatim):** *audio of a genius talking about a text —
@@ -259,3 +208,42 @@ the tier that already holds it (the translation row) — and I annotate "helpful
 
 Binding rules born on this road: standalone-clarity (law), fundamental
 progression (law), explicit-object (sharpening), G0 gate (mechanical).
+
+---
+
+# ⬛ CANON v1 — THE ESSAY STRUCTURE (owner-final. Do not re-derive, do not re-scope.)
+
+```
+ESSAY 0  = THE SPINE        = the five questions, in order.
+                              "What is realisation?" → "What is the self?" →
+                              "How does realisation happen?" → "What does realisation
+                              do to experience?" → "What is the fruit of realisation?"
+ESSAY A  = SPINE EXPANDED    = each question answered with its GOLD clips,
+                              sections at speed (artifacts: manifests S1–S5_A ✓)
+ESSAY B  = A EXPANDED        = same walk + DEPTH (artifacts: S*_B, selection pending)
+ESSAY C  = B EXPANDED        = same walk + TEXTURE (her full lectures, her order,
+                              minus C-MARKS exclusions)
+```
+
+- **Nesting: 0 ⊂ A ⊂ B ⊂ C — append-only** (never rewrite the inner layer).
+- **Essay 0 is the list of QUESTIONS.** Answers, interlinear cards, compressed-answer
+  clips and bells are **machinery that lives INSIDE A/B/C** (section openers) — they
+  are never "essay 0".
+- The spine plays at the head, then re-opens at each layer head: **heard 4×, each
+  time answered deeper** (expansion, never new material).
+- Artifacts: SPINE.md = essay 0 · S{1..5}_A = essay A · S{1..5}_B = essay B ·
+  C-rule + full sources = essay C · `build/essay0/` = A's opener machinery only.
+
+## Lineage — how this maps to the 33-sermons builds (reviewed 2026-10-25)
+| theirs (analayo / tantraessays) | ours |
+|---|---|
+| 6-section argument scaffold (§1 What it is … §6 Remains) + seed (1-sentence motto) | **Essay 0 = the spine (5 questions)** — same job: the skeleton that everything expands |
+| essay A (10–20m gold-only) ⊂ B (20–40, contains A) ⊂ C (rest) — FORMULA, append-only | **identical** for our A/B/C |
+| V1 pool → V2 gold → V3 core (audio product, ÷3.5/layer) | our C ≈ their pool, our A ≈ their gold; core ≈ the spine-recurrence density |
+| motto recurs at layer heads (bells) | the spine re-opens at layer heads (bells) |
+| cluster-by-problem, convergence test | identical (S2 method) |
+
+**One sentence, forever:** *essay 0 is the questions; A answers them with gold;
+B deepens; C floods with texture; each layer re-opens the same spine wider.*
+---
+

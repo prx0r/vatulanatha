@@ -52,11 +52,11 @@ Thesis question: what does it mean that one's true nature is ATTAINED — and by
 - essay_use: The recognition-shaped core in one sentence
 
 ### vat1-06 — recognition bridge — cross-project hook (ph series) [A]
-- timestamp: 00:09:12-->00:09:39
+- timestamp: 00:09:20-->00:09:30
 - topics: recognition
 - role: claim
 - layer: explain
-- quote: "in the whole context of the philosophy of recognition it is a matter only of recognition and not of acquiring something which we are not"
+- quote: "it is a matter only of recognition and not of acquiring something which we are not"
 - context: Direct pratyabhijna tie: Vatulanatha read inside the recognition philosophy.
 - essay_use: Recognition bridge — cross-project hook (PH series)
 
@@ -78,15 +78,14 @@ Thesis question: what does it mean that one's true nature is ATTAINED — and by
 - context: Her structural claim (Brahma/Yoga/Siva sutra convention) — the text's own self-similarity, matches A-sub-B-sub-C.
 - essay_use: Fractal evidence from the source itself — document quote
 
-### vat1-09 — word-analysis fill (g1 gap 367→526s) [B]
-- timestamp: 00:06:07-->00:08:46
-- topics: praxis, nonduality
-- role: read_gap
+### vat1-09 — the master's definition of liberation [A]
+- timestamp: 00:07:44-->00:08:17
+- topics: recognition, nonduality
+- role: claim
 - layer: read
-- quote: "now i have understood in the sense of a mode"
-- context: COVERED-GAP: vṛtti word-analysis — vṛtti as mode/state; svarūpa across Kashmir Shaivism; Abhinavagupta's briefest definition of liberation (unfolding of true nature).
-- essay_use: Word-analysis fill (G1 gap 367→526s)
-
+- quote: "in the tantra abhinav gupta gives the briefest definition of liberation says what is it is the unfolding of france to nature this unfolding or revelation or expansion of the true nature"
+- context: Within her word-analysis: Abhinavagupta's briefest definition of liberation = unfolding/revelation/expansion of true nature (ASR garbles the middle — "france" — ear-check). REPURPOSED from G1 gap-filler + PROMOTED B→A (read-through 2026-10-25): this IS the section's definitional core; S1's A needed the master's definition to evolve beyond assertion.
+- essay_use: S1 evolution step 2 — the definition the seed unfolds from
 ### vat1-10 — commentary tail fill (g1 gap 625→807s) [B]
 - timestamp: 00:10:25-->00:13:27
 - topics: grace, nonduality

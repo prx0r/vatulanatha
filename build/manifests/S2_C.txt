@@ -1,6 +1,5 @@
 # S2 What is the self? — C (near-complete)
-# = A+B below (append-only superset) PLUS texture:
-#   full sources in HER order minus C-marked windows (excavations/C-MARKS.md)
+# = A+B PLUS texture: full sources HER order minus C-MARKS
 # uid	start	end	grade	mp3
 vat2-03	159	184	B	Vatulanatha_Sutra_2 [mHTSwh7PTDg].mp3
 vat2-02	192	213	A	Vatulanatha_Sutra_2 [mHTSwh7PTDg].mp3
