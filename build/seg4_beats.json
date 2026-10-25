@@ -1,0 +1,839 @@
+[
+ {
+  "seq": 0,
+  "kind": "section-opener",
+  "section": "S4",
+  "question": "What does realisation do to experience?",
+  "pause_breaths": 2,
+  "text": {
+   "source": "text/kaul_sutras_en.json#10",
+   "verbatim": "The play of the big rays follows the emanation of the twelve currents."
+  },
+  "plain": {
+   "source": "build/plain_sutras_v1.json#10",
+   "line": "The play of the big rays follows the emanation of the twelve currents.",
+   "tts_line": "The play of the big rays follows the emanation of the twelve currents."
+  },
+  "audio": {
+   "file": null,
+   "note": "section compressed answer — audio = anchor unit window at manifest stage"
+  },
+  "provenance": {
+   "text": "kaul_sutras_en",
+   "plain": "fish_filter_vatula",
+   "question": "HUMAN/spine-S4"
+  }
+ },
+ {
+  "seq": 1,
+  "kind": "unit",
+  "section": "S4",
+  "question": "What does realisation do to experience?",
+  "text": {
+   "source": "text/kaul_sutras_en.json#4",
+   "verbatim": "The firm stay in the universal consciousness is brought about by the destruction of the couple."
+  },
+  "plain": {
+   "source": "build/plain_sutras_v1.json#4",
+   "line": "The firm stay in the universal consciousness is brought about by the destruction of the couple.",
+   "tts_line": "The firm stay in the universal consciousness is brought about by the destruction of the couple."
+  },
+  "audio": {
+   "file": null,
+   "uid": "vat4-07",
+   "grade": "B",
+   "start": 190,
+   "end": 298
+  },
+  "unit_title": "examples fill (g1 gap 190→299s)",
+  "provenance": {
+   "quote": "excavations/vat4.md",
+   "text": "kaul_sutras_en",
+   "plain": "fish_filter_vatula"
+  }
+ },
+ {
+  "seq": 2,
+  "kind": "unit",
+  "section": "S4",
+  "question": "What does realisation do to experience?",
+  "text": {
+   "source": "text/kaul_sutras_en.json#7",
+   "verbatim": "In all the manifestations of appearance and disappearance of the four forms of utterance, the sound alone glories."
+  },
+  "plain": {
+   "source": "build/plain_sutras_v1.json#7",
+   "line": "In all the manifestations of appearance and disappearance of the four forms of utterance, the sound alone glories.",
+   "tts_line": "In all the manifestations of appearance and disappearance of the four forms of utterance, the sound alone glories."
+  },
+  "audio": {
+   "file": null,
+   "uid": "vat7-01",
+   "grade": "B",
+   "start": 48,
+   "end": 70
+  },
+  "unit_title": "sūtra card audio for the speech section",
+  "provenance": {
+   "quote": "excavations/vat7.md",
+   "text": "kaul_sutras_en",
+   "plain": "fish_filter_vatula"
+  }
+ },
+ {
+  "seq": 3,
+  "kind": "unit",
+  "section": "S4",
+  "question": "What does realisation do to experience?",
+  "text": {
+   "source": "text/kaul_sutras_en.json#7",
+   "verbatim": "In all the manifestations of appearance and disappearance of the four forms of utterance, the sound alone glories."
+  },
+  "plain": {
+   "source": "build/plain_sutras_v1.json#7",
+   "line": "In all the manifestations of appearance and disappearance of the four forms of utterance, the sound alone glories.",
+   "tts_line": "In all the manifestations of appearance and disappearance of the four forms of utterance, the sound alone glories."
+  },
+  "audio": {
+   "file": null,
+   "uid": "vat7-02",
+   "grade": "A",
+   "start": 337,
+   "end": 360
+  },
+  "unit_title": "the sound-map — the section's key taxonomy",
+  "provenance": {
+   "quote": "excavations/vat7.md",
+   "text": "kaul_sutras_en",
+   "plain": "fish_filter_vatula"
+  }
+ },
+ {
+  "seq": 4,
+  "kind": "unit",
+  "section": "S4",
+  "question": "What does realisation do to experience?",
+  "text": {
+   "source": "text/kaul_sutras_en.json#7",
+   "verbatim": "In all the manifestations of appearance and disappearance of the four forms of utterance, the sound alone glories."
+  },
+  "plain": {
+   "source": "build/plain_sutras_v1.json#7",
+   "line": "In all the manifestations of appearance and disappearance of the four forms of utterance, the sound alone glories.",
+   "tts_line": "In all the manifestations of appearance and disappearance of the four forms of utterance, the sound alone glories."
+  },
+  "audio": {
+   "file": null,
+   "uid": "vat7-03",
+   "grade": "B",
+   "start": 360,
+   "end": 396
+  },
+  "unit_title": "swamiji's practice gloss — b",
+  "provenance": {
+   "quote": "excavations/vat7.md",
+   "text": "kaul_sutras_en",
+   "plain": "fish_filter_vatula"
+  }
+ },
+ {
+  "seq": 5,
+  "kind": "unit",
+  "section": "S4",
+  "question": "What does realisation do to experience?",
+  "text": {
+   "source": "text/kaul_sutras_en.json#7",
+   "verbatim": "In all the manifestations of appearance and disappearance of the four forms of utterance, the sound alone glories."
+  },
+  "plain": {
+   "source": "build/plain_sutras_v1.json#7",
+   "line": "In all the manifestations of appearance and disappearance of the four forms of utterance, the sound alone glories.",
+   "tts_line": "In all the manifestations of appearance and disappearance of the four forms of utterance, the sound alone glories."
+  },
+  "audio": {
+   "file": null,
+   "uid": "vat7-04",
+   "grade": "A",
+   "start": 462,
+   "end": 482
+  },
+  "unit_title": "the practice of sūtra 7 — awareness at word-edges",
+  "provenance": {
+   "quote": "excavations/vat7.md",
+   "text": "kaul_sutras_en",
+   "plain": "fish_filter_vatula"
+  }
+ },
+ {
+  "seq": 6,
+  "kind": "unit",
+  "section": "S4",
+  "question": "What does realisation do to experience?",
+  "text": {
+   "source": "text/kaul_sutras_en.json#7",
+   "verbatim": "In all the manifestations of appearance and disappearance of the four forms of utterance, the sound alone glories."
+  },
+  "plain": {
+   "source": "build/plain_sutras_v1.json#7",
+   "line": "In all the manifestations of appearance and disappearance of the four forms of utterance, the sound alone glories.",
+   "tts_line": "In all the manifestations of appearance and disappearance of the four forms of utterance, the sound alone glories."
+  },
+  "audio": {
+   "file": null,
+   "uid": "vat7-05",
+   "grade": "B",
+   "start": 491,
+   "end": 525
+  },
+  "unit_title": "simile trio — b depth (visual/shorts material)",
+  "provenance": {
+   "quote": "excavations/vat7.md",
+   "text": "kaul_sutras_en",
+   "plain": "fish_filter_vatula"
+  }
+ },
+ {
+  "seq": 7,
+  "kind": "unit",
+  "section": "S4",
+  "question": "What does realisation do to experience?",
+  "text": {
+   "source": "text/kaul_sutras_en.json#7",
+   "verbatim": "In all the manifestations of appearance and disappearance of the four forms of utterance, the sound alone glories."
+  },
+  "plain": {
+   "source": "build/plain_sutras_v1.json#7",
+   "line": "In all the manifestations of appearance and disappearance of the four forms of utterance, the sound alone glories.",
+   "tts_line": "In all the manifestations of appearance and disappearance of the four forms of utterance, the sound alone glories."
+  },
+  "audio": {
+   "file": null,
+   "uid": "vat7-06",
+   "grade": "B",
+   "start": 525,
+   "end": 540
+  },
+  "unit_title": "the musician close — texture",
+  "provenance": {
+   "quote": "excavations/vat7.md",
+   "text": "kaul_sutras_en",
+   "plain": "fish_filter_vatula"
+  }
+ },
+ {
+  "seq": 8,
+  "kind": "unit",
+  "section": "S4",
+  "question": "What does realisation do to experience?",
+  "text": {
+   "source": "text/kaul_sutras_en.json#7",
+   "verbatim": "In all the manifestations of appearance and disappearance of the four forms of utterance, the sound alone glories."
+  },
+  "plain": {
+   "source": "build/plain_sutras_v1.json#7",
+   "line": "In all the manifestations of appearance and disappearance of the four forms of utterance, the sound alone glories.",
+   "tts_line": "In all the manifestations of appearance and disappearance of the four forms of utterance, the sound alone glories."
+  },
+  "audio": {
+   "file": null,
+   "uid": "vat7-07",
+   "grade": "B",
+   "start": 70,
+   "end": 337
+  },
+  "unit_title": "four-speeches commentary read (g1 gap 70→337s)",
+  "provenance": {
+   "quote": "excavations/vat7.md",
+   "text": "kaul_sutras_en",
+   "plain": "fish_filter_vatula"
+  }
+ },
+ {
+  "seq": 9,
+  "kind": "unit",
+  "section": "S4",
+  "question": "What does realisation do to experience?",
+  "text": {
+   "source": "text/kaul_sutras_en.json#7",
+   "verbatim": "In all the manifestations of appearance and disappearance of the four forms of utterance, the sound alone glories."
+  },
+  "plain": {
+   "source": "build/plain_sutras_v1.json#7",
+   "line": "In all the manifestations of appearance and disappearance of the four forms of utterance, the sound alone glories.",
+   "tts_line": "In all the manifestations of appearance and disappearance of the four forms of utterance, the sound alone glories."
+  },
+  "audio": {
+   "file": null,
+   "uid": "vat7-08",
+   "grade": "B",
+   "start": 396,
+   "end": 462
+  },
+  "unit_title": "gravity-of-speech claim (g1 gap 396→462s)",
+  "provenance": {
+   "quote": "excavations/vat7.md",
+   "text": "kaul_sutras_en",
+   "plain": "fish_filter_vatula"
+  }
+ },
+ {
+  "seq": 10,
+  "kind": "unit",
+  "section": "S4",
+  "question": "What does realisation do to experience?",
+  "text": {
+   "source": "text/kaul_sutras_en.json#9",
+   "verbatim": "Permanence of the immersion in the real self takes place for ever by the full development of the four deities."
+  },
+  "plain": {
+   "source": "build/plain_sutras_v1.json#9",
+   "line": "Permanence of the immersion in the real self takes place for ever by the full development of the four deities.",
+   "tts_line": "Permanence of the immersion in the real self takes place for ever by the full development of the four deities."
+  },
+  "audio": {
+   "file": null,
+   "uid": "vat9-01",
+   "grade": "B",
+   "start": 3,
+   "end": 46
+  },
+  "unit_title": "hinge 8→9 (four deities)",
+  "provenance": {
+   "quote": "excavations/vat9.md",
+   "text": "kaul_sutras_en",
+   "plain": "fish_filter_vatula"
+  }
+ },
+ {
+  "seq": 11,
+  "kind": "unit",
+  "section": "S4",
+  "question": "What does realisation do to experience?",
+  "text": {
+   "source": "text/kaul_sutras_en.json#9",
+   "verbatim": "Permanence of the immersion in the real self takes place for ever by the full development of the four deities."
+  },
+  "plain": {
+   "source": "build/plain_sutras_v1.json#9",
+   "line": "Permanence of the immersion in the real self takes place for ever by the full development of the four deities.",
+   "tts_line": "Permanence of the immersion in the real self takes place for ever by the full development of the four deities."
+  },
+  "audio": {
+   "file": null,
+   "uid": "vat9-03",
+   "grade": "B",
+   "start": 113,
+   "end": 214
+  },
+  "unit_title": "four-deities mapping — b depth",
+  "provenance": {
+   "quote": "excavations/vat9.md",
+   "text": "kaul_sutras_en",
+   "plain": "fish_filter_vatula"
+  }
+ },
+ {
+  "seq": 12,
+  "kind": "unit",
+  "section": "S4",
+  "question": "What does realisation do to experience?",
+  "text": {
+   "source": "text/kaul_sutras_en.json#9",
+   "verbatim": "Permanence of the immersion in the real self takes place for ever by the full development of the four deities."
+  },
+  "plain": {
+   "source": "build/plain_sutras_v1.json#9",
+   "line": "Permanence of the immersion in the real self takes place for ever by the full development of the four deities.",
+   "tts_line": "Permanence of the immersion in the real self takes place for ever by the full development of the four deities."
+  },
+  "audio": {
+   "file": null,
+   "uid": "vat9-04",
+   "grade": "B",
+   "start": 214,
+   "end": 259
+  },
+  "unit_title": "the diction note — texture (unique-text claim)",
+  "provenance": {
+   "quote": "excavations/vat9.md",
+   "text": "kaul_sutras_en",
+   "plain": "fish_filter_vatula"
+  }
+ },
+ {
+  "seq": 13,
+  "kind": "unit",
+  "section": "S4",
+  "question": "What does realisation do to experience?",
+  "text": {
+   "source": "text/kaul_sutras_en.json#9",
+   "verbatim": "Permanence of the immersion in the real self takes place for ever by the full development of the four deities."
+  },
+  "plain": {
+   "source": "build/plain_sutras_v1.json#9",
+   "line": "Permanence of the immersion in the real self takes place for ever by the full development of the four deities.",
+   "tts_line": "Permanence of the immersion in the real self takes place for ever by the full development of the four deities."
+  },
+  "audio": {
+   "file": null,
+   "uid": "vat9-05",
+   "grade": "B",
+   "start": 300,
+   "end": 346
+  },
+  "unit_title": "closing formula of the commentary",
+  "provenance": {
+   "quote": "excavations/vat9.md",
+   "text": "kaul_sutras_en",
+   "plain": "fish_filter_vatula"
+  }
+ },
+ {
+  "seq": 14,
+  "kind": "unit",
+  "section": "S4",
+  "question": "What does realisation do to experience?",
+  "text": {
+   "source": "text/kaul_sutras_en.json#9",
+   "verbatim": "Permanence of the immersion in the real self takes place for ever by the full development of the four deities."
+  },
+  "plain": {
+   "source": "build/plain_sutras_v1.json#9",
+   "line": "Permanence of the immersion in the real self takes place for ever by the full development of the four deities.",
+   "tts_line": "Permanence of the immersion in the real self takes place for ever by the full development of the four deities."
+  },
+  "audio": {
+   "file": null,
+   "uid": "vat9-06",
+   "grade": "B",
+   "start": 259,
+   "end": 290
+  },
+  "unit_title": "swamiji four-energies translation (g1 gap 259→300s)",
+  "provenance": {
+   "quote": "excavations/vat9.md",
+   "text": "kaul_sutras_en",
+   "plain": "fish_filter_vatula"
+  }
+ },
+ {
+  "seq": 15,
+  "kind": "unit",
+  "section": "S4",
+  "question": "What does realisation do to experience?",
+  "text": {
+   "source": "text/kaul_sutras_en.json#10",
+   "verbatim": "The play of the big rays follows the emanation of the twelve currents."
+  },
+  "plain": {
+   "source": "build/plain_sutras_v1.json#10",
+   "line": "The play of the big rays follows the emanation of the twelve currents.",
+   "tts_line": "The play of the big rays follows the emanation of the twelve currents."
+  },
+  "audio": {
+   "file": null,
+   "uid": "vat10-01",
+   "grade": "B",
+   "start": 6,
+   "end": 29
+  },
+  "unit_title": "thesis line for methodless-conduct material",
+  "provenance": {
+   "quote": "excavations/vat10.md",
+   "text": "kaul_sutras_en",
+   "plain": "fish_filter_vatula"
+  }
+ },
+ {
+  "seq": 16,
+  "kind": "unit",
+  "section": "S4",
+  "question": "What does realisation do to experience?",
+  "text": {
+   "source": "text/kaul_sutras_en.json#10",
+   "verbatim": "The play of the big rays follows the emanation of the twelve currents."
+  },
+  "plain": {
+   "source": "build/plain_sutras_v1.json#10",
+   "line": "The play of the big rays follows the emanation of the twelve currents.",
+   "tts_line": "The play of the big rays follows the emanation of the twelve currents."
+  },
+  "audio": {
+   "file": null,
+   "uid": "vat10-02",
+   "grade": "B",
+   "start": 35,
+   "end": 69
+  },
+  "unit_title": "section opener",
+  "provenance": {
+   "quote": "excavations/vat10.md",
+   "text": "kaul_sutras_en",
+   "plain": "fish_filter_vatula"
+  }
+ },
+ {
+  "seq": 17,
+  "kind": "unit",
+  "section": "S4",
+  "question": "What does realisation do to experience?",
+  "text": {
+   "source": "text/kaul_sutras_en.json#10",
+   "verbatim": "The play of the big rays follows the emanation of the twelve currents."
+  },
+  "plain": {
+   "source": "build/plain_sutras_v1.json#10",
+   "line": "The play of the big rays follows the emanation of the twelve currents.",
+   "tts_line": "The play of the big rays follows the emanation of the twelve currents."
+  },
+  "audio": {
+   "file": null,
+   "uid": "vat10-04",
+   "grade": "B",
+   "start": 108,
+   "end": 160
+  },
+  "unit_title": "krama five-phases depth for b",
+  "provenance": {
+   "quote": "excavations/vat10.md",
+   "text": "kaul_sutras_en",
+   "plain": "fish_filter_vatula"
+  }
+ },
+ {
+  "seq": 18,
+  "kind": "unit",
+  "section": "S4",
+  "question": "What does realisation do to experience?",
+  "text": {
+   "source": "text/kaul_sutras_en.json#10",
+   "verbatim": "The play of the big rays follows the emanation of the twelve currents."
+  },
+  "plain": {
+   "source": "build/plain_sutras_v1.json#10",
+   "line": "The play of the big rays follows the emanation of the twelve currents.",
+   "tts_line": "The play of the big rays follows the emanation of the twelve currents."
+  },
+  "audio": {
+   "file": null,
+   "uid": "vat10-05",
+   "grade": "B",
+   "start": 226,
+   "end": 295
+  },
+  "unit_title": "swamiji's transformation quote — b spine",
+  "provenance": {
+   "quote": "excavations/vat10.md",
+   "text": "kaul_sutras_en",
+   "plain": "fish_filter_vatula"
+  }
+ },
+ {
+  "seq": 19,
+  "kind": "unit",
+  "section": "S4",
+  "question": "What does realisation do to experience?",
+  "text": {
+   "source": "text/kaul_sutras_en.json#10",
+   "verbatim": "The play of the big rays follows the emanation of the twelve currents."
+  },
+  "plain": {
+   "source": "build/plain_sutras_v1.json#10",
+   "line": "The play of the big rays follows the emanation of the twelve currents.",
+   "tts_line": "The play of the big rays follows the emanation of the twelve currents."
+  },
+  "audio": {
+   "file": null,
+   "uid": "vat10-06",
+   "grade": "B",
+   "start": 311,
+   "end": 359
+  },
+  "unit_title": "upanishad anchor — b middle",
+  "provenance": {
+   "quote": "excavations/vat10.md",
+   "text": "kaul_sutras_en",
+   "plain": "fish_filter_vatula"
+  }
+ },
+ {
+  "seq": 20,
+  "kind": "unit",
+  "section": "S4",
+  "question": "What does realisation do to experience?",
+  "text": {
+   "source": "text/kaul_sutras_en.json#10",
+   "verbatim": "The play of the big rays follows the emanation of the twelve currents."
+  },
+  "plain": {
+   "source": "build/plain_sutras_v1.json#10",
+   "line": "The play of the big rays follows the emanation of the twelve currents.",
+   "tts_line": "The play of the big rays follows the emanation of the twelve currents."
+  },
+  "audio": {
+   "file": null,
+   "uid": "vat10-07",
+   "grade": "A",
+   "start": 375,
+   "end": 408
+  },
+  "unit_title": "the radiance payoff — conduct-material a",
+  "provenance": {
+   "quote": "excavations/vat10.md",
+   "text": "kaul_sutras_en",
+   "plain": "fish_filter_vatula"
+  }
+ },
+ {
+  "seq": 21,
+  "kind": "unit",
+  "section": "S4",
+  "question": "What does realisation do to experience?",
+  "text": {
+   "source": "text/kaul_sutras_en.json#10",
+   "verbatim": "The play of the big rays follows the emanation of the twelve currents."
+  },
+  "plain": {
+   "source": "build/plain_sutras_v1.json#10",
+   "line": "The play of the big rays follows the emanation of the twelve currents.",
+   "tts_line": "The play of the big rays follows the emanation of the twelve currents."
+  },
+  "audio": {
+   "file": null,
+   "uid": "vat10-08",
+   "grade": "B",
+   "start": 160,
+   "end": 226
+  },
+  "unit_title": "mahāvākya claim (g1 gap 160→226s)",
+  "provenance": {
+   "quote": "excavations/vat10.md",
+   "text": "kaul_sutras_en",
+   "plain": "fish_filter_vatula"
+  }
+ },
+ {
+  "seq": 22,
+  "kind": "unit",
+  "section": "S4",
+  "question": "What does realisation do to experience?",
+  "text": {
+   "source": "text/kaul_sutras_en.json#11",
+   "verbatim": "On the full play of the five functions, the ungraded inspiration takes place."
+  },
+  "plain": {
+   "source": "build/plain_sutras_v1.json#11",
+   "line": "On the full play of the five functions, the ungraded inspiration takes place.",
+   "tts_line": "On the full play of the five functions, the ungraded inspiration takes place."
+  },
+  "audio": {
+   "file": null,
+   "uid": "vat11-01",
+   "grade": "B",
+   "start": 5,
+   "end": 84
+  },
+  "unit_title": "frame: the siddha's standpoint",
+  "provenance": {
+   "quote": "excavations/vat11.md",
+   "text": "kaul_sutras_en",
+   "plain": "fish_filter_vatula"
+  }
+ },
+ {
+  "seq": 23,
+  "kind": "unit",
+  "section": "S4",
+  "question": "What does realisation do to experience?",
+  "text": {
+   "source": "text/kaul_sutras_en.json#11",
+   "verbatim": "On the full play of the five functions, the ungraded inspiration takes place."
+  },
+  "plain": {
+   "source": "build/plain_sutras_v1.json#11",
+   "line": "On the full play of the five functions, the ungraded inspiration takes place.",
+   "tts_line": "On the full play of the five functions, the ungraded inspiration takes place."
+  },
+  "audio": {
+   "file": null,
+   "uid": "vat11-03",
+   "grade": "B",
+   "start": 175,
+   "end": 286
+  },
+  "unit_title": "five-modes detail — b depth",
+  "provenance": {
+   "quote": "excavations/vat11.md",
+   "text": "kaul_sutras_en",
+   "plain": "fish_filter_vatula"
+  }
+ },
+ {
+  "seq": 24,
+  "kind": "unit",
+  "section": "S4",
+  "question": "What does realisation do to experience?",
+  "text": {
+   "source": "text/kaul_sutras_en.json#11",
+   "verbatim": "On the full play of the five functions, the ungraded inspiration takes place."
+  },
+  "plain": {
+   "source": "build/plain_sutras_v1.json#11",
+   "line": "On the full play of the five functions, the ungraded inspiration takes place.",
+   "tts_line": "On the full play of the five functions, the ungraded inspiration takes place."
+  },
+  "audio": {
+   "file": null,
+   "uid": "vat11-04",
+   "grade": "B",
+   "start": 289,
+   "end": 324
+  },
+  "unit_title": "swamiji's charyā definition",
+  "provenance": {
+   "quote": "excavations/vat11.md",
+   "text": "kaul_sutras_en",
+   "plain": "fish_filter_vatula"
+  }
+ },
+ {
+  "seq": 25,
+  "kind": "unit",
+  "section": "S4",
+  "question": "What does realisation do to experience?",
+  "text": {
+   "source": "text/kaul_sutras_en.json#11",
+   "verbatim": "On the full play of the five functions, the ungraded inspiration takes place."
+  },
+  "plain": {
+   "source": "build/plain_sutras_v1.json#11",
+   "line": "On the full play of the five functions, the ungraded inspiration takes place.",
+   "tts_line": "On the full play of the five functions, the ungraded inspiration takes place."
+  },
+  "audio": {
+   "file": null,
+   "uid": "vat11-05",
+   "grade": "B",
+   "start": 405,
+   "end": 425
+  },
+  "unit_title": "spanda-not-static — b (ties śiva sūtra 1.5)",
+  "provenance": {
+   "quote": "excavations/vat11.md",
+   "text": "kaul_sutras_en",
+   "plain": "fish_filter_vatula"
+  }
+ },
+ {
+  "seq": 26,
+  "kind": "unit",
+  "section": "S4",
+  "question": "What does realisation do to experience?",
+  "text": {
+   "source": "text/kaul_sutras_en.json#11",
+   "verbatim": "On the full play of the five functions, the ungraded inspiration takes place."
+  },
+  "plain": {
+   "source": "build/plain_sutras_v1.json#11",
+   "line": "On the full play of the five functions, the ungraded inspiration takes place.",
+   "tts_line": "On the full play of the five functions, the ungraded inspiration takes place."
+  },
+  "audio": {
+   "file": null,
+   "uid": "vat11-06",
+   "grade": "B",
+   "start": 84,
+   "end": 148
+  },
+  "unit_title": "five-natures list (g1 gap 84→148s)",
+  "provenance": {
+   "quote": "excavations/vat11.md",
+   "text": "kaul_sutras_en",
+   "plain": "fish_filter_vatula"
+  }
+ },
+ {
+  "seq": 27,
+  "kind": "unit",
+  "section": "S4",
+  "question": "What does realisation do to experience?",
+  "text": {
+   "source": "text/kaul_sutras_en.json#13",
+   "verbatim": "The attainment of the unity takes place, through the acquisition of the mudra of great wonderment, by virtue of the concentration on the real nature."
+  },
+  "plain": {
+   "source": "build/plain_sutras_v1.json#13",
+   "line": "The attainment of the unity takes place, through the acquisition of the mudra of great wonderment, by virtue of the concentration on the real nature.",
+   "tts_line": "The attainment of the unity takes place, through the acquisition of the mudra of great wonderment, by virtue of the concentration on the real nature."
+  },
+  "audio": {
+   "file": null,
+   "uid": "vat13-03",
+   "grade": "B",
+   "start": 164,
+   "end": 194
+  },
+  "unit_title": "speech cosmology — b depth for the speech slot",
+  "provenance": {
+   "quote": "excavations/vat13.md",
+   "text": "kaul_sutras_en",
+   "plain": "fish_filter_vatula"
+  }
+ },
+ {
+  "seq": 28,
+  "kind": "unit",
+  "section": "S4",
+  "question": "What does realisation do to experience?",
+  "text": {
+   "source": "text/kaul_sutras_en.json#13",
+   "verbatim": "The attainment of the unity takes place, through the acquisition of the mudra of great wonderment, by virtue of the concentration on the real nature."
+  },
+  "plain": {
+   "source": "build/plain_sutras_v1.json#13",
+   "line": "The attainment of the unity takes place, through the acquisition of the mudra of great wonderment, by virtue of the concentration on the real nature.",
+   "tts_line": "The attainment of the unity takes place, through the acquisition of the mudra of great wonderment, by virtue of the concentration on the real nature."
+  },
+  "audio": {
+   "file": null,
+   "uid": "vat13-05",
+   "grade": "B",
+   "start": 704,
+   "end": 718
+  },
+  "unit_title": "swamiji's sūtra rendering — b spine",
+  "provenance": {
+   "quote": "excavations/vat13.md",
+   "text": "kaul_sutras_en",
+   "plain": "fish_filter_vatula"
+  }
+ },
+ {
+  "seq": 29,
+  "kind": "unit",
+  "section": "S4",
+  "question": "What does realisation do to experience?",
+  "text": {
+   "source": "text/kaul_sutras_en.json#13",
+   "verbatim": "The attainment of the unity takes place, through the acquisition of the mudra of great wonderment, by virtue of the concentration on the real nature."
+  },
+  "plain": {
+   "source": "build/plain_sutras_v1.json#13",
+   "line": "The attainment of the unity takes place, through the acquisition of the mudra of great wonderment, by virtue of the concentration on the real nature.",
+   "tts_line": "The attainment of the unity takes place, through the acquisition of the mudra of great wonderment, by virtue of the concentration on the real nature."
+  },
+  "audio": {
+   "file": null,
+   "uid": "vat13-07",
+   "grade": "B",
+   "start": 194,
+   "end": 400
+  },
+  "unit_title": "sūtra-13 middle read (g1 gap 194→600s)",
+  "provenance": {
+   "quote": "excavations/vat13.md",
+   "text": "kaul_sutras_en",
+   "plain": "fish_filter_vatula"
+  }
+ }
+]

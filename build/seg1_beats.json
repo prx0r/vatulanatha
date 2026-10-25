@@ -40,7 +40,8 @@
    "file": "Vatulanatha_Sutra_1 [ZrTkwSh3GRE].mp3",
    "uid": "vat1-05",
    "grade": "A",
-   "note": "start/end resolve from excavation timestamp at manifest stage"
+   "start": 526,
+   "end": 552
   },
   "unit_title": "the recognition-shaped core in one sentence",
   "provenance": {
@@ -66,7 +67,8 @@
    "file": "Vatulanatha_Sutra_1 [ZrTkwSh3GRE].mp3",
    "uid": "vat1-06",
    "grade": "A",
-   "note": "start/end resolve from excavation timestamp at manifest stage"
+   "start": 552,
+   "end": 579
   },
   "unit_title": "recognition bridge — cross-project hook (ph series)",
   "provenance": {
@@ -92,7 +94,8 @@
    "file": "Vatulanatha_Sutra_1 [ZrTkwSh3GRE].mp3",
    "uid": "vat1-08",
    "grade": "B",
-   "note": "start/end resolve from excavation timestamp at manifest stage"
+   "start": 807,
+   "end": 840
   },
   "unit_title": "fractal evidence from the source itself — document quote",
   "provenance": {
@@ -118,7 +121,8 @@
    "file": "Vatulanatha_Sutra_1 [ZrTkwSh3GRE].mp3",
    "uid": "vat1-09",
    "grade": "B",
-   "note": "start/end resolve from excavation timestamp at manifest stage"
+   "start": 367,
+   "end": 526
   },
   "unit_title": "word-analysis fill (g1 gap 367→526s)",
   "provenance": {
@@ -144,7 +148,8 @@
    "file": "Vatulanatha_Sutra_9 [HNyggIvPzEQ].mp3",
    "uid": "vat9-02",
    "grade": "A",
-   "note": "start/end resolve from excavation timestamp at manifest stage"
+   "start": 55,
+   "end": 113
   },
   "unit_title": "the resting-in-own-being line (matches 42-hit vocabulary)",
   "provenance": {
@@ -170,7 +175,8 @@
    "file": "Vatulanatha_Sutra_13 [_p--mXPt-pk].mp3",
    "uid": "vat13-04",
    "grade": "B",
-   "note": "start/end resolve from excavation timestamp at manifest stage"
+   "start": 600,
+   "end": 628
   },
   "unit_title": "self-claim: the whole tradition in 13 sūtras",
   "provenance": {

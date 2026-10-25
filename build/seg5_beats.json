@@ -1,0 +1,223 @@
+[
+ {
+  "seq": 0,
+  "kind": "section-opener",
+  "section": "S5",
+  "question": "What is the fruit of realisation?",
+  "pause_breaths": 2,
+  "text": {
+   "source": "text/kaul_sutras_en.json#13",
+   "verbatim": "The attainment of the unity takes place, through the acquisition of the mudra of great wonderment, by virtue of the concentration on the real nature."
+  },
+  "plain": {
+   "source": "build/plain_sutras_v1.json#13",
+   "line": "The attainment of the unity takes place, through the acquisition of the mudra of great wonderment, by virtue of the concentration on the real nature.",
+   "tts_line": "The attainment of the unity takes place, through the acquisition of the mudra of great wonderment, by virtue of the concentration on the real nature."
+  },
+  "audio": {
+   "file": null,
+   "note": "section compressed answer — audio = anchor unit window at manifest stage"
+  },
+  "provenance": {
+   "text": "kaul_sutras_en",
+   "plain": "fish_filter_vatula",
+   "question": "HUMAN/spine-S5"
+  }
+ },
+ {
+  "seq": 1,
+  "kind": "unit",
+  "section": "S5",
+  "question": "What is the fruit of realisation?",
+  "text": {
+   "source": "text/kaul_sutras_en.json#12",
+   "verbatim": "Release from merit and demerit accompanies the inspiration of the great enlightenment."
+  },
+  "plain": {
+   "source": "build/plain_sutras_v1.json#12",
+   "line": "Release from merit and demerit accompanies the inspiration of the great enlightenment.",
+   "tts_line": "Release from merit and demerit accompanies the inspiration of the great enlightenment."
+  },
+  "audio": {
+   "file": null,
+   "uid": "vat12-02",
+   "grade": "A",
+   "start": 198,
+   "end": 237
+  },
+  "unit_title": "rebirth line + mahamukti — dual-hook clip (grace + rebirth p",
+  "provenance": {
+   "quote": "excavations/vat12.md",
+   "text": "kaul_sutras_en",
+   "plain": "fish_filter_vatula"
+  }
+ },
+ {
+  "seq": 2,
+  "kind": "unit",
+  "section": "S5",
+  "question": "What is the fruit of realisation?",
+  "text": {
+   "source": "text/kaul_sutras_en.json#12",
+   "verbatim": "Release from merit and demerit accompanies the inspiration of the great enlightenment."
+  },
+  "plain": {
+   "source": "build/plain_sutras_v1.json#12",
+   "line": "Release from merit and demerit accompanies the inspiration of the great enlightenment.",
+   "tts_line": "Release from merit and demerit accompanies the inspiration of the great enlightenment."
+  },
+  "audio": {
+   "file": null,
+   "uid": "vat12-04",
+   "grade": "A",
+   "start": 291,
+   "end": 366
+  },
+  "unit_title": "the twin — ignorance vs gnosis look identical (grace ethics ",
+  "provenance": {
+   "quote": "excavations/vat12.md",
+   "text": "kaul_sutras_en",
+   "plain": "fish_filter_vatula"
+  }
+ },
+ {
+  "seq": 3,
+  "kind": "unit",
+  "section": "S5",
+  "question": "What is the fruit of realisation?",
+  "text": {
+   "source": "text/kaul_sutras_en.json#12",
+   "verbatim": "Release from merit and demerit accompanies the inspiration of the great enlightenment."
+  },
+  "plain": {
+   "source": "build/plain_sutras_v1.json#12",
+   "line": "Release from merit and demerit accompanies the inspiration of the great enlightenment.",
+   "tts_line": "Release from merit and demerit accompanies the inspiration of the great enlightenment."
+  },
+  "audio": {
+   "file": null,
+   "uid": "vat12-05",
+   "grade": "B",
+   "start": 369,
+   "end": 390
+  },
+  "unit_title": "loop-opener into vat13 — open-loop pair per 11-stickiness",
+  "provenance": {
+   "quote": "excavations/vat12.md",
+   "text": "kaul_sutras_en",
+   "plain": "fish_filter_vatula"
+  }
+ },
+ {
+  "seq": 4,
+  "kind": "unit",
+  "section": "S5",
+  "question": "What is the fruit of realisation?",
+  "text": {
+   "source": "text/kaul_sutras_en.json#12",
+   "verbatim": "Release from merit and demerit accompanies the inspiration of the great enlightenment."
+  },
+  "plain": {
+   "source": "build/plain_sutras_v1.json#12",
+   "line": "Release from merit and demerit accompanies the inspiration of the great enlightenment.",
+   "tts_line": "Release from merit and demerit accompanies the inspiration of the great enlightenment."
+  },
+  "audio": {
+   "file": null,
+   "uid": "vat12-06",
+   "grade": "B",
+   "start": 55,
+   "end": 198
+  },
+  "unit_title": "intro-read fill (g1 gap 55→198s)",
+  "provenance": {
+   "quote": "excavations/vat12.md",
+   "text": "kaul_sutras_en",
+   "plain": "fish_filter_vatula"
+  }
+ },
+ {
+  "seq": 5,
+  "kind": "unit",
+  "section": "S5",
+  "question": "What is the fruit of realisation?",
+  "text": {
+   "source": "text/kaul_sutras_en.json#13",
+   "verbatim": "The attainment of the unity takes place, through the acquisition of the mudra of great wonderment, by virtue of the concentration on the real nature."
+  },
+  "plain": {
+   "source": "build/plain_sutras_v1.json#13",
+   "line": "The attainment of the unity takes place, through the acquisition of the mudra of great wonderment, by virtue of the concentration on the real nature.",
+   "tts_line": "The attainment of the unity takes place, through the acquisition of the mudra of great wonderment, by virtue of the concentration on the real nature."
+  },
+  "audio": {
+   "file": null,
+   "uid": "vat13-01",
+   "grade": "A",
+   "start": 79,
+   "end": 129
+  },
+  "unit_title": "the close-slot thesis — silence not empty",
+  "provenance": {
+   "quote": "excavations/vat13.md",
+   "text": "kaul_sutras_en",
+   "plain": "fish_filter_vatula"
+  }
+ },
+ {
+  "seq": 6,
+  "kind": "unit",
+  "section": "S5",
+  "question": "What is the fruit of realisation?",
+  "text": {
+   "source": "text/kaul_sutras_en.json#13",
+   "verbatim": "The attainment of the unity takes place, through the acquisition of the mudra of great wonderment, by virtue of the concentration on the real nature."
+  },
+  "plain": {
+   "source": "build/plain_sutras_v1.json#13",
+   "line": "The attainment of the unity takes place, through the acquisition of the mudra of great wonderment, by virtue of the concentration on the real nature.",
+   "tts_line": "The attainment of the unity takes place, through the acquisition of the mudra of great wonderment, by virtue of the concentration on the real nature."
+  },
+  "audio": {
+   "file": null,
+   "uid": "vat13-06",
+   "grade": "A",
+   "start": 829,
+   "end": 866
+  },
+  "unit_title": "the punchline — film/essay close material",
+  "provenance": {
+   "quote": "excavations/vat13.md",
+   "text": "kaul_sutras_en",
+   "plain": "fish_filter_vatula"
+  }
+ },
+ {
+  "seq": 7,
+  "kind": "unit",
+  "section": "S5",
+  "question": "What is the fruit of realisation?",
+  "text": {
+   "source": "text/kaul_sutras_en.json#13",
+   "verbatim": "The attainment of the unity takes place, through the acquisition of the mudra of great wonderment, by virtue of the concentration on the real nature."
+  },
+  "plain": {
+   "source": "build/plain_sutras_v1.json#13",
+   "line": "The attainment of the unity takes place, through the acquisition of the mudra of great wonderment, by virtue of the concentration on the real nature.",
+   "tts_line": "The attainment of the unity takes place, through the acquisition of the mudra of great wonderment, by virtue of the concentration on the real nature."
+  },
+  "audio": {
+   "file": null,
+   "uid": "vat13-08",
+   "grade": "B",
+   "start": 400,
+   "end": 578
+  },
+  "unit_title": "wonder/mudrā block (g1 cont.)",
+  "provenance": {
+   "quote": "excavations/vat13.md",
+   "text": "kaul_sutras_en",
+   "plain": "fish_filter_vatula"
+  }
+ }
+]

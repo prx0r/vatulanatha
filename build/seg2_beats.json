@@ -1,0 +1,979 @@
+[
+ {
+  "seq": 0,
+  "kind": "section-opener",
+  "section": "S2",
+  "question": "What is the self?",
+  "pause_breaths": 2,
+  "text": {
+   "source": "text/kaul_sutras_en.json#3",
+   "verbatim": "Entry into the great vacuity results from the bursting open of the two boards."
+  },
+  "plain": {
+   "source": "build/plain_sutras_v1.json#3",
+   "line": "Entry into the great vacuity results from the bursting open of the two boards.",
+   "tts_line": "Entry into the great vacuity results from the bursting open of the two boards."
+  },
+  "audio": {
+   "file": null,
+   "note": "section compressed answer — audio = anchor unit window at manifest stage"
+  },
+  "provenance": {
+   "text": "kaul_sutras_en",
+   "plain": "fish_filter_vatula",
+   "question": "HUMAN/spine-S2"
+  }
+ },
+ {
+  "seq": 1,
+  "kind": "unit",
+  "section": "S2",
+  "question": "What is the self?",
+  "text": {
+   "source": "text/kaul_sutras_en.json#2",
+   "verbatim": "The flow of operations (becomes) all of a sudden saturated, as it were, with the acquisition of that."
+  },
+  "plain": {
+   "source": "build/plain_sutras_v1.json#2",
+   "line": "The flow of operations — becomes all of a sudden saturated, as it were, with the acquisition of that.",
+   "tts_line": "The flow of operations — becomes all of a sudden saturated, as it were, with the acquisition of that."
+  },
+  "audio": {
+   "file": null,
+   "uid": "vat2-02",
+   "grade": "A",
+   "start": 192,
+   "end": 213
+  },
+  "unit_title": "the simultaneity thesis — argument-core",
+  "provenance": {
+   "quote": "excavations/vat2.md",
+   "text": "kaul_sutras_en",
+   "plain": "fish_filter_vatula"
+  }
+ },
+ {
+  "seq": 2,
+  "kind": "unit",
+  "section": "S2",
+  "question": "What is the self?",
+  "text": {
+   "source": "text/kaul_sutras_en.json#2",
+   "verbatim": "The flow of operations (becomes) all of a sudden saturated, as it were, with the acquisition of that."
+  },
+  "plain": {
+   "source": "build/plain_sutras_v1.json#2",
+   "line": "The flow of operations — becomes all of a sudden saturated, as it were, with the acquisition of that.",
+   "tts_line": "The flow of operations — becomes all of a sudden saturated, as it were, with the acquisition of that."
+  },
+  "audio": {
+   "file": null,
+   "uid": "vat2-03",
+   "grade": "B",
+   "start": 159,
+   "end": 184
+  },
+  "unit_title": "swamiji's practice-domain rendering",
+  "provenance": {
+   "quote": "excavations/vat2.md",
+   "text": "kaul_sutras_en",
+   "plain": "fish_filter_vatula"
+  }
+ },
+ {
+  "seq": 3,
+  "kind": "unit",
+  "section": "S2",
+  "question": "What is the self?",
+  "text": {
+   "source": "text/kaul_sutras_en.json#2",
+   "verbatim": "The flow of operations (becomes) all of a sudden saturated, as it were, with the acquisition of that."
+  },
+  "plain": {
+   "source": "build/plain_sutras_v1.json#2",
+   "line": "The flow of operations — becomes all of a sudden saturated, as it were, with the acquisition of that.",
+   "tts_line": "The flow of operations — becomes all of a sudden saturated, as it were, with the acquisition of that."
+  },
+  "audio": {
+   "file": null,
+   "uid": "vat2-04",
+   "grade": "B",
+   "start": 369,
+   "end": 457
+  },
+  "unit_title": "commentary depth for the argument section",
+  "provenance": {
+   "quote": "excavations/vat2.md",
+   "text": "kaul_sutras_en",
+   "plain": "fish_filter_vatula"
+  }
+ },
+ {
+  "seq": 4,
+  "kind": "unit",
+  "section": "S2",
+  "question": "What is the self?",
+  "text": {
+   "source": "text/kaul_sutras_en.json#2",
+   "verbatim": "The flow of operations (becomes) all of a sudden saturated, as it were, with the acquisition of that."
+  },
+  "plain": {
+   "source": "build/plain_sutras_v1.json#2",
+   "line": "The flow of operations — becomes all of a sudden saturated, as it were, with the acquisition of that.",
+   "tts_line": "The flow of operations — becomes all of a sudden saturated, as it were, with the acquisition of that."
+  },
+  "audio": {
+   "file": null,
+   "uid": "vat2-05",
+   "grade": "B",
+   "start": 618,
+   "end": 647
+  },
+  "unit_title": "void=fullness echo — b bridge",
+  "provenance": {
+   "quote": "excavations/vat2.md",
+   "text": "kaul_sutras_en",
+   "plain": "fish_filter_vatula"
+  }
+ },
+ {
+  "seq": 5,
+  "kind": "unit",
+  "section": "S2",
+  "question": "What is the self?",
+  "text": {
+   "source": "text/kaul_sutras_en.json#2",
+   "verbatim": "The flow of operations (becomes) all of a sudden saturated, as it were, with the acquisition of that."
+  },
+  "plain": {
+   "source": "build/plain_sutras_v1.json#2",
+   "line": "The flow of operations — becomes all of a sudden saturated, as it were, with the acquisition of that.",
+   "tts_line": "The flow of operations — becomes all of a sudden saturated, as it were, with the acquisition of that."
+  },
+  "audio": {
+   "file": null,
+   "uid": "vat2-06",
+   "grade": "B",
+   "start": 213,
+   "end": 369
+  },
+  "unit_title": "simultaneity-examples fill (g1 gap 213→369s)",
+  "provenance": {
+   "quote": "excavations/vat2.md",
+   "text": "kaul_sutras_en",
+   "plain": "fish_filter_vatula"
+  }
+ },
+ {
+  "seq": 6,
+  "kind": "unit",
+  "section": "S2",
+  "question": "What is the self?",
+  "text": {
+   "source": "text/kaul_sutras_en.json#2",
+   "verbatim": "The flow of operations (becomes) all of a sudden saturated, as it were, with the acquisition of that."
+  },
+  "plain": {
+   "source": "build/plain_sutras_v1.json#2",
+   "line": "The flow of operations — becomes all of a sudden saturated, as it were, with the acquisition of that.",
+   "tts_line": "The flow of operations — becomes all of a sudden saturated, as it were, with the acquisition of that."
+  },
+  "audio": {
+   "file": null,
+   "uid": "vat2-07",
+   "grade": "B",
+   "start": 457,
+   "end": 618
+  },
+  "unit_title": "grāsa-lexicon fill (g1 gap 457→618s)",
+  "provenance": {
+   "quote": "excavations/vat2.md",
+   "text": "kaul_sutras_en",
+   "plain": "fish_filter_vatula"
+  }
+ },
+ {
+  "seq": 7,
+  "kind": "unit",
+  "section": "S2",
+  "question": "What is the self?",
+  "text": {
+   "source": "text/kaul_sutras_en.json#3",
+   "verbatim": "Entry into the great vacuity results from the bursting open of the two boards."
+  },
+  "plain": {
+   "source": "build/plain_sutras_v1.json#3",
+   "line": "Entry into the great vacuity results from the bursting open of the two boards.",
+   "tts_line": "Entry into the great vacuity results from the bursting open of the two boards."
+  },
+  "audio": {
+   "file": null,
+   "uid": "vat3-03",
+   "grade": "A",
+   "start": 270,
+   "end": 322
+  },
+  "unit_title": "the ladder section — one clip carries the whole symbolism",
+  "provenance": {
+   "quote": "excavations/vat3.md",
+   "text": "kaul_sutras_en",
+   "plain": "fish_filter_vatula"
+  }
+ },
+ {
+  "seq": 8,
+  "kind": "unit",
+  "section": "S2",
+  "question": "What is the self?",
+  "text": {
+   "source": "text/kaul_sutras_en.json#3",
+   "verbatim": "Entry into the great vacuity results from the bursting open of the two boards."
+  },
+  "plain": {
+   "source": "build/plain_sutras_v1.json#3",
+   "line": "Entry into the great vacuity results from the bursting open of the two boards.",
+   "tts_line": "Entry into the great vacuity results from the bursting open of the two boards."
+  },
+  "audio": {
+   "file": null,
+   "uid": "vat3-04",
+   "grade": "A",
+   "start": 322,
+   "end": 332
+  },
+  "unit_title": "central claim sentence — void = fullness",
+  "provenance": {
+   "quote": "excavations/vat3.md",
+   "text": "kaul_sutras_en",
+   "plain": "fish_filter_vatula"
+  }
+ },
+ {
+  "seq": 9,
+  "kind": "unit",
+  "section": "S2",
+  "question": "What is the self?",
+  "text": {
+   "source": "text/kaul_sutras_en.json#3",
+   "verbatim": "Entry into the great vacuity results from the bursting open of the two boards."
+  },
+  "plain": {
+   "source": "build/plain_sutras_v1.json#3",
+   "line": "Entry into the great vacuity results from the bursting open of the two boards.",
+   "tts_line": "Entry into the great vacuity results from the bursting open of the two boards."
+  },
+  "audio": {
+   "file": null,
+   "uid": "vat3-05",
+   "grade": "B",
+   "start": 340,
+   "end": 355
+  },
+  "unit_title": "compact practice line for b-version depth",
+  "provenance": {
+   "quote": "excavations/vat3.md",
+   "text": "kaul_sutras_en",
+   "plain": "fish_filter_vatula"
+  }
+ },
+ {
+  "seq": 10,
+  "kind": "unit",
+  "section": "S2",
+  "question": "What is the self?",
+  "text": {
+   "source": "text/kaul_sutras_en.json#3",
+   "verbatim": "Entry into the great vacuity results from the bursting open of the two boards."
+  },
+  "plain": {
+   "source": "build/plain_sutras_v1.json#3",
+   "line": "Entry into the great vacuity results from the bursting open of the two boards.",
+   "tts_line": "Entry into the great vacuity results from the bursting open of the two boards."
+  },
+  "audio": {
+   "file": null,
+   "uid": "vat3-06",
+   "grade": "B",
+   "start": 366,
+   "end": 397
+  },
+  "unit_title": "technical body layer — b depth only",
+  "provenance": {
+   "quote": "excavations/vat3.md",
+   "text": "kaul_sutras_en",
+   "plain": "fish_filter_vatula"
+  }
+ },
+ {
+  "seq": 11,
+  "kind": "unit",
+  "section": "S2",
+  "question": "What is the self?",
+  "text": {
+   "source": "text/kaul_sutras_en.json#3",
+   "verbatim": "Entry into the great vacuity results from the bursting open of the two boards."
+  },
+  "plain": {
+   "source": "build/plain_sutras_v1.json#3",
+   "line": "Entry into the great vacuity results from the bursting open of the two boards.",
+   "tts_line": "Entry into the great vacuity results from the bursting open of the two boards."
+  },
+  "audio": {
+   "file": null,
+   "uid": "vat3-07",
+   "grade": "B",
+   "start": 402,
+   "end": 449
+  },
+  "unit_title": "how the practice actually works — b spine",
+  "provenance": {
+   "quote": "excavations/vat3.md",
+   "text": "kaul_sutras_en",
+   "plain": "fish_filter_vatula"
+  }
+ },
+ {
+  "seq": 12,
+  "kind": "unit",
+  "section": "S2",
+  "question": "What is the self?",
+  "text": {
+   "source": "text/kaul_sutras_en.json#3",
+   "verbatim": "Entry into the great vacuity results from the bursting open of the two boards."
+  },
+  "plain": {
+   "source": "build/plain_sutras_v1.json#3",
+   "line": "Entry into the great vacuity results from the bursting open of the two boards.",
+   "tts_line": "Entry into the great vacuity results from the bursting open of the two boards."
+  },
+  "audio": {
+   "file": null,
+   "uid": "vat3-09",
+   "grade": "B",
+   "start": 527,
+   "end": 554
+  },
+  "unit_title": "bridge into sutra 4 — b version handoff",
+  "provenance": {
+   "quote": "excavations/vat3.md",
+   "text": "kaul_sutras_en",
+   "plain": "fish_filter_vatula"
+  }
+ },
+ {
+  "seq": 13,
+  "kind": "unit",
+  "section": "S2",
+  "question": "What is the self?",
+  "text": {
+   "source": "text/kaul_sutras_en.json#4",
+   "verbatim": "The firm stay in the universal consciousness is brought about by the destruction of the couple."
+  },
+  "plain": {
+   "source": "build/plain_sutras_v1.json#4",
+   "line": "The firm stay in the universal consciousness is brought about by the destruction of the couple.",
+   "tts_line": "The firm stay in the universal consciousness is brought about by the destruction of the couple."
+  },
+  "audio": {
+   "file": null,
+   "uid": "vat4-01",
+   "grade": "B",
+   "start": 91,
+   "end": 117
+  },
+  "unit_title": "sūtra card audio for the argument section",
+  "provenance": {
+   "quote": "excavations/vat4.md",
+   "text": "kaul_sutras_en",
+   "plain": "fish_filter_vatula"
+  }
+ },
+ {
+  "seq": 14,
+  "kind": "unit",
+  "section": "S2",
+  "question": "What is the self?",
+  "text": {
+   "source": "text/kaul_sutras_en.json#4",
+   "verbatim": "The firm stay in the universal consciousness is brought about by the destruction of the couple."
+  },
+  "plain": {
+   "source": "build/plain_sutras_v1.json#4",
+   "line": "The firm stay in the universal consciousness is brought about by the destruction of the couple.",
+   "tts_line": "The firm stay in the universal consciousness is brought about by the destruction of the couple."
+  },
+  "audio": {
+   "file": null,
+   "uid": "vat4-02",
+   "grade": "B",
+   "start": 155,
+   "end": 190
+  },
+  "unit_title": "framing correction — b depth",
+  "provenance": {
+   "quote": "excavations/vat4.md",
+   "text": "kaul_sutras_en",
+   "plain": "fish_filter_vatula"
+  }
+ },
+ {
+  "seq": 15,
+  "kind": "unit",
+  "section": "S2",
+  "question": "What is the self?",
+  "text": {
+   "source": "text/kaul_sutras_en.json#4",
+   "verbatim": "The firm stay in the universal consciousness is brought about by the destruction of the couple."
+  },
+  "plain": {
+   "source": "build/plain_sutras_v1.json#4",
+   "line": "The firm stay in the universal consciousness is brought about by the destruction of the couple.",
+   "tts_line": "The firm stay in the universal consciousness is brought about by the destruction of the couple."
+  },
+  "audio": {
+   "file": null,
+   "uid": "vat4-03",
+   "grade": "A",
+   "start": 299,
+   "end": 314
+  },
+  "unit_title": "the co-presence thesis — argument-core quote",
+  "provenance": {
+   "quote": "excavations/vat4.md",
+   "text": "kaul_sutras_en",
+   "plain": "fish_filter_vatula"
+  }
+ },
+ {
+  "seq": 16,
+  "kind": "unit",
+  "section": "S2",
+  "question": "What is the self?",
+  "text": {
+   "source": "text/kaul_sutras_en.json#4",
+   "verbatim": "The firm stay in the universal consciousness is brought about by the destruction of the couple."
+  },
+  "plain": {
+   "source": "build/plain_sutras_v1.json#4",
+   "line": "The firm stay in the universal consciousness is brought about by the destruction of the couple.",
+   "tts_line": "The firm stay in the universal consciousness is brought about by the destruction of the couple."
+  },
+  "audio": {
+   "file": null,
+   "uid": "vat4-04",
+   "grade": "B",
+   "start": 353,
+   "end": 389
+  },
+  "unit_title": "the vikalpa-cancellation — b spice (was gold-adjacent in vat",
+  "provenance": {
+   "quote": "excavations/vat4.md",
+   "text": "kaul_sutras_en",
+   "plain": "fish_filter_vatula"
+  }
+ },
+ {
+  "seq": 17,
+  "kind": "unit",
+  "section": "S2",
+  "question": "What is the self?",
+  "text": {
+   "source": "text/kaul_sutras_en.json#4",
+   "verbatim": "The firm stay in the universal consciousness is brought about by the destruction of the couple."
+  },
+  "plain": {
+   "source": "build/plain_sutras_v1.json#4",
+   "line": "The firm stay in the universal consciousness is brought about by the destruction of the couple.",
+   "tts_line": "The firm stay in the universal consciousness is brought about by the destruction of the couple."
+  },
+  "audio": {
+   "file": null,
+   "uid": "vat4-06",
+   "grade": "A",
+   "start": 456,
+   "end": 495
+  },
+  "unit_title": "her signature line — coincidence of opposites",
+  "provenance": {
+   "quote": "excavations/vat4.md",
+   "text": "kaul_sutras_en",
+   "plain": "fish_filter_vatula"
+  }
+ },
+ {
+  "seq": 18,
+  "kind": "unit",
+  "section": "S2",
+  "question": "What is the self?",
+  "text": {
+   "source": "text/kaul_sutras_en.json#5",
+   "verbatim": "The great union arises from the unification of the siddhayoginis."
+  },
+  "plain": {
+   "source": "build/plain_sutras_v1.json#5",
+   "line": "The great union arises from the unification of the siddhayoginis.",
+   "tts_line": "The great union arises from the unification of the siddhayoginis."
+  },
+  "audio": {
+   "file": null,
+   "uid": "vat5-01",
+   "grade": "B",
+   "start": 65,
+   "end": 83
+  },
+  "unit_title": "sūtra card audio for the union section",
+  "provenance": {
+   "quote": "excavations/vat5.md",
+   "text": "kaul_sutras_en",
+   "plain": "fish_filter_vatula"
+  }
+ },
+ {
+  "seq": 19,
+  "kind": "unit",
+  "section": "S2",
+  "question": "What is the self?",
+  "text": {
+   "source": "text/kaul_sutras_en.json#5",
+   "verbatim": "The great union arises from the unification of the siddhayoginis."
+  },
+  "plain": {
+   "source": "build/plain_sutras_v1.json#5",
+   "line": "The great union arises from the unification of the siddhayoginis.",
+   "tts_line": "The great union arises from the unification of the siddhayoginis."
+  },
+  "audio": {
+   "file": null,
+   "uid": "vat5-02",
+   "grade": "B",
+   "start": 90,
+   "end": 122
+  },
+  "unit_title": "the imagery caveat — b (ear-check wording)",
+  "provenance": {
+   "quote": "excavations/vat5.md",
+   "text": "kaul_sutras_en",
+   "plain": "fish_filter_vatula"
+  }
+ },
+ {
+  "seq": 20,
+  "kind": "unit",
+  "section": "S2",
+  "question": "What is the self?",
+  "text": {
+   "source": "text/kaul_sutras_en.json#5",
+   "verbatim": "The great union arises from the unification of the siddhayoginis."
+  },
+  "plain": {
+   "source": "build/plain_sutras_v1.json#5",
+   "line": "The great union arises from the unification of the siddhayoginis.",
+   "tts_line": "The great union arises from the unification of the siddhayoginis."
+  },
+  "audio": {
+   "file": null,
+   "uid": "vat5-03",
+   "grade": "A",
+   "start": 154,
+   "end": 216
+  },
+  "unit_title": "the union thesis — subject-object fusion quote",
+  "provenance": {
+   "quote": "excavations/vat5.md",
+   "text": "kaul_sutras_en",
+   "plain": "fish_filter_vatula"
+  }
+ },
+ {
+  "seq": 21,
+  "kind": "unit",
+  "section": "S2",
+  "question": "What is the self?",
+  "text": {
+   "source": "text/kaul_sutras_en.json#5",
+   "verbatim": "The great union arises from the unification of the siddhayoginis."
+  },
+  "plain": {
+   "source": "build/plain_sutras_v1.json#5",
+   "line": "The great union arises from the unification of the siddhayoginis.",
+   "tts_line": "The great union arises from the unification of the siddhayoginis."
+  },
+  "audio": {
+   "file": null,
+   "uid": "vat5-04",
+   "grade": "B",
+   "start": 241,
+   "end": 290
+  },
+  "unit_title": "swamiji's cosmic reading — b",
+  "provenance": {
+   "quote": "excavations/vat5.md",
+   "text": "kaul_sutras_en",
+   "plain": "fish_filter_vatula"
+  }
+ },
+ {
+  "seq": 22,
+  "kind": "unit",
+  "section": "S2",
+  "question": "What is the self?",
+  "text": {
+   "source": "text/kaul_sutras_en.json#5",
+   "verbatim": "The great union arises from the unification of the siddhayoginis."
+  },
+  "plain": {
+   "source": "build/plain_sutras_v1.json#5",
+   "line": "The great union arises from the unification of the siddhayoginis.",
+   "tts_line": "The great union arises from the unification of the siddhayoginis."
+  },
+  "audio": {
+   "file": null,
+   "uid": "vat5-05",
+   "grade": "A",
+   "start": 298,
+   "end": 315
+  },
+  "unit_title": "no-discretion quote — pre-echoes sūtra 12 (cross-link hook)",
+  "provenance": {
+   "quote": "excavations/vat5.md",
+   "text": "kaul_sutras_en",
+   "plain": "fish_filter_vatula"
+  }
+ },
+ {
+  "seq": 23,
+  "kind": "unit",
+  "section": "S2",
+  "question": "What is the self?",
+  "text": {
+   "source": "text/kaul_sutras_en.json#5",
+   "verbatim": "The great union arises from the unification of the siddhayoginis."
+  },
+  "plain": {
+   "source": "build/plain_sutras_v1.json#5",
+   "line": "The great union arises from the unification of the siddhayoginis.",
+   "tts_line": "The great union arises from the unification of the siddhayoginis."
+  },
+  "audio": {
+   "file": null,
+   "uid": "vat5-06",
+   "grade": "B",
+   "start": 340,
+   "end": 386
+  },
+  "unit_title": "vbt cross-reference — texture",
+  "provenance": {
+   "quote": "excavations/vat5.md",
+   "text": "kaul_sutras_en",
+   "plain": "fish_filter_vatula"
+  }
+ },
+ {
+  "seq": 24,
+  "kind": "unit",
+  "section": "S2",
+  "question": "What is the self?",
+  "text": {
+   "source": "text/kaul_sutras_en.json#6",
+   "verbatim": "The inexpressible stage appears on the abandonment of the three veils."
+  },
+  "plain": {
+   "source": "build/plain_sutras_v1.json#6",
+   "line": "The inexpressible stage appears on the abandonment of the three veils.",
+   "tts_line": "The inexpressible stage appears on the abandonment of the three veils."
+  },
+  "audio": {
+   "file": null,
+   "uid": "vat6-02",
+   "grade": "B",
+   "start": 55,
+   "end": 102
+  },
+  "unit_title": "commentary hinge 5→6",
+  "provenance": {
+   "quote": "excavations/vat6.md",
+   "text": "kaul_sutras_en",
+   "plain": "fish_filter_vatula"
+  }
+ },
+ {
+  "seq": 25,
+  "kind": "unit",
+  "section": "S2",
+  "question": "What is the self?",
+  "text": {
+   "source": "text/kaul_sutras_en.json#6",
+   "verbatim": "The inexpressible stage appears on the abandonment of the three veils."
+  },
+  "plain": {
+   "source": "build/plain_sutras_v1.json#6",
+   "line": "The inexpressible stage appears on the abandonment of the three veils.",
+   "tts_line": "The inexpressible stage appears on the abandonment of the three veils."
+  },
+  "audio": {
+   "file": null,
+   "uid": "vat6-03",
+   "grade": "B",
+   "start": 109,
+   "end": 262
+  },
+  "unit_title": "three-coverings taxonomy — b depth",
+  "provenance": {
+   "quote": "excavations/vat6.md",
+   "text": "kaul_sutras_en",
+   "plain": "fish_filter_vatula"
+  }
+ },
+ {
+  "seq": 26,
+  "kind": "unit",
+  "section": "S2",
+  "question": "What is the self?",
+  "text": {
+   "source": "text/kaul_sutras_en.json#6",
+   "verbatim": "The inexpressible stage appears on the abandonment of the three veils."
+  },
+  "plain": {
+   "source": "build/plain_sutras_v1.json#6",
+   "line": "The inexpressible stage appears on the abandonment of the three veils.",
+   "tts_line": "The inexpressible stage appears on the abandonment of the three veils."
+  },
+  "audio": {
+   "file": null,
+   "uid": "vat6-04",
+   "grade": "B",
+   "start": 262,
+   "end": 287
+  },
+  "unit_title": "swamiji rendering — b",
+  "provenance": {
+   "quote": "excavations/vat6.md",
+   "text": "kaul_sutras_en",
+   "plain": "fish_filter_vatula"
+  }
+ },
+ {
+  "seq": 27,
+  "kind": "unit",
+  "section": "S2",
+  "question": "What is the self?",
+  "text": {
+   "source": "text/kaul_sutras_en.json#6",
+   "verbatim": "The inexpressible stage appears on the abandonment of the three veils."
+  },
+  "plain": {
+   "source": "build/plain_sutras_v1.json#6",
+   "line": "The inexpressible stage appears on the abandonment of the three veils.",
+   "tts_line": "The inexpressible stage appears on the abandonment of the three veils."
+  },
+  "audio": {
+   "file": null,
+   "uid": "vat6-05",
+   "grade": "B",
+   "start": 287,
+   "end": 326
+  },
+  "unit_title": "beyond subject-object: knowing-structure — b",
+  "provenance": {
+   "quote": "excavations/vat6.md",
+   "text": "kaul_sutras_en",
+   "plain": "fish_filter_vatula"
+  }
+ },
+ {
+  "seq": 28,
+  "kind": "unit",
+  "section": "S2",
+  "question": "What is the self?",
+  "text": {
+   "source": "text/kaul_sutras_en.json#6",
+   "verbatim": "The inexpressible stage appears on the abandonment of the three veils."
+  },
+  "plain": {
+   "source": "build/plain_sutras_v1.json#6",
+   "line": "The inexpressible stage appears on the abandonment of the three veils.",
+   "tts_line": "The inexpressible stage appears on the abandonment of the three veils."
+  },
+  "audio": {
+   "file": null,
+   "uid": "vat6-06",
+   "grade": "B",
+   "start": 348,
+   "end": 374
+  },
+  "unit_title": "the immanent fourth — b bridge to vat9",
+  "provenance": {
+   "quote": "excavations/vat6.md",
+   "text": "kaul_sutras_en",
+   "plain": "fish_filter_vatula"
+  }
+ },
+ {
+  "seq": 29,
+  "kind": "unit",
+  "section": "S2",
+  "question": "What is the self?",
+  "text": {
+   "source": "text/kaul_sutras_en.json#8",
+   "verbatim": "On the enjoyment of the triple happiness, the unfettered supreme Brahman of the involuntary and sudden appearance (comes to revelation)."
+  },
+  "plain": {
+   "source": "build/plain_sutras_v1.json#8",
+   "line": "On the enjoyment of the triple happiness, the unfettered supreme Brahman of the involuntary and sudden appearance — comes to revelation.",
+   "tts_line": "On the enjoyment of the triple happiness, the unfettered supreme Brahman of the involuntary and sudden appearance — comes to revelation."
+  },
+  "audio": {
+   "file": null,
+   "uid": "vat8-02",
+   "grade": "B",
+   "start": 68,
+   "end": 121
+  },
+  "unit_title": "mudra chain — between/b depth",
+  "provenance": {
+   "quote": "excavations/vat8.md",
+   "text": "kaul_sutras_en",
+   "plain": "fish_filter_vatula"
+  }
+ },
+ {
+  "seq": 30,
+  "kind": "unit",
+  "section": "S2",
+  "question": "What is the self?",
+  "text": {
+   "source": "text/kaul_sutras_en.json#8",
+   "verbatim": "On the enjoyment of the triple happiness, the unfettered supreme Brahman of the involuntary and sudden appearance (comes to revelation)."
+  },
+  "plain": {
+   "source": "build/plain_sutras_v1.json#8",
+   "line": "On the enjoyment of the triple happiness, the unfettered supreme Brahman of the involuntary and sudden appearance — comes to revelation.",
+   "tts_line": "On the enjoyment of the triple happiness, the unfettered supreme Brahman of the involuntary and sudden appearance — comes to revelation."
+  },
+  "audio": {
+   "file": null,
+   "uid": "vat8-05",
+   "grade": "B",
+   "start": 250,
+   "end": 284
+  },
+  "unit_title": "anti-chakra reading — unlocks the three-supports section",
+  "provenance": {
+   "quote": "excavations/vat8.md",
+   "text": "kaul_sutras_en",
+   "plain": "fish_filter_vatula"
+  }
+ },
+ {
+  "seq": 31,
+  "kind": "unit",
+  "section": "S2",
+  "question": "What is the self?",
+  "text": {
+   "source": "text/kaul_sutras_en.json#8",
+   "verbatim": "On the enjoyment of the triple happiness, the unfettered supreme Brahman of the involuntary and sudden appearance (comes to revelation)."
+  },
+  "plain": {
+   "source": "build/plain_sutras_v1.json#8",
+   "line": "On the enjoyment of the triple happiness, the unfettered supreme Brahman of the involuntary and sudden appearance — comes to revelation.",
+   "tts_line": "On the enjoyment of the triple happiness, the unfettered supreme Brahman of the involuntary and sudden appearance — comes to revelation."
+  },
+  "audio": {
+   "file": null,
+   "uid": "vat8-06",
+   "grade": "B",
+   "start": 293,
+   "end": 344
+  },
+  "unit_title": "the projection-wall simile — between support",
+  "provenance": {
+   "quote": "excavations/vat8.md",
+   "text": "kaul_sutras_en",
+   "plain": "fish_filter_vatula"
+  }
+ },
+ {
+  "seq": 32,
+  "kind": "unit",
+  "section": "S2",
+  "question": "What is the self?",
+  "text": {
+   "source": "text/kaul_sutras_en.json#8",
+   "verbatim": "On the enjoyment of the triple happiness, the unfettered supreme Brahman of the involuntary and sudden appearance (comes to revelation)."
+  },
+  "plain": {
+   "source": "build/plain_sutras_v1.json#8",
+   "line": "On the enjoyment of the triple happiness, the unfettered supreme Brahman of the involuntary and sudden appearance — comes to revelation.",
+   "tts_line": "On the enjoyment of the triple happiness, the unfettered supreme Brahman of the involuntary and sudden appearance — comes to revelation."
+  },
+  "audio": {
+   "file": null,
+   "uid": "vat8-07",
+   "grade": "B",
+   "start": 384,
+   "end": 407
+  },
+  "unit_title": "depth reading for b — fusion + sky-mudra",
+  "provenance": {
+   "quote": "excavations/vat8.md",
+   "text": "kaul_sutras_en",
+   "plain": "fish_filter_vatula"
+  }
+ },
+ {
+  "seq": 33,
+  "kind": "unit",
+  "section": "S2",
+  "question": "What is the self?",
+  "text": {
+   "source": "text/kaul_sutras_en.json#8",
+   "verbatim": "On the enjoyment of the triple happiness, the unfettered supreme Brahman of the involuntary and sudden appearance (comes to revelation)."
+  },
+  "plain": {
+   "source": "build/plain_sutras_v1.json#8",
+   "line": "On the enjoyment of the triple happiness, the unfettered supreme Brahman of the involuntary and sudden appearance — comes to revelation.",
+   "tts_line": "On the enjoyment of the triple happiness, the unfettered supreme Brahman of the involuntary and sudden appearance — comes to revelation."
+  },
+  "audio": {
+   "file": null,
+   "uid": "vat8-08",
+   "grade": "B",
+   "start": 422,
+   "end": 468
+  },
+  "unit_title": "abhinavagupta authority line — b spine",
+  "provenance": {
+   "quote": "excavations/vat8.md",
+   "text": "kaul_sutras_en",
+   "plain": "fish_filter_vatula"
+  }
+ },
+ {
+  "seq": 34,
+  "kind": "unit",
+  "section": "S2",
+  "question": "What is the self?",
+  "text": {
+   "source": "text/kaul_sutras_en.json#8",
+   "verbatim": "On the enjoyment of the triple happiness, the unfettered supreme Brahman of the involuntary and sudden appearance (comes to revelation)."
+  },
+  "plain": {
+   "source": "build/plain_sutras_v1.json#8",
+   "line": "On the enjoyment of the triple happiness, the unfettered supreme Brahman of the involuntary and sudden appearance — comes to revelation.",
+   "tts_line": "On the enjoyment of the triple happiness, the unfettered supreme Brahman of the involuntary and sudden appearance — comes to revelation."
+  },
+  "audio": {
+   "file": null,
+   "uid": "vat8-09",
+   "grade": "B",
+   "start": 496,
+   "end": 539
+  },
+  "unit_title": "swamiji's tasting arc — b closing depth",
+  "provenance": {
+   "quote": "excavations/vat8.md",
+   "text": "kaul_sutras_en",
+   "plain": "fish_filter_vatula"
+  }
+ }
+]

@@ -1,0 +1,587 @@
+[
+ {
+  "seq": 0,
+  "kind": "section-opener",
+  "section": "S3",
+  "question": "How does realisation happen?",
+  "pause_breaths": 2,
+  "text": {
+   "source": "text/kaul_sutras_en.json#3",
+   "verbatim": "Entry into the great vacuity results from the bursting open of the two boards."
+  },
+  "plain": {
+   "source": "build/plain_sutras_v1.json#3",
+   "line": "Entry into the great vacuity results from the bursting open of the two boards.",
+   "tts_line": "Entry into the great vacuity results from the bursting open of the two boards."
+  },
+  "audio": {
+   "file": null,
+   "note": "section compressed answer — audio = anchor unit window at manifest stage"
+  },
+  "provenance": {
+   "text": "kaul_sutras_en",
+   "plain": "fish_filter_vatula",
+   "question": "HUMAN/spine-S3"
+  }
+ },
+ {
+  "seq": 1,
+  "kind": "unit",
+  "section": "S3",
+  "question": "How does realisation happen?",
+  "text": {
+   "source": "text/kaul_sutras_en.json#1",
+   "verbatim": "The real nature is acquired by the firm stay in the pre-eminent sahasa."
+  },
+  "plain": {
+   "source": "build/plain_sutras_v1.json#1",
+   "line": "The real nature is acquired by the firm stay in the pre-eminent great intensity.",
+   "tts_line": "The real nature is acquired by the firm stay in the pre-eminent great intensity."
+  },
+  "audio": {
+   "file": null,
+   "uid": "vat1-01",
+   "grade": "B",
+   "start": 39,
+   "end": 98
+  },
+  "unit_title": "opens the guru/transmission thread — feeds grace b-version",
+  "provenance": {
+   "quote": "excavations/vat1.md",
+   "text": "kaul_sutras_en",
+   "plain": "fish_filter_vatula"
+  }
+ },
+ {
+  "seq": 2,
+  "kind": "unit",
+  "section": "S3",
+  "question": "How does realisation happen?",
+  "text": {
+   "source": "text/kaul_sutras_en.json#1",
+   "verbatim": "The real nature is acquired by the firm stay in the pre-eminent sahasa."
+  },
+  "plain": {
+   "source": "build/plain_sutras_v1.json#1",
+   "line": "The real nature is acquired by the firm stay in the pre-eminent great intensity.",
+   "tts_line": "The real nature is acquired by the firm stay in the pre-eminent great intensity."
+  },
+  "audio": {
+   "file": null,
+   "uid": "vat1-02",
+   "grade": "B",
+   "start": 106,
+   "end": 161
+  },
+  "unit_title": "the sūtra line itself — candidate card audio for depth-b",
+  "provenance": {
+   "quote": "excavations/vat1.md",
+   "text": "kaul_sutras_en",
+   "plain": "fish_filter_vatula"
+  }
+ },
+ {
+  "seq": 3,
+  "kind": "unit",
+  "section": "S3",
+  "question": "How does realisation happen?",
+  "text": {
+   "source": "text/kaul_sutras_en.json#1",
+   "verbatim": "The real nature is acquired by the firm stay in the pre-eminent sahasa."
+  },
+  "plain": {
+   "source": "build/plain_sutras_v1.json#1",
+   "line": "The real nature is acquired by the firm stay in the pre-eminent great intensity.",
+   "tts_line": "The real nature is acquired by the firm stay in the pre-eminent great intensity."
+  },
+  "audio": {
+   "file": null,
+   "uid": "vat1-03",
+   "grade": "A",
+   "start": 310,
+   "end": 334
+  },
+  "unit_title": "the word: saktipata spoken — grace core clip",
+  "provenance": {
+   "quote": "excavations/vat1.md",
+   "text": "kaul_sutras_en",
+   "plain": "fish_filter_vatula"
+  }
+ },
+ {
+  "seq": 4,
+  "kind": "unit",
+  "section": "S3",
+  "question": "How does realisation happen?",
+  "text": {
+   "source": "text/kaul_sutras_en.json#1",
+   "verbatim": "The real nature is acquired by the firm stay in the pre-eminent sahasa."
+  },
+  "plain": {
+   "source": "build/plain_sutras_v1.json#1",
+   "line": "The real nature is acquired by the firm stay in the pre-eminent great intensity.",
+   "tts_line": "The real nature is acquired by the firm stay in the pre-eminent great intensity."
+  },
+  "audio": {
+   "file": null,
+   "uid": "vat1-04",
+   "grade": "B",
+   "start": 334,
+   "end": 367
+  },
+  "unit_title": "two-directional grace — b-version depth",
+  "provenance": {
+   "quote": "excavations/vat1.md",
+   "text": "kaul_sutras_en",
+   "plain": "fish_filter_vatula"
+  }
+ },
+ {
+  "seq": 5,
+  "kind": "unit",
+  "section": "S3",
+  "question": "How does realisation happen?",
+  "text": {
+   "source": "text/kaul_sutras_en.json#1",
+   "verbatim": "The real nature is acquired by the firm stay in the pre-eminent sahasa."
+  },
+  "plain": {
+   "source": "build/plain_sutras_v1.json#1",
+   "line": "The real nature is acquired by the firm stay in the pre-eminent great intensity.",
+   "tts_line": "The real nature is acquired by the firm stay in the pre-eminent great intensity."
+  },
+  "audio": {
+   "file": null,
+   "uid": "vat1-07",
+   "grade": "A",
+   "start": 579,
+   "end": 625
+  },
+  "unit_title": "grace with no conditions — grace spine quote",
+  "provenance": {
+   "quote": "excavations/vat1.md",
+   "text": "kaul_sutras_en",
+   "plain": "fish_filter_vatula"
+  }
+ },
+ {
+  "seq": 6,
+  "kind": "unit",
+  "section": "S3",
+  "question": "How does realisation happen?",
+  "text": {
+   "source": "text/kaul_sutras_en.json#1",
+   "verbatim": "The real nature is acquired by the firm stay in the pre-eminent sahasa."
+  },
+  "plain": {
+   "source": "build/plain_sutras_v1.json#1",
+   "line": "The real nature is acquired by the firm stay in the pre-eminent great intensity.",
+   "tts_line": "The real nature is acquired by the firm stay in the pre-eminent great intensity."
+  },
+  "audio": {
+   "file": null,
+   "uid": "vat1-10",
+   "grade": "B",
+   "start": 625,
+   "end": 807
+  },
+  "unit_title": "commentary tail fill (g1 gap 625→807s)",
+  "provenance": {
+   "quote": "excavations/vat1.md",
+   "text": "kaul_sutras_en",
+   "plain": "fish_filter_vatula"
+  }
+ },
+ {
+  "seq": 7,
+  "kind": "unit",
+  "section": "S3",
+  "question": "How does realisation happen?",
+  "text": {
+   "source": "text/kaul_sutras_en.json#2",
+   "verbatim": "The flow of operations (becomes) all of a sudden saturated, as it were, with the acquisition of that."
+  },
+  "plain": {
+   "source": "build/plain_sutras_v1.json#2",
+   "line": "The flow of operations — becomes all of a sudden saturated, as it were, with the acquisition of that.",
+   "tts_line": "The flow of operations — becomes all of a sudden saturated, as it were, with the acquisition of that."
+  },
+  "audio": {
+   "file": null,
+   "uid": "vat2-01",
+   "grade": "B",
+   "start": 61,
+   "end": 93
+  },
+  "unit_title": "the hinge between sūtra 1 and 2",
+  "provenance": {
+   "quote": "excavations/vat2.md",
+   "text": "kaul_sutras_en",
+   "plain": "fish_filter_vatula"
+  }
+ },
+ {
+  "seq": 8,
+  "kind": "unit",
+  "section": "S3",
+  "question": "How does realisation happen?",
+  "text": {
+   "source": "text/kaul_sutras_en.json#3",
+   "verbatim": "Entry into the great vacuity results from the bursting open of the two boards."
+  },
+  "plain": {
+   "source": "build/plain_sutras_v1.json#3",
+   "line": "Entry into the great vacuity results from the bursting open of the two boards.",
+   "tts_line": "Entry into the great vacuity results from the bursting open of the two boards."
+  },
+  "audio": {
+   "file": null,
+   "uid": "vat3-01",
+   "grade": "A",
+   "start": 101,
+   "end": 224
+  },
+  "unit_title": "grace cold open — realization by a look, before any method t",
+  "provenance": {
+   "quote": "excavations/vat3.md",
+   "text": "kaul_sutras_en",
+   "plain": "fish_filter_vatula"
+  }
+ },
+ {
+  "seq": 9,
+  "kind": "unit",
+  "section": "S3",
+  "question": "How does realisation happen?",
+  "text": {
+   "source": "text/kaul_sutras_en.json#3",
+   "verbatim": "Entry into the great vacuity results from the bursting open of the two boards."
+  },
+  "plain": {
+   "source": "build/plain_sutras_v1.json#3",
+   "line": "Entry into the great vacuity results from the bursting open of the two boards.",
+   "tts_line": "Entry into the great vacuity results from the bursting open of the two boards."
+  },
+  "audio": {
+   "file": null,
+   "uid": "vat3-02",
+   "grade": "A",
+   "start": 257,
+   "end": 266
+  },
+  "unit_title": "defines grace as not-made — the thesis hinge in one line",
+  "provenance": {
+   "quote": "excavations/vat3.md",
+   "text": "kaul_sutras_en",
+   "plain": "fish_filter_vatula"
+  }
+ },
+ {
+  "seq": 10,
+  "kind": "unit",
+  "section": "S3",
+  "question": "How does realisation happen?",
+  "text": {
+   "source": "text/kaul_sutras_en.json#3",
+   "verbatim": "Entry into the great vacuity results from the bursting open of the two boards."
+  },
+  "plain": {
+   "source": "build/plain_sutras_v1.json#3",
+   "line": "Entry into the great vacuity results from the bursting open of the two boards.",
+   "tts_line": "Entry into the great vacuity results from the bursting open of the two boards."
+  },
+  "audio": {
+   "file": null,
+   "uid": "vat3-08",
+   "grade": "A",
+   "start": 469,
+   "end": 510
+  },
+  "unit_title": "grace > scripture — the strongest textual claim for the film",
+  "provenance": {
+   "quote": "excavations/vat3.md",
+   "text": "kaul_sutras_en",
+   "plain": "fish_filter_vatula"
+  }
+ },
+ {
+  "seq": 11,
+  "kind": "unit",
+  "section": "S3",
+  "question": "How does realisation happen?",
+  "text": {
+   "source": "text/kaul_sutras_en.json#4",
+   "verbatim": "The firm stay in the universal consciousness is brought about by the destruction of the couple."
+  },
+  "plain": {
+   "source": "build/plain_sutras_v1.json#4",
+   "line": "The firm stay in the universal consciousness is brought about by the destruction of the couple.",
+   "tts_line": "The firm stay in the universal consciousness is brought about by the destruction of the couple."
+  },
+  "audio": {
+   "file": null,
+   "uid": "vat4-05",
+   "grade": "B",
+   "start": 405,
+   "end": 448
+  },
+  "unit_title": "guru/rarity line — grace-adjacent b",
+  "provenance": {
+   "quote": "excavations/vat4.md",
+   "text": "kaul_sutras_en",
+   "plain": "fish_filter_vatula"
+  }
+ },
+ {
+  "seq": 12,
+  "kind": "unit",
+  "section": "S3",
+  "question": "How does realisation happen?",
+  "text": {
+   "source": "text/kaul_sutras_en.json#6",
+   "verbatim": "The inexpressible stage appears on the abandonment of the three veils."
+  },
+  "plain": {
+   "source": "build/plain_sutras_v1.json#6",
+   "line": "The inexpressible stage appears on the abandonment of the three veils.",
+   "tts_line": "The inexpressible stage appears on the abandonment of the three veils."
+  },
+  "audio": {
+   "file": null,
+   "uid": "vat6-01",
+   "grade": "A",
+   "start": 3,
+   "end": 55
+  },
+  "unit_title": "the problem-slot quote — what blocks realisation",
+  "provenance": {
+   "quote": "excavations/vat6.md",
+   "text": "kaul_sutras_en",
+   "plain": "fish_filter_vatula"
+  }
+ },
+ {
+  "seq": 13,
+  "kind": "unit",
+  "section": "S3",
+  "question": "How does realisation happen?",
+  "text": {
+   "source": "text/kaul_sutras_en.json#8",
+   "verbatim": "On the enjoyment of the triple happiness, the unfettered supreme Brahman of the involuntary and sudden appearance (comes to revelation)."
+  },
+  "plain": {
+   "source": "build/plain_sutras_v1.json#8",
+   "line": "On the enjoyment of the triple happiness, the unfettered supreme Brahman of the involuntary and sudden appearance — comes to revelation.",
+   "tts_line": "On the enjoyment of the triple happiness, the unfettered supreme Brahman of the involuntary and sudden appearance — comes to revelation."
+  },
+  "audio": {
+   "file": null,
+   "uid": "vat8-01",
+   "grade": "A",
+   "start": 52,
+   "end": 68
+  },
+  "unit_title": "grace core: not-by-will, by inner impulse",
+  "provenance": {
+   "quote": "excavations/vat8.md",
+   "text": "kaul_sutras_en",
+   "plain": "fish_filter_vatula"
+  }
+ },
+ {
+  "seq": 14,
+  "kind": "unit",
+  "section": "S3",
+  "question": "How does realisation happen?",
+  "text": {
+   "source": "text/kaul_sutras_en.json#8",
+   "verbatim": "On the enjoyment of the triple happiness, the unfettered supreme Brahman of the involuntary and sudden appearance (comes to revelation)."
+  },
+  "plain": {
+   "source": "build/plain_sutras_v1.json#8",
+   "line": "On the enjoyment of the triple happiness, the unfettered supreme Brahman of the involuntary and sudden appearance — comes to revelation.",
+   "tts_line": "On the enjoyment of the triple happiness, the unfettered supreme Brahman of the involuntary and sudden appearance — comes to revelation."
+  },
+  "audio": {
+   "file": null,
+   "uid": "vat8-03",
+   "grade": "A",
+   "start": 158,
+   "end": 176
+  },
+  "unit_title": "sūtra card + the spontaneous-emergence claim",
+  "provenance": {
+   "quote": "excavations/vat8.md",
+   "text": "kaul_sutras_en",
+   "plain": "fish_filter_vatula"
+  }
+ },
+ {
+  "seq": 15,
+  "kind": "unit",
+  "section": "S3",
+  "question": "How does realisation happen?",
+  "text": {
+   "source": "text/kaul_sutras_en.json#8",
+   "verbatim": "On the enjoyment of the triple happiness, the unfettered supreme Brahman of the involuntary and sudden appearance (comes to revelation)."
+  },
+  "plain": {
+   "source": "build/plain_sutras_v1.json#8",
+   "line": "On the enjoyment of the triple happiness, the unfettered supreme Brahman of the involuntary and sudden appearance — comes to revelation.",
+   "tts_line": "On the enjoyment of the triple happiness, the unfettered supreme Brahman of the involuntary and sudden appearance — comes to revelation."
+  },
+  "audio": {
+   "file": null,
+   "uid": "vat8-04",
+   "grade": "A",
+   "start": 177,
+   "end": 250
+  },
+  "unit_title": "grace core: transmission-from-guru (c5 clip)",
+  "provenance": {
+   "quote": "excavations/vat8.md",
+   "text": "kaul_sutras_en",
+   "plain": "fish_filter_vatula"
+  }
+ },
+ {
+  "seq": 16,
+  "kind": "unit",
+  "section": "S3",
+  "question": "How does realisation happen?",
+  "text": {
+   "source": "text/kaul_sutras_en.json#10",
+   "verbatim": "The play of the big rays follows the emanation of the twelve currents."
+  },
+  "plain": {
+   "source": "build/plain_sutras_v1.json#10",
+   "line": "The play of the big rays follows the emanation of the twelve currents.",
+   "tts_line": "The play of the big rays follows the emanation of the twelve currents."
+  },
+  "audio": {
+   "file": null,
+   "uid": "vat10-03",
+   "grade": "A",
+   "start": 71,
+   "end": 105
+  },
+  "unit_title": "grace core: without any cause, by svatantrya (c6 clip)",
+  "provenance": {
+   "quote": "excavations/vat10.md",
+   "text": "kaul_sutras_en",
+   "plain": "fish_filter_vatula"
+  }
+ },
+ {
+  "seq": 17,
+  "kind": "unit",
+  "section": "S3",
+  "question": "How does realisation happen?",
+  "text": {
+   "source": "text/kaul_sutras_en.json#11",
+   "verbatim": "On the full play of the five functions, the ungraded inspiration takes place."
+  },
+  "plain": {
+   "source": "build/plain_sutras_v1.json#11",
+   "line": "On the full play of the five functions, the ungraded inspiration takes place.",
+   "tts_line": "On the full play of the five functions, the ungraded inspiration takes place."
+  },
+  "audio": {
+   "file": null,
+   "uid": "vat11-02",
+   "grade": "A",
+   "start": 148,
+   "end": 166
+  },
+  "unit_title": "the beyond-upāya strike — even the grace-way dissolves",
+  "provenance": {
+   "quote": "excavations/vat11.md",
+   "text": "kaul_sutras_en",
+   "plain": "fish_filter_vatula"
+  }
+ },
+ {
+  "seq": 18,
+  "kind": "unit",
+  "section": "S3",
+  "question": "How does realisation happen?",
+  "text": {
+   "source": "text/kaul_sutras_en.json#12",
+   "verbatim": "Release from merit and demerit accompanies the inspiration of the great enlightenment."
+  },
+  "plain": {
+   "source": "build/plain_sutras_v1.json#12",
+   "line": "Release from merit and demerit accompanies the inspiration of the great enlightenment.",
+   "tts_line": "Release from merit and demerit accompanies the inspiration of the great enlightenment."
+  },
+  "audio": {
+   "file": null,
+   "uid": "vat12-01",
+   "grade": "B",
+   "start": 7,
+   "end": 55
+  },
+  "unit_title": "the condition-frame — grace/b or c spine; rebirth-essay hook",
+  "provenance": {
+   "quote": "excavations/vat12.md",
+   "text": "kaul_sutras_en",
+   "plain": "fish_filter_vatula"
+  }
+ },
+ {
+  "seq": 19,
+  "kind": "unit",
+  "section": "S3",
+  "question": "How does realisation happen?",
+  "text": {
+   "source": "text/kaul_sutras_en.json#12",
+   "verbatim": "Release from merit and demerit accompanies the inspiration of the great enlightenment."
+  },
+  "plain": {
+   "source": "build/plain_sutras_v1.json#12",
+   "line": "Release from merit and demerit accompanies the inspiration of the great enlightenment.",
+   "tts_line": "Release from merit and demerit accompanies the inspiration of the great enlightenment."
+  },
+  "audio": {
+   "file": null,
+   "uid": "vat12-03",
+   "grade": "B",
+   "start": 242,
+   "end": 291
+  },
+  "unit_title": "spontaneous lexicon — b depth",
+  "provenance": {
+   "quote": "excavations/vat12.md",
+   "text": "kaul_sutras_en",
+   "plain": "fish_filter_vatula"
+  }
+ },
+ {
+  "seq": 20,
+  "kind": "unit",
+  "section": "S3",
+  "question": "How does realisation happen?",
+  "text": {
+   "source": "text/kaul_sutras_en.json#13",
+   "verbatim": "The attainment of the unity takes place, through the acquisition of the mudra of great wonderment, by virtue of the concentration on the real nature."
+  },
+  "plain": {
+   "source": "build/plain_sutras_v1.json#13",
+   "line": "The attainment of the unity takes place, through the acquisition of the mudra of great wonderment, by virtue of the concentration on the real nature.",
+   "tts_line": "The attainment of the unity takes place, through the acquisition of the mudra of great wonderment, by virtue of the concentration on the real nature."
+  },
+  "audio": {
+   "file": null,
+   "uid": "vat13-02",
+   "grade": "B",
+   "start": 156,
+   "end": 164
+  },
+  "unit_title": "transmission echo — b depth (ties vat8-04)",
+  "provenance": {
+   "quote": "excavations/vat13.md",
+   "text": "kaul_sutras_en",
+   "plain": "fish_filter_vatula"
+  }
+ }
+]
