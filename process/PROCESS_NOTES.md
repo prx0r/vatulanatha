@@ -115,9 +115,10 @@ ffprobe -v error -show_entries format=duration -of csv=p=0 <mp3>
   batch), **Secret Supreme text landed** (`supplements/lakshmanjoo/`: OCR txt 43k words
   + 172p PDF — book = edited form OF the 1971 audio recordings, chapter-aligned, so it
   serves as the transcript/index for the $0 audio when it arrives).
-- **Next:** vat13, vat4, vat7, vat2, vat5, vat6, vat9, vat11 (1.5 A/file discipline)
-  → CATALOGUE → clustering + convergence → SPINE slots for "What is realisation?"
-  → A/B/C manifests → render (analayo settings: loudnorm −16 LUFS, afade 0.15,
+- **Next:** S2 clustering + convergence → **S3 SPINE.md** → **S4 Essay-0 lock**
+  (minimal-response opener, candidates in `17-SPINE-WORKFLOW.md`) → S5 A/B/C
+  collate (Russian dolls) → S6 three-layer beats → S7 render + gates.
+  (excavations DONE 13/13, 96 units, G1 closed, CATALOGUE generated) (analayo settings: loudnorm −16 LUFS, afade 0.15,
   pause-snap, breath 1.5/water 2.5) → verify.sh.
 - **Known gaps:** 17 ear-check spans unreviewed · key_v2 unsigned · Grace film's
   narration unwritten (separate track) · mangala chant handling: chanting rule says
