@@ -62,3 +62,20 @@ merged) → question measured (grace demoted to commentary-film) → 13/13
 excavations (96 units, two verify passes) → G1 + C-MARKS → CATALOGUE →
 grammar locked (12 question-cell, 15 five-voice, FORMULA A⊂B⊂C) → port doc 16.
 Supplements: Wallis/Sarvapriyananda/Sanderson-I audio+subs; Secret Supreme text+PDF.
+
+## S2 attempt log (2026-10-25) — why blind clustering failed, and the method
+- topic-tag Jaccard: "nonduality" glues → 1×51u blob at usable thresholds.
+- unit-title Jaccard: titles unique by design → 47 dust clusters.
+- transcript-slice Jaccard: raw vocab too sparse/noisy → 87 pairs.
+- **Verdict: counts do not emerge from blind agglomerative here.** Analayo's 6 =
+  designed keyword profiles → mechanical assignment → totals reconcile →
+  independent gold confirmation ("two dissections"). We run THAT: S2 =
+  designed question-profiles below → keyword assign all 96 → G1-style totals
+  → convergence check against A-buckets.
+- **Preview spine (5 sections, feeds the test — NOT locked):**
+  1. What is realisation? (definitions — feeds Essay 0)
+  2. Where does it happen — what is the between? (void/pairs/union/coverings)
+  3. How does it happen — without any method? (glance/grace/not-by-will/beyond-upāya)
+  4. What does it do to experience? (speech/senses/sound)
+  5. What does it land as? (ethics/death/wonder)
+  Order inside sections = her sūtra order (fractal law, §7 of notes).
