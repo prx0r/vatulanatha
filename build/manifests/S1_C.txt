@@ -2,9 +2,9 @@
 # = A+B below (append-only superset) PLUS texture:
 #   full sources in HER order minus C-marked windows (excavations/C-MARKS.md)
 # uid	start	end	grade	mp3
-vat1-09	367	526	B	None
-vat1-05	526	552	A	None
-vat1-06	552	579	A	None
-vat1-08	807	840	B	None
-vat9-02	55	113	A	None
-vat13-04	600	628	B	None
+vat1-09	367	526	B	Vatulanatha_Sutra_1 [ZrTkwSh3GRE].mp3
+vat1-05	526	552	A	Vatulanatha_Sutra_1 [ZrTkwSh3GRE].mp3
+vat1-06	552	579	A	Vatulanatha_Sutra_1 [ZrTkwSh3GRE].mp3
+vat1-08	807	840	B	Vatulanatha_Sutra_1 [ZrTkwSh3GRE].mp3
+vat9-02	55	113	A	Vatulanatha_Sutra_9 [HNyggIvPzEQ].mp3
+vat13-04	600	628	B	Vatulanatha_Sutra_13 [_p--mXPt-pk].mp3

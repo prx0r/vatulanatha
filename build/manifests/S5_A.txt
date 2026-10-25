@@ -1,6 +1,6 @@
 # S5 What is the fruit of realisation? — A (4 clips) gold 3.4m
 # uid	start	end	grade	mp3
-vat12-02	198	237	A	None
-vat12-04	291	366	A	None
-vat13-01	79	129	A	None
-vat13-06	829	866	A	None
+vat12-02	198	237	A	Vatulanatha_Sutra_12 [czW1e6ifrU4].mp3
+vat12-04	291	366	A	Vatulanatha_Sutra_12 [czW1e6ifrU4].mp3
+vat13-01	79	129	A	Vatulanatha_Sutra_13 [_p--mXPt-pk].mp3
+vat13-06	829	866	A	Vatulanatha_Sutra_13 [_p--mXPt-pk].mp3

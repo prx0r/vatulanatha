@@ -1,9 +1,9 @@
 # S2 What is the self? — A (7 clips) gold 3.6m
 # uid	start	end	grade	mp3
-vat2-02	192	213	A	None
-vat3-03	270	322	A	None
-vat3-04	322	332	A	None
-vat4-03	299	314	A	None
-vat4-06	456	495	A	None
-vat5-03	154	216	A	None
-vat5-05	298	315	A	None
+vat2-02	192	213	A	Vatulanatha_Sutra_2 [mHTSwh7PTDg].mp3
+vat3-03	270	322	A	Vatulanatha_Sutra_3 [WD8uLV7uWI4].mp3
+vat3-04	322	332	A	Vatulanatha_Sutra_3 [WD8uLV7uWI4].mp3
+vat4-03	299	314	A	Vatulanatha_Sutra_4 [STb30XHtbGU].mp3
+vat4-06	456	495	A	Vatulanatha_Sutra_4 [STb30XHtbGU].mp3
+vat5-03	154	216	A	Vatulanatha_Sutra_5 [0LCYhSfS2Zg].mp3
+vat5-05	298	315	A	Vatulanatha_Sutra_5 [0LCYhSfS2Zg].mp3

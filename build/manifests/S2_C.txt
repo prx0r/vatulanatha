@@ -2,37 +2,37 @@
 # = A+B below (append-only superset) PLUS texture:
 #   full sources in HER order minus C-marked windows (excavations/C-MARKS.md)
 # uid	start	end	grade	mp3
-vat2-03	159	184	B	None
-vat2-02	192	213	A	None
-vat2-06	213	369	B	None
-vat2-04	369	457	B	None
-vat2-07	457	618	B	None
-vat2-05	618	647	B	None
-vat3-03	270	322	A	None
-vat3-04	322	332	A	None
-vat3-05	340	355	B	None
-vat3-06	366	397	B	None
-vat3-07	402	449	B	None
-vat3-09	527	554	B	None
-vat4-01	91	117	B	None
-vat4-02	155	190	B	None
-vat4-03	299	314	A	None
-vat4-04	353	389	B	None
-vat4-06	456	495	A	None
-vat5-01	65	83	B	None
-vat5-02	90	122	B	None
-vat5-03	154	216	A	None
-vat5-04	241	290	B	None
-vat5-05	298	315	A	None
-vat5-06	340	386	B	None
-vat6-02	55	102	B	None
-vat6-03	109	262	B	None
-vat6-04	262	287	B	None
-vat6-05	287	326	B	None
-vat6-06	348	374	B	None
-vat8-02	68	121	B	None
-vat8-05	250	284	B	None
-vat8-06	293	344	B	None
-vat8-07	384	407	B	None
-vat8-08	422	468	B	None
-vat8-09	496	539	B	None
+vat2-03	159	184	B	Vatulanatha_Sutra_2 [mHTSwh7PTDg].mp3
+vat2-02	192	213	A	Vatulanatha_Sutra_2 [mHTSwh7PTDg].mp3
+vat2-06	213	369	B	Vatulanatha_Sutra_2 [mHTSwh7PTDg].mp3
+vat2-04	369	457	B	Vatulanatha_Sutra_2 [mHTSwh7PTDg].mp3
+vat2-07	457	618	B	Vatulanatha_Sutra_2 [mHTSwh7PTDg].mp3
+vat2-05	618	647	B	Vatulanatha_Sutra_2 [mHTSwh7PTDg].mp3
+vat3-03	270	322	A	Vatulanatha_Sutra_3 [WD8uLV7uWI4].mp3
+vat3-04	322	332	A	Vatulanatha_Sutra_3 [WD8uLV7uWI4].mp3
+vat3-05	340	355	B	Vatulanatha_Sutra_3 [WD8uLV7uWI4].mp3
+vat3-06	366	397	B	Vatulanatha_Sutra_3 [WD8uLV7uWI4].mp3
+vat3-07	402	449	B	Vatulanatha_Sutra_3 [WD8uLV7uWI4].mp3
+vat3-09	527	554	B	Vatulanatha_Sutra_3 [WD8uLV7uWI4].mp3
+vat4-01	91	117	B	Vatulanatha_Sutra_4 [STb30XHtbGU].mp3
+vat4-02	155	190	B	Vatulanatha_Sutra_4 [STb30XHtbGU].mp3
+vat4-03	299	314	A	Vatulanatha_Sutra_4 [STb30XHtbGU].mp3
+vat4-04	353	389	B	Vatulanatha_Sutra_4 [STb30XHtbGU].mp3
+vat4-06	456	495	A	Vatulanatha_Sutra_4 [STb30XHtbGU].mp3
+vat5-01	65	83	B	Vatulanatha_Sutra_5 [0LCYhSfS2Zg].mp3
+vat5-02	90	122	B	Vatulanatha_Sutra_5 [0LCYhSfS2Zg].mp3
+vat5-03	154	216	A	Vatulanatha_Sutra_5 [0LCYhSfS2Zg].mp3
+vat5-04	241	290	B	Vatulanatha_Sutra_5 [0LCYhSfS2Zg].mp3
+vat5-05	298	315	A	Vatulanatha_Sutra_5 [0LCYhSfS2Zg].mp3
+vat5-06	340	386	B	Vatulanatha_Sutra_5 [0LCYhSfS2Zg].mp3
+vat6-02	55	102	B	Vatulanatha_Sutra_6 [VV3IRJ-wLG8].mp3
+vat6-03	109	262	B	Vatulanatha_Sutra_6 [VV3IRJ-wLG8].mp3
+vat6-04	262	287	B	Vatulanatha_Sutra_6 [VV3IRJ-wLG8].mp3
+vat6-05	287	326	B	Vatulanatha_Sutra_6 [VV3IRJ-wLG8].mp3
+vat6-06	348	374	B	Vatulanatha_Sutra_6 [VV3IRJ-wLG8].mp3
+vat8-02	68	121	B	Vatulanatha_Sutra_8 [Tdo6xcQcmRc].mp3
+vat8-05	250	284	B	Vatulanatha_Sutra_8 [Tdo6xcQcmRc].mp3
+vat8-06	293	344	B	Vatulanatha_Sutra_8 [Tdo6xcQcmRc].mp3
+vat8-07	384	407	B	Vatulanatha_Sutra_8 [Tdo6xcQcmRc].mp3
+vat8-08	422	468	B	Vatulanatha_Sutra_8 [Tdo6xcQcmRc].mp3
+vat8-09	496	539	B	Vatulanatha_Sutra_8 [Tdo6xcQcmRc].mp3
