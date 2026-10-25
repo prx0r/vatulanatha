@@ -19,7 +19,7 @@ and essay-0's response OPENS (not closes) the enquiry.
 how does it happen → what does it do → what is the fruit.
 
 ## S1. What is realisation?
-6 units (3A/3B) · 5.5m · sūtras [1, 9, 13]
+6 units (3A/3B; seed-cap: vat1-05 plays only at layer heads) · 5.3m · sūtras [1, 9, 13]
 **Anchor:** `vat1-05` — "attainment does not mean to get something which we do not have attainment means to become what we truly are"
 
 - vat1-05 [A] the recognition-shaped core in one sentence
@@ -94,7 +94,7 @@ how does it happen → what does it do → what is the fruit.
 - vat13-02 [B] transmission echo — b depth (ties vat8-04)
 
 ## S4. What does realisation do to experience?
-29 units (3A/26B) · 29.0m · sūtras [4, 7, 9, 10, 11, 13]
+29 units (4A/25B — vat10-01 promoted, opener) · 29.0m · sūtras [4, 7, 9, 10, 11, 13]
 **Anchor:** `vat10-07` — "his divinized senses attain the state of pure consciousness which radiates throughout the universe"
 
 - vat4-07 [B] examples fill (g1 gap 190→299s)
