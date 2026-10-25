@@ -31,5 +31,7 @@
   "text": "text/kaul_sutras_en.json#1",
   "plain": "build/plain_sutras_v1.json#1",
   "shape": "question(slot) -> 2-breath pause -> plain(slot) -> clip"
- }
+ },
+ "written_form": "build/essay0/MICRO-SESSION.md",
+ "lock": "build/essay0_lock.json (owner)"
 }
