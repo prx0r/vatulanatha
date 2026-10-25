@@ -47,7 +47,7 @@ Thesis question: what does the realised one DO?
 - topics: spanda, nonduality
 - role: claim
 - layer: explain
-- quote: "it is Spanda"
+- quote: "We also say it's not Kshoba. But it is Spanda."
 - context: Her clarification of Swamiji's 'agitation': not kṣoba but spanda — 'consciousness in this tradition is dynamic... there is a dynamism of consciousness'.
 - essay_use: Spanda-not-static — B (ties Śiva Sūtra 1.5)
 
