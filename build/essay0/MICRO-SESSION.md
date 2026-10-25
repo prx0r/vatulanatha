@@ -24,7 +24,7 @@ record under it. Audio form: `essay0_{1,2,3}.mp3` (+ `essay0_listen_all.mp3`).
 
 > **What is realisation?**  *(2 breaths)*
 
-> **SANSKRIT (exact):** `p. 12) devīcatuṣṭayollāsena sadaiva svaviśrāntyavasthitiḥ`  ·  Vātūlanātha 9
+> **SANSKRIT (exact):** `devīcatuṣṭayollāsena sadaiva svaviśrāntyavasthitiḥ`  ·  Vātūlanātha 9
 > **TRANSLATION (Kaul 1923, as it is):** "Permanence of the immersion in the real self takes place for ever by the full development of the four deities."
 > **PLAIN (generated, `plain_sutras_v1`):** "Permanence of the immersion in the real self takes place for ever by the full development of the four deities."
 
