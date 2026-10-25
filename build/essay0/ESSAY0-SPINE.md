@@ -1,8 +1,9 @@
-# ESSAY 0 = THE SPINE — five questions × five compressed answers (definition: FINAL)
+# ESSAY 0 = THE SPINE — the five questions (definition: FINAL)
 
-The whole essay in miniature: every spine question, each answered in one
-compressed gospel beat. Plays at the head of the piece, then re-opens at the head
-of A, B, C — the spine heard 4×, each time wrapped deeper.
+CANON: ESSAY 0 = the spine = the five questions in order. ESSAY A = the spine
+expanded (answers/gold). B = A + depth. C = B + texture. 0 ⊂ A ⊂ B ⊂ C.
+The spine plays at the head, then re-opens at each layer head — heard 4×, deeper.
+The answer-candidates below = machinery for A's SECTION OPENERS, not Essay 0.
 
 Beat form (locked): 🔊 question → *(2 breaths)* → 📺 sanskrit + translation (interlinear)
 → 🔊 plain → 🎙 Bäumer (compressed, sentence-edged, ≤~30s)

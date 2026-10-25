@@ -223,6 +223,11 @@ compressed response (5 gospel beats, S1→S5) — the whole essay in miniature, 
 4× (head, A, B, C). The S1 micro-session = beat 1 of 5 (form was right).
 All earlier references to "essay 0 = the seed/opener" are superseded; see
 `build/essay0/ESSAY0-SPINE.md` for the real structure.
+**Restated by owner (do not re-derive):** ESSAY 0 = the spine (the five
+questions). ESSAY A = expansion of that (= the S*_A manifests, built). B =
+expansion of A. C = expansion of B. Cards/answers/bells = machinery inside
+A/B/C, never new essays. My 5-beat "essay0 as questions+answers" was scope
+creep #3 — the answers live in A, where the expansion begins.
 
 ## 10. STANDARD (owner, 2026-10-25) — record this
 - **The formula (owner, verbatim):** *audio of a genius talking about a text —

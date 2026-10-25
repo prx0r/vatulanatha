@@ -37,8 +37,12 @@ Essay-0 selection follows `process/ESSAY0-FORMULA.md` (7 tests, question → san
 ## THE UNFOLDING — form mirrors content (owner, 2026-10-25)
 
 The keystone: **the essay does not DESCRIBE unfoldment — it PERFORMS it.**
-- Essay 0 = **THE SPINE IN MINIATURE** (`bīja`): all five questions, each with its
-  compressed answer (5 gospel beats) — the seed is the whole skeleton, not one line.
+- ESSAY 0 = THE SPINE — the five questions in order (what is realisation → what
+  is the self → how does it happen → what does it do → what is the fruit).
+  ESSAY A = the spine EXPANDED: each question answered with its gold (sections at
+  speed). ESSAY B = A expanded (+ depth). ESSAY C = B expanded (+ texture, her walk).
+  Russian dolls: 0 ⊂ A ⊂ B ⊂ C. Machinery (interlinear cards, compressed answers,
+  bells) lives INSIDE the expansions — it is not a separate essay.
 - A, B, C = the same seed unfolding at growing depth — exactly as realisation
   unfolds from what-you-already-are; the listener's understanding grows the way
   the text says realisation grows: not by addition, by expansion of the same thing.
@@ -55,7 +59,7 @@ The keystone: **the essay does not DESCRIBE unfoldment — it PERFORMS it.**
 The finished video plays the nesting **linearly**, with bells marking each threshold:
 
 ```
-[BELL] → ESSAY 0 (all five Q&As, ~2–4 min) → [BELL] → A (sections at speed) → [BELL] → B (+depth) → [BELL] → C (+texture)
+[BELL] → ESSAY 0 (the five questions, ~30–60s) → [BELL] → A (answers expand) (sections at speed) → [BELL] → B (+depth) → [BELL] → C (+texture)
 ```
 
 - **Essay 0 recurs FOUR times** — at the head, then re-entered at the head of A,
