@@ -130,10 +130,17 @@ ffprobe -v error -show_entries format=duration -of csv=p=0 <mp3>
   `tools/render_vatula.py` + **A-previews rendered**: S1 2.3m · S2 4.6m · S3 9.2m ·
   S4 1.8m · S5 4.1m (~22m with beds; content 17.8m in band).
 
+**Correction log (2026-10-25 evening):**
+- B-as-superset was the wrong construction direction (86m — owner: "B is way too
+  long"). New law: **essay 0 first, build outward** (see 17 BUILD ORDER LAW).
+  Supersets are only raw pools for selection, never ship artifacts.
+- Essay 0 upgraded from raw audition windows to BUILT form
+  (`build/essay0/essay0_{1,2,3}.mp3`, question→pause→plain→answer, 25–30s).
+
 **Remaining (owner-dependent first):**
-1. Ear: essay-0 pick/mix from `build/essay0_audition/` → S4 lock.
+1. Ear: essay-0 pick/mix from **`build/essay0/` (built form, prefer)** or audition/ raw cuts → write `build/essay0_lock.json`.
 2. TTS credits confirm (Guyzo voice) → generate question+plain tracks → re-render filled.
-3. B depth-selection flow-read (fix 86m overrun → 20–40m ship list).
+3. B depth-selection flow-read **growing outward from the locked essay0** (86m superset → 20–40m ship list; every clip must deepen the essay0 answer).
 4. G8 listen pass on previews; then C texture + full assembly.
 5. Parked: Secret Supreme $0 checkout; Sanderson batch stopped by owner; baumer
    channel download stopped at 91/147 (resume: download_all.py).

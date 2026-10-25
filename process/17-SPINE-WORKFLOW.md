@@ -88,6 +88,17 @@ Supplements: Wallis/Sarvapriyananda/Sanderson-I audio+subs; Secret Supreme text+
   5. What does it land as? (ethics/death/wonder)
   Order inside sections = her sūtra order (fractal law, §7 of notes).
 
+## BUILD ORDER LAW (owner, added 2026-10-25 — correction after B overrun)
+**ESSAY 0 FIRST.** Build the most-compressed answer (the gold dust) before anything
+else; everything grows OUTWARD from it: essay0 → A (sections at speed, anchored on
+the same answer) → B (A + depth that EXPANDS the essay0 answer) → C (A+B + texture).
+Never build a superset first and select inward — that's what produced the B 86m
+overrun. B-length rule of thumb: B ≈ A × 1.6–2 (FORMULA: 20–40m); every added B
+clip must pass the hold-up test: *does it deepen the essay0 answer?*
+Essay 0 built artifacts: `build/essay0/essay0_{1,2,3}.mp3` (full form:
+question→pause→plain→answer, 25–30s each) + `manifest.json`; lock =
+`build/essay0_lock.json` (owner pick) — gates via verify.sh G12/--ship.
+
 ## THE GOSPEL — beat layer order (owner, locked 2026-10-25)
 Every beat, every section, no exceptions, in this order:
 1. **TEXT VERBATIM** — the primary-source words (sūtra/Kaul/vṛtti), on screen first.

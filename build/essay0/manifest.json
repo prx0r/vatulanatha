@@ -1,0 +1,35 @@
+{
+ "1": {
+  "window": [
+   534,
+   554
+  ],
+  "mp3": "Vatulanatha_Sutra_1 [ZrTkwSh3GRE].mp3",
+  "label": "unfoldment-definition (her words: 'the definition of it is the unfoldment of our true being')",
+  "text": "text/kaul_sutras_en.json#1",
+  "plain": "build/plain_sutras_v1.json#1",
+  "shape": "question(slot) -> 2-breath pause -> plain(slot) -> clip"
+ },
+ "2": {
+  "window": [
+   100,
+   115
+  ],
+  "mp3": "Vatulanatha_Sutra_9 [HNyggIvPzEQ].mp3",
+  "label": "resting-in-own-being ('a state of resting in one's own being')",
+  "text": "text/kaul_sutras_en.json#1",
+  "plain": "build/plain_sutras_v1.json#1",
+  "shape": "question(slot) -> 2-breath pause -> plain(slot) -> clip"
+ },
+ "3": {
+  "window": [
+   470,
+   490
+  ],
+  "mp3": "Vatulanatha_Sutra_1 [ZrTkwSh3GRE].mp3",
+  "label": "Abhinavagupta-via-her ('the unfolding ... to nature ... expansion of the true nature')",
+  "text": "text/kaul_sutras_en.json#1",
+  "plain": "build/plain_sutras_v1.json#1",
+  "shape": "question(slot) -> 2-breath pause -> plain(slot) -> clip"
+ }
+}
