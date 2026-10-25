@@ -10,8 +10,9 @@
    **Standalone-clarity law (owner, 2026-10-25):** each question must make sense
    on its own — no insider coinages (rejected: "what is the between?"), no
    shorthand, no dependence on other section questions. A stranger hearing it
-   cold must know exactly what is asked. Locked set:
-   1 What is realisation? · 2 What is the void full of? ·
+   cold must know exactly what is asked. **The spine = the most fundamental
+   progression possible.** Locked set:
+   1 What is realisation? · 2 What is the self? ·
    3 How does realisation happen? · 4 What does realisation do to experience? ·
    5 What is the fruit of realisation?
 2. **Three essays, Russian dolls** — A ⊂ B ⊂ C (FORMULA, append-only), collated
@@ -86,3 +87,18 @@ Supplements: Wallis/Sarvapriyananda/Sanderson-I audio+subs; Secret Supreme text+
   4. What does it do to experience? (speech/senses/sound)
   5. What does it land as? (ethics/death/wonder)
   Order inside sections = her sūtra order (fractal law, §7 of notes).
+
+## THE GOSPEL — beat layer order (owner, locked 2026-10-25)
+Every beat, every section, no exceptions, in this order:
+1. **TEXT VERBATIM** — the primary-source words (sūtra/Kaul/vṛtti), on screen first.
+2. **PLAIN ENGLISH** — the translation/gloss of exactly that text (key-driven, 07).
+3. **AUDIO SPEAKER** — the archive voice (Bäumer…) explaining it fully.
+(= analayo's three-layer: Nanananda-words → plain → Analayo. Also the traditional
+order: sūtra line → translation → commentary. Question+pause precede per 12.)
+
+## ESSAY 0 REDEFINED — compressed answer PER question (owner)
+Not only the master opener: each spine question gets "the most concise response
+that still explains it fully" = its TEXT+PLAIN pair answering the question in
+minimal words — then the AUDIO of that section unfolds it fully.
+Q → text(verbatim answer) → plain(translation) → audio(speaker expands).
+Master opener still auditioned from `build/essay0_audition/` (3 extracts).

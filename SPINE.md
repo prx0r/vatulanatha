@@ -18,7 +18,7 @@ the master ("realisation") but never to each other.
 - vat1-09 [B] word-analysis fill (g1 gap 367→526s)
 - vat9-02 [A] the resting-in-own-being line (matches 42-hit vocabulary)
 
-## S2. What is the void full of?
+## S2. What is the self?
 36 units (8A/28B) · 27.4m · sūtras [1, 2, 3, 4, 5, 6, 8, 13]
 **Anchor:** `vat3-04` — "It is with awareness between these two points that one enters the great Sunyata, which is ultimately fullness,"
 
@@ -130,11 +130,17 @@ the master ("realisation") but never to each other.
 - vat13-06 [A] the punchline — film/essay close material
 - vat13-08 [B] wonder/mudrā block (g1 cont.)
 
-## Essay 0 (opener, pending owner ear)
-Question: “What is realisation?” → pause → minimal answer.
-Candidates/mix: vat1 8:55–9:14 (unfoldment-definition) · vat9 1:40–1:55 (resting-in-own-being)
-· vat1 7:50–8:10 (Abhinavagupta-via-her). Extracts: `build/essay0_audition/`.
+## Essay 0 — the compressed answer, PER QUESTION (owner design, expanded 2026-10-25)
+For EVERY spine question, not just the master: the **most concise response that
+still explains it fully** — then the audio unfolds it. Shape per section:
+`[QUESTION] → [TEXT VERBATIM (the concise answer, source words)] → [PLAIN ENGLISH
+(its translation)] → [AUDIO speaker (explains it fully)]`
+Master-question opener still auditions the three extracts
+(`build/essay0_audition/`): unfoldment-definition · resting-in-own-being ·
+Abhinavagupta-via-her. Each section's own compressed answer gets picked from its
+anchor units when we build S6.
 
 ## Section order in the film
-S1 → S2 → S3 → S4 → S5 reads as: what it is → what reality is → how → what it does → the fruit.
+S1 → S2 → S3 → S4 → S5 = the fundamental progression:
+what is realisation → what is the self → how does it happen → what does it do → what is the fruit.
 Within each: her sūtra order. A = these sections at speed; B = +depth; C = +texture (her order).
