@@ -52,6 +52,8 @@ Pool = every existing exact rendering of the Step-2 phrases. Pick per phrase:
 - Never compose. Weak Kaul line → choose a better existing one, don't repair it.
 - One natural S↔T match per column; cross-picks allowed but must not contradict.
 
+**Tier order (confirmed): SANSKRIT + TRANSLATION (screen interlinear) → PLAIN (spoken) → BÄUMER.**
+
 ## Step 4 — THE PLAIN (mechanical only)
 - Output of fish_filter over **the chosen translation T** — regenerated at pick time,
   never a pre-baked line from a different source (9c-4). Nothing else (07 ownership).
