@@ -1,8 +1,7 @@
-# S1 What is realisation? — C (near-complete)
-# = A+B PLUS texture: full sources HER order minus C-MARKS
+# S1 — C = A+B + texture (her order minus C-MARKS) (5 clips)
 # uid	start	end	grade	mp3
-vat1-09	367	526	B	Vatulanatha_Sutra_1 [ZrTkwSh3GRE].mp3
 vat1-06	552	579	A	Vatulanatha_Sutra_1 [ZrTkwSh3GRE].mp3
+vat1-09	473	526	A	Vatulanatha_Sutra_1 [ZrTkwSh3GRE].mp3
 vat1-08	807	840	B	Vatulanatha_Sutra_1 [ZrTkwSh3GRE].mp3
+vat13-04	600	628	B	Vatulanatha_Sutra_1 [ZrTkwSh3GRE].mp3
 vat9-02	55	113	A	Vatulanatha_Sutra_9 [HNyggIvPzEQ].mp3
-vat13-04	600	628	B	Vatulanatha_Sutra_13 [_p--mXPt-pk].mp3

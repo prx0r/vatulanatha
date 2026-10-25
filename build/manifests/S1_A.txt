@@ -1,4 +1,5 @@
-# S1 What is realisation? — A (2 clips) gold 1.4m
+# S1 What is realisation? — A · EVOLVED: negation → master-definition → state (cluster-reorder; seed at layer heads only) (3 clips)
 # uid	start	end	grade	mp3
 vat1-06	552	579	A	Vatulanatha_Sutra_1 [ZrTkwSh3GRE].mp3
+vat1-09	473	526	A	Vatulanatha_Sutra_1 [ZrTkwSh3GRE].mp3
 vat9-02	55	113	A	Vatulanatha_Sutra_9 [HNyggIvPzEQ].mp3
