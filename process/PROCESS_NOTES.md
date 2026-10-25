@@ -145,6 +145,38 @@ ffprobe -v error -show_entries format=duration -of csv=p=0 <mp3>
 5. Parked: Secret Supreme $0 checkout; Sanderson batch stopped by owner; baumer
    channel download stopped at 91/147 (resume: download_all.py).
 
+## 9b. HOW THE SANSKRIT-FIRST RULE WAS FOUND (essay-0 screen text, 2026-10-25)
+
+The path, kept honest — three owner rejections in one sitting:
+1. **v1 TEXT seat** = Kaul's full 1923 sentence ("The real nature is acquired by the
+   firm stay in the pre-eminent sahasa"). Owner: *not catchy, not profound* — an
+   old translator's stiff full clause, not a hook.
+2. **v2 TEXT seat** = famous phrases mined from the gloss around it ("Sahasa
+   literally means an unexpected happening", "waveless, limitless, unlocalised and
+   touchless", "quicker than the quick"). Better English — but the owner caught the
+   **circularity**: we were quoting Kaul *defining* the Sanskrit word (sāhasa) when
+   the card could just SHOW the Sanskrit. *"...whats the sanskrit for that then."*
+3. **v3 rule**: for a primary-source essay the screen answer must come from the
+   PRIMARY LANGUAGE. Dig the Sanskrit chunks (`text/vatula_s*.txt`) → the answer
+   vocabulary fell out of sūtra 1's own vṛtti:
+   - `mahāsāhasavṛttyā svarūpalābhaḥ` — sūtra 1: "by the workings of great
+     sudden-force, one's true nature is attained" (= her spoken translation)
+   - `kasyacit kvacit kadācit akasmādeva` — the vṛtti's grace-formula = the Sanskrit
+     behind Kaul's "somewhere, sometime, unexpectedly" (`akasmāt` = without-cause →
+     same word as our vat10-03 "without any cause" unit)
+   - `jhaṭiti` (in a flash) · `akṛtaka` (the unmade) · `sadaiva svaviśrāntyavasthitiḥ`
+     (sūtra 9 = the "resting in one's own being" Sanskrit)
+
+**Reusable lessons:**
+- TEXT seat = source language first; English only as gloss beneath. Never a full
+  old-translation sentence as the hook.
+- Mine the *gloss/commentary around* a sūtra for catchy lines — but quote the TERM,
+  not the translator's definition of the term (definitions = circular).
+- The text answering its own question lives in ITS OWN words: find the Sanskrit
+  (or primary-language) answer before reaching for any English.
+- Verification habit kept: every Sanskrit line printed = checked against
+  `text/vatula_s*.txt` (corpus Muktabodha), IAST per card rules.
+
 ## 10. STANDARD (owner, 2026-10-25) — record this
 - **The formula (owner, verbatim):** *audio of a genius talking about a text —
   using their voice as the excuse to finish analyzing a tough text.* Dependency runs
