@@ -13,9 +13,10 @@ pending), her clip plays always. Plain answers are HUMAN-composed to complete
 > **What is realisation?**
 > *(2 breaths — 3.0s)*
 >
-> **ON SCREEN (TEXT):** "The real nature is acquired by the firm stay in the pre-eminent sahasa." — Vātūlanāthasūtra 1, Kaul tr. 1923
+> **ON SCREEN (TEXT):** **"Sahasa literally means an unexpected happening."**
+> *(Kaul, gloss on sūtra 1)* — strip under: *"…waveless, limitless, unlocalised and touchless… takes place somewhere, sometime, unexpectedly"*
 >
-> **SPOKEN (PLAIN):** "Realisation is not something you acquire. It is the unfolding of what you already are — becoming what you truly are."
+> **SPOKEN (PLAIN):** "Realisation isn't acquired. It happens — somewhere, sometime, unexpectedly: the unfolding of what you already are."
 >
 > **HER VOICE lands it (clip, 8:54–9:14):**
 > "…attainment means to become what we truly are… **the definition of it is the unfoldment of our true being, of our true nature.**"
@@ -29,7 +30,8 @@ Backing verbatim: vat1 (decompile read/explain) — quote verified.
 > **What is realisation?**
 > *(2 breaths — 3.0s)*
 >
-> **ON SCREEN (TEXT):** "Permanence of the immersion in the real self takes place for ever by the full development of the four deities." — Vātūlanāthasūtra 9, Kaul tr.
+> **ON SCREEN (TEXT):** **"Permanence of the immersion in the real self… for ever"** — Vātūlanāthasūtra 9, Kaul tr.
+> Sanskrit strip: `devīcatuṣṭayollāsena sadaiva svaviśrāntyavasthitiḥ`
 >
 > **SPOKEN (PLAIN):** "Realisation is a state of resting in your own being."
 >
@@ -45,7 +47,8 @@ Backing verbatim: vat9-02 (A) — quote verified.
 > **What is realisation?**
 > *(2 breaths — 3.0s)*
 >
-> **ON SCREEN (TEXT):** "The real nature is acquired…" (sūtra 1, Kaul) + card: *Abhinavagupta's definition — "the unfolding of true nature"*
+> **ON SCREEN (TEXT):** **"…under the influence of the undominated inspiration quicker than the quick"**
+> *(Kaul, gloss on sūtra 1)* — Sanskrit strip: `mahāsāhasavṛttyā svarūpalābhaḥ` *(the sūtra that "contains the whole teaching", her own claim)*
 >
 > **SPOKEN (PLAIN):** "Abhinavagupta gives the briefest definition of liberation: the unfolding, the revelation, the expansion of your true nature."
 >
@@ -55,6 +58,13 @@ Backing verbatim: vat9-02 (A) — quote verified.
 Backing verbatim: vat1-09 context (word-analysis; Abhinavagupta's definition).
 
 ---
+
+## Why these screen lines (found in the gloss, 2026-10-25)
+The full Kaul sentence IS clunky — but the gloss around it carries the famous phrases:
+- **"Sahasa literally means an unexpected happening."** (line 706) — the text's own plain-English zinger
+- **"waveless, limitless, unlocalised and touchless … somewhere, sometime, unexpectedly"** (778–779) — the attribute-sequence of realisation
+- **"quicker than the quick"** (788) — grace at speed
+- `mahāsāhasavṛttyā svarūpalābhaḥ` — sūtra 1 = "the whole teaching in a nutshell" (her claim), IAST card
 
 ## Lock procedure
 1. Owner listens to the three `essay0_*.mp3` **while reading this page** (the written
