@@ -16,8 +16,13 @@ Follow in order. Every step is a TEST, not taste. Output = the pick string
    and essay-0's response must OPEN the enquiry (invites depth), not close it.
    Recurrence test: after essay 0, the listener should still lean in ("…and
    then what / how / why") — that pull carries A→B→C.
-Current measured master: "What is realisation?" — cutting-test audit + sharpened
-candidates: see AUDIT section below (owner picks).
+- Master stays **"What is realisation?"** (owner: clear, not verbose — perfect).
+- Sharpening rule (owner, from the audit): sharpened questions must keep the
+  EXPLICIT OBJECT — "Why can't you force **realisation**?" ✓, not "make it
+  happen?" (pronoun, objectless) and never place-vague ("where do you end?").
+- **GATE: `process/validate_questions.py` runs as verify.sh G0** — interrogative,
+  ≤9 words, explicit content noun, no unresolved pronouns. Fails loud; SPINE set
+  currently 5/5 PASS.
 
 ## Step 1b — enquiry-open test (on the whole essay-0 stack)
 Read the locked stack aloud: does it close the question dead, or open it?

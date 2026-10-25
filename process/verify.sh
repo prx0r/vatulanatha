@@ -2,6 +2,8 @@
 # verify.sh — one-command audit for the Vatulanatha build. Fails loud.
 set -e
 cd "$(dirname "$0")/.."
+echo "== G0 questions (standalone/cutting gate) =="
+python3 process/validate_questions.py || exit 1
 echo "== G1 totals: units = assignment = manifests =="
 python3 -c "
 import json, glob, re
