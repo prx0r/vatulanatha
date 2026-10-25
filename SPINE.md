@@ -163,3 +163,20 @@ why can't you make it → what happens to the senses → what survives.
 Essay-0 under #1's sharpened form: the response ITSELF (her unfoldment/resting
 clip) answers "if nothing is attained" — opening the how/where/why that follow.
 **Owner picks: current set, sharpened set, or mix per row.**
+
+---
+
+## PICK MATRIX — 3 validated variants per question (G0-passed, owner picks)
+All below pass `validate_questions.py` (current = A-row default).
+
+| # | A (current) | B (sharpened) | C (alt angle) |
+|---|---|---|---|
+| S1 | **What is realisation?** | What is realised if nothing is attained? | What does realisation reveal? |
+| S2 | **What is the self?** | Where does the self end and the world begin? | Is there a self between subject and object? |
+| S3 | **How does realisation happen?** | Why can't you force realisation? *(owner's fix)* | What makes realisation happen? |
+| S4 | What does realisation do to experience? | **What happens to the senses?** | What becomes of ordinary experience? |
+| S5 | **What is the fruit of realisation?** | What survives realisation? | What happens to karma? |
+
+Owner feeling flagged: **S4-A not 100% right** — B is the bluntest content-noun form
+(senses = what the section actually treats), C is the mid option.
+Reply like `S4B` + `S3B` (any rows; untouched rows keep A) → G0 re-runs → SPINE updates.

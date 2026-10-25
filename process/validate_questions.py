@@ -17,7 +17,7 @@ import re, sys, pathlib
 CONTENT = {  # explicit domain nouns — a question must name one
  'realisation','realization','realise','realized','self','senses','sense','experience',
  'silence','fruit','grace','void','nature','attainment','method','force','sound','word',
- 'guru','sudden','upaya','worth','end-result','survives'  # survives->needs noun too
+ 'guru','sudden','upaya','realised','karma','worth','end-result','survives'  # survives->needs noun too
 }
 PRONOUNS = {'it','this','that','these','those','them','they','he','she','his','her'}
 OBJLESS_HINT = re.compile(r'\b(happen|happens|do it|does it|make it|go|goes|end up|turn out)\b', re.I)

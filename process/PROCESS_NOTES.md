@@ -226,3 +226,28 @@ the tier that already holds it (the translation row) — and I annotate "helpful
 - Supplements (Lakshmanjoo/Sanderson/Wallis) stay OUTSIDE the Vātūlanātha coverage
   ledger — they feed the overlap-map for multi-voice assembly, they don't excuse
   coverage gaps in the primary source.
+
+## 9d. THE JOURNEY TO THE FIVE QUESTIONS (full chain, 2026-10-25)
+
+1. **Measurement** (§5): keyword counts across all 13 transcripts — the corpus
+   answers "What is realisation?" (65 hits, every lecture); grace/sudden were
+   measured as sub-questions, not the master.
+2. **First preview (S2 attempt log):** five sections drafted — including the
+   rejected **"Where does it happen — what is the between?"**
+3. **Correction 1 — standalone-clarity:** "the between" = insider coinage a
+   stranger can't parse → S2 became "What is the void full of?" (7d2e9e9).
+4. **Correction 2 — fundamental progression:** the five must be the most basic
+   progression → S2 swapped to **"What is the self?"** (a910174); order locked:
+   is → self → how → does → fruit.
+5. **Correction 3 — cutting audit:** sharpened variants tested; two failed
+   standalone: "Where do you end?" (vague, no object), "Why can't you make it
+   happen?" (make WHAT? — pronoun + objectless verb). Owner's fix established
+   the **explicit-object rule**: "Why can't you force **realisation**?"
+6. **Mechanization:** `process/validate_questions.py` → verify.sh **G0**
+   (interrogative · ≤9 words · explicit content noun · no unresolved pronouns).
+   Rejections reproduce mechanically; final five = 5/5 PASS.
+7. **Final set locked** (SPINE.md) + **3 validated variants per row** added so
+   the owner picks the sharpest wording of each (menu: SPINE.md PICK matrix).
+
+Binding rules born on this road: standalone-clarity (law), fundamental
+progression (law), explicit-object (sharpening), G0 gate (mechanical).
