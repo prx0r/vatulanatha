@@ -7,6 +7,13 @@
    2026-10-25): master question first ("What is realisation?"), then the sub-
    questions the clusters ask. Section names are never slot-labels — always the
    question the units in it answer.
+   **Standalone-clarity law (owner, 2026-10-25):** each question must make sense
+   on its own — no insider coinages (rejected: "what is the between?"), no
+   shorthand, no dependence on other section questions. A stranger hearing it
+   cold must know exactly what is asked. Locked set:
+   1 What is realisation? · 2 What is the void full of? ·
+   3 How does realisation happen? · 4 What does realisation do to experience? ·
+   5 What is the fruit of realisation?
 2. **Three essays, Russian dolls** — A ⊂ B ⊂ C (FORMULA, append-only), collated
    under the spine sections and ORDERED properly within each section.
 3. **Essay 0 = the minimal response.** Shape: `[“What is realisation?”] → [pause] →

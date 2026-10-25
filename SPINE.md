@@ -4,6 +4,10 @@ Emerged via: reading-preview (5 questions) → keyword assignment (96/96) →
 **convergence PASSED** (A-distribution ±2 of preview on all five; biggest = S3 as
 predicted). Order = her sūtra order inside every section (fractal law).
 Russian dolls: A ⊂ B ⊂ C collate under these sections (S5).
+**Standalone-clarity law (owner, 2026-10-25):** every section question must parse
+cold — no project coinages ("the between"), no insider shorthand. Test: a stranger
+hears it alone and knows exactly what is being asked. Questions may refer back to
+the master ("realisation") but never to each other.
 
 ## S1. What is realisation?
 4 units (3A/1B) · 4.5m · sūtras [1, 9]
@@ -14,7 +18,7 @@ Russian dolls: A ⊂ B ⊂ C collate under these sections (S5).
 - vat1-09 [B] word-analysis fill (g1 gap 367→526s)
 - vat9-02 [A] the resting-in-own-being line (matches 42-hit vocabulary)
 
-## S2. Where does it happen — what is the between?
+## S2. What is the void full of?
 36 units (8A/28B) · 27.4m · sūtras [1, 2, 3, 4, 5, 6, 8, 13]
 **Anchor:** `vat3-04` — "It is with awareness between these two points that one enters the great Sunyata, which is ultimately fullness,"
 
@@ -55,7 +59,7 @@ Russian dolls: A ⊂ B ⊂ C collate under these sections (S5).
 - vat8-09 [B] swamiji's tasting arc — b closing depth
 - vat13-04 [B] self-claim: the whole tradition in 13 sūtras
 
-## S3. How does it happen — without any method?
+## S3. How does realisation happen?
 18 units (9A/9B) · 14.8m · sūtras [1, 2, 3, 4, 6, 8, 11, 12, 13]
 **Anchor:** `vat3-01` — "Through a glance of the sita, Nishkriyananda falls on the ground and remains in the state of trance."
 
@@ -78,7 +82,7 @@ Russian dolls: A ⊂ B ⊂ C collate under these sections (S5).
 - vat12-03 [B] spontaneous lexicon — b depth
 - vat13-02 [B] transmission echo — b depth (ties vat8-04)
 
-## S4. What does it do to experience?
+## S4. What does realisation do to experience?
 31 units (4A/27B) · 30.1m · sūtras [4, 7, 8, 9, 10, 11, 13]
 **Anchor:** `vat10-07` — "his divinized senses attain the state of pure consciousness which radiates throughout the universe"
 
@@ -114,7 +118,7 @@ Russian dolls: A ⊂ B ⊂ C collate under these sections (S5).
 - vat13-05 [B] swamiji's sūtra rendering — b spine
 - vat13-07 [B] sūtra-13 middle read (g1 gap 194→600s)
 
-## S5. What does it land as?
+## S5. What is the fruit of realisation?
 7 units (4A/3B) · 9.1m · sūtras [12, 13]
 **Anchor:** `vat13-06` — "All what I feel now, I was already feeling that"
 
@@ -132,5 +136,5 @@ Candidates/mix: vat1 8:55–9:14 (unfoldment-definition) · vat9 1:40–1:55 (re
 · vat1 7:50–8:10 (Abhinavagupta-via-her). Extracts: `build/essay0_audition/`.
 
 ## Section order in the film
-S1 → S2 → S3 → S4 → S5 reads as: what it is → where → how → what it does → what remains.
+S1 → S2 → S3 → S4 → S5 reads as: what it is → what reality is → how → what it does → the fruit.
 Within each: her sūtra order. A = these sections at speed; B = +depth; C = +texture (her order).
