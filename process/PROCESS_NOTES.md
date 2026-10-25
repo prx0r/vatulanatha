@@ -137,6 +137,12 @@ ffprobe -v error -show_entries format=duration -of csv=p=0 <mp3>
 - Essay 0 upgraded from raw audition windows to BUILT form
   (`build/essay0/essay0_{1,2,3}.mp3`, question→pause→plain→answer, 25–30s).
 
+- **CROSS-PROJECT LAYER (new):** `~/Downloads/yt/corpus/` — unified unit DB
+  (4 axes: TEXT × TOPIC × GRADE × QUESTION). 242 units live (vatula 96 +
+  tantraessays 146), cross-text compile demo works (death-rebirth returns
+  vatula + dyczkowski in one query). Embeddings = phase 2 (needs local model).
+  Every future port loads into it — see corpus/UNIFIED-SCHEMA.md.
+
 **Remaining (owner-dependent first):**
 1. Ear: essay-0 pick/mix from **`build/essay0/` (built form, prefer)** or audition/ raw cuts → write `build/essay0_lock.json`.
 2. TTS credits confirm (Guyzo voice) → generate question+plain tracks → re-render filled.
