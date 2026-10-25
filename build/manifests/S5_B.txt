@@ -1,9 +1,7 @@
-# S5 What is the fruit of realisation? — B (7 clips) A+depth 9.1m (superset draft)
+# S5 What is the fruit of realisation? — B ship-list (5 clips, +depth 5.7m) [selected, hold-up tested]
 # uid	start	end	grade	mp3
-vat12-06	55	198	B	Vatulanatha_Sutra_12 [czW1e6ifrU4].mp3
 vat12-02	198	237	A	Vatulanatha_Sutra_12 [czW1e6ifrU4].mp3
 vat12-04	291	366	A	Vatulanatha_Sutra_12 [czW1e6ifrU4].mp3
-vat12-05	369	390	B	Vatulanatha_Sutra_12 [czW1e6ifrU4].mp3
+vat12-06	55	198	B	Vatulanatha_Sutra_12 [czW1e6ifrU4].mp3
 vat13-01	79	129	A	Vatulanatha_Sutra_13 [_p--mXPt-pk].mp3
-vat13-08	400	578	B	Vatulanatha_Sutra_13 [_p--mXPt-pk].mp3
 vat13-06	829	866	A	Vatulanatha_Sutra_13 [_p--mXPt-pk].mp3

@@ -17,43 +17,23 @@
    5 What is the fruit of realisation?
 2. **Three essays, Russian dolls** — A ⊂ B ⊂ C (FORMULA, append-only), collated
    under the spine sections and ORDERED properly within each section.
-3. **ESSAY 0 = THE SPINE ITSELF (owner re-correction, final):** the complete list
-   of spine questions, **each with its compressed response** — the whole essay in
-   miniature (5 gospel beats, question → interlinear → plain → her answer).
-   The video plays ALL of Essay 0 at each layer head → the spine is heard 4×,
-   each time followed by that layer's expansion. (The S1 micro-session built
-   earlier = BEAT 1 of 5 — form is right, scope was wrong.)
-   Beat shape: `[“What is realisation?”] → [pause] →
-   [“Realisation is …”]` — one minimal, beautiful answer, ~10–25s, spoken by
-   Bäumer (now) or Lakshmanjoo (when $0 audio lands). **It opens every version,
-   every time — so it must be the best line we have.** (Analayo's analogue: seed →
-   1 sentence (the motto) → 1 word ("stilling"). Ours is the motto-equivalent.)
-   **Acceptance test (owner correction): the line must COMPLETE the sentence
-   “Realisation is ___”.** A line about how attainment *arrives* (becoming vs
-   getting) answers a different question — rejected for Essay 0 even if A-grade.
+3. **Essay 0 = the spine** — the five questions only (CANON at top; answers,
+   cards and bells are machinery inside A/B/C).
 
-## The attack (structured workflow — current position marked)
-- [x] **S0 inputs** — mp3s, transcripts, decompile, Sanskrit + Kaul-EN, key_v2
-- [x] **S1 units** — 96 excavated, quote-verified, graded (28A/68B)
-- [x] **G1 coverage** — 73.3% unit-covered, rest ledgered (C-MARKS.md)
-- [x] **question measured** — "What is realisation?" (65 hits, every lecture)
-- [x] **CATALOGUE** — topics→uids, A-density ranked (`excavations/CATALOGUE.md`)
-      top A-buckets: nonduality 15 · grace 13 · sudden-enlightenment 11 · praxis 6
-- [ ] **S2 cluster + convergence** — group the 96 units by topic-density into
-      sections; INDEPENDENTLY check the A-units land in the same groups
-      ("two dissections, one elephant"); thin sections stay thin (no padding)
-- [ ] **S3 SPINE.md** — per section: the slot name + the UNIT QUOTE that anchors it
-      (his words = structure) + BUILD note; her order = sort key inside sections
-- [ ] **S4 Essay 0 lock** — audition the candidate lines (below), pick ONE,
-      produce its beat (card + question + pause + clip), freeze it
-- [ ] **S5 collate A/B/C** — per FORMULA: A = spine sections at speed (10–20m),
-      B = A unchanged + depth, C = A+B + texture (her order, C-marks stay out);
-      manifests (manifest_sN pool/gold/core txt style)
-- [ ] **S6 three-layer beats** — per section: [Sanskrit card + Kaul-EN] → [PLAIN
-      from key_v2, deterministic] → [Bäumer clip] with question grammar (12) and
-      provenance on every line; SPEAKERS.md
-- [ ] **S7 render + gates G2–G8** — seams, hold-up read, provenance two-method,
-      TTS scan, verify.sh, listen pass
+## The attack (structured workflow — real status)
+- [x] S0 inputs — mp3s, transcripts, decompile, Sanskrit + Kaul-EN, key_v2
+- [x] S1 units — 96 excavated, quote-verified, graded (28A/68B)
+- [x] G1 coverage — unit'd or C-marked (C-MARKS.md)
+- [x] question measured — "What is realisation?"
+- [x] CATALOGUE generated
+- [x] S2 cluster + convergence PASSED (96/96 assigned, 20 logged overrides)
+- [x] S3 SPINE.md — 5 questions (G0-validated), anchors, sūtra-order
+- [x] ESSAY A built — manifests S1–S5_A (evolved S1) + A-previews rendered
+- [x] ESSAY C rule + manifests built (full sources, her order, minus C-MARKS)
+- [x] gospel machinery: interlinear cards, plain filter, opener sample (S1)
+- [ ] ESSAY B selection — flow-read: superset → 20–40m ship list (G10 armed)
+- [ ] spine-read artifact + section openers for S2–S5
+- [ ] OWNER: ear (essay-0/section picks + G8 listen) · TTS credits → final render
 
 ## Essay 0 — candidate answers (audition list)
 | # | line | source | dur | why |
@@ -122,3 +102,42 @@ voice (compressed, ≤~30s). Build order = spine order (S1→S5). Per-beat candi
 auditioned from `build/essay0/`; formula picks (proposed): S1 vat1-05-definition ·
 S2 vat4-03 co-presence · S3 vat8-01 inner-impulse · S4 vat10-07 radiance ·
 S5 vat13-06 already-feeling. Owner ear can override any beat.
+
+---
+
+# ⬛ CANON v1 — THE ESSAY STRUCTURE (owner-final. Do not re-derive, do not re-scope.)
+
+```
+ESSAY 0  = THE SPINE        = the five questions, in order.
+                              "What is realisation?" → "What is the self?" →
+                              "How does realisation happen?" → "What does realisation
+                              do to experience?" → "What is the fruit of realisation?"
+ESSAY A  = SPINE EXPANDED    = each question answered with its GOLD clips,
+                              sections at speed (artifacts: manifests S1–S5_A ✓)
+ESSAY B  = A EXPANDED        = same walk + DEPTH (artifacts: S*_B, selection pending)
+ESSAY C  = B EXPANDED        = same walk + TEXTURE (her full lectures, her order,
+                              minus C-MARKS exclusions)
+```
+
+- **Nesting: 0 ⊂ A ⊂ B ⊂ C — append-only** (never rewrite the inner layer).
+- **Essay 0 is the list of QUESTIONS.** Answers, interlinear cards, compressed-answer
+  clips and bells are **machinery that lives INSIDE A/B/C** (section openers) — they
+  are never "essay 0".
+- The spine plays at the head, then re-opens at each layer head: **heard 4×, each
+  time answered deeper** (expansion, never new material).
+- Artifacts: SPINE.md = essay 0 · S{1..5}_A = essay A · S{1..5}_B = essay B ·
+  C-rule + full sources = essay C · `build/essay0/` = A's opener machinery only.
+
+## Lineage — how this maps to the 33-sermons builds (reviewed 2026-10-25)
+| theirs (analayo / tantraessays) | ours |
+|---|---|
+| 6-section argument scaffold (§1 What it is … §6 Remains) + seed (1-sentence motto) | **Essay 0 = the spine (5 questions)** — same job: the skeleton that everything expands |
+| essay A (10–20m gold-only) ⊂ B (20–40, contains A) ⊂ C (rest) — FORMULA, append-only | **identical** for our A/B/C |
+| V1 pool → V2 gold → V3 core (audio product, ÷3.5/layer) | our C ≈ their pool, our A ≈ their gold; core ≈ the spine-recurrence density |
+| motto recurs at layer heads (bells) | the spine re-opens at layer heads (bells) |
+| cluster-by-problem, convergence test | identical (S2 method) |
+
+**One sentence, forever:** *essay 0 is the questions; A answers them with gold;
+B deepens; C floods with texture; each layer re-opens the same spine wider.*
+---
+
