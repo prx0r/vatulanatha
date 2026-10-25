@@ -13,10 +13,12 @@ pending), her clip plays always. Plain answers are HUMAN-composed to complete
 > **What is realisation?**
 > *(2 breaths — 3.0s)*
 >
-> **ON SCREEN (TEXT):** **"Sahasa literally means an unexpected happening."**
-> *(Kaul, gloss on sūtra 1)* — strip under: *"…waveless, limitless, unlocalised and touchless… takes place somewhere, sometime, unexpectedly"*
+> **ON SCREEN (TEXT — Sanskrit first):**
+> **`mahāsāhasavṛttyā svarūpalābhaḥ`**  ·  Vātūlanātha sūtra 1
+> gloss: "by the workings of great sudden-force — one's true nature is attained"
+> strip: **`kasyacit kvacit kadācit akasmādeva`** — "to someone, somewhere, sometime, of its own accord" (vṛtti)
 >
-> **SPOKEN (PLAIN):** "Realisation isn't acquired. It happens — somewhere, sometime, unexpectedly: the unfolding of what you already are."
+> **SPOKEN (PLAIN):** "Realisation isn't acquired. It happens — somewhere, sometime, of its own accord: the unfolding of what you already are."
 >
 > **HER VOICE lands it (clip, 8:54–9:14):**
 > "…attainment means to become what we truly are… **the definition of it is the unfoldment of our true being, of our true nature.**"
@@ -30,8 +32,10 @@ Backing verbatim: vat1 (decompile read/explain) — quote verified.
 > **What is realisation?**
 > *(2 breaths — 3.0s)*
 >
-> **ON SCREEN (TEXT):** **"Permanence of the immersion in the real self… for ever"** — Vātūlanāthasūtra 9, Kaul tr.
-> Sanskrit strip: `devīcatuṣṭayollāsena sadaiva svaviśrāntyavasthitiḥ`
+> **ON SCREEN (TEXT — Sanskrit first):**
+> **`sadaiva svaviśrāntyavasthitiḥ`**  ·  Vātūlanātha sūtra 9
+> gloss: "for ever, abidance in one's own repose"  (= resting in one's own being)
+> strip: `devīcatuṣṭayollāsena` — "by the rejoicing of the four goddesses"
 >
 > **SPOKEN (PLAIN):** "Realisation is a state of resting in your own being."
 >
@@ -47,8 +51,10 @@ Backing verbatim: vat9-02 (A) — quote verified.
 > **What is realisation?**
 > *(2 breaths — 3.0s)*
 >
-> **ON SCREEN (TEXT):** **"…under the influence of the undominated inspiration quicker than the quick"**
-> *(Kaul, gloss on sūtra 1)* — Sanskrit strip: `mahāsāhasavṛttyā svarūpalābhaḥ` *(the sūtra that "contains the whole teaching", her own claim)*
+> **ON SCREEN (TEXT — Sanskrit first):**
+> **`akasmādeva · jhaṭiti · akṛtaka`**  (vṛtti on sūtra 1)
+> gloss: "of its own accord · in a flash · the unmade"
+> card: `mahāsāhasavṛttyā svarūpalābhaḥ` — the sūtra that "contains the whole teaching" (her claim)
 >
 > **SPOKEN (PLAIN):** "Abhinavagupta gives the briefest definition of liberation: the unfolding, the revelation, the expansion of your true nature."
 >
@@ -58,6 +64,12 @@ Backing verbatim: vat9-02 (A) — quote verified.
 Backing verbatim: vat1-09 context (word-analysis; Abhinavagupta's definition).
 
 ---
+
+## Sanskrit-first policy (owner correction, 2026-10-25)
+Screen TEXT = the **Sanskrit answer from the text**, English only as gloss beneath.
+Kaul's full sentences are reference, not cards. Vocabulary of the answer:
+`svarūpalābhaḥ` (attainment of true nature) · `akasmādeva` (of its own accord) ·
+`jhaṭiti` (in a flash) · `akṛtaka` (the unmade) · `svaviśrāntyavasthitiḥ` (abiding in one's own repose).
 
 ## Why these screen lines (found in the gloss, 2026-10-25)
 The full Kaul sentence IS clunky — but the gloss around it carries the famous phrases:
