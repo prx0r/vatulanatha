@@ -1,15 +1,17 @@
 # ASSIGNMENT — every unit, exactly one section (S2, 2026-10-25)
 
 Method: designed keyword profiles (title+use ×4, topics ×2, transcript ×1) →
-tie-break by score → **15 logged overrides** (method: targeted beats matching;
-unlogged overrides = slop — all logged below). Totals reconcile: 96 = S1:4 + S2:36 + S3:18 + S4:31 + S5:7.
+tie-break by score → **20 logged overrides** (method: targeted beats matching;
+unlogged overrides = slop — all logged below). Totals reconcile: 96 = S1:6 + S2:34 + S3:20 + S4:29 + S5:7.
 
 ## Logged overrides
 | uid | final | why |
 |---|---|---|
 | vat1-01 | S3 | guru thread → how |
+| vat1-08 | S1 |  |
 | vat1-09 | S1 | holds Abhinavagupta definition of liberation → definitions |
 | vat1-10 | S3 | akṛtaka/not-made tail → grace |
+| vat10-03 | S3 |  |
 | vat10-04 | S4 | ambig S2/S4 — krama phases ride sense-flow |
 | vat10-05 | S4 | swamiji senses-transformation → experience |
 | vat10-06 | S4 | Upanishad internalization → experience |
@@ -17,11 +19,14 @@ unlogged overrides = slop — all logged below). Totals reconcile: 96 = S1:4 + S
 | vat11-05 | S4 | spanda-not-static with conduct |
 | vat12-06 | S5 | ethics intro → lands-as |
 | vat13-02 | S3 | transmission echo → how |
+| vat13-04 | S1 |  |
 | vat13-07 | S4 | letter-A middle → speech |
 | vat13-08 | S5 | wonder/mudrā → lands-as |
 | vat2-01 | S3 | oral-transmission hinge → how |
 | vat3-05 | S2 | ambig S2/S4 — madhya practice, between-mechanics |
+| vat3-08 | S3 |  |
 | vat5-02 | S2 | ambig S2/S4 — union imagery caveat |
+| vat8-05 | S2 |  |
 | vat8-08 | S2 | unresolved — khecarī authority = mechanics |
 | vat9-01 | S4 | four-deities hinge → experience |
 | vat9-03 | S4 | four-deities mapping → experience |
@@ -31,14 +36,15 @@ unlogged overrides = slop — all logged below). Totals reconcile: 96 = S1:4 + S
 
 ## Membership (sūtra order inside each)
 
-### S1 — 4u 3A/1B 4.5m
+### S1 — 6u 3A/3B 5.5m
 - vat1-05 [A] the recognition-shaped core in one sentence
 - vat1-06 [A] recognition bridge — cross-project hook (ph series)
+- vat1-08 [B] fractal evidence from the source itself — document quote
 - vat1-09 [B] word-analysis fill (g1 gap 367→526s)
 - vat9-02 [A] the resting-in-own-being line (matches 42-hit vocabulary)
+- vat13-04 [B] self-claim: the whole tradition in 13 sūtras
 
-### S2 — 36u 8A/28B 27.4m
-- vat1-08 [B] fractal evidence from the source itself — document quote
+### S2 — 34u 7A/27B 26.3m
 - vat2-02 [A] the simultaneity thesis — argument-core
 - vat2-03 [B] swamiji's practice-domain rendering
 - vat2-04 [B] commentary depth for the argument section
@@ -50,7 +56,6 @@ unlogged overrides = slop — all logged below). Totals reconcile: 96 = S1:4 + S
 - vat3-05 [B] compact practice line for b-version depth
 - vat3-06 [B] technical body layer — b depth only
 - vat3-07 [B] how the practice actually works — b spine
-- vat3-08 [A] grace > scripture — the strongest textual claim for the film
 - vat3-09 [B] bridge into sutra 4 — b version handoff
 - vat4-01 [B] sūtra card audio for the argument section
 - vat4-02 [B] framing correction — b depth
@@ -69,13 +74,13 @@ unlogged overrides = slop — all logged below). Totals reconcile: 96 = S1:4 + S
 - vat6-05 [B] beyond subject-object: knowing-structure — b
 - vat6-06 [B] the immanent fourth — b bridge to vat9
 - vat8-02 [B] mudra chain — between/b depth
+- vat8-05 [B] anti-chakra reading — unlocks the three-supports section
 - vat8-06 [B] the projection-wall simile — between support
 - vat8-07 [B] depth reading for b — fusion + sky-mudra
 - vat8-08 [B] abhinavagupta authority line — b spine
 - vat8-09 [B] swamiji's tasting arc — b closing depth
-- vat13-04 [B] self-claim: the whole tradition in 13 sūtras
 
-### S3 — 18u 9A/9B 14.8m
+### S3 — 20u 11A/9B 16.1m
 - vat1-01 [B] opens the guru/transmission thread — feeds grace b-version
 - vat1-02 [B] the sūtra line itself — candidate card audio for depth-b
 - vat1-03 [A] the word: saktipata spoken — grace core clip
@@ -85,17 +90,19 @@ unlogged overrides = slop — all logged below). Totals reconcile: 96 = S1:4 + S
 - vat2-01 [B] the hinge between sūtra 1 and 2
 - vat3-01 [A] grace cold open — realization by a look, before any method t
 - vat3-02 [A] defines grace as not-made — the thesis hinge in one line
+- vat3-08 [A] grace > scripture — the strongest textual claim for the film
 - vat4-05 [B] guru/rarity line — grace-adjacent b
 - vat6-01 [A] the problem-slot quote — what blocks realisation
 - vat8-01 [A] grace core: not-by-will, by inner impulse
 - vat8-03 [A] sūtra card + the spontaneous-emergence claim
 - vat8-04 [A] grace core: transmission-from-guru (c5 clip)
+- vat10-03 [A] grace core: without any cause, by svatantrya (c6 clip)
 - vat11-02 [A] the beyond-upāya strike — even the grace-way dissolves
 - vat12-01 [B] the condition-frame — grace/b or c spine; rebirth-essay hook
 - vat12-03 [B] spontaneous lexicon — b depth
 - vat13-02 [B] transmission echo — b depth (ties vat8-04)
 
-### S4 — 31u 4A/27B 30.1m
+### S4 — 29u 3A/26B 29.0m
 - vat4-07 [B] examples fill (g1 gap 190→299s)
 - vat7-01 [B] sūtra card audio for the speech section
 - vat7-02 [A] the sound-map — the section's key taxonomy
@@ -105,7 +112,6 @@ unlogged overrides = slop — all logged below). Totals reconcile: 96 = S1:4 + S
 - vat7-06 [B] the musician close — texture
 - vat7-07 [B] four-speeches commentary read (g1 gap 70→337s)
 - vat7-08 [B] gravity-of-speech claim (g1 gap 396→462s)
-- vat8-05 [B] anti-chakra reading — unlocks the three-supports section
 - vat9-01 [B] hinge 8→9 (four deities)
 - vat9-03 [B] four-deities mapping — b depth
 - vat9-04 [B] the diction note — texture (unique-text claim)
@@ -113,7 +119,6 @@ unlogged overrides = slop — all logged below). Totals reconcile: 96 = S1:4 + S
 - vat9-06 [B] swamiji four-energies translation (g1 gap 259→300s)
 - vat10-01 [B] thesis line for methodless-conduct material
 - vat10-02 [B] section opener
-- vat10-03 [A] grace core: without any cause, by svatantrya (c6 clip)
 - vat10-04 [B] krama five-phases depth for b
 - vat10-05 [B] swamiji's transformation quote — b spine
 - vat10-06 [B] upanishad anchor — b middle

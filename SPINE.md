@@ -1,28 +1,32 @@
-# SPINE — the sections are questions (S3, 2026-10-25)
+# SPINE — the sections are questions (S3, 2026-10-25; membership rev2 after manual review)
 
 Emerged via: reading-preview (5 questions) → keyword assignment (96/96) →
-**convergence PASSED** (A-distribution ±2 of preview on all five; biggest = S3 as
-predicted). Order = her sūtra order inside every section (fractal law).
+**convergence PASSED** (A-distribution matches preview; biggest = S3 as predicted).
+Order = her sūtra order inside every section (fractal law).
 Russian dolls: A ⊂ B ⊂ C collate under these sections (S5).
-**Standalone-clarity law (owner, 2026-10-25):** every section question must parse
-cold — no project coinages ("the between"), no insider shorthand. Test: a stranger
-hears it alone and knows exactly what is being asked. Questions may refer back to
-the master ("realisation") but never to each other.
+
+**Standalone-clarity law (owner):** every section question must parse cold — no
+project coinages, no insider shorthand; a stranger hears it alone and knows what
+is asked. Questions never depend on each other.
+
+**Fundamental progression (owner):** what is realisation → what is the self →
+how does it happen → what does it do → what is the fruit.
 
 ## S1. What is realisation?
-4 units (3A/1B) · 4.5m · sūtras [1, 9]
+6 units (3A/3B) · 5.5m · sūtras [1, 9, 13]
 **Anchor:** `vat1-05` — "attainment does not mean to get something which we do not have attainment means to become what we truly are"
 
 - vat1-05 [A] the recognition-shaped core in one sentence
 - vat1-06 [A] recognition bridge — cross-project hook (ph series)
+- vat1-08 [B] fractal evidence from the source itself — document quote
 - vat1-09 [B] word-analysis fill (g1 gap 367→526s)
 - vat9-02 [A] the resting-in-own-being line (matches 42-hit vocabulary)
+- vat13-04 [B] self-claim: the whole tradition in 13 sūtras
 
 ## S2. What is the self?
-36 units (8A/28B) · 27.4m · sūtras [1, 2, 3, 4, 5, 6, 8, 13]
+34 units (7A/27B) · 26.3m · sūtras [2, 3, 4, 5, 6, 8]
 **Anchor:** `vat3-04` — "It is with awareness between these two points that one enters the great Sunyata, which is ultimately fullness,"
 
-- vat1-08 [B] fractal evidence from the source itself — document quote
 - vat2-02 [A] the simultaneity thesis — argument-core
 - vat2-03 [B] swamiji's practice-domain rendering
 - vat2-04 [B] commentary depth for the argument section
@@ -34,7 +38,6 @@ the master ("realisation") but never to each other.
 - vat3-05 [B] compact practice line for b-version depth
 - vat3-06 [B] technical body layer — b depth only
 - vat3-07 [B] how the practice actually works — b spine
-- vat3-08 [A] grace > scripture — the strongest textual claim for the film
 - vat3-09 [B] bridge into sutra 4 — b version handoff
 - vat4-01 [B] sūtra card audio for the argument section
 - vat4-02 [B] framing correction — b depth
@@ -53,14 +56,14 @@ the master ("realisation") but never to each other.
 - vat6-05 [B] beyond subject-object: knowing-structure — b
 - vat6-06 [B] the immanent fourth — b bridge to vat9
 - vat8-02 [B] mudra chain — between/b depth
+- vat8-05 [B] anti-chakra reading — unlocks the three-supports section
 - vat8-06 [B] the projection-wall simile — between support
 - vat8-07 [B] depth reading for b — fusion + sky-mudra
 - vat8-08 [B] abhinavagupta authority line — b spine
 - vat8-09 [B] swamiji's tasting arc — b closing depth
-- vat13-04 [B] self-claim: the whole tradition in 13 sūtras
 
 ## S3. How does realisation happen?
-18 units (9A/9B) · 14.8m · sūtras [1, 2, 3, 4, 6, 8, 11, 12, 13]
+20 units (11A/9B) · 16.1m · sūtras [1, 2, 3, 4, 6, 8, 10, 11, 12, 13]
 **Anchor:** `vat3-01` — "Through a glance of the sita, Nishkriyananda falls on the ground and remains in the state of trance."
 
 - vat1-01 [B] opens the guru/transmission thread — feeds grace b-version
@@ -72,18 +75,20 @@ the master ("realisation") but never to each other.
 - vat2-01 [B] the hinge between sūtra 1 and 2
 - vat3-01 [A] grace cold open — realization by a look, before any method t
 - vat3-02 [A] defines grace as not-made — the thesis hinge in one line
+- vat3-08 [A] grace > scripture — the strongest textual claim for the film
 - vat4-05 [B] guru/rarity line — grace-adjacent b
 - vat6-01 [A] the problem-slot quote — what blocks realisation
 - vat8-01 [A] grace core: not-by-will, by inner impulse
 - vat8-03 [A] sūtra card + the spontaneous-emergence claim
 - vat8-04 [A] grace core: transmission-from-guru (c5 clip)
+- vat10-03 [A] grace core: without any cause, by svatantrya (c6 clip)
 - vat11-02 [A] the beyond-upāya strike — even the grace-way dissolves
 - vat12-01 [B] the condition-frame — grace/b or c spine; rebirth-essay hook
 - vat12-03 [B] spontaneous lexicon — b depth
 - vat13-02 [B] transmission echo — b depth (ties vat8-04)
 
 ## S4. What does realisation do to experience?
-31 units (4A/27B) · 30.1m · sūtras [4, 7, 8, 9, 10, 11, 13]
+29 units (3A/26B) · 29.0m · sūtras [4, 7, 9, 10, 11, 13]
 **Anchor:** `vat10-07` — "his divinized senses attain the state of pure consciousness which radiates throughout the universe"
 
 - vat4-07 [B] examples fill (g1 gap 190→299s)
@@ -95,7 +100,6 @@ the master ("realisation") but never to each other.
 - vat7-06 [B] the musician close — texture
 - vat7-07 [B] four-speeches commentary read (g1 gap 70→337s)
 - vat7-08 [B] gravity-of-speech claim (g1 gap 396→462s)
-- vat8-05 [B] anti-chakra reading — unlocks the three-supports section
 - vat9-01 [B] hinge 8→9 (four deities)
 - vat9-03 [B] four-deities mapping — b depth
 - vat9-04 [B] the diction note — texture (unique-text claim)
@@ -103,7 +107,6 @@ the master ("realisation") but never to each other.
 - vat9-06 [B] swamiji four-energies translation (g1 gap 259→300s)
 - vat10-01 [B] thesis line for methodless-conduct material
 - vat10-02 [B] section opener
-- vat10-03 [A] grace core: without any cause, by svatantrya (c6 clip)
 - vat10-04 [B] krama five-phases depth for b
 - vat10-05 [B] swamiji's transformation quote — b spine
 - vat10-06 [B] upanishad anchor — b middle
@@ -130,17 +133,12 @@ the master ("realisation") but never to each other.
 - vat13-06 [A] the punchline — film/essay close material
 - vat13-08 [B] wonder/mudrā block (g1 cont.)
 
-## Essay 0 — the compressed answer, PER QUESTION (owner design, expanded 2026-10-25)
-For EVERY spine question, not just the master: the **most concise response that
-still explains it fully** — then the audio unfolds it. Shape per section:
-`[QUESTION] → [TEXT VERBATIM (the concise answer, source words)] → [PLAIN ENGLISH
-(its translation)] → [AUDIO speaker (explains it fully)]`
-Master-question opener still auditions the three extracts
-(`build/essay0_audition/`): unfoldment-definition · resting-in-own-being ·
-Abhinavagupta-via-her. Each section's own compressed answer gets picked from its
-anchor units when we build S6.
+## Essay 0 (compressed answer per question — gospel beat below)
+
+Shape: `[QUESTION] → [TEXT VERBATIM] → [PLAIN ENGLISH] → [AUDIO SPEAKER]`.
+Master opener audition: `build/essay0_audition/` (3 extracts, owner ear, mix allowed).
+Each section's compressed answer = its anchor TEXT+PLAIN pair (picked at S6).
 
 ## Section order in the film
-S1 → S2 → S3 → S4 → S5 = the fundamental progression:
-what is realisation → what is the self → how does it happen → what does it do → what is the fruit.
-Within each: her sūtra order. A = these sections at speed; B = +depth; C = +texture (her order).
+S1 → S2 → S3 → S4 → S5 (the fundamental progression above).
+Within each: her sūtra order. A = sections at speed · B = +depth · C = +texture (her order).
