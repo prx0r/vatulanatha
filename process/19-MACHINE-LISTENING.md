@@ -1,4 +1,5 @@
 # 19 — MACHINE LISTENING (omni as the critic) (2026-10-26)
+> Raw pass-by-pass record with verbatim outputs + fix numbers: `20-LISTEN-LOG.md`.
 
 ## The point of the listen (what is already guaranteed — never re-check it)
 
