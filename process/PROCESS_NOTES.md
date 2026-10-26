@@ -268,3 +268,31 @@ B deepens; C floods with texture; each layer re-opens the same spine wider.*
   sits underneath. Standard first, custom second, never the reverse.
 - Full law: `process/README.md` § TWO COMPILATIONS. Apparatus reference:
   `prx0r/shiva-sutras` `process/00–10` (+ BUILD_ENGINE.md).
+
+---
+
+## 2026-10-26 (late) — R2 uploads, book spec, and the movie v2
+
+- **Shiva Sutras → R2 done:** `~/Downloads/ShivaSutras.zip` (448MB, the file
+  that broke the web uploader's 300MB limit) extracted and uploaded via S3 API
+  (boto3): **79 objects, 464.5MB → `shiva-sutras-study-set/`** (bucket:
+  powpowpow-*), verified by list+size-match (79/79, 0 fails, 0 mismatches),
+  fresh re-list reconfirmed. Extraction cleaned; zip stays in Downloads as source.
+  Recipe: `/tmp/opencode/r2_upload_shiva.py` pattern (extract → upload_file →
+  verify sizes → rm) — reuse for any >300MB transfer.
+- **Book stage spec grown** (`~/essay-visual-engine/docs/SPEC-BOOK-STAGE.md`):
+  §8 visual language (book IS the text; READ/DIVE/PAN-up moves, camera never
+  invents timing; three-clocks doctrine imported from analayo `visuals/`),
+  §9 base + renderings (one audio master, many pictures), §10 the visual
+  compilation law (standard → book, custom → its own movie), §11 **Blender =
+  the standard book/table setup** (design each book beautifully; engine ingests
+  stills/frames).
+- **`VATULA-MOVIE.md` v2 — the sudden-realisation engine** (owner correction:
+  the main point = sudden realisation, 0/A/B/C as vessel): pointer → gap →
+  landing loop; unsourced-sound vocabulary (animals/room/grammar-violations);
+  anti-jump-scare law (curiosity, answerable in 30s, bell-family ceiling,
+  never during chant); **per-layer jolt budget** (0:1/head · A:6–8 refractory
+  90s · B:2–3 collapses · C:exactly one) — budgets mechanically QA-able from
+  sheet blocks. Lanes demoted to supporting wardrobe.
+- Docs pushed: `132ac41` (movie v1) → `999ac59` (movie v2 engine) · earlier
+  this arc: `6fee9ed` (voice/SFX API notes), `9fc90c6` (visual compilation law).
