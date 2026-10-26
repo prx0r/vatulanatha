@@ -5,3 +5,4 @@ manifest.tsv
 *.m4a
 *.part
 download.log
+build/*/pieces/
