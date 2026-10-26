@@ -1,0 +1,44 @@
+B sūtra 1: 2:46.0-3:33.0 (47s)  her own sūtra translations read (maha sahasa + alternative)
+B sūtra 2: 0:20.0-1:47.0 (27s)  gloss of sūtra2 (no full verse read in transcript; head region)
+B sūtra 3: 1:47.0-1:04.0 (17s)  Sanskrit + EN: 'Upaya Patod Katanat Mahasunyata Parveshaha' / 'By bursting open the two boards...'
+B sūtra 4: 2:31.0-2:57.0 (26s)  unit vat4-01
+B sūtra 5: 1:05.0-1:23.0 (18s)  unit vat5-01
+B sūtra 6: 4:22.0-4:30.0 (8s)  Swamiji translation: throwing away the three-fold coverings
+B sūtra 7: 1:48.0-1:10.0 (22s)  unit vat7-01
+B sūtra 8: 3:38.0-3:56.0 (18s)  unit vat8-03
+B sūtra 9: 1:46.0-1:55.0 (9s)  the sūtra line itself (when the four deities arise...)
+B sūtra10: 1:43.0-1:08.0 (25s)  sutra-10 announcement + EN: 'By the rise of the twelve currents...'
+B sūtra11: 5:11.0-6:45.0 (34s)  Lakshman Joo translation: When we enter through all the senses...
+B sūtra12: 2:34.0-2:52.0 (18s)  Sanskrit + EN: 'Mahabodha Samaveshath...' / 'By an absorption in the great awakening...'
+B sūtra13: 12:36.0-12:58.0 (22s)  Swamiji's translation of the final sutra (her read)
+  split merged segment at word 29 (devouring clause -> own line)
+H intro: 320.5-402.7 (411w) "in this world according to tradition in this world according to tradit"
+H lines segmented: 13 (need 13)
+  H 1: 493.0-502.5 (29w) through the activity of the great through the activity of the great through th
+  H 2: 507.9-518.0 (51w) through the discovery of that through the discovery of that through the discov
+  H 3: 523.1-534.2 (29w) through breaking open the two casings through breaking open the two casings th
+  H 4: 538.2-546.7 (29w) through devouring the pair through devouring the pair through devouring the pa
+  H 5: 552.0-561.0 (29w) through the lovemaking of the siddhas through the lovemaking of the siddhas th
+  H 6: 568.3-576.3 (31w) through completely letting go of the through completely letting go of the thro
+  H 7: 586.3-596.1 (52w) the resonance exists in all the resonance exists in all the resonance exists i
+  H 8: 602.2-611.6 (38w) by savoring the the three flavors by savoring the the three flavors by savorin
+  H 9: 618.1-628.8 (47w) by the playful manifestation of the four by the playful manifestation of the f
+  H10: 636.5-645.1 (53w) through the arising of the flow of the through the arising of the flow of the 
+  H11: 652.1-658.9 (21w) when the five observances arise when the five observances arise when the five 
+  H12: 664.5-672.5 (34w) through immersion into awakened through immersion into awakened through immers
+  H13: 679.0-694.4 (63w) through the power of the inexpressible through the power of the inexpressible 
+H colophon: 715.6-761.6 (247w)
+cut sūtra1: B 47s + H 10s
+cut sūtra2: B 27s + H 10s
+cut sūtra3: B 17s + H 11s
+cut sūtra4: B 26s + H 9s
+cut sūtra5: B 18s + H 9s
+cut sūtra6: B 8s + H 8s
+cut sūtra7: B 22s + H 10s
+cut sūtra8: B 18s + H 9s
+cut sūtra9: B 9s + H 11s
+cut sūtra10: B 25s + H 9s
+cut sūtra11: B 34s + H 7s
+cut sūtra12: B 18s + H 8s
+cut sūtra13: B 22s + H 15s
+== DONE: 9.95 min, mean -20.2 dB, max -1.6 dB ==
