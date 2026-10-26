@@ -71,3 +71,65 @@ Support files kept: `beth_upton_dhammadena_source.webm`,
 4. Owner: TTS credit-confirm → my render pass → G8 listen → lock.
 5. C: rule (#3/#5) → build render path → G11 real render.
 6. `git push` (8 commits waiting — not pushed this session).
+
+---
+
+# SESSION 2026-10-26 — dual reading v2 (SEAMS FIXED, ONE LISTEN AWAY)
+
+**State: v2 built + QA PASS. Next action = owner listens to
+`build/dual_reading/vatula_full_dual_reading.mp3` (10:25) with
+`build/dual_reading/storyboard_v2.md` as the page.** v1 kept as `_v1.mp3`.
+
+## What happened
+- **Seam audit (transcript+silence, all 28 cuts)**: v1 had 12 real defects —
+  the 2:13 chop (sūtra 1 window overshot into her mangala aside) + mid-word
+  cuts (H line 8 inside "spontaneously", colophon inside "viewpoints",
+  intro before "commentator") + 5 orphan heads (window began on the previous
+  sentence's tail) + 6 mid-sentence ends (unfinished translations in
+  sūtra 4/6/10/11/12). All fixed by silence-snapping — every window edge
+  now carries a written reason (`manifest_v2.json`, `build_log_v2.txt`).
+- **Spacing rework**: voice switch ≈1.8s air (was ~1.35 with a chop),
+  phrase-land ≈1s (was 0 — H slammed into the next bell), bowls open the
+  piece, long-break bell before the colophon.
+- **Levels**: per-piece gain to −21 dB mean, peak −1.5 cap → spread ±4.4 → 0.
+  Final: mean −22.2, peak −1.7, density 80%, no flags.
+- **SFX kit** (`sfx/`, pushed as `8cda10b`): bowls / ding / long-break bell /
+  2 wood-block cuts + README roles & strike maps — the pause grammar for
+  future builds (blocks = attention hits inside pauses, future work).
+- **Tools persisted**: `tools/build_dual_reading_v2.py` (reproducible build),
+  `tools/storyboard.py` (manifest → storyboard), QA engine at
+  `patala/skills/skill-tempo-check/`.
+- **Docs**: `process/18-SPACING-AND-SEAMS.md` (craft rules), FINAL GOAL
+  section in `process/README.md`, storyboard shipped.
+
+## Next actions (superseded — see 2026-10-26 LATER block below)
+
+---
+
+# 2026-10-26 LATER — production sheet + machine listening (state now)
+
+**State: sheet-driven v3 rendered (`production_sheet.json` = source of truth),
+P0 PASS, machine flow-listen near-clean. The one gate left = OWNER LISTEN of
+`build/dual_reading/vatula_full_dual_reading.mp3` (10:22) — read alongside
+`build/dual_reading/production_sheet.md`.**
+
+- **Sheet engine:** `tools/sheet.py render|check` — snap-to-silence cuts
+  (uniform 0.3-0.5s leads, 0.3s tails), room-tone/switch-crossfade gaps,
+  60ms edge fades, gains by target; `tools/p0_check.py` = one/two-pass
+  structure proof (order/edges/invariants/airs/levels) — currently PASS.
+- **Machine listening:** `tools/listen.py cut|ask|ask-all|whole` — Gemini
+  free tier first ($0), qwen3.8-omni fallback (~$0.0005/pass, thinking
+  effort=low), flow-only prompt per owner spec. Protocol written up:
+  `process/19-MACHINE-LISTENING.md` (point of the listen = flow/jarring/
+  critic ratings — NOT transcript re-checks; transcript guaranteed by build).
+- **Flow rounds (whole-mix, 10:22 in ONE request):** baseline 25 flags,
+  all "abrupt/jarring speaker+room transitions at every join" → after air
+  rework (switch gap 1.6s, B leads 0.5s, room bridges, fades): **5 mild
+  "slightly" notes** (quote-arrivals at bells + colophon). Structure legible
+  throughout (every alternation named correctly by a cold listener-model).
+- **Decided/skipped:** wood-block attention ticks at switches = the evidence-
+  backed NEXT lever (owner deferred blocks to future — flagged, not done);
+  room-color differences between the two archive sources = inherent, owner call.
+- Decision queue §4 (essays) still open, separate from this product.
+- Uncommitted: sheet+storyboard+tools+process docs (18/19) here; patala has
+  `skills/skill-tempo-check/`.

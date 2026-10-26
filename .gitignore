@@ -5,4 +5,5 @@ manifest.tsv
 *.m4a
 *.part
 download.log
-build/*/pieces/
+build/*/pieces*/
+__pycache__/

@@ -1,0 +1,1701 @@
+{
+ "product": "vatula_full_dual_reading",
+ "mode": "standard",
+ "version": 3,
+ "base": "../..",
+ "output": "build/dual_reading/vatula_full_dual_reading.mp3",
+ "built": "build/dual_reading/production_sheet.built.json",
+ "sheet_md": "build/dual_reading/production_sheet.md",
+ "out_dir": "build/sheet",
+ "format": {
+  "sample_rate": 44100,
+  "channels": 2,
+  "speech_target_db": -21.0,
+  "lead_s": 0.3,
+  "tail_s": 0.3,
+  "snap_search_s": 6.0,
+  "silence_thresholds": [
+   -26,
+   -32,
+   -38,
+   -44,
+   -22
+  ]
+ },
+ "grammar": "bowls -> [H intro] -> x13: [bell880 -> Baumer read -> VOICE SWITCH -> Hareesh render -> land] -> long break -> colophon",
+ "sources": {
+  "wallis": {
+   "file": "supplements/wallis-vatulanatha.webm",
+   "kind": "archive"
+  },
+  "bowls": {
+   "file": "sfx/bowls_intro.wav",
+   "kind": "sfx"
+  },
+  "long_break_bell": {
+   "file": "sfx/long_break_bell.wav",
+   "kind": "sfx"
+  },
+  "bell880": {
+   "file": "sfx/bell_880.wav",
+   "kind": "sfx",
+   "note": "2.5s 880Hz decay bell (v1 synth, recovered to tracked sfx kit)"
+  },
+  "room_baumer": {
+   "file": "Vatulanatha_Sutra_1 [ZrTkwSh3GRE].mp3",
+   "kind": "room",
+   "span": [
+    158.5,
+    160.0
+   ],
+   "note": "her archive room tone (source silence)"
+  },
+  "room_wallis": {
+   "file": "supplements/wallis-vatulanatha.webm",
+   "kind": "room",
+   "span": [
+    695.0,
+    697.0
+   ],
+   "note": "his studio room tone (source silence)"
+  },
+  "b01": {
+   "file": "Vatulanatha_Sutra_1 [ZrTkwSh3GRE].mp3",
+   "kind": "archive"
+  },
+  "b02": {
+   "file": "Vatulanatha_Sutra_2 [mHTSwh7PTDg].mp3",
+   "kind": "archive"
+  },
+  "b03": {
+   "file": "Vatulanatha_Sutra_3 [WD8uLV7uWI4].mp3",
+   "kind": "archive"
+  },
+  "b04": {
+   "file": "Vatulanatha_Sutra_4 [STb30XHtbGU].mp3",
+   "kind": "archive"
+  },
+  "b05": {
+   "file": "Vatulanatha_Sutra_5 [0LCYhSfS2Zg].mp3",
+   "kind": "archive"
+  },
+  "b06": {
+   "file": "Vatulanatha_Sutra_6 [VV3IRJ-wLG8].mp3",
+   "kind": "archive"
+  },
+  "b07": {
+   "file": "Vatulanatha_Sutra_7 [fulacD3QOWs].mp3",
+   "kind": "archive"
+  },
+  "b08": {
+   "file": "Vatulanatha_Sutra_8 [Tdo6xcQcmRc].mp3",
+   "kind": "archive"
+  },
+  "b09": {
+   "file": "Vatulanatha_Sutra_9 [HNyggIvPzEQ].mp3",
+   "kind": "archive"
+  },
+  "b10": {
+   "file": "Vatulanatha_Sutra_10 [urgrUjdKdLA].mp3",
+   "kind": "archive"
+  },
+  "b11": {
+   "file": "Vatulanatha_Sutra_11 [Te8f79VtbDg].mp3",
+   "kind": "archive"
+  },
+  "b12": {
+   "file": "Vatulanatha_Sutra_12 [czW1e6ifrU4].mp3",
+   "kind": "archive"
+  },
+  "b13": {
+   "file": "Vatulanatha_Sutra_13 [_p--mXPt-pk].mp3",
+   "kind": "archive"
+  }
+ },
+ "blocks": [
+  {
+   "id": "open_bowls",
+   "kind": "sfx",
+   "src": "bowls",
+   "span": [
+    4.0,
+    13.75
+   ],
+   "match_target_db": -26.0,
+   "comment": "OPEN \u2014 rim-rub swell, strike at +2.5s, decay into the settle"
+  },
+  {
+   "id": "gap_open",
+   "kind": "pause",
+   "dur": 0.8,
+   "tone": "digital",
+   "comment": "settle before the first voice"
+  },
+  {
+   "id": "intro",
+   "kind": "speech",
+   "speaker": "HAREESH",
+   "src": "wallis",
+   "window": [
+    320.55,
+    403.6
+   ],
+   "match_target_db": -21.0,
+   "comment": "HAREESH \u2014 the text's own introduction read (yoginis teach Vatulanatha)"
+  },
+  {
+   "id": "gap_intro",
+   "kind": "pause",
+   "dur": 1.0,
+   "tone": "room_wallis",
+   "comment": "breathe before the sutra sequence"
+  },
+  {
+   "id": "mark01",
+   "kind": "marker",
+   "src": "bell880",
+   "dur": 2.5,
+   "comment": "sutra 1 marker \u2014 Baeumer speaks after"
+  },
+  {
+   "id": "b01",
+   "kind": "speech",
+   "speaker": "BAUMER",
+   "src": "b01",
+   "window": [
+    105.0,
+    143.0
+   ],
+   "match_target_db": -21.0,
+   "comment": "her own s\u016btra translations read (maha sahasa + alternative)",
+   "reason": "end153->143: chop fix (cut mid 'sudden inspiration'); both translations complete at 142.16; start on silence before 'maha sahasa' (speech 105.35)",
+   "lead": 0.5
+  },
+  {
+   "id": "sw01",
+   "kind": "pause",
+   "dur": 1.6,
+   "tone": "switch",
+   "comment": "VOICE SWITCH \u2014 biggest air; her room tone carries the gap | crossfade her room -> his room (no floor step)"
+  },
+  {
+   "id": "h01",
+   "kind": "speech",
+   "speaker": "HAREESH",
+   "src": "wallis",
+   "window": [
+    492.99,
+    502.54
+   ],
+   "match_target_db": -21.0,
+   "comment": "his render of sutra 1",
+   "reason": "kept: 0.3 lead (speech 493.31), 0.3 tail (speech ends 502.22)"
+  },
+  {
+   "id": "land01",
+   "kind": "pause",
+   "dur": 0.7,
+   "tone": "room_wallis",
+   "comment": "phrase land \u2014 let the translation settle before the next marker"
+  },
+  {
+   "id": "mark02",
+   "kind": "marker",
+   "src": "bell880",
+   "dur": 2.5,
+   "comment": "sutra 2 marker \u2014 Baeumer speaks after"
+  },
+  {
+   "id": "b02",
+   "kind": "speech",
+   "speaker": "BAUMER",
+   "src": "b02",
+   "window": [
+    22.5,
+    47.3
+   ],
+   "match_target_db": -21.0,
+   "comment": "gloss of s\u016btra2 (no full verse read in transcript; head region)",
+   "reason": "start20->22.5: v1 began on orphan 'nature swarupa' tail; clean sentence start 22.92; end gloss sentence ends 46.69",
+   "lead": 0.5
+  },
+  {
+   "id": "sw02",
+   "kind": "pause",
+   "dur": 1.6,
+   "tone": "switch",
+   "comment": "VOICE SWITCH \u2014 biggest air; her room tone carries the gap | crossfade her room -> his room (no floor step)"
+  },
+  {
+   "id": "h02",
+   "kind": "speech",
+   "speaker": "HAREESH",
+   "src": "wallis",
+   "window": [
+    507.87,
+    518.02
+   ],
+   "match_target_db": -21.0,
+   "comment": "his render of sutra 2",
+   "reason": "kept: clean both edges (508.16 / 517.30)"
+  },
+  {
+   "id": "land02",
+   "kind": "pause",
+   "dur": 0.7,
+   "tone": "room_wallis",
+   "comment": "phrase land \u2014 let the translation settle before the next marker"
+  },
+  {
+   "id": "mark03",
+   "kind": "marker",
+   "src": "bell880",
+   "dur": 2.5,
+   "comment": "sutra 3 marker \u2014 Baeumer speaks after"
+  },
+  {
+   "id": "b03",
+   "kind": "speech",
+   "speaker": "BAUMER",
+   "src": "b03",
+   "window": [
+    47.0,
+    64.4
+   ],
+   "match_target_db": -21.0,
+   "comment": "Sanskrit + EN: 'Upaya Patod Katanat Mahasunyata Parveshaha' / 'By bursting open the two boards...'",
+   "reason": "start kept (in silence 46.27-47.4); end pad into 63.6-65.5 gap after 'great voidness'",
+   "lead": 0.5
+  },
+  {
+   "id": "sw03",
+   "kind": "pause",
+   "dur": 1.6,
+   "tone": "switch",
+   "comment": "VOICE SWITCH \u2014 biggest air; her room tone carries the gap | crossfade her room -> his room (no floor step)"
+  },
+  {
+   "id": "h03",
+   "kind": "speech",
+   "speaker": "HAREESH",
+   "src": "wallis",
+   "window": [
+    523.05,
+    534.5
+   ],
+   "match_target_db": -21.0,
+   "comment": "his render of sutra 3",
+   "reason": "end534.16->534.5: word-tail margin after 'spaciousness' (silence 534.71)"
+  },
+  {
+   "id": "land03",
+   "kind": "pause",
+   "dur": 0.7,
+   "tone": "room_wallis",
+   "comment": "phrase land \u2014 let the translation settle before the next marker"
+  },
+  {
+   "id": "mark04",
+   "kind": "marker",
+   "src": "bell880",
+   "dur": 2.5,
+   "comment": "sutra 4 marker \u2014 Baeumer speaks after"
+  },
+  {
+   "id": "b04",
+   "kind": "speech",
+   "speaker": "BAUMER",
+   "src": "b04",
+   "window": [
+    91.0,
+    121.3
+   ],
+   "match_target_db": -21.0,
+   "comment": "unit vat4-01",
+   "reason": "end117->121.3: v1 chopped LJ translation before 'where there is no room for any other agency' (ends 120.8)",
+   "lead": 0.5
+  },
+  {
+   "id": "sw04",
+   "kind": "pause",
+   "dur": 1.6,
+   "tone": "switch",
+   "comment": "VOICE SWITCH \u2014 biggest air; her room tone carries the gap | crossfade her room -> his room (no floor step)"
+  },
+  {
+   "id": "h04",
+   "kind": "speech",
+   "speaker": "HAREESH",
+   "src": "wallis",
+   "window": [
+    538.19,
+    546.7
+   ],
+   "match_target_db": -21.0,
+   "comment": "his render of sutra 4",
+   "reason": "kept: clean (538.92 / word ends ~546.6)"
+  },
+  {
+   "id": "land04",
+   "kind": "pause",
+   "dur": 0.7,
+   "tone": "room_wallis",
+   "comment": "phrase land \u2014 let the translation settle before the next marker"
+  },
+  {
+   "id": "mark05",
+   "kind": "marker",
+   "src": "bell880",
+   "dur": 2.5,
+   "comment": "sutra 5 marker \u2014 Baeumer speaks after"
+  },
+  {
+   "id": "b05",
+   "kind": "speech",
+   "speaker": "BAUMER",
+   "src": "b05",
+   "window": [
+    64.6,
+    84.15
+   ],
+   "match_target_db": -21.0,
+   "comment": "unit vat5-01",
+   "reason": "start65->64.6:0.4 lead before speech onset 64.98; end83->84.15: completes 'of the first sutra' (speech ends 83.97)",
+   "lead": 0.5
+  },
+  {
+   "id": "sw05",
+   "kind": "pause",
+   "dur": 1.6,
+   "tone": "switch",
+   "comment": "VOICE SWITCH \u2014 biggest air; her room tone carries the gap | crossfade her room -> his room (no floor step)"
+  },
+  {
+   "id": "h05",
+   "kind": "speech",
+   "speaker": "HAREESH",
+   "src": "wallis",
+   "window": [
+    552.03,
+    561.5
+   ],
+   "match_target_db": -21.0,
+   "comment": "his render of sutra 5",
+   "reason": "end561.04->561.5: word-tail margin after 'arises' (silence 561.89)"
+  },
+  {
+   "id": "land05",
+   "kind": "pause",
+   "dur": 0.7,
+   "tone": "room_wallis",
+   "comment": "phrase land \u2014 let the translation settle before the next marker"
+  },
+  {
+   "id": "mark06",
+   "kind": "marker",
+   "src": "bell880",
+   "dur": 2.5,
+   "comment": "sutra 6 marker \u2014 Baeumer speaks after"
+  },
+  {
+   "id": "b06",
+   "kind": "speech",
+   "speaker": "BAUMER",
+   "src": "b06",
+   "window": [
+    262.0,
+    275.6
+   ],
+   "match_target_db": -21.0,
+   "comment": "Swamiji translation: throwing away the three-fold coverings",
+   "reason": "end270->275.6: v1 cut the payoff 'the inexpressible stage of transcendental consciousness is revealed' (ends 275.16)",
+   "lead": 0.5
+  },
+  {
+   "id": "sw06",
+   "kind": "pause",
+   "dur": 1.6,
+   "tone": "switch",
+   "comment": "VOICE SWITCH \u2014 biggest air; her room tone carries the gap | crossfade her room -> his room (no floor step)"
+  },
+  {
+   "id": "h06",
+   "kind": "speech",
+   "speaker": "HAREESH",
+   "src": "wallis",
+   "window": [
+    568.29,
+    576.55
+   ],
+   "match_target_db": -21.0,
+   "comment": "his render of sutra 6",
+   "reason": "end576.34->576.55: margin after 'state' (silence 576.62)"
+  },
+  {
+   "id": "land06",
+   "kind": "pause",
+   "dur": 0.7,
+   "tone": "room_wallis",
+   "comment": "phrase land \u2014 let the translation settle before the next marker"
+  },
+  {
+   "id": "mark07",
+   "kind": "marker",
+   "src": "bell880",
+   "dur": 2.5,
+   "comment": "sutra 7 marker \u2014 Baeumer speaks after"
+  },
+  {
+   "id": "b07",
+   "kind": "speech",
+   "speaker": "BAUMER",
+   "src": "b07",
+   "window": [
+    48.8,
+    68.6
+   ],
+   "match_target_db": -21.0,
+   "comment": "unit vat7-01",
+   "reason": "start48->48.8: lead before 'Sutra 7' onset 49.19; end70->68.6: translation ends 68.03, drop 2s dead air",
+   "lead": 0.5
+  },
+  {
+   "id": "sw07",
+   "kind": "pause",
+   "dur": 1.6,
+   "tone": "switch",
+   "comment": "VOICE SWITCH \u2014 biggest air; her room tone carries the gap | crossfade her room -> his room (no floor step)"
+  },
+  {
+   "id": "h07",
+   "kind": "speech",
+   "speaker": "HAREESH",
+   "src": "wallis",
+   "window": [
+    586.29,
+    596.14
+   ],
+   "match_target_db": -21.0,
+   "comment": "his render of sutra 7",
+   "reason": "kept: clean (586.63 / 595.73)"
+  },
+  {
+   "id": "land07",
+   "kind": "pause",
+   "dur": 0.7,
+   "tone": "room_wallis",
+   "comment": "phrase land \u2014 let the translation settle before the next marker"
+  },
+  {
+   "id": "mark08",
+   "kind": "marker",
+   "src": "bell880",
+   "dur": 2.5,
+   "comment": "sutra 8 marker \u2014 Baeumer speaks after"
+  },
+  {
+   "id": "b08",
+   "kind": "speech",
+   "speaker": "BAUMER",
+   "src": "b08",
+   "window": [
+    158.0,
+    176.15
+   ],
+   "match_target_db": -21.0,
+   "comment": "unit vat8-03",
+   "reason": "start kept (silence to 159.52, 'Rasa Tritaya' onset); end after 'emerges spontaneously' (speech ends 175.84)",
+   "lead": 0.5
+  },
+  {
+   "id": "sw08",
+   "kind": "pause",
+   "dur": 1.6,
+   "tone": "switch",
+   "comment": "VOICE SWITCH \u2014 biggest air; her room tone carries the gap | crossfade her room -> his room (no floor step)"
+  },
+  {
+   "id": "h08",
+   "kind": "speech",
+   "speaker": "HAREESH",
+   "src": "wallis",
+   "window": [
+    602.19,
+    612.25
+   ],
+   "match_target_db": -21.0,
+   "comment": "his render of sutra 8",
+   "reason": "end611.62->612.25: MID-WORD fix, v1 cut inside 'spontaneously' (word starts 610.92, silence 612.33)"
+  },
+  {
+   "id": "land08",
+   "kind": "pause",
+   "dur": 0.7,
+   "tone": "room_wallis",
+   "comment": "phrase land \u2014 let the translation settle before the next marker"
+  },
+  {
+   "id": "mark09",
+   "kind": "marker",
+   "src": "bell880",
+   "dur": 2.5,
+   "comment": "sutra 9 marker \u2014 Baeumer speaks after"
+  },
+  {
+   "id": "b09",
+   "kind": "speech",
+   "speaker": "BAUMER",
+   "src": "b09",
+   "window": [
+    45.9,
+    55.25
+   ],
+   "match_target_db": -21.0,
+   "comment": "the s\u016btra line itself (when the four deities arise...)",
+   "reason": "start46->45.9: 0.1 lead before onset 46.0; end55->55.25: keep full 'oneself' (silence 55.1-55.41)",
+   "lead": 0.5
+  },
+  {
+   "id": "sw09",
+   "kind": "pause",
+   "dur": 1.6,
+   "tone": "switch",
+   "comment": "VOICE SWITCH \u2014 biggest air; her room tone carries the gap | crossfade her room -> his room (no floor step)"
+  },
+  {
+   "id": "h09",
+   "kind": "speech",
+   "speaker": "HAREESH",
+   "src": "wallis",
+   "window": [
+    618.09,
+    628.93
+   ],
+   "match_target_db": -21.0,
+   "comment": "his render of sutra 9",
+   "reason": "end628.84->628.93: margin after 'oneself' (silence 628.96)"
+  },
+  {
+   "id": "land09",
+   "kind": "pause",
+   "dur": 0.7,
+   "tone": "room_wallis",
+   "comment": "phrase land \u2014 let the translation settle before the next marker"
+  },
+  {
+   "id": "mark10",
+   "kind": "marker",
+   "src": "bell880",
+   "dur": 2.5,
+   "comment": "sutra 10 marker \u2014 Baeumer speaks after"
+  },
+  {
+   "id": "b10",
+   "kind": "speech",
+   "speaker": "BAUMER",
+   "src": "b10",
+   "window": [
+    43.9,
+    69.3
+   ],
+   "match_target_db": -21.0,
+   "comment": "sutra-10 announcement + EN: 'By the rise of the twelve currents...'",
+   "reason": "start43->43.9: v1 began on orphan prev-sentence tail; speech starts 44.27; end68->69.3: completes 'great rays of consciousness' (speech ends 68.83)",
+   "lead": 0.5
+  },
+  {
+   "id": "sw10",
+   "kind": "pause",
+   "dur": 1.6,
+   "tone": "switch",
+   "comment": "VOICE SWITCH \u2014 biggest air; her room tone carries the gap | crossfade her room -> his room (no floor step)"
+  },
+  {
+   "id": "h10",
+   "kind": "speech",
+   "speaker": "HAREESH",
+   "src": "wallis",
+   "window": [
+    636.45,
+    645.2
+   ],
+   "match_target_db": -21.0,
+   "comment": "his render of sutra 10",
+   "reason": "end645.1->645.2: margin after 'consciousness' (silence 645.28)"
+  },
+  {
+   "id": "land10",
+   "kind": "pause",
+   "dur": 0.7,
+   "tone": "room_wallis",
+   "comment": "phrase land \u2014 let the translation settle before the next marker"
+  },
+  {
+   "id": "mark11",
+   "kind": "marker",
+   "src": "bell880",
+   "dur": 2.5,
+   "comment": "sutra 11 marker \u2014 Baeumer speaks after"
+  },
+  {
+   "id": "b11",
+   "kind": "speech",
+   "speaker": "BAUMER",
+   "src": "b11",
+   "window": [
+    311.65,
+    350.3
+   ],
+   "match_target_db": -21.0,
+   "comment": "Lakshman Joo translation: When we enter through all the senses...",
+   "reason": "start311->311.65: v1 included 'process.' tail; end345->350.3: v1 chopped mid-sentence; 'is entered into' ends 349.87",
+   "lead": 0.5
+  },
+  {
+   "id": "sw11",
+   "kind": "pause",
+   "dur": 1.6,
+   "tone": "switch",
+   "comment": "VOICE SWITCH \u2014 biggest air; her room tone carries the gap | crossfade her room -> his room (no floor step)"
+  },
+  {
+   "id": "h11",
+   "kind": "speech",
+   "speaker": "HAREESH",
+   "src": "wallis",
+   "window": [
+    652.11,
+    658.96
+   ],
+   "match_target_db": -21.0,
+   "comment": "his render of sutra 11",
+   "reason": "end658.9->658.96: margin after 'waveless' (silence 658.99)"
+  },
+  {
+   "id": "land11",
+   "kind": "pause",
+   "dur": 0.7,
+   "tone": "room_wallis",
+   "comment": "phrase land \u2014 let the translation settle before the next marker"
+  },
+  {
+   "id": "mark12",
+   "kind": "marker",
+   "src": "bell880",
+   "dur": 2.5,
+   "comment": "sutra 12 marker \u2014 Baeumer speaks after"
+  },
+  {
+   "id": "b12",
+   "kind": "speech",
+   "speaker": "BAUMER",
+   "src": "b12",
+   "window": [
+    97.6,
+    113.0
+   ],
+   "match_target_db": -21.0,
+   "comment": "Sanskrit + EN: 'Mahabodha Samaveshath...' / 'By an absorption in the great awakening...'",
+   "reason": "start94->97.6: v1 began mid 'beyond good and evil'; Sanskrit+EN per unit note (speech 98.28); end112->113.0: completes 'with good and evil' (speech ends 112.47)",
+   "lead": 0.5
+  },
+  {
+   "id": "sw12",
+   "kind": "pause",
+   "dur": 1.6,
+   "tone": "switch",
+   "comment": "VOICE SWITCH \u2014 biggest air; her room tone carries the gap | crossfade her room -> his room (no floor step)"
+  },
+  {
+   "id": "h12",
+   "kind": "speech",
+   "speaker": "HAREESH",
+   "src": "wallis",
+   "window": [
+    664.47,
+    672.46
+   ],
+   "match_target_db": -21.0,
+   "comment": "his render of sutra 12",
+   "reason": "kept: clean (664.69 / 672.07)"
+  },
+  {
+   "id": "land12",
+   "kind": "pause",
+   "dur": 0.7,
+   "tone": "room_wallis",
+   "comment": "phrase land \u2014 let the translation settle before the next marker"
+  },
+  {
+   "id": "mark13",
+   "kind": "marker",
+   "src": "bell880",
+   "dur": 2.5,
+   "comment": "sutra 13 marker \u2014 Baeumer speaks after"
+  },
+  {
+   "id": "b13",
+   "kind": "speech",
+   "speaker": "BAUMER",
+   "src": "b13",
+   "window": [
+    697.5,
+    718.0
+   ],
+   "match_target_db": -21.0,
+   "comment": "Swamiji's translation of the final sutra (her read)",
+   "reason": "start696->697.5: v1 included orphan 'straightforward.' tail; 'Let us first listen' starts 698.16; end kept (silence 717.2-718.91)",
+   "lead": 0.5
+  },
+  {
+   "id": "sw13",
+   "kind": "pause",
+   "dur": 1.6,
+   "tone": "switch",
+   "comment": "VOICE SWITCH \u2014 biggest air; her room tone carries the gap | crossfade her room -> his room (no floor step)"
+  },
+  {
+   "id": "h13",
+   "kind": "speech",
+   "speaker": "HAREESH",
+   "src": "wallis",
+   "window": [
+    678.99,
+    694.36
+   ],
+   "match_target_db": -21.0,
+   "comment": "his render of sutra 13",
+   "reason": "kept: clean (679.19 / 693.96)"
+  },
+  {
+   "id": "land13",
+   "kind": "pause",
+   "dur": 0.7,
+   "tone": "room_wallis",
+   "comment": "phrase land \u2014 let the translation settle before the next marker"
+  },
+  {
+   "id": "long_break",
+   "kind": "sfx",
+   "src": "long_break_bell",
+   "match_target_db": -27.0,
+   "comment": "LONG BREAK \u2014 strongest strike, 4.6s decay: section pause into the colophon"
+  },
+  {
+   "id": "gap_colo",
+   "kind": "pause",
+   "dur": 0.3,
+   "tone": "digital",
+   "comment": "exhale after the bell (trimmed from 0.6: flow pass)"
+  },
+  {
+   "id": "colo",
+   "kind": "speech",
+   "speaker": "HAREESH",
+   "src": "wallis",
+   "window": [
+    715.64,
+    761.85
+   ],
+   "match_target_db": -21.0,
+   "comment": "colophon / attribution read",
+   "reason": "end761.56->761.85: keeps full 'viewpoints' (word ends ~761.7, silence 761.75)"
+  }
+ ],
+ "annotations": [
+  {
+   "at": "gap_open",
+   "type": "long_pause",
+   "note": "if the opener drags at ear, shorten bowls span before the strike, not the gap"
+  },
+  {
+   "at": "sw05",
+   "type": "wood_tick",
+   "note": "FUTURE: block noise here for emphasis \u2014 sutra 5 is the union/turning point, tick lands in this pause"
+  },
+  {
+   "at": "land09",
+   "type": "wood_tick",
+   "note": "FUTURE: focus tick \u2014 attention hit to re-anchor on what is being said"
+  },
+  {
+   "at": "long_break",
+   "type": "long_pause",
+   "note": "extra-long pause is the bell itself (4.7s) \u2014 do not add gap on top, current 0.6 land is the exhale"
+  }
+ ],
+ "_base": "/home/box/Downloads/yt/baumer",
+ "timeline": [
+  {
+   "id": "open_bowls",
+   "kind": "sfx",
+   "speaker": null,
+   "file": "open_bowls.wav",
+   "comment": "OPEN \u2014 rim-rub swell, strike at +2.5s, decay into the settle",
+   "dur_expected": null,
+   "start": 0.0,
+   "end": 8.76,
+   "dur": 8.76
+  },
+  {
+   "id": "gap_open",
+   "kind": "pause",
+   "speaker": null,
+   "file": "gap_open.wav",
+   "comment": "settle before the first voice",
+   "dur_expected": 0.8,
+   "start": 8.76,
+   "end": 9.56,
+   "dur": 0.8
+  },
+  {
+   "id": "intro",
+   "kind": "speech",
+   "speaker": "HAREESH",
+   "file": "intro.wav",
+   "comment": "HAREESH \u2014 the text's own introduction read (yoginis teach Vatulanatha)",
+   "dur_expected": null,
+   "start": 9.56,
+   "end": 92.722,
+   "dur": 83.162
+  },
+  {
+   "id": "gap_intro",
+   "kind": "pause",
+   "speaker": null,
+   "file": "gap_intro.wav",
+   "comment": "breathe before the sutra sequence",
+   "dur_expected": 1.0,
+   "start": 92.722,
+   "end": 93.722,
+   "dur": 1.0
+  },
+  {
+   "id": "mark01",
+   "kind": "marker",
+   "speaker": null,
+   "file": "mark01.wav",
+   "comment": "sutra 1 marker \u2014 Baeumer speaks after",
+   "dur_expected": 2.5,
+   "start": 93.722,
+   "end": 96.222,
+   "dur": 2.5
+  },
+  {
+   "id": "b01",
+   "kind": "speech",
+   "speaker": "BAUMER",
+   "file": "b01.wav",
+   "comment": "her own s\u016btra translations read (maha sahasa + alternative)",
+   "dur_expected": null,
+   "start": 96.222,
+   "end": 133.831,
+   "dur": 37.609
+  },
+  {
+   "id": "sw01",
+   "kind": "pause",
+   "speaker": null,
+   "file": "sw01.wav",
+   "comment": "VOICE SWITCH \u2014 biggest air; her room tone carries the gap | crossfade her room -> his room (no floor step)",
+   "dur_expected": 1.6,
+   "start": 133.831,
+   "end": 135.431,
+   "dur": 1.6
+  },
+  {
+   "id": "h01",
+   "kind": "speech",
+   "speaker": "HAREESH",
+   "file": "h01.wav",
+   "comment": "his render of sutra 1",
+   "dur_expected": null,
+   "start": 135.431,
+   "end": 144.863,
+   "dur": 9.432
+  },
+  {
+   "id": "land01",
+   "kind": "pause",
+   "speaker": null,
+   "file": "land01.wav",
+   "comment": "phrase land \u2014 let the translation settle before the next marker",
+   "dur_expected": 0.7,
+   "start": 144.863,
+   "end": 145.563,
+   "dur": 0.7
+  },
+  {
+   "id": "mark02",
+   "kind": "marker",
+   "speaker": null,
+   "file": "mark02.wav",
+   "comment": "sutra 2 marker \u2014 Baeumer speaks after",
+   "dur_expected": 2.5,
+   "start": 145.563,
+   "end": 148.063,
+   "dur": 2.5
+  },
+  {
+   "id": "b02",
+   "kind": "speech",
+   "speaker": "BAUMER",
+   "file": "b02.wav",
+   "comment": "gloss of s\u016btra2 (no full verse read in transcript; head region)",
+   "dur_expected": null,
+   "start": 148.063,
+   "end": 172.526,
+   "dur": 24.463
+  },
+  {
+   "id": "sw02",
+   "kind": "pause",
+   "speaker": null,
+   "file": "sw02.wav",
+   "comment": "VOICE SWITCH \u2014 biggest air; her room tone carries the gap | crossfade her room -> his room (no floor step)",
+   "dur_expected": 1.6,
+   "start": 172.526,
+   "end": 174.126,
+   "dur": 1.6
+  },
+  {
+   "id": "h02",
+   "kind": "speech",
+   "speaker": "HAREESH",
+   "file": "h02.wav",
+   "comment": "his render of sutra 2",
+   "dur_expected": null,
+   "start": 174.126,
+   "end": 183.828,
+   "dur": 9.702
+  },
+  {
+   "id": "land02",
+   "kind": "pause",
+   "speaker": null,
+   "file": "land02.wav",
+   "comment": "phrase land \u2014 let the translation settle before the next marker",
+   "dur_expected": 0.7,
+   "start": 183.828,
+   "end": 184.528,
+   "dur": 0.7
+  },
+  {
+   "id": "mark03",
+   "kind": "marker",
+   "speaker": null,
+   "file": "mark03.wav",
+   "comment": "sutra 3 marker \u2014 Baeumer speaks after",
+   "dur_expected": 2.5,
+   "start": 184.528,
+   "end": 187.028,
+   "dur": 2.5
+  },
+  {
+   "id": "b03",
+   "kind": "speech",
+   "speaker": "BAUMER",
+   "file": "b03.wav",
+   "comment": "Sanskrit + EN: 'Upaya Patod Katanat Mahasunyata Parveshaha' / 'By bursting open the two boards...'",
+   "dur_expected": null,
+   "start": 187.028,
+   "end": 204.047,
+   "dur": 17.019
+  },
+  {
+   "id": "sw03",
+   "kind": "pause",
+   "speaker": null,
+   "file": "sw03.wav",
+   "comment": "VOICE SWITCH \u2014 biggest air; her room tone carries the gap | crossfade her room -> his room (no floor step)",
+   "dur_expected": 1.6,
+   "start": 204.047,
+   "end": 205.647,
+   "dur": 1.6
+  },
+  {
+   "id": "h03",
+   "kind": "speech",
+   "speaker": "HAREESH",
+   "file": "h03.wav",
+   "comment": "his render of sutra 3",
+   "dur_expected": null,
+   "start": 205.647,
+   "end": 217.189,
+   "dur": 11.542
+  },
+  {
+   "id": "land03",
+   "kind": "pause",
+   "speaker": null,
+   "file": "land03.wav",
+   "comment": "phrase land \u2014 let the translation settle before the next marker",
+   "dur_expected": 0.7,
+   "start": 217.189,
+   "end": 217.889,
+   "dur": 0.7
+  },
+  {
+   "id": "mark04",
+   "kind": "marker",
+   "speaker": null,
+   "file": "mark04.wav",
+   "comment": "sutra 4 marker \u2014 Baeumer speaks after",
+   "dur_expected": 2.5,
+   "start": 217.889,
+   "end": 220.389,
+   "dur": 2.5
+  },
+  {
+   "id": "b04",
+   "kind": "speech",
+   "speaker": "BAUMER",
+   "file": "b04.wav",
+   "comment": "unit vat4-01",
+   "dur_expected": null,
+   "start": 220.389,
+   "end": 250.067,
+   "dur": 29.678
+  },
+  {
+   "id": "sw04",
+   "kind": "pause",
+   "speaker": null,
+   "file": "sw04.wav",
+   "comment": "VOICE SWITCH \u2014 biggest air; her room tone carries the gap | crossfade her room -> his room (no floor step)",
+   "dur_expected": 1.6,
+   "start": 250.067,
+   "end": 251.667,
+   "dur": 1.6
+  },
+  {
+   "id": "h04",
+   "kind": "speech",
+   "speaker": "HAREESH",
+   "file": "h04.wav",
+   "comment": "his render of sutra 4",
+   "dur_expected": null,
+   "start": 251.667,
+   "end": 260.24,
+   "dur": 8.573
+  },
+  {
+   "id": "land04",
+   "kind": "pause",
+   "speaker": null,
+   "file": "land04.wav",
+   "comment": "phrase land \u2014 let the translation settle before the next marker",
+   "dur_expected": 0.7,
+   "start": 260.24,
+   "end": 260.94,
+   "dur": 0.7
+  },
+  {
+   "id": "mark05",
+   "kind": "marker",
+   "speaker": null,
+   "file": "mark05.wav",
+   "comment": "sutra 5 marker \u2014 Baeumer speaks after",
+   "dur_expected": 2.5,
+   "start": 260.94,
+   "end": 263.44,
+   "dur": 2.5
+  },
+  {
+   "id": "b05",
+   "kind": "speech",
+   "speaker": "BAUMER",
+   "file": "b05.wav",
+   "comment": "unit vat5-01",
+   "dur_expected": null,
+   "start": 263.44,
+   "end": 283.212,
+   "dur": 19.772
+  },
+  {
+   "id": "sw05",
+   "kind": "pause",
+   "speaker": null,
+   "file": "sw05.wav",
+   "comment": "VOICE SWITCH \u2014 biggest air; her room tone carries the gap | crossfade her room -> his room (no floor step)",
+   "dur_expected": 1.6,
+   "start": 283.212,
+   "end": 284.812,
+   "dur": 1.6
+  },
+  {
+   "id": "h05",
+   "kind": "speech",
+   "speaker": "HAREESH",
+   "file": "h05.wav",
+   "comment": "his render of sutra 5",
+   "dur_expected": null,
+   "start": 284.812,
+   "end": 294.726,
+   "dur": 9.914
+  },
+  {
+   "id": "land05",
+   "kind": "pause",
+   "speaker": null,
+   "file": "land05.wav",
+   "comment": "phrase land \u2014 let the translation settle before the next marker",
+   "dur_expected": 0.7,
+   "start": 294.726,
+   "end": 295.426,
+   "dur": 0.7
+  },
+  {
+   "id": "mark06",
+   "kind": "marker",
+   "speaker": null,
+   "file": "mark06.wav",
+   "comment": "sutra 6 marker \u2014 Baeumer speaks after",
+   "dur_expected": 2.5,
+   "start": 295.426,
+   "end": 297.926,
+   "dur": 2.5
+  },
+  {
+   "id": "b06",
+   "kind": "speech",
+   "speaker": "BAUMER",
+   "file": "b06.wav",
+   "comment": "Swamiji translation: throwing away the three-fold coverings",
+   "dur_expected": null,
+   "start": 297.926,
+   "end": 310.988,
+   "dur": 13.062
+  },
+  {
+   "id": "sw06",
+   "kind": "pause",
+   "speaker": null,
+   "file": "sw06.wav",
+   "comment": "VOICE SWITCH \u2014 biggest air; her room tone carries the gap | crossfade her room -> his room (no floor step)",
+   "dur_expected": 1.6,
+   "start": 310.988,
+   "end": 312.588,
+   "dur": 1.6
+  },
+  {
+   "id": "h06",
+   "kind": "speech",
+   "speaker": "HAREESH",
+   "file": "h06.wav",
+   "comment": "his render of sutra 6",
+   "dur_expected": null,
+   "start": 312.588,
+   "end": 320.891,
+   "dur": 8.303
+  },
+  {
+   "id": "land06",
+   "kind": "pause",
+   "speaker": null,
+   "file": "land06.wav",
+   "comment": "phrase land \u2014 let the translation settle before the next marker",
+   "dur_expected": 0.7,
+   "start": 320.891,
+   "end": 321.591,
+   "dur": 0.7
+  },
+  {
+   "id": "mark07",
+   "kind": "marker",
+   "speaker": null,
+   "file": "mark07.wav",
+   "comment": "sutra 7 marker \u2014 Baeumer speaks after",
+   "dur_expected": 2.5,
+   "start": 321.591,
+   "end": 324.091,
+   "dur": 2.5
+  },
+  {
+   "id": "b07",
+   "kind": "speech",
+   "speaker": "BAUMER",
+   "file": "b07.wav",
+   "comment": "unit vat7-01",
+   "dur_expected": null,
+   "start": 324.091,
+   "end": 343.736,
+   "dur": 19.645
+  },
+  {
+   "id": "sw07",
+   "kind": "pause",
+   "speaker": null,
+   "file": "sw07.wav",
+   "comment": "VOICE SWITCH \u2014 biggest air; her room tone carries the gap | crossfade her room -> his room (no floor step)",
+   "dur_expected": 1.6,
+   "start": 343.736,
+   "end": 345.336,
+   "dur": 1.6
+  },
+  {
+   "id": "h07",
+   "kind": "speech",
+   "speaker": "HAREESH",
+   "file": "h07.wav",
+   "comment": "his render of sutra 7",
+   "dur_expected": null,
+   "start": 345.336,
+   "end": 355.014,
+   "dur": 9.678
+  },
+  {
+   "id": "land07",
+   "kind": "pause",
+   "speaker": null,
+   "file": "land07.wav",
+   "comment": "phrase land \u2014 let the translation settle before the next marker",
+   "dur_expected": 0.7,
+   "start": 355.014,
+   "end": 355.714,
+   "dur": 0.7
+  },
+  {
+   "id": "mark08",
+   "kind": "marker",
+   "speaker": null,
+   "file": "mark08.wav",
+   "comment": "sutra 8 marker \u2014 Baeumer speaks after",
+   "dur_expected": 2.5,
+   "start": 355.714,
+   "end": 358.214,
+   "dur": 2.5
+  },
+  {
+   "id": "b08",
+   "kind": "speech",
+   "speaker": "BAUMER",
+   "file": "b08.wav",
+   "comment": "unit vat8-03",
+   "dur_expected": null,
+   "start": 358.214,
+   "end": 376.019,
+   "dur": 17.805
+  },
+  {
+   "id": "sw08",
+   "kind": "pause",
+   "speaker": null,
+   "file": "sw08.wav",
+   "comment": "VOICE SWITCH \u2014 biggest air; her room tone carries the gap | crossfade her room -> his room (no floor step)",
+   "dur_expected": 1.6,
+   "start": 376.019,
+   "end": 377.619,
+   "dur": 1.6
+  },
+  {
+   "id": "h08",
+   "kind": "speech",
+   "speaker": "HAREESH",
+   "file": "h08.wav",
+   "comment": "his render of sutra 8",
+   "dur_expected": null,
+   "start": 377.619,
+   "end": 387.891,
+   "dur": 10.272
+  },
+  {
+   "id": "land08",
+   "kind": "pause",
+   "speaker": null,
+   "file": "land08.wav",
+   "comment": "phrase land \u2014 let the translation settle before the next marker",
+   "dur_expected": 0.7,
+   "start": 387.891,
+   "end": 388.591,
+   "dur": 0.7
+  },
+  {
+   "id": "mark09",
+   "kind": "marker",
+   "speaker": null,
+   "file": "mark09.wav",
+   "comment": "sutra 9 marker \u2014 Baeumer speaks after",
+   "dur_expected": 2.5,
+   "start": 388.591,
+   "end": 391.091,
+   "dur": 2.5
+  },
+  {
+   "id": "b09",
+   "kind": "speech",
+   "speaker": "BAUMER",
+   "file": "b09.wav",
+   "comment": "the s\u016btra line itself (when the four deities arise...)",
+   "dur_expected": null,
+   "start": 391.091,
+   "end": 400.829,
+   "dur": 9.738
+  },
+  {
+   "id": "sw09",
+   "kind": "pause",
+   "speaker": null,
+   "file": "sw09.wav",
+   "comment": "VOICE SWITCH \u2014 biggest air; her room tone carries the gap | crossfade her room -> his room (no floor step)",
+   "dur_expected": 1.6,
+   "start": 400.829,
+   "end": 402.429,
+   "dur": 1.6
+  },
+  {
+   "id": "h09",
+   "kind": "speech",
+   "speaker": "HAREESH",
+   "file": "h09.wav",
+   "comment": "his render of sutra 9",
+   "dur_expected": null,
+   "start": 402.429,
+   "end": 413.289,
+   "dur": 10.86
+  },
+  {
+   "id": "land09",
+   "kind": "pause",
+   "speaker": null,
+   "file": "land09.wav",
+   "comment": "phrase land \u2014 let the translation settle before the next marker",
+   "dur_expected": 0.7,
+   "start": 413.289,
+   "end": 413.989,
+   "dur": 0.7
+  },
+  {
+   "id": "mark10",
+   "kind": "marker",
+   "speaker": null,
+   "file": "mark10.wav",
+   "comment": "sutra 10 marker \u2014 Baeumer speaks after",
+   "dur_expected": 2.5,
+   "start": 413.989,
+   "end": 416.489,
+   "dur": 2.5
+  },
+  {
+   "id": "b10",
+   "kind": "speech",
+   "speaker": "BAUMER",
+   "file": "b10.wav",
+   "comment": "sutra-10 announcement + EN: 'By the rise of the twelve currents...'",
+   "dur_expected": null,
+   "start": 416.489,
+   "end": 441.847,
+   "dur": 25.358
+  },
+  {
+   "id": "sw10",
+   "kind": "pause",
+   "speaker": null,
+   "file": "sw10.wav",
+   "comment": "VOICE SWITCH \u2014 biggest air; her room tone carries the gap | crossfade her room -> his room (no floor step)",
+   "dur_expected": 1.6,
+   "start": 441.847,
+   "end": 443.447,
+   "dur": 1.6
+  },
+  {
+   "id": "h10",
+   "kind": "speech",
+   "speaker": "HAREESH",
+   "file": "h10.wav",
+   "comment": "his render of sutra 10",
+   "dur_expected": null,
+   "start": 443.447,
+   "end": 452.297,
+   "dur": 8.85
+  },
+  {
+   "id": "land10",
+   "kind": "pause",
+   "speaker": null,
+   "file": "land10.wav",
+   "comment": "phrase land \u2014 let the translation settle before the next marker",
+   "dur_expected": 0.7,
+   "start": 452.297,
+   "end": 452.997,
+   "dur": 0.7
+  },
+  {
+   "id": "mark11",
+   "kind": "marker",
+   "speaker": null,
+   "file": "mark11.wav",
+   "comment": "sutra 11 marker \u2014 Baeumer speaks after",
+   "dur_expected": 2.5,
+   "start": 452.997,
+   "end": 455.497,
+   "dur": 2.5
+  },
+  {
+   "id": "b11",
+   "kind": "speech",
+   "speaker": "BAUMER",
+   "file": "b11.wav",
+   "comment": "Lakshman Joo translation: When we enter through all the senses...",
+   "dur_expected": null,
+   "start": 455.497,
+   "end": 494.27,
+   "dur": 38.773
+  },
+  {
+   "id": "sw11",
+   "kind": "pause",
+   "speaker": null,
+   "file": "sw11.wav",
+   "comment": "VOICE SWITCH \u2014 biggest air; her room tone carries the gap | crossfade her room -> his room (no floor step)",
+   "dur_expected": 1.6,
+   "start": 494.27,
+   "end": 495.87,
+   "dur": 1.6
+  },
+  {
+   "id": "h11",
+   "kind": "speech",
+   "speaker": "HAREESH",
+   "file": "h11.wav",
+   "comment": "his render of sutra 11",
+   "dur_expected": null,
+   "start": 495.87,
+   "end": 502.956,
+   "dur": 7.086
+  },
+  {
+   "id": "land11",
+   "kind": "pause",
+   "speaker": null,
+   "file": "land11.wav",
+   "comment": "phrase land \u2014 let the translation settle before the next marker",
+   "dur_expected": 0.7,
+   "start": 502.956,
+   "end": 503.656,
+   "dur": 0.7
+  },
+  {
+   "id": "mark12",
+   "kind": "marker",
+   "speaker": null,
+   "file": "mark12.wav",
+   "comment": "sutra 12 marker \u2014 Baeumer speaks after",
+   "dur_expected": 2.5,
+   "start": 503.656,
+   "end": 506.156,
+   "dur": 2.5
+  },
+  {
+   "id": "b12",
+   "kind": "speech",
+   "speaker": "BAUMER",
+   "file": "b12.wav",
+   "comment": "Sanskrit + EN: 'Mahabodha Samaveshath...' / 'By an absorption in the great awakening...'",
+   "dur_expected": null,
+   "start": 506.156,
+   "end": 521.405,
+   "dur": 15.249
+  },
+  {
+   "id": "sw12",
+   "kind": "pause",
+   "speaker": null,
+   "file": "sw12.wav",
+   "comment": "VOICE SWITCH \u2014 biggest air; her room tone carries the gap | crossfade her room -> his room (no floor step)",
+   "dur_expected": 1.6,
+   "start": 521.405,
+   "end": 523.005,
+   "dur": 1.6
+  },
+  {
+   "id": "h12",
+   "kind": "speech",
+   "speaker": "HAREESH",
+   "file": "h12.wav",
+   "comment": "his render of sutra 12",
+   "dur_expected": null,
+   "start": 523.005,
+   "end": 530.9,
+   "dur": 7.895
+  },
+  {
+   "id": "land12",
+   "kind": "pause",
+   "speaker": null,
+   "file": "land12.wav",
+   "comment": "phrase land \u2014 let the translation settle before the next marker",
+   "dur_expected": 0.7,
+   "start": 530.9,
+   "end": 531.6,
+   "dur": 0.7
+  },
+  {
+   "id": "mark13",
+   "kind": "marker",
+   "speaker": null,
+   "file": "mark13.wav",
+   "comment": "sutra 13 marker \u2014 Baeumer speaks after",
+   "dur_expected": 2.5,
+   "start": 531.6,
+   "end": 534.1,
+   "dur": 2.5
+  },
+  {
+   "id": "b13",
+   "kind": "speech",
+   "speaker": "BAUMER",
+   "file": "b13.wav",
+   "comment": "Swamiji's translation of the final sutra (her read)",
+   "dur_expected": null,
+   "start": 534.1,
+   "end": 553.644,
+   "dur": 19.544
+  },
+  {
+   "id": "sw13",
+   "kind": "pause",
+   "speaker": null,
+   "file": "sw13.wav",
+   "comment": "VOICE SWITCH \u2014 biggest air; her room tone carries the gap | crossfade her room -> his room (no floor step)",
+   "dur_expected": 1.6,
+   "start": 553.644,
+   "end": 555.244,
+   "dur": 1.6
+  },
+  {
+   "id": "h13",
+   "kind": "speech",
+   "speaker": "HAREESH",
+   "file": "h13.wav",
+   "comment": "his render of sutra 13",
+   "dur_expected": null,
+   "start": 555.244,
+   "end": 570.534,
+   "dur": 15.29
+  },
+  {
+   "id": "land13",
+   "kind": "pause",
+   "speaker": null,
+   "file": "land13.wav",
+   "comment": "phrase land \u2014 let the translation settle before the next marker",
+   "dur_expected": 0.7,
+   "start": 570.534,
+   "end": 571.234,
+   "dur": 0.7
+  },
+  {
+   "id": "long_break",
+   "kind": "sfx",
+   "speaker": null,
+   "file": "long_break.wav",
+   "comment": "LONG BREAK \u2014 strongest strike, 4.6s decay: section pause into the colophon",
+   "dur_expected": null,
+   "start": 571.234,
+   "end": 575.934,
+   "dur": 4.7
+  },
+  {
+   "id": "gap_colo",
+   "kind": "pause",
+   "speaker": null,
+   "file": "gap_colo.wav",
+   "comment": "exhale after the bell (trimmed from 0.6: flow pass)",
+   "dur_expected": 0.3,
+   "start": 575.934,
+   "end": 576.234,
+   "dur": 0.3
+  },
+  {
+   "id": "colo",
+   "kind": "speech",
+   "speaker": "HAREESH",
+   "file": "colo.wav",
+   "comment": "colophon / attribution read",
+   "dur_expected": null,
+   "start": 576.234,
+   "end": 622.544,
+   "dur": 46.31
+  }
+ ],
+ "gains": {
+  "open_bowls": 7.1,
+  "gap_open": null,
+  "intro": 0.8,
+  "gap_intro": null,
+  "mark01": null,
+  "b01": -0.1,
+  "sw01": null,
+  "h01": 1.3,
+  "land01": null,
+  "mark02": null,
+  "b02": -1.2,
+  "sw02": null,
+  "h02": 0.8,
+  "land02": null,
+  "mark03": null,
+  "b03": -3.2,
+  "sw03": null,
+  "h03": 0.8,
+  "land03": null,
+  "mark04": null,
+  "b04": -1.1,
+  "sw04": null,
+  "h04": 0.5,
+  "land04": null,
+  "mark05": null,
+  "b05": -2.0,
+  "sw05": null,
+  "h05": 0.7,
+  "land05": null,
+  "mark06": null,
+  "b06": -1.4,
+  "sw06": null,
+  "h06": 1.6,
+  "land06": null,
+  "mark07": null,
+  "b07": 1.4,
+  "sw07": null,
+  "h07": 0.6,
+  "land07": null,
+  "mark08": null,
+  "b08": -4.5,
+  "sw08": null,
+  "h08": 1.5,
+  "land08": null,
+  "mark09": null,
+  "b09": -3.5,
+  "sw09": null,
+  "h09": 1.1,
+  "land09": null,
+  "mark10": null,
+  "b10": 0.2,
+  "sw10": null,
+  "h10": 0.9,
+  "land10": null,
+  "mark11": null,
+  "b11": -3.4,
+  "sw11": null,
+  "h11": 0.9,
+  "land11": null,
+  "mark12": null,
+  "b12": -1.6,
+  "sw12": null,
+  "h12": 0.2,
+  "land12": null,
+  "mark13": null,
+  "b13": -0.9,
+  "sw13": null,
+  "h13": 1.6,
+  "land13": null,
+  "long_break": 0.2,
+  "gap_colo": null,
+  "colo": 0.8
+ },
+ "duration_s": 622.576327,
+ "loudness": {
+  "mean_db": -22.2,
+  "max_db": -1.7
+ }
+}

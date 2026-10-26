@@ -247,3 +247,24 @@ ESSAY C  = B EXPANDED        = same walk + TEXTURE (her full lectures, her order
 B deepens; C floods with texture; each layer re-opens the same spine wider.*
 ---
 
+
+---
+
+## 2026-10-26 — TWO-COMPILATION LAW (ported from `prx0r/shiva-sutras` naming lock d5cdc3b)
+
+- **STANDARD COMPILATION** = the text's own structure leads: every unit in the
+  text's order, uniform block pattern, no reordering/selectivity/argument.
+  The fidelity object. *This repo:* the dual reading (13 sūtras in order,
+  B-read → H-translation each; manifest_v2 + storyboard_v2).
+- **CUSTOM COMPILATION** = our spine & cutting: the five questions, A/B/C
+  layers; selection and order ours. *This repo:* the essays (CANON).
+- **Law of the split:** nothing composed for custom enters standard; nothing
+  in standard is cut to flatter custom. Standard proves we heard the text;
+  custom proves we understood it.
+- **STANDARD FIRST — owner rule.** The standard pass is where the beautiful
+  structured data comes from: stamped units, windows, transcripts, coverage
+  ledger = the substrate every custom cut draws on (selection stays cheap and
+  provable). Plus credibility: the remix is trusted because the complete pass
+  sits underneath. Standard first, custom second, never the reverse.
+- Full law: `process/README.md` § TWO COMPILATIONS. Apparatus reference:
+  `prx0r/shiva-sutras` `process/00–10` (+ BUILD_ENGINE.md).

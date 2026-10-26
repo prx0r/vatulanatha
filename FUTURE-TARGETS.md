@@ -4,6 +4,12 @@ Rule: nothing below starts until the current primary source is fully covered
 (all 13 excavated → clustered → A/B/C built). This file = the queue + WHERE the
 audio comes from.
 
+**Compilation order (owner, 2026-10-26): every project runs the STANDARD
+compilation first** (text-led: units in the text's own order → the beautiful
+structured data), **then the custom compilation** (our spine & cutting) from
+its findings. Never blend, never reverse. See `process/README.md` § TWO
+COMPILATIONS.
+
 ## Next projects (same formula: genius audio × tough text × our grammar)
 | # | project | audio source | text source | state |
 |---|---|---|---|---|

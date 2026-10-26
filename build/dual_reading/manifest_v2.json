@@ -1,0 +1,718 @@
+{
+ "product": "vatula_full_dual_reading",
+ "version": 2,
+ "grammar": "bowls -> [H intro] -> x13: [bell880 -> Baumer sutra-read -> bh_gap -> Hareesh translation -> hb_gap] -> long_break_bell -> H colophon",
+ "spacing": {
+  "bowls_gap": 0.8,
+  "intro_gap": 1.0,
+  "bh_gap": 1.0,
+  "hb_gap": 0.5,
+  "colo_gap": 0.6
+ },
+ "speech_target_mean_db": -21.0,
+ "peak_cap_db": -1.5,
+ "b_windows_v2": {
+  "1": [
+   105.0,
+   143.0,
+   "end153->143: chop fix (cut mid 'sudden inspiration'); both translations complete at 142.16; start on silence before 'maha sahasa' (speech 105.35)"
+  ],
+  "2": [
+   22.5,
+   47.3,
+   "start20->22.5: v1 began on orphan 'nature swarupa' tail; clean sentence start 22.92; end gloss sentence ends 46.69"
+  ],
+  "3": [
+   47.0,
+   64.4,
+   "start kept (in silence 46.27-47.4); end pad into 63.6-65.5 gap after 'great voidness'"
+  ],
+  "4": [
+   91.0,
+   121.3,
+   "end117->121.3: v1 chopped LJ translation before 'where there is no room for any other agency' (ends 120.8)"
+  ],
+  "5": [
+   64.6,
+   84.15,
+   "start65->64.6:0.4 lead before speech onset 64.98; end83->84.15: completes 'of the first sutra' (speech ends 83.97)"
+  ],
+  "6": [
+   262.0,
+   275.6,
+   "end270->275.6: v1 cut the payoff 'the inexpressible stage of transcendental consciousness is revealed' (ends 275.16)"
+  ],
+  "7": [
+   48.8,
+   68.6,
+   "start48->48.8: lead before 'Sutra 7' onset 49.19; end70->68.6: translation ends 68.03, drop 2s dead air"
+  ],
+  "8": [
+   158.0,
+   176.15,
+   "start kept (silence to 159.52, 'Rasa Tritaya' onset); end after 'emerges spontaneously' (speech ends 175.84)"
+  ],
+  "9": [
+   45.9,
+   55.25,
+   "start46->45.9: 0.1 lead before onset 46.0; end55->55.25: keep full 'oneself' (silence 55.1-55.41)"
+  ],
+  "10": [
+   43.9,
+   69.3,
+   "start43->43.9: v1 began on orphan prev-sentence tail; speech starts 44.27; end68->69.3: completes 'great rays of consciousness' (speech ends 68.83)"
+  ],
+  "11": [
+   311.65,
+   350.3,
+   "start311->311.65: v1 included 'process.' tail; end345->350.3: v1 chopped mid-sentence; 'is entered into' ends 349.87"
+  ],
+  "12": [
+   97.6,
+   113.0,
+   "start94->97.6: v1 began mid 'beyond good and evil'; Sanskrit+EN per unit note (speech 98.28); end112->113.0: completes 'with good and evil' (speech ends 112.47)"
+  ],
+  "13": [
+   697.5,
+   718.0,
+   "start696->697.5: v1 included orphan 'straightforward.' tail; 'Let us first listen' starts 698.16; end kept (silence 717.2-718.91)"
+  ]
+ },
+ "h_windows_v2": {
+  "intro": [
+   320.55,
+   403.6,
+   "end402.7->403.6: v1 cut before the word 'commentator' (402.96-403.5); start kept (silence to 320.89)"
+  ],
+  "1": [
+   492.99,
+   502.54,
+   "kept: 0.3 lead (speech 493.31), 0.3 tail (speech ends 502.22)"
+  ],
+  "2": [
+   507.87,
+   518.02,
+   "kept: clean both edges (508.16 / 517.30)"
+  ],
+  "3": [
+   523.05,
+   534.5,
+   "end534.16->534.5: word-tail margin after 'spaciousness' (silence 534.71)"
+  ],
+  "4": [
+   538.19,
+   546.7,
+   "kept: clean (538.92 / word ends ~546.6)"
+  ],
+  "5": [
+   552.03,
+   561.5,
+   "end561.04->561.5: word-tail margin after 'arises' (silence 561.89)"
+  ],
+  "6": [
+   568.29,
+   576.55,
+   "end576.34->576.55: margin after 'state' (silence 576.62)"
+  ],
+  "7": [
+   586.29,
+   596.14,
+   "kept: clean (586.63 / 595.73)"
+  ],
+  "8": [
+   602.19,
+   612.25,
+   "end611.62->612.25: MID-WORD fix, v1 cut inside 'spontaneously' (word starts 610.92, silence 612.33)"
+  ],
+  "9": [
+   618.09,
+   628.93,
+   "end628.84->628.93: margin after 'oneself' (silence 628.96)"
+  ],
+  "10": [
+   636.45,
+   645.2,
+   "end645.1->645.2: margin after 'consciousness' (silence 645.28)"
+  ],
+  "11": [
+   652.11,
+   658.96,
+   "end658.9->658.96: margin after 'waveless' (silence 658.99)"
+  ],
+  "12": [
+   664.47,
+   672.46,
+   "kept: clean (664.69 / 672.07)"
+  ],
+  "13": [
+   678.99,
+   694.36,
+   "kept: clean (679.19 / 693.96)"
+  ],
+  "colo": [
+   715.64,
+   761.85,
+   "end761.56->761.85: keeps full 'viewpoints' (word ends ~761.7, silence 761.75)"
+  ]
+ },
+ "b_windows_v1": {
+  "1": [
+   106,
+   153,
+   "her own s\u016btra translations read (maha sahasa + alternative)"
+  ],
+  "2": [
+   20,
+   47,
+   "gloss of s\u016btra2 (no full verse read in transcript; head region)"
+  ],
+  "3": [
+   47,
+   64,
+   "Sanskrit + EN: 'Upaya Patod Katanat Mahasunyata Parveshaha' / 'By bursting open the two boards...'"
+  ],
+  "4": [
+   91,
+   117,
+   "unit vat4-01"
+  ],
+  "5": [
+   65,
+   83,
+   "unit vat5-01"
+  ],
+  "6": [
+   262,
+   270,
+   "Swamiji translation: throwing away the three-fold coverings"
+  ],
+  "7": [
+   48,
+   70,
+   "unit vat7-01"
+  ],
+  "8": [
+   158,
+   176,
+   "unit vat8-03"
+  ],
+  "9": [
+   46,
+   55,
+   "the s\u016btra line itself (when the four deities arise...)"
+  ],
+  "10": [
+   43,
+   68,
+   "sutra-10 announcement + EN: 'By the rise of the twelve currents...'"
+  ],
+  "11": [
+   311,
+   345,
+   "Lakshman Joo translation: When we enter through all the senses..."
+  ],
+  "12": [
+   94,
+   112,
+   "Sanskrit + EN: 'Mahabodha Samaveshath...' / 'By an absorption in the great awakening...'"
+  ],
+  "13": [
+   696,
+   718,
+   "Swamiji's translation of the final sutra (her read)"
+  ]
+ },
+ "sfx": {
+  "bowls": {
+   "source": "sfx/bowls_intro.wav",
+   "span": [
+    4.0,
+    13.75
+   ],
+   "role": "piece opener"
+  },
+  "bell_880": {
+   "source": "/home/box/Downloads/yt/baumer/build/dual_reading/pieces/bell1.wav",
+   "role": "x13 sutra marker"
+  },
+  "long_break_bell": {
+   "source": "sfx/long_break_bell.wav",
+   "role": "before colophon"
+  }
+ },
+ "piece_gains_db": {
+  "speech": {
+   "b01": -0.1,
+   "b02": -1.2,
+   "b03": -3.1,
+   "b04": -1.1,
+   "b05": -2.0,
+   "b06": -1.3,
+   "b07": 1.4,
+   "b08": -4.4,
+   "b09": -3.7,
+   "b10": 0.2,
+   "b11": -3.4,
+   "b12": -1.6,
+   "b13": -0.9,
+   "intro": 0.8,
+   "colo": 0.8,
+   "h01": 1.3,
+   "h02": 0.8,
+   "h03": 0.8,
+   "h04": 0.5,
+   "h05": 0.6,
+   "h06": 1.5,
+   "h07": 0.7,
+   "h08": 1.4,
+   "h09": 1.1,
+   "h10": 0.8,
+   "h11": 0.9,
+   "h12": 0.2,
+   "h13": 1.6
+  },
+  "gains": {
+   "bowls": 7.1,
+   "long_break_bell": 0.2
+  }
+ },
+ "timeline": [
+  {
+   "file": "bowls.wav",
+   "start": 0.0,
+   "end": 8.76,
+   "dur": 8.76
+  },
+  {
+   "file": "gap_bowls.wav",
+   "start": 8.76,
+   "end": 9.56,
+   "dur": 0.8
+  },
+  {
+   "file": "intro.wav",
+   "start": 9.56,
+   "end": 92.61,
+   "dur": 83.05
+  },
+  {
+   "file": "gap_intro.wav",
+   "start": 92.61,
+   "end": 93.61,
+   "dur": 1.0
+  },
+  {
+   "file": "bell1.wav",
+   "start": 93.61,
+   "end": 96.11,
+   "dur": 2.5
+  },
+  {
+   "file": "b01.wav",
+   "start": 96.11,
+   "end": 134.11,
+   "dur": 38.0
+  },
+  {
+   "file": "gap_bh.wav",
+   "start": 134.11,
+   "end": 135.11,
+   "dur": 1.0
+  },
+  {
+   "file": "h01.wav",
+   "start": 135.11,
+   "end": 144.66,
+   "dur": 9.55
+  },
+  {
+   "file": "gap_hb.wav",
+   "start": 144.66,
+   "end": 145.16,
+   "dur": 0.5
+  },
+  {
+   "file": "bell1.wav",
+   "start": 145.16,
+   "end": 147.66,
+   "dur": 2.5
+  },
+  {
+   "file": "b02.wav",
+   "start": 147.66,
+   "end": 172.46,
+   "dur": 24.8
+  },
+  {
+   "file": "gap_bh.wav",
+   "start": 172.46,
+   "end": 173.46,
+   "dur": 1.0
+  },
+  {
+   "file": "h02.wav",
+   "start": 173.46,
+   "end": 183.61,
+   "dur": 10.15
+  },
+  {
+   "file": "gap_hb.wav",
+   "start": 183.61,
+   "end": 184.11,
+   "dur": 0.5
+  },
+  {
+   "file": "bell1.wav",
+   "start": 184.11,
+   "end": 186.61,
+   "dur": 2.5
+  },
+  {
+   "file": "b03.wav",
+   "start": 186.61,
+   "end": 204.01,
+   "dur": 17.4
+  },
+  {
+   "file": "gap_bh.wav",
+   "start": 204.01,
+   "end": 205.01,
+   "dur": 1.0
+  },
+  {
+   "file": "h03.wav",
+   "start": 205.01,
+   "end": 216.46,
+   "dur": 11.45
+  },
+  {
+   "file": "gap_hb.wav",
+   "start": 216.46,
+   "end": 216.96,
+   "dur": 0.5
+  },
+  {
+   "file": "bell1.wav",
+   "start": 216.96,
+   "end": 219.46,
+   "dur": 2.5
+  },
+  {
+   "file": "b04.wav",
+   "start": 219.46,
+   "end": 249.76,
+   "dur": 30.3
+  },
+  {
+   "file": "gap_bh.wav",
+   "start": 249.76,
+   "end": 250.76,
+   "dur": 1.0
+  },
+  {
+   "file": "h04.wav",
+   "start": 250.76,
+   "end": 259.27,
+   "dur": 8.51
+  },
+  {
+   "file": "gap_hb.wav",
+   "start": 259.27,
+   "end": 259.77,
+   "dur": 0.5
+  },
+  {
+   "file": "bell1.wav",
+   "start": 259.77,
+   "end": 262.27,
+   "dur": 2.5
+  },
+  {
+   "file": "b05.wav",
+   "start": 262.27,
+   "end": 281.82,
+   "dur": 19.55
+  },
+  {
+   "file": "gap_bh.wav",
+   "start": 281.82,
+   "end": 282.82,
+   "dur": 1.0
+  },
+  {
+   "file": "h05.wav",
+   "start": 282.82,
+   "end": 292.29,
+   "dur": 9.47
+  },
+  {
+   "file": "gap_hb.wav",
+   "start": 292.29,
+   "end": 292.79,
+   "dur": 0.5
+  },
+  {
+   "file": "bell1.wav",
+   "start": 292.79,
+   "end": 295.29,
+   "dur": 2.5
+  },
+  {
+   "file": "b06.wav",
+   "start": 295.29,
+   "end": 308.89,
+   "dur": 13.6
+  },
+  {
+   "file": "gap_bh.wav",
+   "start": 308.89,
+   "end": 309.89,
+   "dur": 1.0
+  },
+  {
+   "file": "h06.wav",
+   "start": 309.89,
+   "end": 318.15,
+   "dur": 8.26
+  },
+  {
+   "file": "gap_hb.wav",
+   "start": 318.15,
+   "end": 318.65,
+   "dur": 0.5
+  },
+  {
+   "file": "bell1.wav",
+   "start": 318.65,
+   "end": 321.15,
+   "dur": 2.5
+  },
+  {
+   "file": "b07.wav",
+   "start": 321.15,
+   "end": 340.95,
+   "dur": 19.8
+  },
+  {
+   "file": "gap_bh.wav",
+   "start": 340.95,
+   "end": 341.95,
+   "dur": 1.0
+  },
+  {
+   "file": "h07.wav",
+   "start": 341.95,
+   "end": 351.8,
+   "dur": 9.85
+  },
+  {
+   "file": "gap_hb.wav",
+   "start": 351.8,
+   "end": 352.3,
+   "dur": 0.5
+  },
+  {
+   "file": "bell1.wav",
+   "start": 352.3,
+   "end": 354.8,
+   "dur": 2.5
+  },
+  {
+   "file": "b08.wav",
+   "start": 354.8,
+   "end": 372.95,
+   "dur": 18.15
+  },
+  {
+   "file": "gap_bh.wav",
+   "start": 372.95,
+   "end": 373.95,
+   "dur": 1.0
+  },
+  {
+   "file": "h08.wav",
+   "start": 373.95,
+   "end": 384.01,
+   "dur": 10.06
+  },
+  {
+   "file": "gap_hb.wav",
+   "start": 384.01,
+   "end": 384.51,
+   "dur": 0.5
+  },
+  {
+   "file": "bell1.wav",
+   "start": 384.51,
+   "end": 387.01,
+   "dur": 2.5
+  },
+  {
+   "file": "b09.wav",
+   "start": 387.01,
+   "end": 396.36,
+   "dur": 9.35
+  },
+  {
+   "file": "gap_bh.wav",
+   "start": 396.36,
+   "end": 397.36,
+   "dur": 1.0
+  },
+  {
+   "file": "h09.wav",
+   "start": 397.36,
+   "end": 408.2,
+   "dur": 10.84
+  },
+  {
+   "file": "gap_hb.wav",
+   "start": 408.2,
+   "end": 408.7,
+   "dur": 0.5
+  },
+  {
+   "file": "bell1.wav",
+   "start": 408.7,
+   "end": 411.2,
+   "dur": 2.5
+  },
+  {
+   "file": "b10.wav",
+   "start": 411.2,
+   "end": 436.6,
+   "dur": 25.4
+  },
+  {
+   "file": "gap_bh.wav",
+   "start": 436.6,
+   "end": 437.6,
+   "dur": 1.0
+  },
+  {
+   "file": "h10.wav",
+   "start": 437.6,
+   "end": 446.35,
+   "dur": 8.75
+  },
+  {
+   "file": "gap_hb.wav",
+   "start": 446.35,
+   "end": 446.85,
+   "dur": 0.5
+  },
+  {
+   "file": "bell1.wav",
+   "start": 446.85,
+   "end": 449.35,
+   "dur": 2.5
+  },
+  {
+   "file": "b11.wav",
+   "start": 449.35,
+   "end": 488.0,
+   "dur": 38.65
+  },
+  {
+   "file": "gap_bh.wav",
+   "start": 488.0,
+   "end": 489.0,
+   "dur": 1.0
+  },
+  {
+   "file": "h11.wav",
+   "start": 489.0,
+   "end": 495.85,
+   "dur": 6.85
+  },
+  {
+   "file": "gap_hb.wav",
+   "start": 495.85,
+   "end": 496.35,
+   "dur": 0.5
+  },
+  {
+   "file": "bell1.wav",
+   "start": 496.35,
+   "end": 498.85,
+   "dur": 2.5
+  },
+  {
+   "file": "b12.wav",
+   "start": 498.85,
+   "end": 514.25,
+   "dur": 15.4
+  },
+  {
+   "file": "gap_bh.wav",
+   "start": 514.25,
+   "end": 515.25,
+   "dur": 1.0
+  },
+  {
+   "file": "h12.wav",
+   "start": 515.25,
+   "end": 523.24,
+   "dur": 7.99
+  },
+  {
+   "file": "gap_hb.wav",
+   "start": 523.24,
+   "end": 523.74,
+   "dur": 0.5
+  },
+  {
+   "file": "bell1.wav",
+   "start": 523.74,
+   "end": 526.24,
+   "dur": 2.5
+  },
+  {
+   "file": "b13.wav",
+   "start": 526.24,
+   "end": 546.74,
+   "dur": 20.5
+  },
+  {
+   "file": "gap_bh.wav",
+   "start": 546.74,
+   "end": 547.74,
+   "dur": 1.0
+  },
+  {
+   "file": "h13.wav",
+   "start": 547.74,
+   "end": 563.11,
+   "dur": 15.37
+  },
+  {
+   "file": "gap_hb.wav",
+   "start": 563.11,
+   "end": 563.61,
+   "dur": 0.5
+  },
+  {
+   "file": "long_break_bell.wav",
+   "start": 563.61,
+   "end": 568.31,
+   "dur": 4.7
+  },
+  {
+   "file": "gap_colo.wav",
+   "start": 568.31,
+   "end": 568.91,
+   "dur": 0.6
+  },
+  {
+   "file": "colo.wav",
+   "start": 568.91,
+   "end": 615.12,
+   "dur": 46.21
+  }
+ ],
+ "duration_s": 615.157551,
+ "loudness": {
+  "mean_db": "-22.2",
+  "max_db": "-1.7"
+ }
+}
