@@ -108,10 +108,10 @@ Support files kept: `beth_upton_dhammadena_source.webm`,
 
 # 2026-10-26 LATER — production sheet + machine listening (state now)
 
-**State: sheet-driven v3 rendered (`production_sheet.json` = source of truth),
-P0 PASS, machine flow-listen near-clean. The one gate left = OWNER LISTEN of
-`build/dual_reading/vatula_full_dual_reading.mp3` (10:22) — read alongside
-`build/dual_reading/production_sheet.md`.**
+**State: DONE by rule — see `DONE.md` (P0 PASS + 2 converged whole-mix passes,
+all findings adjudicated, fixtures run both directions). Owner listen is now a
+pleasure-listen, not a gate: `build/dual_reading/vatula_full_dual_reading.mp3`
+(10:23) with `production_sheet.md` as the page.**
 
 - **Sheet engine:** `tools/sheet.py render|check` — snap-to-silence cuts
   (uniform 0.3-0.5s leads, 0.3s tails), room-tone/switch-crossfade gaps,
