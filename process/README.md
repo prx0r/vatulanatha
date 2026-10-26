@@ -66,6 +66,12 @@ unit; we never re-derive the text's shape), and the selective product is
 credible because the complete pass exists underneath it.
 **Decode any text this way: standard first, custom second, never the reverse.**
 
+**Visually (owner, 2026-10-26):** the STANDARD compilation's form = *the book
+stage* (tangible, page-turns = the text's order; spec:
+`~/essay-visual-engine/docs/SPEC-BOOK-STAGE.md`) · the CUSTOM compilation gets
+*its own movie* — a separate visual language, exemplar `prx0r/analayo-nibbana`
+`visuals/` (6-path canon, three clocks; branch `lab/c-split`). One audio law, two eyes.
+
 Mapping: excavations/coverage/spine (00–04-equivalent) serve both · essays
 argue custom only · dual reading = standard · `18-SPACING-AND-SEAMS` +
 `sfx/` + storyboard serve both. Stage apparatus reference: `prx0r/shiva-sutras`
