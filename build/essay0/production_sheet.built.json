@@ -97,23 +97,23 @@
    "kind": "tts"
   },
   "p1": {
-   "file": "build/essay0/tts/p1_p.mp3",
+   "file": "build/essay0/tts/lit1_p.mp3",
    "kind": "tts"
   },
   "p2": {
-   "file": "build/essay0/tts/p2_p.mp3",
+   "file": "build/essay0/tts/lit4_p.mp3",
    "kind": "tts"
   },
   "p3": {
-   "file": "build/essay0/tts/p3_p.mp3",
+   "file": "build/essay0/tts/lit8_p.mp3",
    "kind": "tts"
   },
   "p4": {
-   "file": "build/essay0/tts/p4_p.mp3",
+   "file": "build/essay0/tts/lit10_p.mp3",
    "kind": "tts"
   },
   "p5": {
-   "file": "build/essay0/tts/p5_p.mp3",
+   "file": "build/essay0/tts/lit13_p.mp3",
    "kind": "tts"
   }
  },
@@ -161,11 +161,11 @@
    "src": "p1",
    "window": [
     0.0,
-    5.73
+    5.538
    ],
-   "comment": "PLAIN (Guyzo) \u2014 filter of hareesh_spoken | SPOKEN answer (owner: Hareesh voice out of essay; his TEXT is the precise answer via plain) | -3dB explicit (was 2dB over Baumer)",
+   "comment": "PLAIN literal s\u016btra 1 (plain_sutras_v1, Guyzo, s2.1-pro-free) \u2014 the text's own answer, spoken",
    "render": true,
-   "gain_db": -4.1
+   "gain_db": -3.2
   },
   {
    "id": "sw1",
@@ -233,11 +233,11 @@
    "src": "p2",
    "window": [
     0.0,
-    4.47
+    6.217
    ],
-   "comment": "PLAIN (Guyzo) | SPOKEN answer (owner: Hareesh voice out of essay; his TEXT is the precise answer via plain) | -3dB explicit (was 2dB over Baumer)",
+   "comment": "PLAIN literal s\u016btra 4 (plain_sutras_v1, Guyzo, s2.1-pro-free) \u2014 the text's own answer, spoken",
    "render": true,
-   "gain_db": -1.7
+   "gain_db": -3.1
   },
   {
    "id": "sw2",
@@ -304,11 +304,11 @@
    "src": "p3",
    "window": [
     0.0,
-    7.63
+    8.176
    ],
-   "comment": "PLAIN (Guyzo) | SPOKEN answer (owner: Hareesh voice out of essay; his TEXT is the precise answer via plain) | -3dB explicit (was 2dB over Baumer)",
+   "comment": "PLAIN literal s\u016btra 8 (plain_sutras_v1, Guyzo, s2.1-pro-free) \u2014 the text's own answer, spoken",
    "render": true,
-   "gain_db": -3.9
+   "gain_db": -3.4
   },
   {
    "id": "sw3",
@@ -375,11 +375,11 @@
    "src": "p4",
    "window": [
     0.0,
-    6.56
+    5.486
    ],
-   "comment": "PLAIN (Guyzo) | SPOKEN answer (owner: Hareesh voice out of essay; his TEXT is the precise answer via plain) | -3dB explicit (was 2dB over Baumer)",
+   "comment": "PLAIN literal s\u016btra 10 (plain_sutras_v1, Guyzo, s2.1-pro-free) \u2014 the text's own answer, spoken",
    "render": true,
-   "gain_db": -2.7
+   "gain_db": -4.9
   },
   {
    "id": "sw4",
@@ -446,11 +446,11 @@
    "src": "p5",
    "window": [
     0.0,
-    9.38
+    9.3
    ],
-   "comment": "PLAIN (Guyzo) | SPOKEN answer (owner: Hareesh voice out of essay; his TEXT is the precise answer via plain) | -3dB explicit (was 2dB over Baumer)",
+   "comment": "PLAIN literal s\u016btra 13 (plain_sutras_v1, Guyzo, s2.1-pro-free) \u2014 the text's own answer, spoken",
    "render": true,
-   "gain_db": -2.2
+   "gain_db": -4.6
   },
   {
    "id": "sw5",
@@ -539,11 +539,11 @@
    "kind": "speech",
    "speaker": "PLAIN",
    "file": "p1.wav",
-   "comment": "PLAIN (Guyzo) \u2014 filter of hareesh_spoken | SPOKEN answer (owner: Hareesh voice out of essay; his TEXT is the precise answer via plain) | -3dB explicit (was 2dB over Baumer)",
+   "comment": "PLAIN literal s\u016btra 1 (plain_sutras_v1, Guyzo, s2.1-pro-free) \u2014 the text's own answer, spoken",
    "dur_expected": null,
    "start": 13.988,
-   "end": 19.436,
-   "dur": 5.448
+   "end": 19.262,
+   "dur": 5.274
   },
   {
    "id": "sw1",
@@ -552,8 +552,8 @@
    "file": "sw1.wav",
    "comment": "VOICESWITCH Hareesh->Baumer (plain screen-only)",
    "dur_expected": 1.6,
-   "start": 19.436,
-   "end": 21.036,
+   "start": 19.262,
+   "end": 20.862,
    "dur": 1.6
   },
   {
@@ -563,8 +563,8 @@
    "file": "b01.wav",
    "comment": "BAUMER answers Q1 \u2014 attainment means to become\u2026 the unfoldment of our true being | owner: raise + clarity (de-box 220/410, -1.2k, +3dB shelf 8k) | owner: LOUDER (-18 target, +compressor) + presence 3k/+1.5, shelf 8k +4 | loudnorm I=-17 TP=-1.5 (parity with Hareesh)",
    "dur_expected": null,
-   "start": 21.036,
-   "end": 54.38,
+   "start": 20.862,
+   "end": 54.206,
    "dur": 33.344
   },
   {
@@ -574,8 +574,8 @@
    "file": "land1.wav",
    "comment": "",
    "dur_expected": 0.6,
-   "start": 54.38,
-   "end": 54.98,
+   "start": 54.206,
+   "end": 54.806,
    "dur": 0.6
   },
   {
@@ -585,8 +585,8 @@
    "file": "mark1.wav",
    "comment": "section bell \u2014 Q2 approaches",
    "dur_expected": 2.5,
-   "start": 54.98,
-   "end": 57.48,
+   "start": 54.806,
+   "end": 57.306,
    "dur": 2.5
   },
   {
@@ -596,8 +596,8 @@
    "file": "gap_m1.wav",
    "comment": "",
    "dur_expected": 0.8,
-   "start": 57.48,
-   "end": 58.28,
+   "start": 57.306,
+   "end": 58.106,
    "dur": 0.8
   },
   {
@@ -607,8 +607,8 @@
    "file": "q2.wav",
    "comment": "Q2 What is the self?",
    "dur_expected": null,
-   "start": 58.28,
-   "end": 59.503,
+   "start": 58.106,
+   "end": 59.329,
    "dur": 1.223
   },
   {
@@ -618,8 +618,8 @@
    "file": "recall2.wav",
    "comment": "",
    "dur_expected": 3.0,
-   "start": 59.503,
-   "end": 62.503,
+   "start": 59.329,
+   "end": 62.329,
    "dur": 3.0
   },
   {
@@ -627,11 +627,11 @@
    "kind": "speech",
    "speaker": "PLAIN",
    "file": "p2.wav",
-   "comment": "PLAIN (Guyzo) | SPOKEN answer (owner: Hareesh voice out of essay; his TEXT is the precise answer via plain) | -3dB explicit (was 2dB over Baumer)",
+   "comment": "PLAIN literal s\u016btra 4 (plain_sutras_v1, Guyzo, s2.1-pro-free) \u2014 the text's own answer, spoken",
    "dur_expected": null,
-   "start": 62.503,
-   "end": 66.69,
-   "dur": 4.187
+   "start": 62.329,
+   "end": 68.182,
+   "dur": 5.853
   },
   {
    "id": "sw2",
@@ -640,8 +640,8 @@
    "file": "sw2.wav",
    "comment": "VOICESWITCH Hareesh->Baumer (plain screen-only)",
    "dur_expected": 1.6,
-   "start": 66.69,
-   "end": 68.29,
+   "start": 68.182,
+   "end": 69.782,
    "dur": 1.6
   },
   {
@@ -651,8 +651,8 @@
    "file": "b02.wav",
    "comment": "BAUMER answers Q2 \u2014 vat4-03 co-presence | owner: raise + clarity (de-box 220/410, -1.2k, +3dB shelf 8k) | owner: LOUDER (-18 target, +compressor) + presence 3k/+1.5, shelf 8k +4 | loudnorm I=-17 TP=-1.5 (parity with Hareesh)",
    "dur_expected": null,
-   "start": 68.29,
-   "end": 84.234,
+   "start": 69.782,
+   "end": 85.726,
    "dur": 15.944
   },
   {
@@ -662,8 +662,8 @@
    "file": "land2.wav",
    "comment": "",
    "dur_expected": 0.6,
-   "start": 84.234,
-   "end": 84.834,
+   "start": 85.726,
+   "end": 86.326,
    "dur": 0.6
   },
   {
@@ -673,8 +673,8 @@
    "file": "mark2.wav",
    "comment": "",
    "dur_expected": 2.5,
-   "start": 84.834,
-   "end": 87.334,
+   "start": 86.326,
+   "end": 88.826,
    "dur": 2.5
   },
   {
@@ -684,8 +684,8 @@
    "file": "gap_m2.wav",
    "comment": "",
    "dur_expected": 0.8,
-   "start": 87.334,
-   "end": 88.134,
+   "start": 88.826,
+   "end": 89.626,
    "dur": 0.8
   },
   {
@@ -695,8 +695,8 @@
    "file": "q3.wav",
    "comment": "Q3 How does realisation happen?",
    "dur_expected": null,
-   "start": 88.134,
-   "end": 89.955,
+   "start": 89.626,
+   "end": 91.447,
    "dur": 1.821
   },
   {
@@ -706,8 +706,8 @@
    "file": "recall3.wav",
    "comment": "",
    "dur_expected": 3.0,
-   "start": 89.955,
-   "end": 92.955,
+   "start": 91.447,
+   "end": 94.447,
    "dur": 3.0
   },
   {
@@ -715,11 +715,11 @@
    "kind": "speech",
    "speaker": "PLAIN",
    "file": "p3.wav",
-   "comment": "PLAIN (Guyzo) | SPOKEN answer (owner: Hareesh voice out of essay; his TEXT is the precise answer via plain) | -3dB explicit (was 2dB over Baumer)",
+   "comment": "PLAIN literal s\u016btra 8 (plain_sutras_v1, Guyzo, s2.1-pro-free) \u2014 the text's own answer, spoken",
    "dur_expected": null,
-   "start": 92.955,
-   "end": 100.317,
-   "dur": 7.362
+   "start": 94.447,
+   "end": 102.348,
+   "dur": 7.901
   },
   {
    "id": "sw3",
@@ -728,8 +728,8 @@
    "file": "sw3.wav",
    "comment": "VOICESWITCH Hareesh->Baumer (plain screen-only)",
    "dur_expected": 1.6,
-   "start": 100.317,
-   "end": 101.917,
+   "start": 102.348,
+   "end": 103.948,
    "dur": 1.6
   },
   {
@@ -739,8 +739,8 @@
    "file": "b03.wav",
    "comment": "BAUMER answers Q3 \u2014 vat8-01 inner inspirational impulse | owner: raise + clarity (de-box 220/410, -1.2k, +3dB shelf 8k) | owner: LOUDER (-18 target, +compressor) + presence 3k/+1.5, shelf 8k +4 | loudnorm I=-17 TP=-1.5 (parity with Hareesh)",
    "dur_expected": null,
-   "start": 101.917,
-   "end": 121.804,
+   "start": 103.948,
+   "end": 123.835,
    "dur": 19.887
   },
   {
@@ -750,8 +750,8 @@
    "file": "land3.wav",
    "comment": "",
    "dur_expected": 0.6,
-   "start": 121.804,
-   "end": 122.404,
+   "start": 123.835,
+   "end": 124.435,
    "dur": 0.6
   },
   {
@@ -761,8 +761,8 @@
    "file": "mark3.wav",
    "comment": "",
    "dur_expected": 2.5,
-   "start": 122.404,
-   "end": 124.904,
+   "start": 124.435,
+   "end": 126.935,
    "dur": 2.5
   },
   {
@@ -772,8 +772,8 @@
    "file": "gap_m3.wav",
    "comment": "",
    "dur_expected": 0.8,
-   "start": 124.904,
-   "end": 125.704,
+   "start": 126.935,
+   "end": 127.735,
    "dur": 0.8
   },
   {
@@ -783,8 +783,8 @@
    "file": "q4.wav",
    "comment": "Q4 What does realisation do to experience?",
    "dur_expected": null,
-   "start": 125.704,
-   "end": 128.492,
+   "start": 127.735,
+   "end": 130.523,
    "dur": 2.788
   },
   {
@@ -794,8 +794,8 @@
    "file": "recall4.wav",
    "comment": "",
    "dur_expected": 3.0,
-   "start": 128.492,
-   "end": 131.492,
+   "start": 130.523,
+   "end": 133.523,
    "dur": 3.0
   },
   {
@@ -803,11 +803,11 @@
    "kind": "speech",
    "speaker": "PLAIN",
    "file": "p4.wav",
-   "comment": "PLAIN (Guyzo) | SPOKEN answer (owner: Hareesh voice out of essay; his TEXT is the precise answer via plain) | -3dB explicit (was 2dB over Baumer)",
+   "comment": "PLAIN literal s\u016btra 10 (plain_sutras_v1, Guyzo, s2.1-pro-free) \u2014 the text's own answer, spoken",
    "dur_expected": null,
-   "start": 131.492,
-   "end": 137.784,
-   "dur": 6.292
+   "start": 133.523,
+   "end": 138.651,
+   "dur": 5.128
   },
   {
    "id": "sw4",
@@ -816,8 +816,8 @@
    "file": "sw4.wav",
    "comment": "VOICESWITCH Hareesh->Baumer (plain screen-only)",
    "dur_expected": 1.6,
-   "start": 137.784,
-   "end": 139.384,
+   "start": 138.651,
+   "end": 140.251,
    "dur": 1.6
   },
   {
@@ -827,8 +827,8 @@
    "file": "b04.wav",
    "comment": "BAUMER answers Q4 \u2014 vat10-07 divinized senses radiate | owner: raise + clarity (de-box 220/410, -1.2k, +3dB shelf 8k) | owner: LOUDER (-18 target, +compressor) + presence 3k/+1.5, shelf 8k +4 | loudnorm I=-17 TP=-1.5 (parity with Hareesh)",
    "dur_expected": null,
-   "start": 139.384,
-   "end": 175.54,
+   "start": 140.251,
+   "end": 176.407,
    "dur": 36.156
   },
   {
@@ -838,8 +838,8 @@
    "file": "land4.wav",
    "comment": "",
    "dur_expected": 0.6,
-   "start": 175.54,
-   "end": 176.14,
+   "start": 176.407,
+   "end": 177.007,
    "dur": 0.6
   },
   {
@@ -849,8 +849,8 @@
    "file": "mark4.wav",
    "comment": "",
    "dur_expected": 2.5,
-   "start": 176.14,
-   "end": 178.64,
+   "start": 177.007,
+   "end": 179.507,
    "dur": 2.5
   },
   {
@@ -860,8 +860,8 @@
    "file": "gap_m4.wav",
    "comment": "",
    "dur_expected": 0.8,
-   "start": 178.64,
-   "end": 179.44,
+   "start": 179.507,
+   "end": 180.307,
    "dur": 0.8
   },
   {
@@ -871,8 +871,8 @@
    "file": "q5.wav",
    "comment": "Q5 What is the fruit of realisation?",
    "dur_expected": null,
-   "start": 179.44,
-   "end": 181.585,
+   "start": 180.307,
+   "end": 182.452,
    "dur": 2.145
   },
   {
@@ -882,8 +882,8 @@
    "file": "recall5.wav",
    "comment": "",
    "dur_expected": 3.0,
-   "start": 181.585,
-   "end": 184.585,
+   "start": 182.452,
+   "end": 185.452,
    "dur": 3.0
   },
   {
@@ -891,11 +891,11 @@
    "kind": "speech",
    "speaker": "PLAIN",
    "file": "p5.wav",
-   "comment": "PLAIN (Guyzo) | SPOKEN answer (owner: Hareesh voice out of essay; his TEXT is the precise answer via plain) | -3dB explicit (was 2dB over Baumer)",
+   "comment": "PLAIN literal s\u016btra 13 (plain_sutras_v1, Guyzo, s2.1-pro-free) \u2014 the text's own answer, spoken",
    "dur_expected": null,
-   "start": 184.585,
-   "end": 193.695,
-   "dur": 9.11
+   "start": 185.452,
+   "end": 194.36,
+   "dur": 8.908
   },
   {
    "id": "sw5",
@@ -904,8 +904,8 @@
    "file": "sw5.wav",
    "comment": "VOICESWITCH Hareesh->Baumer (plain screen-only)",
    "dur_expected": 1.6,
-   "start": 193.695,
-   "end": 195.295,
+   "start": 194.36,
+   "end": 195.96,
    "dur": 1.6
   },
   {
@@ -915,8 +915,8 @@
    "file": "b05.wav",
    "comment": "BAUMER answers Q5 \u2014 vat13-06 all what I feel now, I was already feeling that | owner: raise + clarity (de-box 220/410, -1.2k, +3dB shelf 8k) | owner: LOUDER (-18 target, +compressor) + presence 3k/+1.5, shelf 8k +4 | loudnorm I=-17 TP=-1.5 (parity with Hareesh)",
    "dur_expected": null,
-   "start": 195.295,
-   "end": 230.827,
+   "start": 195.96,
+   "end": 231.492,
    "dur": 35.532
   },
   {
@@ -926,8 +926,8 @@
    "file": "land5.wav",
    "comment": "",
    "dur_expected": 0.6,
-   "start": 230.827,
-   "end": 231.427,
+   "start": 231.492,
+   "end": 232.092,
    "dur": 0.6
   },
   {
@@ -937,8 +937,8 @@
    "file": "close_bell.wav",
    "comment": "CLOSE \u2014 the spine piece ends on the long bell",
    "dur_expected": null,
-   "start": 231.427,
-   "end": 236.127,
+   "start": 232.092,
+   "end": 236.792,
    "dur": 4.7
   }
  ],
@@ -947,7 +947,7 @@
   "gap_open": null,
   "q1": 14.6,
   "recall1": null,
-  "p1": -4.1,
+  "p1": -3.2,
   "sw1": null,
   "b01": -0.9,
   "land1": null,
@@ -955,7 +955,7 @@
   "gap_m1": null,
   "q2": 14.7,
   "recall2": null,
-  "p2": -1.7,
+  "p2": -3.1,
   "sw2": null,
   "b02": 0.0,
   "land2": null,
@@ -963,7 +963,7 @@
   "gap_m2": null,
   "q3": 15.3,
   "recall3": null,
-  "p3": -3.9,
+  "p3": -3.4,
   "sw3": null,
   "b03": -3.6,
   "land3": null,
@@ -971,7 +971,7 @@
   "gap_m3": null,
   "q4": 15.9,
   "recall4": null,
-  "p4": -2.7,
+  "p4": -4.9,
   "sw4": null,
   "b04": 0.4,
   "land4": null,
@@ -979,15 +979,15 @@
   "gap_m4": null,
   "q5": 15.1,
   "recall5": null,
-  "p5": -2.2,
+  "p5": -4.6,
   "sw5": null,
   "b05": -1.6,
   "land5": null,
   "close_bell": 0.2
  },
- "duration_s": 236.173061,
+ "duration_s": 236.826122,
  "loudness": {
-  "mean_db": -22.5,
+  "mean_db": -22.6,
   "max_db": -1.7
  }
 }

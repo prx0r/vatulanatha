@@ -99,3 +99,15 @@ translation verbatim — pass-1 finding at 1:16, ruled design).
 - ffmpeg gotchas logged: acompressor threshold is LINEAR (0-1) in this build;
   filter chains join with ',' not ':' ; explicit gain_db overrides
   match_target_db (sheet.py).
+
+## Essay0 v2 final voice layout (owner, 2026-10-28): literal-sanskrit tier
+- Owner ruling: **fuck Hareesh's translation** — the answer to each question
+  is what the SŪTRA literally says. Reverted to the pre-Hareesh literal stack
+  we already had (seg*_beats + plain_sutras_v1, hash2505ed90).
+- Spoken cell now: Q(Narrator) → 3s recall → **PLAIN literal (Guyzo) →
+  Baumer answers** · screen = Sanskrit card + Kaul literal.
+- TTS via **Fish REST direct** (`POST /v1/tts`, `model: s2.1-pro-free` — the
+  FREE tier, ~$0; MCP was token-dead) — 5 literal takes lit{1,4,8,10,13}.
+- Final balance (measured): plain −18.6..−19.2 · Baumer −17.1..−18.5 ·
+  narrator −17.5..−18.1 — Baumer loudest, answer-seat confirmed.
+  p0 PASS · −18.3 LUFS · TP −1.7.

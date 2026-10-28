@@ -97,23 +97,23 @@
    "kind": "tts"
   },
   "p1": {
-   "file": "build/essay0/tts/p1_p.mp3",
+   "file": "build/essay0/tts/lit1_p.mp3",
    "kind": "tts"
   },
   "p2": {
-   "file": "build/essay0/tts/p2_p.mp3",
+   "file": "build/essay0/tts/lit4_p.mp3",
    "kind": "tts"
   },
   "p3": {
-   "file": "build/essay0/tts/p3_p.mp3",
+   "file": "build/essay0/tts/lit8_p.mp3",
    "kind": "tts"
   },
   "p4": {
-   "file": "build/essay0/tts/p4_p.mp3",
+   "file": "build/essay0/tts/lit10_p.mp3",
    "kind": "tts"
   },
   "p5": {
-   "file": "build/essay0/tts/p5_p.mp3",
+   "file": "build/essay0/tts/lit13_p.mp3",
    "kind": "tts"
   }
  },
@@ -161,11 +161,11 @@
    "src": "p1",
    "window": [
     0.0,
-    5.73
+    5.538
    ],
-   "comment": "PLAIN (Guyzo) — filter of hareesh_spoken | SPOKEN answer (owner: Hareesh voice out of essay; his TEXT is the precise answer via plain) | -3dB explicit (was 2dB over Baumer)",
+   "comment": "PLAIN literal sūtra 1 (plain_sutras_v1, Guyzo, s2.1-pro-free) — the text's own answer, spoken",
    "render": true,
-   "gain_db": -4.1
+   "gain_db": -3.2
   },
   {
    "id": "sw1",
@@ -233,11 +233,11 @@
    "src": "p2",
    "window": [
     0.0,
-    4.47
+    6.217
    ],
-   "comment": "PLAIN (Guyzo) | SPOKEN answer (owner: Hareesh voice out of essay; his TEXT is the precise answer via plain) | -3dB explicit (was 2dB over Baumer)",
+   "comment": "PLAIN literal sūtra 4 (plain_sutras_v1, Guyzo, s2.1-pro-free) — the text's own answer, spoken",
    "render": true,
-   "gain_db": -1.7
+   "gain_db": -3.1
   },
   {
    "id": "sw2",
@@ -304,11 +304,11 @@
    "src": "p3",
    "window": [
     0.0,
-    7.63
+    8.176
    ],
-   "comment": "PLAIN (Guyzo) | SPOKEN answer (owner: Hareesh voice out of essay; his TEXT is the precise answer via plain) | -3dB explicit (was 2dB over Baumer)",
+   "comment": "PLAIN literal sūtra 8 (plain_sutras_v1, Guyzo, s2.1-pro-free) — the text's own answer, spoken",
    "render": true,
-   "gain_db": -3.9
+   "gain_db": -3.4
   },
   {
    "id": "sw3",
@@ -375,11 +375,11 @@
    "src": "p4",
    "window": [
     0.0,
-    6.56
+    5.486
    ],
-   "comment": "PLAIN (Guyzo) | SPOKEN answer (owner: Hareesh voice out of essay; his TEXT is the precise answer via plain) | -3dB explicit (was 2dB over Baumer)",
+   "comment": "PLAIN literal sūtra 10 (plain_sutras_v1, Guyzo, s2.1-pro-free) — the text's own answer, spoken",
    "render": true,
-   "gain_db": -2.7
+   "gain_db": -4.9
   },
   {
    "id": "sw4",
@@ -446,11 +446,11 @@
    "src": "p5",
    "window": [
     0.0,
-    9.38
+    9.3
    ],
-   "comment": "PLAIN (Guyzo) | SPOKEN answer (owner: Hareesh voice out of essay; his TEXT is the precise answer via plain) | -3dB explicit (was 2dB over Baumer)",
+   "comment": "PLAIN literal sūtra 13 (plain_sutras_v1, Guyzo, s2.1-pro-free) — the text's own answer, spoken",
    "render": true,
-   "gain_db": -2.2
+   "gain_db": -4.6
   },
   {
    "id": "sw5",
