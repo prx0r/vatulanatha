@@ -133,3 +133,26 @@ pleasure-listen, not a gate: `build/dual_reading/vatula_full_dual_reading.mp3`
 - Decision queue §4 (essays) still open, separate from this product.
 - Uncommitted: sheet+storyboard+tools+process docs (18/19) here; patala has
   `skills/skill-tempo-check/`.
+
+---
+
+# SESSION 2026-10-28 — essay 0 v2 BUILT + DONE (Hareesh trusted tier)
+
+**State: `build/essay0/essay0_full_v2.mp3` (4:11) = DONE by rule. Custom
+compilation now has its spine piece audible.**
+
+- **Trust order upgraded** (owner): text > Hareesh spoken > Kaul 1923 > Baumer
+  (voice). `build/template_13.json` = 13 rows (sanskrit_exact · hareesh_spoken
+  from vtt increment-join · kaul · plain). Spoken Hareesh ≠ blog wording at
+  ~5 sūtras (earlier pass) — **spoken is gospel** per owner.
+- **Essay-0 stack v2**: Q(Narrator TTS) → 3s recall → Hareesh reads sūtra →
+  Baumer answers · bells between · bowls/long-bell bookends. Plain = screen-only
+  when no-op (E1). 5 H windows + 5 Baumer unit windows, all reason-carried.
+- **p0_check essay0 mode** added (speech must follow pause/marker; standard
+  dual-reading invariants preserved).
+- **Gates**: p0 PASS · machine pass1 FLOWS (1 design finding fixed) · pass2 9
+  findings all by-design/inherent → convergence. Ledger in DONE.md §essay0.
+- TTS spend: ~660 fish credits (5 questions + 5 plains; plains now screen-only
+  but kept for body-beat reuse). Guyzo credits confirmed live.
+- Still owner-only: essay0_lock.json (lock = stack v2 + this artifact) ·
+  Narrator-voice swap if wanted · decision queue §4 (essays A/B/C) unchanged.

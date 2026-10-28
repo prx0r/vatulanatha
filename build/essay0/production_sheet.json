@@ -1,0 +1,577 @@
+{
+ "product": "essay0_full_v2",
+ "mode": "essay0",
+ "version": 2,
+ "base": "../..",
+ "output": "build/essay0/essay0_full_v2.mp3",
+ "built": "build/essay0/production_sheet.built.json",
+ "sheet_md": "build/essay0/production_sheet.md",
+ "out_dir": "build/essay0/pieces",
+ "format": {
+  "sample_rate": 44100,
+  "channels": 2,
+  "speech_target_db": -21.0,
+  "lead_s": 0.3,
+  "tail_s": 0.3,
+  "snap_search_s": 6.0,
+  "silence_thresholds": [
+   -26,
+   -32,
+   -38,
+   -44,
+   -22
+  ]
+ },
+ "grammar": "bowls -> x5: [question(TTS) -> 3s recall -> Hareesh sūtra read -> land -> plain(Guyzo) -> switch -> Baumer answer] -> land -> bell -> next .. long-break close",
+ "sources": {
+  "bowls": {
+   "file": "sfx/bowls_intro.wav",
+   "kind": "sfx"
+  },
+  "bell880": {
+   "file": "sfx/bell_880.wav",
+   "kind": "sfx"
+  },
+  "long_break_bell": {
+   "file": "sfx/long_break_bell.wav",
+   "kind": "sfx"
+  },
+  "wallis": {
+   "file": "supplements/wallis-vatulanatha.webm",
+   "kind": "archive"
+  },
+  "room_wallis": {
+   "file": "supplements/wallis-vatulanatha.webm",
+   "kind": "room",
+   "span": [
+    695.0,
+    697.0
+   ]
+  },
+  "room_baumer": {
+   "file": "Vatulanatha_Sutra_1 [ZrTkwSh3GRE].mp3",
+   "kind": "room",
+   "span": [
+    158.5,
+    160.0
+   ]
+  },
+  "b01": {
+   "file": "Vatulanatha_Sutra_1 [ZrTkwSh3GRE].mp3",
+   "kind": "archive"
+  },
+  "b02": {
+   "file": "Vatulanatha_Sutra_4 [STb30XHtbGU].mp3",
+   "kind": "archive"
+  },
+  "b03": {
+   "file": "Vatulanatha_Sutra_8 [Tdo6xcQcmRc].mp3",
+   "kind": "archive"
+  },
+  "b04": {
+   "file": "Vatulanatha_Sutra_10 [urgrUjdKdLA].mp3",
+   "kind": "archive"
+  },
+  "b05": {
+   "file": "Vatulanatha_Sutra_13 [_p--mXPt-pk].mp3",
+   "kind": "archive"
+  },
+  "q1": {
+   "file": "build/essay0/tts/q1_p.mp3",
+   "kind": "tts"
+  },
+  "q2": {
+   "file": "build/essay0/tts/q2_p.mp3",
+   "kind": "tts"
+  },
+  "q3": {
+   "file": "build/essay0/tts/q3_p.mp3",
+   "kind": "tts"
+  },
+  "q4": {
+   "file": "build/essay0/tts/q4_p.mp3",
+   "kind": "tts"
+  },
+  "q5": {
+   "file": "build/essay0/tts/q5_p.mp3",
+   "kind": "tts"
+  },
+  "p1": {
+   "file": "build/essay0/tts/p1_p.mp3",
+   "kind": "tts"
+  },
+  "p2": {
+   "file": "build/essay0/tts/p2_p.mp3",
+   "kind": "tts"
+  },
+  "p3": {
+   "file": "build/essay0/tts/p3_p.mp3",
+   "kind": "tts"
+  },
+  "p4": {
+   "file": "build/essay0/tts/p4_p.mp3",
+   "kind": "tts"
+  },
+  "p5": {
+   "file": "build/essay0/tts/p5_p.mp3",
+   "kind": "tts"
+  }
+ },
+ "blocks": [
+  {
+   "id": "open_bowls",
+   "kind": "sfx",
+   "src": "bowls",
+   "span": [
+    4.0,
+    13.75
+   ],
+   "match_target_db": -26.0,
+   "comment": "OPEN — same bowls as the standard's open"
+  },
+  {
+   "id": "gap_open",
+   "kind": "pause",
+   "dur": 0.8,
+   "tone": "digital"
+  },
+  {
+   "id": "q1",
+   "kind": "speech",
+   "speaker": "HUMAN",
+   "src": "q1",
+   "window": [
+    0.0,
+    1.81
+   ],
+   "match_target_db": -21.0,
+   "comment": "Q1 What is realisation? (Narrator, provisional HUMAN)"
+  },
+  {
+   "id": "recall1",
+   "kind": "pause",
+   "dur": 3.0,
+   "tone": "digital",
+   "comment": "2-breath recall window (12)"
+  },
+  {
+   "id": "h01",
+   "kind": "speech",
+   "speaker": "HAREESH",
+   "src": "wallis",
+   "window": [
+    492.99,
+    502.54
+   ],
+   "match_target_db": -21.0,
+   "comment": "HAREESH reads sūtra 1 — through the activity of the great spontaneous immediacy one discovers one's true nature",
+   "reason": "dual-reading H window: 0.3 lead (speech 493.31), 0.3 tail (speech ends 502.22)"
+  },
+  {
+   "id": "gap_h1",
+   "kind": "pause",
+   "dur": 1.0,
+   "tone": "room_wallis",
+   "comment": "land before plain"
+  },
+  {
+   "id": "p1",
+   "kind": "speech",
+   "speaker": "PLAIN",
+   "src": "p1",
+   "window": [
+    0.0,
+    5.73
+   ],
+   "match_target_db": -21.0,
+   "comment": "PLAIN (Guyzo) — filter of hareesh_spoken | SCREEN-ONLY: plain==hareesh_spoken (no-op) — spoken gloss would repeat the translation verbatim (P5 finding @1:16)",
+   "render": false
+  },
+  {
+   "id": "sw1",
+   "kind": "pause",
+   "dur": 1.6,
+   "tone": "room_baumer",
+   "comment": "VOICESWITCH Hareesh->Baumer (plain screen-only)"
+  },
+  {
+   "id": "b01",
+   "kind": "speech",
+   "speaker": "BAUMER",
+   "src": "b01",
+   "window": [
+    526.0,
+    552.0
+   ],
+   "match_target_db": -21.0,
+   "comment": "BAUMER answers Q1 — attainment means to become… the unfoldment of our true being",
+   "reason": "G12-verified gold-dust window (526-552), sentence-complete both edges"
+  },
+  {
+   "id": "land1",
+   "kind": "pause",
+   "dur": 0.6,
+   "tone": "room_baumer"
+  },
+  {
+   "id": "mark1",
+   "kind": "marker",
+   "src": "bell880",
+   "dur": 2.5,
+   "comment": "section bell — Q2 approaches"
+  },
+  {
+   "id": "gap_m1",
+   "kind": "pause",
+   "dur": 0.8,
+   "tone": "digital"
+  },
+  {
+   "id": "q2",
+   "kind": "speech",
+   "speaker": "HUMAN",
+   "src": "q2",
+   "window": [
+    0.0,
+    1.6
+   ],
+   "match_target_db": -21.0,
+   "comment": "Q2 What is the self?"
+  },
+  {
+   "id": "recall2",
+   "kind": "pause",
+   "dur": 3.0,
+   "tone": "digital"
+  },
+  {
+   "id": "h02",
+   "kind": "speech",
+   "speaker": "HAREESH",
+   "src": "wallis",
+   "window": [
+    538.19,
+    546.7
+   ],
+   "match_target_db": -21.0,
+   "comment": "HAREESH reads sūtra 4 — devouring the pair, abiding in continuous occasionless consciousness",
+   "reason": "dual-reading H window: clean both edges (538.92 / word ends ~546.6)"
+  },
+  {
+   "id": "gap_h2",
+   "kind": "pause",
+   "dur": 1.0,
+   "tone": "room_wallis"
+  },
+  {
+   "id": "p2",
+   "kind": "speech",
+   "speaker": "PLAIN",
+   "src": "p2",
+   "window": [
+    0.0,
+    4.47
+   ],
+   "match_target_db": -21.0,
+   "comment": "PLAIN (Guyzo) | SCREEN-ONLY: plain==hareesh_spoken (no-op) — spoken gloss would repeat the translation verbatim (P5 finding @1:16)",
+   "render": false
+  },
+  {
+   "id": "sw2",
+   "kind": "pause",
+   "dur": 1.6,
+   "tone": "room_baumer",
+   "comment": "VOICESWITCH Hareesh->Baumer (plain screen-only)"
+  },
+  {
+   "id": "b02",
+   "kind": "speech",
+   "speaker": "BAUMER",
+   "src": "b02",
+   "window": [
+    299.0,
+    314.0
+   ],
+   "match_target_db": -21.0,
+   "comment": "BAUMER answers Q2 — vat4-03 co-presence",
+   "reason": "excavation unit vat4-03 (4:59 +15s), quote-verified sentence edges"
+  },
+  {
+   "id": "land2",
+   "kind": "pause",
+   "dur": 0.6,
+   "tone": "room_baumer"
+  },
+  {
+   "id": "mark2",
+   "kind": "marker",
+   "src": "bell880",
+   "dur": 2.5
+  },
+  {
+   "id": "gap_m2",
+   "kind": "pause",
+   "dur": 0.8,
+   "tone": "digital"
+  },
+  {
+   "id": "q3",
+   "kind": "speech",
+   "speaker": "HUMAN",
+   "src": "q3",
+   "window": [
+    0.0,
+    2.2
+   ],
+   "match_target_db": -21.0,
+   "comment": "Q3 How does realisation happen?"
+  },
+  {
+   "id": "recall3",
+   "kind": "pause",
+   "dur": 3.0,
+   "tone": "digital"
+  },
+  {
+   "id": "h03",
+   "kind": "speech",
+   "speaker": "HAREESH",
+   "src": "wallis",
+   "window": [
+    602.19,
+    612.25
+   ],
+   "match_target_db": -21.0,
+   "comment": "HAREESH reads sūtra 8 — savoring the three flavors, surges up spontaneously",
+   "reason": "dual-reading H window: MID-WORD fix (v1 cut inside spontaneously); end 612.25, word ends 611.62"
+  },
+  {
+   "id": "gap_h3",
+   "kind": "pause",
+   "dur": 1.0,
+   "tone": "room_wallis"
+  },
+  {
+   "id": "p3",
+   "kind": "speech",
+   "speaker": "PLAIN",
+   "src": "p3",
+   "window": [
+    0.0,
+    7.63
+   ],
+   "match_target_db": -21.0,
+   "comment": "PLAIN (Guyzo) | SCREEN-ONLY: plain==hareesh_spoken (no-op) — spoken gloss would repeat the translation verbatim (P5 finding @1:16)",
+   "render": false
+  },
+  {
+   "id": "sw3",
+   "kind": "pause",
+   "dur": 1.6,
+   "tone": "room_baumer",
+   "comment": "VOICESWITCH Hareesh->Baumer (plain screen-only)"
+  },
+  {
+   "id": "b03",
+   "kind": "speech",
+   "speaker": "BAUMER",
+   "src": "b03",
+   "window": [
+    52.0,
+    68.0
+   ],
+   "match_target_db": -21.0,
+   "comment": "BAUMER answers Q3 — vat8-01 inner inspirational impulse",
+   "reason": "excavation unit vat8-01 (0:52 +16s), quote-verified"
+  },
+  {
+   "id": "land3",
+   "kind": "pause",
+   "dur": 0.6,
+   "tone": "room_baumer"
+  },
+  {
+   "id": "mark3",
+   "kind": "marker",
+   "src": "bell880",
+   "dur": 2.5
+  },
+  {
+   "id": "gap_m3",
+   "kind": "pause",
+   "dur": 0.8,
+   "tone": "digital"
+  },
+  {
+   "id": "q4",
+   "kind": "speech",
+   "speaker": "HUMAN",
+   "src": "q4",
+   "window": [
+    0.0,
+    3.11
+   ],
+   "match_target_db": -21.0,
+   "comment": "Q4 What does realisation do to experience?"
+  },
+  {
+   "id": "recall4",
+   "kind": "pause",
+   "dur": 3.0,
+   "tone": "digital"
+  },
+  {
+   "id": "h04",
+   "kind": "speech",
+   "speaker": "HAREESH",
+   "src": "wallis",
+   "window": [
+    636.45,
+    645.2
+   ],
+   "match_target_db": -21.0,
+   "comment": "HAREESH reads sūtra 10 — expansion of the great rays of consciousness",
+   "reason": "dual-reading H window: 0.3 lead (speech 636.6), 0.1 margin after 'consciousness' (speech ends 645.1)"
+  },
+  {
+   "id": "gap_h4",
+   "kind": "pause",
+   "dur": 1.0,
+   "tone": "room_wallis"
+  },
+  {
+   "id": "p4",
+   "kind": "speech",
+   "speaker": "PLAIN",
+   "src": "p4",
+   "window": [
+    0.0,
+    6.56
+   ],
+   "match_target_db": -21.0,
+   "comment": "PLAIN (Guyzo) | SCREEN-ONLY: plain==hareesh_spoken (no-op) — spoken gloss would repeat the translation verbatim (P5 finding @1:16)",
+   "render": false
+  },
+  {
+   "id": "sw4",
+   "kind": "pause",
+   "dur": 1.6,
+   "tone": "room_baumer",
+   "comment": "VOICESWITCH Hareesh->Baumer (plain screen-only)"
+  },
+  {
+   "id": "b04",
+   "kind": "speech",
+   "speaker": "BAUMER",
+   "src": "b04",
+   "window": [
+    373.0,
+    408.0
+   ],
+   "match_target_db": -21.0,
+   "comment": "BAUMER answers Q4 — vat10-07 divinized senses radiate",
+   "reason": "widened head 375->373 for snap lead (unit 375-408 quote-verified; snap lands onset-lead into silence)"
+  },
+  {
+   "id": "land4",
+   "kind": "pause",
+   "dur": 0.6,
+   "tone": "room_baumer"
+  },
+  {
+   "id": "mark4",
+   "kind": "marker",
+   "src": "bell880",
+   "dur": 2.5
+  },
+  {
+   "id": "gap_m4",
+   "kind": "pause",
+   "dur": 0.8,
+   "tone": "digital"
+  },
+  {
+   "id": "q5",
+   "kind": "speech",
+   "speaker": "HUMAN",
+   "src": "q5",
+   "window": [
+    0.0,
+    2.51
+   ],
+   "match_target_db": -21.0,
+   "comment": "Q5 What is the fruit of realisation?"
+  },
+  {
+   "id": "recall5",
+   "kind": "pause",
+   "dur": 3.0,
+   "tone": "digital"
+  },
+  {
+   "id": "h05",
+   "kind": "speech",
+   "speaker": "HAREESH",
+   "src": "wallis",
+   "window": [
+    678.99,
+    694.36
+   ],
+   "match_target_db": -21.0,
+   "comment": "HAREESH reads sūtra 13 — Seal of great Wonder, Resonance of the Void",
+   "reason": "dual-reading H window: kept clean both edges (679.19 / 693.96)"
+  },
+  {
+   "id": "gap_h5",
+   "kind": "pause",
+   "dur": 1.0,
+   "tone": "room_wallis"
+  },
+  {
+   "id": "p5",
+   "kind": "speech",
+   "speaker": "PLAIN",
+   "src": "p5",
+   "window": [
+    0.0,
+    9.38
+   ],
+   "match_target_db": -21.0,
+   "comment": "PLAIN (Guyzo) | SCREEN-ONLY: plain==hareesh_spoken (no-op) — spoken gloss would repeat the translation verbatim (P5 finding @1:16)",
+   "render": false
+  },
+  {
+   "id": "sw5",
+   "kind": "pause",
+   "dur": 1.6,
+   "tone": "room_baumer",
+   "comment": "VOICESWITCH Hareesh->Baumer (plain screen-only)"
+  },
+  {
+   "id": "b05",
+   "kind": "speech",
+   "speaker": "BAUMER",
+   "src": "b05",
+   "window": [
+    829.0,
+    866.0
+   ],
+   "match_target_db": -21.0,
+   "comment": "BAUMER answers Q5 — vat13-06 all what I feel now, I was already feeling that",
+   "reason": "excavation unit vat13-06 (13:49 +37s), quote-verified; peak 0.0 in source — gain caps at -1.5"
+  },
+  {
+   "id": "land5",
+   "kind": "pause",
+   "dur": 0.6,
+   "tone": "room_baumer"
+  },
+  {
+   "id": "close_bell",
+   "kind": "sfx",
+   "src": "long_break_bell",
+   "match_target_db": -27.0,
+   "comment": "CLOSE — the spine piece ends on the long bell"
+  }
+ ]
+}

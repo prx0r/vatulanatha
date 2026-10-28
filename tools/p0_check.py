@@ -94,16 +94,28 @@ for r in tl:
         flags.append(f"EDGE {r['id']}: tail has content (chop end?)")
 
 # (3) invariants
+mode = sheet.get("mode", "standard")
 kinds = [(r["kind"], r.get("speaker"), r) for r in tl]
-for i, (k, sp, r) in enumerate(kinds):
-    if sp == "BAUMER":
+if mode == "essay0":
+    # essay0 grammar: every speech block must follow a pause or marker
+    for i, (k, sp, r) in enumerate(kinds):
+        if k != "speech":
+            continue
         prev = kinds[i - 1] if i else None
-        if not prev or prev[0] != "marker":
-            flags.append(f"INV {r['id']}: Baumer block not preceded by marker")
-    if sp == "HAREESH" and r["id"] != "intro" and r["id"] != "colo":
-        prev = kinds[i - 1] if i else None
-        if not prev or prev[0] != "pause":
-            flags.append(f"INV {r['id']}: Hareesh block not preceded by pause (voice switch air missing)")
+        if i == 0:
+            continue  # first speech may follow sfx open
+        if not prev or prev[0] not in ("pause", "marker"):
+            flags.append(f"INV {r['id']}: speech not preceded by pause/marker (got {prev[0] if prev else 'none'})")
+else:
+    for i, (k, sp, r) in enumerate(kinds):
+        if sp == "BAUMER":
+            prev = kinds[i - 1] if i else None
+            if not prev or prev[0] != "marker":
+                flags.append(f"INV {r['id']}: Baumer block not preceded by marker")
+        if sp == "HAREESH" and r["id"] != "intro" and r["id"] != "colo":
+            prev = kinds[i - 1] if i else None
+            if not prev or prev[0] != "pause":
+                flags.append(f"INV {r['id']}: Hareesh block not preceded by pause (voice switch air missing)")
 for r in tl:
     if r["kind"] == "pause":
         if not sil_cover(r["start"] + 0.03, r["end"] - 0.03, 0.85):

@@ -53,3 +53,34 @@ by verbatim.
   findings, not token, are the signal);
 - `vatula_full_dual_reading.mp3` (v3) — must PASS p0 + zero blocking after
   adjudication.
+
+---
+
+# ESSAY0 FULL V2 — RULING: `build/essay0/essay0_full_v2.mp3` = **DONE (by rule)** (2026-10-28)
+
+Evidence (251.25s, sheet==master):
+
+| gate | result |
+|---|---|
+| `p0_check` (essay0 mode) | **PASS** — order/edges/invariants, −18.2 LUFS, −1.7 dBTP |
+| whole-mix machine pass #1 | verdict FLOWS, 1 finding → adjudicated (below) |
+| whole-mix machine pass #2 | 9 findings → all adjudicated (below) → **2 consecutive passes, 0 blocking = convergence** |
+
+## Stack (v2, owner-directed 2026-10-28)
+Q (Narrator TTS, provisional HUMAN) → 3s recall → **HAREESH reads the sūtra**
+(archive windows from dual-reading manifest) → switch-air → **BAUMER answers**
+(A-grade unit) · section bells between cells · bowls open · long-bell close.
+Trusted wording = Hareesh spoken (`build/template_13.json`); plain =
+filter(hareesh) is **screen-only when a no-op** (spoken gloss would repeat the
+translation verbatim — pass-1 finding at 1:16, ruled design).
+
+## Findings ledger (essay0 v2)
+
+| finding | class | ruling |
+|---|---|---|
+| 1:16 "repetition of speaker audio" | design (no-op plain) | fixed: plain tiers render=false (screen-only); same shape as shiva-sutras layer-0 (no spoken gloss) |
+| "sudden silence" ×6 at regular intervals | by-design | = the 3s recall windows (12-QUESTION-DEPTH testing effect); never fix |
+| room/noise-floor jumps ×2 (opens) | inherent | TTS↔archive switches, room-color class (carried ruling, dual reading) |
+
+## Reproduce
+`python3 tools/sheet.py render build/essay0/production_sheet.json && python3 tools/p0_check.py build/essay0/production_sheet.json`

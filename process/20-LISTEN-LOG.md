@@ -147,3 +147,21 @@ Air/meter evolution (whole product):
 4. "two exemplars on purpose" → tool duplication = calibration, not drift.
 5. "never need to listen" → DONE rule (convergence + adjudication) replaced ear-as-gate.
 6. Final: **"how did u get the rhythm and handoffs so perfect"** → answered by §0+§1+§2 of this file.
+
+---
+
+## 4. Essay0 v2 listens (2026-10-28)
+
+### E1 — whole mix #1 (`essay0v2`, 282.6s pre-fix), gemini free, FLAW_PROMPT
+- `01:16 jarring repetition of the speaker's audio, indicating a post-production error` + **FLOWS**
+- Adjudication: 76s = inside `p2` (Guyzo plain) — plain == hareesh_spoken (honest
+  no-op) → Guyzo literally repeats Hareesh's sentence. Verbatim check of 72–83s
+  confirmed both utterances. **Fix: plain tiers render=false (screen-only).**
+  Rule logged in ESSAY0_STACK: when filter(T)==T the gloss IS the trusted
+  translation — it stays on screen, never spoken twice.
+
+### E2 — whole mix #2 (`essay0v2b`, 251.25s final), gemini free, FLAW_PROMPT
+- 9 findings: 7× "sudden silence" at regular intervals + 2× room/noise jumps at opens
+- Adjudication: silences = the 3s recall windows (by-design, 12-QUESTION-DEPTH
+  retrieval-cue mechanism) · room jumps = TTS↔archive inherent (carried class)
+- **Blocking = 0, second consecutive pass → convergence met.**
