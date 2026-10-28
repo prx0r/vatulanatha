@@ -156,3 +156,37 @@ compilation now has its spine piece audible.**
   but kept for body-beat reuse). Guyzo credits confirmed live.
 - Still owner-only: essay0_lock.json (lock = stack v2 + this artifact) ·
   Narrator-voice swap if wanted · decision queue §4 (essays A/B/C) unchanged.
+
+---
+
+# SESSION 2026-10-28 (later) — essay0 v2 iterated to owner ear + pushed
+
+**State: `build/essay0/essay0_full_v2.mp3` (3:57) = the audible spine piece,
+final voice layout locked by owner. Pushed with 5 commits.**
+
+- **Trust-order experiment, run and reversed:** built essay0 on Hareesh-spoken
+  tier (template_13) → owner heard it live → **"fuck Hareesh translation"** —
+  the answer to each question is the SŪTRA LITERAL. Reverted to the
+  pre-existing literal stack (seg*_beats + `plain_sutras_v1`, hash-pinned).
+  Template_13 stays in the repo as the standard-line artifact; custom cells
+  = literal only. Hareesh audio lives on in the dual reading, untouched.
+- **Final cell:** Q (Narrator) → 3s recall → PLAIN literal (Guyzo) → Baumer.
+  Screen = Sanskrit card + Kaul literal. Baumer loudest in every cell
+  (measured −17.1..−18.5 vs plain −18.6..−19.2).
+- **Owner-ear fix rounds (all measured):** 2 real cut-offs found+fixed against
+  SOURCE silence maps (b01 "of our true nature" starts AT cue 552 — window
+  end must sit in breath gap 554.99–555.93; b04 "the universe" ends ~408.3 —
+  transcript repeat-loop at 407+ is ASR junk). Clarity chain on Baumer
+  (de-box 220/410, +1.5@3k, +4 shelf 8k) + loudnorm −17/TP−1.5.
+- **TTS via Fish REST direct** (`POST /v1/tts`, `model: s2.1-pro-free` FREE
+  tier): MCP token died mid-session; REST key from audition/.env works.
+  5 literal takes `tts/lit{1,4,8,10,13}_p.mp3` + Narrator questions on disk.
+- **qwen-ear tooling** (`listen.py ask-qwen` + `LISTEN_MIX=<path>`): hyper-
+  specific probes (sound profiles, ms trims, pause measurement) are the
+  standing ear protocol now. Excerpt-edge rule mandatory in every prompt.
+- **ffmpeg gotchas logged in20:** acompressor threshold LINEAR (0–1) in this
+  build · filter chains join ',' not ':' · explicit `gain_db` overrides
+  `match_target_db` · loudnorm on sparse/reverberant material beats
+  compressor+gain for integrated parity.
+- Next: owner listen → `essay0_lock.json` (lock = this artifact, literal
+  stack) → A render with these openers.
