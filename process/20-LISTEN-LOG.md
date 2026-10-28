@@ -204,3 +204,19 @@ surgical: sound-profile decode, junction ms-trim calls, pause measurement.
    in the sound-profile pass) — room-color ruling so far = accepted inherent
 3. Bridge bell or ambient crossfade at H→B junctions (qwen's top
    whole-mix suggestion) — overlaps movie jolt grammar; owner call
+
+### Owner ear round (2026-10-28) — 2 cuts + volume/clarity
+Owner heard Baumer cut off twice; volume low; voice unclear. Source-audio
+forensics (silencedetect + qwen verbatim on SOURCE regions):
+- b01: end552 chopped "of our true nature" (phrase starts AT 552) → end557
+  caught "and of course in the whole—" fragment → **true edge = breath gap
+  554.99–555.93, final end555.4** ✓ CLEAN verified
+- b04: transcript repeat-loop at 407+ is ASR junk; real sentence ends ~408.3;
+  end406.5 cut "the universe" → **end408.6** ✓ CLEAN verified
+- b02 head drift includes her rhetorical "What is important?" — complete
+  sentence, kept (improves the clip)
+- b03/b05 verified CLEAN
+- Volume+clarity (owner-sanctioned EQ): Baumer target −21→−19.5, chain =
+  eq 220Hz −3 / 410Hz −2 / 1.2k −1 / highshelf 8k +3 (sheet.py per-block `eq`)
+- Lesson: transcript cue times lie near ASR-garbled spans — **source
+  silencedetect is the authority for window ends** (18 rule upgrade)

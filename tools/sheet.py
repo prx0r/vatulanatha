@@ -186,8 +186,11 @@ def render(sheet_path):
             else:
                 g = gain_for(ppath, blk.get("match_target_db", speech_target))
             # 60ms edge fades on the room pad: no hiss-step at bell/head joins
+            # optional per-block "eq" (ffmpeg filter chain) for tone surgery
             df = ffprobe(ppath)
-            af = (f"volume={g:.2f}dB,afade=t=in:d=0.06,"
+            eq = blk.get("eq", "")
+            af = (f"volume={g:.2f}dB" + (f",{eq}" if eq else "") + ","
+                  f"afade=t=in:d=0.06,"
                   f"afade=t=out:st={max(0.0, df - 0.07):.3f}:d=0.06")
             sh(["ffmpeg", "-y", "-v", "error", "-i", ppath, "-af", af,
                 "-ar", "44100", "-ac", "2", "-c:a", "pcm_s16le", ppath + ".g.wav"])

@@ -202,13 +202,14 @@
    "src": "b01",
    "window": [
     526.0,
-    552.0
+    555.4
    ],
-   "match_target_db": -21.0,
-   "comment": "BAUMER answers Q1 — attainment means to become… the unfoldment of our true being",
-   "reason": "G12-verified gold-dust window (526-552), sentence-complete both edges | qwen-ear 2026-10-28: +100ms lead (orphan-breath/click margin), +50ms tail",
+   "match_target_db": -19.5,
+   "comment": "BAUMER answers Q1 — attainment means to become… the unfoldment of our true being | owner: raise + clarity (de-box 220/410, -1.2k, +3dB shelf 8k)",
+   "reason": "G12-verified gold-dust window (526-552), sentence-complete both edges | qwen-ear 2026-10-28: +100ms lead (orphan-breath/click margin), +50ms tail | window end552->557: owner-ear cut — \"of our true nature\" STARTS at 552 (transcript cue); payoff phrase was chopped. end before \"and of course\" ~558 | v3: end557->555.4 — cut inside the 0.94s breath after \"true nature\" (source silence 554.99-555.93), drops severed \"and of course in the whole\" fragment",
    "lead": 0.4,
-   "tail": 0.35
+   "tail": 0.35,
+   "eq": "equalizer=f=220:t=q:w=1.4:g=-3,equalizer=f=410:t=q:w=1.6:g=-2,equalizer=f=1200:t=q:w=2:g=-1,highshelf=f=8000:g=3"
   },
   {
    "id": "land1",
@@ -294,13 +295,14 @@
    "src": "b02",
    "window": [
     299.0,
-    314.0
+    313.5
    ],
-   "match_target_db": -21.0,
-   "comment": "BAUMER answers Q2 — vat4-03 co-presence",
-   "reason": "excavation unit vat4-03 (4:59 +15s), quote-verified sentence edges | qwen-ear 2026-10-28: +100ms lead (orphan-breath/click margin), +50ms tail",
+   "match_target_db": -19.5,
+   "comment": "BAUMER answers Q2 — vat4-03 co-presence | owner: raise + clarity (de-box 220/410, -1.2k, +3dB shelf 8k)",
+   "reason": "excavation unit vat4-03 (4:59 +15s), quote-verified sentence edges | qwen-ear 2026-10-28: +100ms lead (orphan-breath/click margin), +50ms tail | end314->313.5: stop after \"object of experience\", before \"Or else\" onset (owner-ear pass: tighten all ends at next-thought onsets)",
    "lead": 0.4,
-   "tail": 0.35
+   "tail": 0.35,
+   "eq": "equalizer=f=220:t=q:w=1.4:g=-3,equalizer=f=410:t=q:w=1.6:g=-2,equalizer=f=1200:t=q:w=2:g=-1,highshelf=f=8000:g=3"
   },
   {
    "id": "land2",
@@ -385,13 +387,14 @@
    "src": "b03",
    "window": [
     52.0,
-    68.0
+    67.0
    ],
-   "match_target_db": -21.0,
-   "comment": "BAUMER answers Q3 — vat8-01 inner inspirational impulse",
-   "reason": "excavation unit vat8-01 (0:52 +16s), quote-verified | qwen-ear 2026-10-28: +100ms lead (orphan-breath/click margin), +50ms tail",
+   "match_target_db": -19.5,
+   "comment": "BAUMER answers Q3 — vat8-01 inner inspirational impulse | owner: raise + clarity (de-box 220/410, -1.2k, +3dB shelf 8k)",
+   "reason": "excavation unit vat8-01 (0:52 +16s), quote-verified | qwen-ear 2026-10-28: +100ms lead (orphan-breath/click margin), +50ms tail | end68->67: after \"spirituality of Trika.\", before \"And this threefold\" onset",
    "lead": 0.4,
-   "tail": 0.35
+   "tail": 0.35,
+   "eq": "equalizer=f=220:t=q:w=1.4:g=-3,equalizer=f=410:t=q:w=1.6:g=-2,equalizer=f=1200:t=q:w=2:g=-1,highshelf=f=8000:g=3"
   },
   {
    "id": "land3",
@@ -476,13 +479,14 @@
    "src": "b04",
    "window": [
     373.0,
-    408.0
+    408.6
    ],
-   "match_target_db": -21.0,
-   "comment": "BAUMER answers Q4 — vat10-07 divinized senses radiate",
-   "reason": "widened head 375->373 for snap lead (unit 375-408 quote-verified; snap lands onset-lead into silence) | qwen-ear 2026-10-28: +100ms lead (orphan-breath/click margin), +50ms tail",
+   "match_target_db": -19.5,
+   "comment": "BAUMER answers Q4 — vat10-07 divinized senses radiate | owner: raise + clarity (de-box 220/410, -1.2k, +3dB shelf 8k)",
+   "reason": "widened head 375->373 for snap lead (unit 375-408 quote-verified; snap lands onset-lead into silence) | qwen-ear 2026-10-28: +100ms lead (orphan-breath/click margin), +50ms tail | end408->406.5: owner-ear cut — window ran into ASR repeat-loop junk at 407+ (\"but his divinized senses\" ×5); end after \"universe.\" | v3: end406.5->408.6 — \"the universe\" WAS cut; true speech ends ~408.3 (source silence 408.3-409.4); transcript repeat-loop at 407+ is ASR junk, audio is clean",
    "lead": 0.4,
-   "tail": 0.35
+   "tail": 0.35,
+   "eq": "equalizer=f=220:t=q:w=1.4:g=-3,equalizer=f=410:t=q:w=1.6:g=-2,equalizer=f=1200:t=q:w=2:g=-1,highshelf=f=8000:g=3"
   },
   {
    "id": "land4",
@@ -567,13 +571,14 @@
    "src": "b05",
    "window": [
     829.0,
-    866.0
+    865.5
    ],
-   "match_target_db": -21.0,
-   "comment": "BAUMER answers Q5 — vat13-06 all what I feel now, I was already feeling that",
-   "reason": "excavation unit vat13-06 (13:49 +37s), quote-verified; peak 0.0 in source — gain caps at -1.5 | qwen-ear 2026-10-28: +100ms lead (orphan-breath/click margin), +50ms tail",
+   "match_target_db": -19.5,
+   "comment": "BAUMER answers Q5 — vat13-06 all what I feel now, I was already feeling that | owner: raise + clarity (de-box 220/410, -1.2k, +3dB shelf 8k)",
+   "reason": "excavation unit vat13-06 (13:49 +37s), quote-verified; peak 0.0 in source — gain caps at -1.5 | qwen-ear 2026-10-28: +100ms lead (orphan-breath/click margin), +50ms tail | end866->865.5: after \"with astonishment.\", before \"There remains\" onset",
    "lead": 0.4,
-   "tail": 0.35
+   "tail": 0.35,
+   "eq": "equalizer=f=220:t=q:w=1.4:g=-3,equalizer=f=410:t=q:w=1.6:g=-2,equalizer=f=1200:t=q:w=2:g=-1,highshelf=f=8000:g=3"
   },
   {
    "id": "land5",
