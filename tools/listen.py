@@ -25,7 +25,7 @@ warnings.filterwarnings("ignore")
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 ENV = "/home/box/.config/powpowpow/r2.env"
 AENV = "/home/box/repos/characters/audition/.env"
-MIX = os.path.join(ROOT, "build/dual_reading/vatula_full_dual_reading.mp3")
+MIX = os.environ.get("LISTEN_MIX") or os.path.join(ROOT, "build/dual_reading/vatula_full_dual_reading.mp3")
 CLIPS = "/tmp/opencode/listen"
 MODEL = "qwen3.8-omni-flash"
 
@@ -49,14 +49,14 @@ def env(path):
     return out
 
 
-def ask(name, question):
+def ask(name, question, force_qwen=False):
     a = env(AENV)
     clip = os.path.join(CLIPS, f"{name}.mp3")
     b64 = base64.b64encode(open(clip, "rb").read()).decode()
     q = question or FLAW_PROMPT
     # provider 1: Gemini free tier ($0) — cheapest, key in audition/.env
     gkey = a.get("GEMINI_API_KEY", "").strip()
-    if gkey:
+    if gkey and not force_qwen:
         for gmodel in ("gemini-3.1-flash-lite", "gemini-2.5-flash-lite"):
             payload = {"contents": [{"parts": [
                 {"inline_data": {"mime_type": "audio/mpeg", "data": b64}},
@@ -71,9 +71,10 @@ def ask(name, question):
                 return out["candidates"][0]["content"]["parts"][0]["text"]
             except Exception as ex:
                 print(f"[listen] gemini {gmodel} failed: {ex}; trying next", file=sys.stderr)
-    # provider 2: qwen omni on the Alibaba gateway (fallback, ~$0.0005/pass)
+    # provider 2: qwen omni on the Alibaba gateway (fallback, ~$0.0005/pass;
+    # force_qwen=True skips gemini — use for hyper-specific ear probes)
     payload = {"model": MODEL, "modalities": ["text"],
-               "reasoning_effort": a.get("LISTEN_THINK", "low"),
+               "reasoning_effort": a.get("LISTEN_THINK", "low" if not force_qwen else "medium"),
                "messages": [{"role": "user", "content": [
                    {"type": "input_audio",
                     "input_audio": {"data": "data:audio/mpeg;base64," + b64, "format": "mp3"}},
@@ -107,6 +108,9 @@ def main():
     elif cmd == "ask":
         q = sys.argv[3] if len(sys.argv) > 3 else None
         print(ask(sys.argv[2], q))
+    elif cmd == "ask-qwen":
+        q = sys.argv[3] if len(sys.argv) > 3 else None
+        print(ask(sys.argv[2], q, force_qwen=True))
     elif cmd == "whole":
         dst = os.path.join(CLIPS, "whole.mp3")
         subprocess.run(["ffmpeg", "-y", "-v", "error", "-i", MIX,

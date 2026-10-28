@@ -165,7 +165,8 @@
    ],
    "match_target_db": -21.0,
    "comment": "HAREESH reads sūtra 1 — through the activity of the great spontaneous immediacy one discovers one's true nature",
-   "reason": "dual-reading H window: 0.3 lead (speech 493.31), 0.3 tail (speech ends 502.22)"
+   "reason": "dual-reading H window: 0.3 lead (speech 493.31), 0.3 tail (speech ends 502.22) | qwen-ear: +50ms lead (pre-onset micro-transient margin)",
+   "lead": 0.35
   },
   {
    "id": "gap_h1",
@@ -205,7 +206,9 @@
    ],
    "match_target_db": -21.0,
    "comment": "BAUMER answers Q1 — attainment means to become… the unfoldment of our true being",
-   "reason": "G12-verified gold-dust window (526-552), sentence-complete both edges"
+   "reason": "G12-verified gold-dust window (526-552), sentence-complete both edges | qwen-ear 2026-10-28: +100ms lead (orphan-breath/click margin), +50ms tail",
+   "lead": 0.4,
+   "tail": 0.35
   },
   {
    "id": "land1",
@@ -255,7 +258,8 @@
    ],
    "match_target_db": -21.0,
    "comment": "HAREESH reads sūtra 4 — devouring the pair, abiding in continuous occasionless consciousness",
-   "reason": "dual-reading H window: clean both edges (538.92 / word ends ~546.6)"
+   "reason": "dual-reading H window: clean both edges (538.92 / word ends ~546.6) | qwen-ear: +50ms lead (pre-onset micro-transient margin)",
+   "lead": 0.35
   },
   {
    "id": "gap_h2",
@@ -294,7 +298,9 @@
    ],
    "match_target_db": -21.0,
    "comment": "BAUMER answers Q2 — vat4-03 co-presence",
-   "reason": "excavation unit vat4-03 (4:59 +15s), quote-verified sentence edges"
+   "reason": "excavation unit vat4-03 (4:59 +15s), quote-verified sentence edges | qwen-ear 2026-10-28: +100ms lead (orphan-breath/click margin), +50ms tail",
+   "lead": 0.4,
+   "tail": 0.35
   },
   {
    "id": "land2",
@@ -343,7 +349,8 @@
    ],
    "match_target_db": -21.0,
    "comment": "HAREESH reads sūtra 8 — savoring the three flavors, surges up spontaneously",
-   "reason": "dual-reading H window: MID-WORD fix (v1 cut inside spontaneously); end 612.25, word ends 611.62"
+   "reason": "dual-reading H window: MID-WORD fix (v1 cut inside spontaneously); end 612.25, word ends 611.62 | qwen-ear: +50ms lead (pre-onset micro-transient margin)",
+   "lead": 0.35
   },
   {
    "id": "gap_h3",
@@ -382,7 +389,9 @@
    ],
    "match_target_db": -21.0,
    "comment": "BAUMER answers Q3 — vat8-01 inner inspirational impulse",
-   "reason": "excavation unit vat8-01 (0:52 +16s), quote-verified"
+   "reason": "excavation unit vat8-01 (0:52 +16s), quote-verified | qwen-ear 2026-10-28: +100ms lead (orphan-breath/click margin), +50ms tail",
+   "lead": 0.4,
+   "tail": 0.35
   },
   {
    "id": "land3",
@@ -431,7 +440,8 @@
    ],
    "match_target_db": -21.0,
    "comment": "HAREESH reads sūtra 10 — expansion of the great rays of consciousness",
-   "reason": "dual-reading H window: 0.3 lead (speech 636.6), 0.1 margin after 'consciousness' (speech ends 645.1)"
+   "reason": "dual-reading H window: 0.3 lead (speech 636.6), 0.1 margin after 'consciousness' (speech ends 645.1) | qwen-ear: +50ms lead (pre-onset micro-transient margin)",
+   "lead": 0.35
   },
   {
    "id": "gap_h4",
@@ -470,7 +480,9 @@
    ],
    "match_target_db": -21.0,
    "comment": "BAUMER answers Q4 — vat10-07 divinized senses radiate",
-   "reason": "widened head 375->373 for snap lead (unit 375-408 quote-verified; snap lands onset-lead into silence)"
+   "reason": "widened head 375->373 for snap lead (unit 375-408 quote-verified; snap lands onset-lead into silence) | qwen-ear 2026-10-28: +100ms lead (orphan-breath/click margin), +50ms tail",
+   "lead": 0.4,
+   "tail": 0.35
   },
   {
    "id": "land4",
@@ -519,7 +531,8 @@
    ],
    "match_target_db": -21.0,
    "comment": "HAREESH reads sūtra 13 — Seal of great Wonder, Resonance of the Void",
-   "reason": "dual-reading H window: kept clean both edges (679.19 / 693.96)"
+   "reason": "dual-reading H window: kept clean both edges (679.19 / 693.96) | qwen-ear: +50ms lead (pre-onset micro-transient margin)",
+   "lead": 0.35
   },
   {
    "id": "gap_h5",
@@ -558,7 +571,9 @@
    ],
    "match_target_db": -21.0,
    "comment": "BAUMER answers Q5 — vat13-06 all what I feel now, I was already feeling that",
-   "reason": "excavation unit vat13-06 (13:49 +37s), quote-verified; peak 0.0 in source — gain caps at -1.5"
+   "reason": "excavation unit vat13-06 (13:49 +37s), quote-verified; peak 0.0 in source — gain caps at -1.5 | qwen-ear 2026-10-28: +100ms lead (orphan-breath/click margin), +50ms tail",
+   "lead": 0.4,
+   "tail": 0.35
   },
   {
    "id": "land5",

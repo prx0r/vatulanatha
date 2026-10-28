@@ -165,7 +165,8 @@
    ],
    "match_target_db": -21.0,
    "comment": "HAREESH reads s\u016btra 1 \u2014 through the activity of the great spontaneous immediacy one discovers one's true nature",
-   "reason": "dual-reading H window: 0.3 lead (speech 493.31), 0.3 tail (speech ends 502.22)"
+   "reason": "dual-reading H window: 0.3 lead (speech 493.31), 0.3 tail (speech ends 502.22) | qwen-ear: +50ms lead (pre-onset micro-transient margin)",
+   "lead": 0.35
   },
   {
    "id": "gap_h1",
@@ -205,7 +206,9 @@
    ],
    "match_target_db": -21.0,
    "comment": "BAUMER answers Q1 \u2014 attainment means to become\u2026 the unfoldment of our true being",
-   "reason": "G12-verified gold-dust window (526-552), sentence-complete both edges"
+   "reason": "G12-verified gold-dust window (526-552), sentence-complete both edges | qwen-ear 2026-10-28: +100ms lead (orphan-breath/click margin), +50ms tail",
+   "lead": 0.4,
+   "tail": 0.35
   },
   {
    "id": "land1",
@@ -255,7 +258,8 @@
    ],
    "match_target_db": -21.0,
    "comment": "HAREESH reads s\u016btra 4 \u2014 devouring the pair, abiding in continuous occasionless consciousness",
-   "reason": "dual-reading H window: clean both edges (538.92 / word ends ~546.6)"
+   "reason": "dual-reading H window: clean both edges (538.92 / word ends ~546.6) | qwen-ear: +50ms lead (pre-onset micro-transient margin)",
+   "lead": 0.35
   },
   {
    "id": "gap_h2",
@@ -294,7 +298,9 @@
    ],
    "match_target_db": -21.0,
    "comment": "BAUMER answers Q2 \u2014 vat4-03 co-presence",
-   "reason": "excavation unit vat4-03 (4:59 +15s), quote-verified sentence edges"
+   "reason": "excavation unit vat4-03 (4:59 +15s), quote-verified sentence edges | qwen-ear 2026-10-28: +100ms lead (orphan-breath/click margin), +50ms tail",
+   "lead": 0.4,
+   "tail": 0.35
   },
   {
    "id": "land2",
@@ -343,7 +349,8 @@
    ],
    "match_target_db": -21.0,
    "comment": "HAREESH reads s\u016btra 8 \u2014 savoring the three flavors, surges up spontaneously",
-   "reason": "dual-reading H window: MID-WORD fix (v1 cut inside spontaneously); end 612.25, word ends 611.62"
+   "reason": "dual-reading H window: MID-WORD fix (v1 cut inside spontaneously); end 612.25, word ends 611.62 | qwen-ear: +50ms lead (pre-onset micro-transient margin)",
+   "lead": 0.35
   },
   {
    "id": "gap_h3",
@@ -382,7 +389,9 @@
    ],
    "match_target_db": -21.0,
    "comment": "BAUMER answers Q3 \u2014 vat8-01 inner inspirational impulse",
-   "reason": "excavation unit vat8-01 (0:52 +16s), quote-verified"
+   "reason": "excavation unit vat8-01 (0:52 +16s), quote-verified | qwen-ear 2026-10-28: +100ms lead (orphan-breath/click margin), +50ms tail",
+   "lead": 0.4,
+   "tail": 0.35
   },
   {
    "id": "land3",
@@ -431,7 +440,8 @@
    ],
    "match_target_db": -21.0,
    "comment": "HAREESH reads s\u016btra 10 \u2014 expansion of the great rays of consciousness",
-   "reason": "dual-reading H window: 0.3 lead (speech 636.6), 0.1 margin after 'consciousness' (speech ends 645.1)"
+   "reason": "dual-reading H window: 0.3 lead (speech 636.6), 0.1 margin after 'consciousness' (speech ends 645.1) | qwen-ear: +50ms lead (pre-onset micro-transient margin)",
+   "lead": 0.35
   },
   {
    "id": "gap_h4",
@@ -470,7 +480,9 @@
    ],
    "match_target_db": -21.0,
    "comment": "BAUMER answers Q4 \u2014 vat10-07 divinized senses radiate",
-   "reason": "widened head 375->373 for snap lead (unit 375-408 quote-verified; snap lands onset-lead into silence)"
+   "reason": "widened head 375->373 for snap lead (unit 375-408 quote-verified; snap lands onset-lead into silence) | qwen-ear 2026-10-28: +100ms lead (orphan-breath/click margin), +50ms tail",
+   "lead": 0.4,
+   "tail": 0.35
   },
   {
    "id": "land4",
@@ -519,7 +531,8 @@
    ],
    "match_target_db": -21.0,
    "comment": "HAREESH reads s\u016btra 13 \u2014 Seal of great Wonder, Resonance of the Void",
-   "reason": "dual-reading H window: kept clean both edges (679.19 / 693.96)"
+   "reason": "dual-reading H window: kept clean both edges (679.19 / 693.96) | qwen-ear: +50ms lead (pre-onset micro-transient margin)",
+   "lead": 0.35
   },
   {
    "id": "gap_h5",
@@ -558,7 +571,9 @@
    ],
    "match_target_db": -21.0,
    "comment": "BAUMER answers Q5 \u2014 vat13-06 all what I feel now, I was already feeling that",
-   "reason": "excavation unit vat13-06 (13:49 +37s), quote-verified; peak 0.0 in source \u2014 gain caps at -1.5"
+   "reason": "excavation unit vat13-06 (13:49 +37s), quote-verified; peak 0.0 in source \u2014 gain caps at -1.5 | qwen-ear 2026-10-28: +100ms lead (orphan-breath/click margin), +50ms tail",
+   "lead": 0.4,
+   "tail": 0.35
   },
   {
    "id": "land5",
@@ -628,8 +643,8 @@
    "comment": "HAREESH reads s\u016btra 1 \u2014 through the activity of the great spontaneous immediacy one discovers one's true nature",
    "dur_expected": null,
    "start": 13.988,
-   "end": 23.42,
-   "dur": 9.432
+   "end": 23.47,
+   "dur": 9.482
   },
   {
    "id": "gap_h1",
@@ -638,8 +653,8 @@
    "file": "gap_h1.wav",
    "comment": "land before plain",
    "dur_expected": 1.0,
-   "start": 23.42,
-   "end": 24.42,
+   "start": 23.47,
+   "end": 24.47,
    "dur": 1.0
   },
   {
@@ -649,8 +664,8 @@
    "file": "sw1.wav",
    "comment": "VOICESWITCH Hareesh->Baumer (plain screen-only)",
    "dur_expected": 1.6,
-   "start": 24.42,
-   "end": 26.02,
+   "start": 24.47,
+   "end": 26.07,
    "dur": 1.6
   },
   {
@@ -660,9 +675,9 @@
    "file": "b01.wav",
    "comment": "BAUMER answers Q1 \u2014 attainment means to become\u2026 the unfoldment of our true being",
    "dur_expected": null,
-   "start": 26.02,
-   "end": 52.884,
-   "dur": 26.864
+   "start": 26.07,
+   "end": 53.084,
+   "dur": 27.014
   },
   {
    "id": "land1",
@@ -671,8 +686,8 @@
    "file": "land1.wav",
    "comment": "",
    "dur_expected": 0.6,
-   "start": 52.884,
-   "end": 53.484,
+   "start": 53.084,
+   "end": 53.684,
    "dur": 0.6
   },
   {
@@ -682,8 +697,8 @@
    "file": "mark1.wav",
    "comment": "section bell \u2014 Q2 approaches",
    "dur_expected": 2.5,
-   "start": 53.484,
-   "end": 55.984,
+   "start": 53.684,
+   "end": 56.184,
    "dur": 2.5
   },
   {
@@ -693,8 +708,8 @@
    "file": "gap_m1.wav",
    "comment": "",
    "dur_expected": 0.8,
-   "start": 55.984,
-   "end": 56.784,
+   "start": 56.184,
+   "end": 56.984,
    "dur": 0.8
   },
   {
@@ -704,8 +719,8 @@
    "file": "q2.wav",
    "comment": "Q2 What is the self?",
    "dur_expected": null,
-   "start": 56.784,
-   "end": 58.007,
+   "start": 56.984,
+   "end": 58.207,
    "dur": 1.223
   },
   {
@@ -715,8 +730,8 @@
    "file": "recall2.wav",
    "comment": "",
    "dur_expected": 3.0,
-   "start": 58.007,
-   "end": 61.007,
+   "start": 58.207,
+   "end": 61.207,
    "dur": 3.0
   },
   {
@@ -726,9 +741,9 @@
    "file": "h02.wav",
    "comment": "HAREESH reads s\u016btra 4 \u2014 devouring the pair, abiding in continuous occasionless consciousness",
    "dur_expected": null,
-   "start": 61.007,
-   "end": 69.58,
-   "dur": 8.573
+   "start": 61.207,
+   "end": 69.83,
+   "dur": 8.623
   },
   {
    "id": "gap_h2",
@@ -737,8 +752,8 @@
    "file": "gap_h2.wav",
    "comment": "",
    "dur_expected": 1.0,
-   "start": 69.58,
-   "end": 70.58,
+   "start": 69.83,
+   "end": 70.83,
    "dur": 1.0
   },
   {
@@ -748,8 +763,8 @@
    "file": "sw2.wav",
    "comment": "VOICESWITCH Hareesh->Baumer (plain screen-only)",
    "dur_expected": 1.6,
-   "start": 70.58,
-   "end": 72.18,
+   "start": 70.83,
+   "end": 72.43,
    "dur": 1.6
   },
   {
@@ -759,9 +774,9 @@
    "file": "b02.wav",
    "comment": "BAUMER answers Q2 \u2014 vat4-03 co-presence",
    "dur_expected": null,
-   "start": 72.18,
-   "end": 87.974,
-   "dur": 15.794
+   "start": 72.43,
+   "end": 88.374,
+   "dur": 15.944
   },
   {
    "id": "land2",
@@ -770,8 +785,8 @@
    "file": "land2.wav",
    "comment": "",
    "dur_expected": 0.6,
-   "start": 87.974,
-   "end": 88.574,
+   "start": 88.374,
+   "end": 88.974,
    "dur": 0.6
   },
   {
@@ -781,8 +796,8 @@
    "file": "mark2.wav",
    "comment": "",
    "dur_expected": 2.5,
-   "start": 88.574,
-   "end": 91.074,
+   "start": 88.974,
+   "end": 91.474,
    "dur": 2.5
   },
   {
@@ -792,8 +807,8 @@
    "file": "gap_m2.wav",
    "comment": "",
    "dur_expected": 0.8,
-   "start": 91.074,
-   "end": 91.874,
+   "start": 91.474,
+   "end": 92.274,
    "dur": 0.8
   },
   {
@@ -803,8 +818,8 @@
    "file": "q3.wav",
    "comment": "Q3 How does realisation happen?",
    "dur_expected": null,
-   "start": 91.874,
-   "end": 93.695,
+   "start": 92.274,
+   "end": 94.095,
    "dur": 1.821
   },
   {
@@ -814,8 +829,8 @@
    "file": "recall3.wav",
    "comment": "",
    "dur_expected": 3.0,
-   "start": 93.695,
-   "end": 96.695,
+   "start": 94.095,
+   "end": 97.095,
    "dur": 3.0
   },
   {
@@ -825,9 +840,9 @@
    "file": "h03.wav",
    "comment": "HAREESH reads s\u016btra 8 \u2014 savoring the three flavors, surges up spontaneously",
    "dur_expected": null,
-   "start": 96.695,
-   "end": 106.967,
-   "dur": 10.272
+   "start": 97.095,
+   "end": 107.417,
+   "dur": 10.322
   },
   {
    "id": "gap_h3",
@@ -836,8 +851,8 @@
    "file": "gap_h3.wav",
    "comment": "",
    "dur_expected": 1.0,
-   "start": 106.967,
-   "end": 107.967,
+   "start": 107.417,
+   "end": 108.417,
    "dur": 1.0
   },
   {
@@ -847,8 +862,8 @@
    "file": "sw3.wav",
    "comment": "VOICESWITCH Hareesh->Baumer (plain screen-only)",
    "dur_expected": 1.6,
-   "start": 107.967,
-   "end": 109.567,
+   "start": 108.417,
+   "end": 110.017,
    "dur": 1.6
   },
   {
@@ -858,9 +873,9 @@
    "file": "b03.wav",
    "comment": "BAUMER answers Q3 \u2014 vat8-01 inner inspirational impulse",
    "dur_expected": null,
-   "start": 109.567,
-   "end": 126.312,
-   "dur": 16.745
+   "start": 110.017,
+   "end": 126.812,
+   "dur": 16.795
   },
   {
    "id": "land3",
@@ -869,8 +884,8 @@
    "file": "land3.wav",
    "comment": "",
    "dur_expected": 0.6,
-   "start": 126.312,
-   "end": 126.912,
+   "start": 126.812,
+   "end": 127.412,
    "dur": 0.6
   },
   {
@@ -880,8 +895,8 @@
    "file": "mark3.wav",
    "comment": "",
    "dur_expected": 2.5,
-   "start": 126.912,
-   "end": 129.412,
+   "start": 127.412,
+   "end": 129.912,
    "dur": 2.5
   },
   {
@@ -891,8 +906,8 @@
    "file": "gap_m3.wav",
    "comment": "",
    "dur_expected": 0.8,
-   "start": 129.412,
-   "end": 130.212,
+   "start": 129.912,
+   "end": 130.712,
    "dur": 0.8
   },
   {
@@ -902,8 +917,8 @@
    "file": "q4.wav",
    "comment": "Q4 What does realisation do to experience?",
    "dur_expected": null,
-   "start": 130.212,
-   "end": 133.0,
+   "start": 130.712,
+   "end": 133.5,
    "dur": 2.788
   },
   {
@@ -913,8 +928,8 @@
    "file": "recall4.wav",
    "comment": "",
    "dur_expected": 3.0,
-   "start": 133.0,
-   "end": 136.0,
+   "start": 133.5,
+   "end": 136.5,
    "dur": 3.0
   },
   {
@@ -924,9 +939,9 @@
    "file": "h04.wav",
    "comment": "HAREESH reads s\u016btra 10 \u2014 expansion of the great rays of consciousness",
    "dur_expected": null,
-   "start": 136.0,
-   "end": 144.85,
-   "dur": 8.85
+   "start": 136.5,
+   "end": 145.4,
+   "dur": 8.9
   },
   {
    "id": "gap_h4",
@@ -935,8 +950,8 @@
    "file": "gap_h4.wav",
    "comment": "",
    "dur_expected": 1.0,
-   "start": 144.85,
-   "end": 145.85,
+   "start": 145.4,
+   "end": 146.4,
    "dur": 1.0
   },
   {
@@ -946,8 +961,8 @@
    "file": "sw4.wav",
    "comment": "VOICESWITCH Hareesh->Baumer (plain screen-only)",
    "dur_expected": 1.6,
-   "start": 145.85,
-   "end": 147.45,
+   "start": 146.4,
+   "end": 148.0,
    "dur": 1.6
   },
   {
@@ -957,9 +972,9 @@
    "file": "b04.wav",
    "comment": "BAUMER answers Q4 \u2014 vat10-07 divinized senses radiate",
    "dur_expected": null,
-   "start": 147.45,
-   "end": 183.456,
-   "dur": 36.006
+   "start": 148.0,
+   "end": 184.156,
+   "dur": 36.156
   },
   {
    "id": "land4",
@@ -968,8 +983,8 @@
    "file": "land4.wav",
    "comment": "",
    "dur_expected": 0.6,
-   "start": 183.456,
-   "end": 184.056,
+   "start": 184.156,
+   "end": 184.756,
    "dur": 0.6
   },
   {
@@ -979,8 +994,8 @@
    "file": "mark4.wav",
    "comment": "",
    "dur_expected": 2.5,
-   "start": 184.056,
-   "end": 186.556,
+   "start": 184.756,
+   "end": 187.256,
    "dur": 2.5
   },
   {
@@ -990,8 +1005,8 @@
    "file": "gap_m4.wav",
    "comment": "",
    "dur_expected": 0.8,
-   "start": 186.556,
-   "end": 187.356,
+   "start": 187.256,
+   "end": 188.056,
    "dur": 0.8
   },
   {
@@ -1001,8 +1016,8 @@
    "file": "q5.wav",
    "comment": "Q5 What is the fruit of realisation?",
    "dur_expected": null,
-   "start": 187.356,
-   "end": 189.501,
+   "start": 188.056,
+   "end": 190.201,
    "dur": 2.145
   },
   {
@@ -1012,8 +1027,8 @@
    "file": "recall5.wav",
    "comment": "",
    "dur_expected": 3.0,
-   "start": 189.501,
-   "end": 192.501,
+   "start": 190.201,
+   "end": 193.201,
    "dur": 3.0
   },
   {
@@ -1023,9 +1038,9 @@
    "file": "h05.wav",
    "comment": "HAREESH reads s\u016btra 13 \u2014 Seal of great Wonder, Resonance of the Void",
    "dur_expected": null,
-   "start": 192.501,
-   "end": 207.791,
-   "dur": 15.29
+   "start": 193.201,
+   "end": 208.541,
+   "dur": 15.34
   },
   {
    "id": "gap_h5",
@@ -1034,8 +1049,8 @@
    "file": "gap_h5.wav",
    "comment": "",
    "dur_expected": 1.0,
-   "start": 207.791,
-   "end": 208.791,
+   "start": 208.541,
+   "end": 209.541,
    "dur": 1.0
   },
   {
@@ -1045,8 +1060,8 @@
    "file": "sw5.wav",
    "comment": "VOICESWITCH Hareesh->Baumer (plain screen-only)",
    "dur_expected": 1.6,
-   "start": 208.791,
-   "end": 210.391,
+   "start": 209.541,
+   "end": 211.141,
    "dur": 1.6
   },
   {
@@ -1056,9 +1071,9 @@
    "file": "b05.wav",
    "comment": "BAUMER answers Q5 \u2014 vat13-06 all what I feel now, I was already feeling that",
    "dur_expected": null,
-   "start": 210.391,
-   "end": 245.914,
-   "dur": 35.523
+   "start": 211.141,
+   "end": 246.814,
+   "dur": 35.673
   },
   {
    "id": "land5",
@@ -1067,8 +1082,8 @@
    "file": "land5.wav",
    "comment": "",
    "dur_expected": 0.6,
-   "start": 245.914,
-   "end": 246.514,
+   "start": 246.814,
+   "end": 247.414,
    "dur": 0.6
   },
   {
@@ -1078,8 +1093,8 @@
    "file": "close_bell.wav",
    "comment": "CLOSE \u2014 the spine piece ends on the long bell",
    "dur_expected": null,
-   "start": 246.514,
-   "end": 251.214,
+   "start": 247.414,
+   "end": 252.114,
    "dur": 4.7
   }
  ],
@@ -1127,11 +1142,11 @@
   "h05": 1.6,
   "gap_h5": null,
   "sw5": null,
-  "b05": -1.6,
+  "b05": -1.5,
   "land5": null,
   "close_bell": 0.2
  },
- "duration_s": 251.245714,
+ "duration_s": 252.16,
  "loudness": {
   "mean_db": -22.6,
   "max_db": -1.7

@@ -165,3 +165,42 @@ Air/meter evolution (whole product):
 - Adjudication: silences = the 3s recall windows (by-design, 12-QUESTION-DEPTH
   retrieval-cue mechanism) · room jumps = TTS↔archive inherent (carried class)
 - **Blocking = 0, second consecutive pass → convergence met.**
+
+---
+
+## 5. QWEN-EAR PASS — hyper-specific engineering probe (2026-10-28, essay0 v2)
+
+New tool: `listen.py ask-qwen` (forces qwen3.8-omni, medium thinking; skips
+gemini) + `LISTEN_MIX=<path>` env to aim at any product. Probes are
+surgical: sound-profile decode, junction ms-trim calls, pause measurement.
+
+### Sound-profile decode (whole mix, one pass)
+- Narrator (A): −16.2 LUFS est., dry booth, bright/forward (+2.5dB shelf >6k)
+- Hareesh (B): −20.3, small-room boxiness 280–350Hz, 60Hz hum, HF rolloff >9k
+- Baumer (C): −22.0, lecture-room hiss −50dBFS 4–12k, 50Hz hum, double box 220/410Hz
+- Level table: A −4.1dB vs B / −5.8dB vs C to converge ~−19.5 (mixed at −21 target already; treat as relative)
+
+### Junction probes (with EXCERPT-EDGE rule included — lesson reconfirmed)
+- j_q1_h01: gap 3.12s measured; question end clean; Hareesh onset had 18ms
+  pre-transient → +lead fix
+- j_h01_b01 (pre-fix): male tail 12ms tick · female 60ms orphan breath ·
+  (claimed "truly" truncation = EXCERPT EDGE false-positive — prompt must
+  carry the edge rule, process/19)
+- j_h01_b01 (post-fix, lead 0.4/0.35): **CLEAN** — breath now phonation-linked,
+  tick −48dBFS inherent-advisory only; room bridge continuous
+- j_q5_h05: bell→question 0.3s clean · recall 3.6s with pads · onset clean ·
+  pacing 8/10
+- z_cell5_end: Baumer sentence complete to zero-energy · land ~1.4s · close
+  bell +12–15dB "feels right" · no internal artifacts
+
+### Fixes applied (mechanical only)
+- Baumer blocks lead 0.3→0.4, tail 0.3→0.35 · Hareesh lead 0.3→0.35
+- Re-render: 252.2s, p0 PASS · whole-mix re-check: junctions eliminated
+
+### Owner-policy flags (reported, not auto-fixed)
+1. Recall window: qwen recommends 3.5–4.0s for contemplative turn-in;
+   locked breath law (12) says 3.0 — owner call
+2. EQ match / de-noise / light compression per speaker (the full recipe is
+   in the sound-profile pass) — room-color ruling so far = accepted inherent
+3. Bridge bell or ambient crossfade at H→B junctions (qwen's top
+   whole-mix suggestion) — overlaps movie jolt grammar; owner call
