@@ -84,3 +84,18 @@ translation verbatim — pass-1 finding at 1:16, ruled design).
 
 ## Reproduce
 `python3 tools/sheet.py render build/essay0/production_sheet.json && python3 tools/p0_check.py build/essay0/production_sheet.json`
+
+## Essay0 v2 revision (owner ear, 2026-10-28 afternoon): voice seats changed
+- Hareesh's AUDIO removed from the custom cells ("theatre dude") — his TEXT
+  remains the trusted wording (template_13) on screen + as the plain source.
+- Spoken cell = Q(Narrator) → 3s recall → **PLAIN (Guyzo, precise answer
+  from the Sanskrit translation)** → Baumer answer. His dual-reading audio
+  untouched (standard line only).
+- Loudness war settled with measurements, not feel: Baumer loudnorm
+  I=-17/TP=-1.5 + clarity EQ (de-box 220/410, +1.5@3k, +4 shelf 8k) ·
+  H at -23.5 target (removed later) · plains explicit gains → final balance
+  plain ≈ -18.6 / Baumer -17.1..-18.5 / narrator -18 — Baumer dominant or
+  equal in every cell · piece -18.3 LUFS, TP -1.7, p0 PASS.
+- ffmpeg gotchas logged: acompressor threshold is LINEAR (0-1) in this build;
+  filter chains join with ',' not ':' ; explicit gain_db overrides
+  match_target_db (sheet.py).

@@ -22,7 +22,7 @@
    -22
   ]
  },
- "grammar": "bowls -> x5: [question(TTS) -> 3s recall -> Hareesh sūtra read -> land -> plain(Guyzo) -> switch -> Baumer answer] -> land -> bell -> next .. long-break close",
+ "grammar": "bowls -> x5: [question(TTS) -> 3s recall -> plain answer(Guyzo) -> switch -> Baumer] -> land -> bell -> next .. long-break close",
  "sources": {
   "bowls": {
    "file": "sfx/bowls_intro.wav",
@@ -155,27 +155,6 @@
    "comment": "2-breath recall window (12)"
   },
   {
-   "id": "h01",
-   "kind": "speech",
-   "speaker": "HAREESH",
-   "src": "wallis",
-   "window": [
-    492.99,
-    502.54
-   ],
-   "match_target_db": -21.0,
-   "comment": "HAREESH reads sūtra 1 — through the activity of the great spontaneous immediacy one discovers one's true nature",
-   "reason": "dual-reading H window: 0.3 lead (speech 493.31), 0.3 tail (speech ends 502.22) | qwen-ear: +50ms lead (pre-onset micro-transient margin)",
-   "lead": 0.35
-  },
-  {
-   "id": "gap_h1",
-   "kind": "pause",
-   "dur": 1.0,
-   "tone": "room_wallis",
-   "comment": "land before plain"
-  },
-  {
    "id": "p1",
    "kind": "speech",
    "speaker": "PLAIN",
@@ -184,9 +163,9 @@
     0.0,
     5.73
    ],
-   "match_target_db": -21.0,
-   "comment": "PLAIN (Guyzo) — filter of hareesh_spoken | SCREEN-ONLY: plain==hareesh_spoken (no-op) — spoken gloss would repeat the translation verbatim (P5 finding @1:16)",
-   "render": false
+   "comment": "PLAIN (Guyzo) — filter of hareesh_spoken | SPOKEN answer (owner: Hareesh voice out of essay; his TEXT is the precise answer via plain) | -3dB explicit (was 2dB over Baumer)",
+   "render": true,
+   "gain_db": -4.1
   },
   {
    "id": "sw1",
@@ -201,15 +180,14 @@
    "speaker": "BAUMER",
    "src": "b01",
    "window": [
-    526.0,
+    522.0,
     555.4
    ],
-   "match_target_db": -19.5,
-   "comment": "BAUMER answers Q1 — attainment means to become… the unfoldment of our true being | owner: raise + clarity (de-box 220/410, -1.2k, +3dB shelf 8k)",
-   "reason": "G12-verified gold-dust window (526-552), sentence-complete both edges | qwen-ear 2026-10-28: +100ms lead (orphan-breath/click margin), +50ms tail | window end552->557: owner-ear cut — \"of our true nature\" STARTS at 552 (transcript cue); payoff phrase was chopped. end before \"and of course\" ~558 | v3: end557->555.4 — cut inside the 0.94s breath after \"true nature\" (source silence 554.99-555.93), drops severed \"and of course in the whole\" fragment",
+   "comment": "BAUMER answers Q1 — attainment means to become… the unfoldment of our true being | owner: raise + clarity (de-box 220/410, -1.2k, +3dB shelf 8k) | owner: LOUDER (-18 target, +compressor) + presence 3k/+1.5, shelf 8k +4 | loudnorm I=-17 TP=-1.5 (parity with Hareesh)",
+   "reason": "G12-verified gold-dust window (526-552), sentence-complete both edges | qwen-ear 2026-10-28: +100ms lead (orphan-breath/click margin), +50ms tail | window end552->557: owner-ear cut — \"of our true nature\" STARTS at 552 (transcript cue); payoff phrase was chopped. end before \"and of course\" ~558 | v3: end557->555.4 — cut inside the 0.94s breath after \"true nature\" (source silence 554.99-555.93), drops severed \"and of course in the whole\" fragment | head widened 526->522 (p0 head flag: window started on sentence edge)",
    "lead": 0.4,
    "tail": 0.35,
-   "eq": "equalizer=f=220:t=q:w=1.4:g=-3,equalizer=f=410:t=q:w=1.6:g=-2,equalizer=f=1200:t=q:w=2:g=-1,highshelf=f=8000:g=3"
+   "eq": "equalizer=f=220:t=q:w=1.4:g=-3,equalizer=f=410:t=q:w=1.6:g=-2,equalizer=f=3000:t=q:w=1.2:g=1.5,highshelf=f=8000:g=4,loudnorm=I=-17:TP=-1.5:LRA=11:linear=true"
   },
   {
    "id": "land1",
@@ -249,26 +227,6 @@
    "tone": "digital"
   },
   {
-   "id": "h02",
-   "kind": "speech",
-   "speaker": "HAREESH",
-   "src": "wallis",
-   "window": [
-    538.19,
-    546.7
-   ],
-   "match_target_db": -21.0,
-   "comment": "HAREESH reads sūtra 4 — devouring the pair, abiding in continuous occasionless consciousness",
-   "reason": "dual-reading H window: clean both edges (538.92 / word ends ~546.6) | qwen-ear: +50ms lead (pre-onset micro-transient margin)",
-   "lead": 0.35
-  },
-  {
-   "id": "gap_h2",
-   "kind": "pause",
-   "dur": 1.0,
-   "tone": "room_wallis"
-  },
-  {
    "id": "p2",
    "kind": "speech",
    "speaker": "PLAIN",
@@ -277,9 +235,9 @@
     0.0,
     4.47
    ],
-   "match_target_db": -21.0,
-   "comment": "PLAIN (Guyzo) | SCREEN-ONLY: plain==hareesh_spoken (no-op) — spoken gloss would repeat the translation verbatim (P5 finding @1:16)",
-   "render": false
+   "comment": "PLAIN (Guyzo) | SPOKEN answer (owner: Hareesh voice out of essay; his TEXT is the precise answer via plain) | -3dB explicit (was 2dB over Baumer)",
+   "render": true,
+   "gain_db": -1.7
   },
   {
    "id": "sw2",
@@ -297,12 +255,11 @@
     299.0,
     313.5
    ],
-   "match_target_db": -19.5,
-   "comment": "BAUMER answers Q2 — vat4-03 co-presence | owner: raise + clarity (de-box 220/410, -1.2k, +3dB shelf 8k)",
+   "comment": "BAUMER answers Q2 — vat4-03 co-presence | owner: raise + clarity (de-box 220/410, -1.2k, +3dB shelf 8k) | owner: LOUDER (-18 target, +compressor) + presence 3k/+1.5, shelf 8k +4 | loudnorm I=-17 TP=-1.5 (parity with Hareesh)",
    "reason": "excavation unit vat4-03 (4:59 +15s), quote-verified sentence edges | qwen-ear 2026-10-28: +100ms lead (orphan-breath/click margin), +50ms tail | end314->313.5: stop after \"object of experience\", before \"Or else\" onset (owner-ear pass: tighten all ends at next-thought onsets)",
    "lead": 0.4,
    "tail": 0.35,
-   "eq": "equalizer=f=220:t=q:w=1.4:g=-3,equalizer=f=410:t=q:w=1.6:g=-2,equalizer=f=1200:t=q:w=2:g=-1,highshelf=f=8000:g=3"
+   "eq": "equalizer=f=220:t=q:w=1.4:g=-3,equalizer=f=410:t=q:w=1.6:g=-2,equalizer=f=3000:t=q:w=1.2:g=1.5,highshelf=f=8000:g=4,loudnorm=I=-17:TP=-1.5:LRA=11:linear=true"
   },
   {
    "id": "land2",
@@ -341,26 +298,6 @@
    "tone": "digital"
   },
   {
-   "id": "h03",
-   "kind": "speech",
-   "speaker": "HAREESH",
-   "src": "wallis",
-   "window": [
-    602.19,
-    612.25
-   ],
-   "match_target_db": -21.0,
-   "comment": "HAREESH reads sūtra 8 — savoring the three flavors, surges up spontaneously",
-   "reason": "dual-reading H window: MID-WORD fix (v1 cut inside spontaneously); end 612.25, word ends 611.62 | qwen-ear: +50ms lead (pre-onset micro-transient margin)",
-   "lead": 0.35
-  },
-  {
-   "id": "gap_h3",
-   "kind": "pause",
-   "dur": 1.0,
-   "tone": "room_wallis"
-  },
-  {
    "id": "p3",
    "kind": "speech",
    "speaker": "PLAIN",
@@ -369,9 +306,9 @@
     0.0,
     7.63
    ],
-   "match_target_db": -21.0,
-   "comment": "PLAIN (Guyzo) | SCREEN-ONLY: plain==hareesh_spoken (no-op) — spoken gloss would repeat the translation verbatim (P5 finding @1:16)",
-   "render": false
+   "comment": "PLAIN (Guyzo) | SPOKEN answer (owner: Hareesh voice out of essay; his TEXT is the precise answer via plain) | -3dB explicit (was 2dB over Baumer)",
+   "render": true,
+   "gain_db": -3.9
   },
   {
    "id": "sw3",
@@ -386,15 +323,14 @@
    "speaker": "BAUMER",
    "src": "b03",
    "window": [
-    52.0,
+    49.0,
     67.0
    ],
-   "match_target_db": -19.5,
-   "comment": "BAUMER answers Q3 — vat8-01 inner inspirational impulse | owner: raise + clarity (de-box 220/410, -1.2k, +3dB shelf 8k)",
-   "reason": "excavation unit vat8-01 (0:52 +16s), quote-verified | qwen-ear 2026-10-28: +100ms lead (orphan-breath/click margin), +50ms tail | end68->67: after \"spirituality of Trika.\", before \"And this threefold\" onset",
+   "comment": "BAUMER answers Q3 — vat8-01 inner inspirational impulse | owner: raise + clarity (de-box 220/410, -1.2k, +3dB shelf 8k) | owner: LOUDER (-18 target, +compressor) + presence 3k/+1.5, shelf 8k +4 | loudnorm I=-17 TP=-1.5 (parity with Hareesh)",
+   "reason": "excavation unit vat8-01 (0:52 +16s), quote-verified | qwen-ear 2026-10-28: +100ms lead (orphan-breath/click margin), +50ms tail | end68->67: after \"spirituality of Trika.\", before \"And this threefold\" onset | head widened 52->49: window started ON the sentence edge, no lead room (p0 head flag)",
    "lead": 0.4,
    "tail": 0.35,
-   "eq": "equalizer=f=220:t=q:w=1.4:g=-3,equalizer=f=410:t=q:w=1.6:g=-2,equalizer=f=1200:t=q:w=2:g=-1,highshelf=f=8000:g=3"
+   "eq": "equalizer=f=220:t=q:w=1.4:g=-3,equalizer=f=410:t=q:w=1.6:g=-2,equalizer=f=3000:t=q:w=1.2:g=1.5,highshelf=f=8000:g=4,loudnorm=I=-17:TP=-1.5:LRA=11:linear=true"
   },
   {
    "id": "land3",
@@ -433,26 +369,6 @@
    "tone": "digital"
   },
   {
-   "id": "h04",
-   "kind": "speech",
-   "speaker": "HAREESH",
-   "src": "wallis",
-   "window": [
-    636.45,
-    645.2
-   ],
-   "match_target_db": -21.0,
-   "comment": "HAREESH reads sūtra 10 — expansion of the great rays of consciousness",
-   "reason": "dual-reading H window: 0.3 lead (speech 636.6), 0.1 margin after 'consciousness' (speech ends 645.1) | qwen-ear: +50ms lead (pre-onset micro-transient margin)",
-   "lead": 0.35
-  },
-  {
-   "id": "gap_h4",
-   "kind": "pause",
-   "dur": 1.0,
-   "tone": "room_wallis"
-  },
-  {
    "id": "p4",
    "kind": "speech",
    "speaker": "PLAIN",
@@ -461,9 +377,9 @@
     0.0,
     6.56
    ],
-   "match_target_db": -21.0,
-   "comment": "PLAIN (Guyzo) | SCREEN-ONLY: plain==hareesh_spoken (no-op) — spoken gloss would repeat the translation verbatim (P5 finding @1:16)",
-   "render": false
+   "comment": "PLAIN (Guyzo) | SPOKEN answer (owner: Hareesh voice out of essay; his TEXT is the precise answer via plain) | -3dB explicit (was 2dB over Baumer)",
+   "render": true,
+   "gain_db": -2.7
   },
   {
    "id": "sw4",
@@ -481,12 +397,11 @@
     373.0,
     408.6
    ],
-   "match_target_db": -19.5,
-   "comment": "BAUMER answers Q4 — vat10-07 divinized senses radiate | owner: raise + clarity (de-box 220/410, -1.2k, +3dB shelf 8k)",
+   "comment": "BAUMER answers Q4 — vat10-07 divinized senses radiate | owner: raise + clarity (de-box 220/410, -1.2k, +3dB shelf 8k) | owner: LOUDER (-18 target, +compressor) + presence 3k/+1.5, shelf 8k +4 | loudnorm I=-17 TP=-1.5 (parity with Hareesh)",
    "reason": "widened head 375->373 for snap lead (unit 375-408 quote-verified; snap lands onset-lead into silence) | qwen-ear 2026-10-28: +100ms lead (orphan-breath/click margin), +50ms tail | end408->406.5: owner-ear cut — window ran into ASR repeat-loop junk at 407+ (\"but his divinized senses\" ×5); end after \"universe.\" | v3: end406.5->408.6 — \"the universe\" WAS cut; true speech ends ~408.3 (source silence 408.3-409.4); transcript repeat-loop at 407+ is ASR junk, audio is clean",
    "lead": 0.4,
    "tail": 0.35,
-   "eq": "equalizer=f=220:t=q:w=1.4:g=-3,equalizer=f=410:t=q:w=1.6:g=-2,equalizer=f=1200:t=q:w=2:g=-1,highshelf=f=8000:g=3"
+   "eq": "equalizer=f=220:t=q:w=1.4:g=-3,equalizer=f=410:t=q:w=1.6:g=-2,equalizer=f=3000:t=q:w=1.2:g=1.5,highshelf=f=8000:g=4,loudnorm=I=-17:TP=-1.5:LRA=11:linear=true"
   },
   {
    "id": "land4",
@@ -525,26 +440,6 @@
    "tone": "digital"
   },
   {
-   "id": "h05",
-   "kind": "speech",
-   "speaker": "HAREESH",
-   "src": "wallis",
-   "window": [
-    678.99,
-    694.36
-   ],
-   "match_target_db": -21.0,
-   "comment": "HAREESH reads sūtra 13 — Seal of great Wonder, Resonance of the Void",
-   "reason": "dual-reading H window: kept clean both edges (679.19 / 693.96) | qwen-ear: +50ms lead (pre-onset micro-transient margin)",
-   "lead": 0.35
-  },
-  {
-   "id": "gap_h5",
-   "kind": "pause",
-   "dur": 1.0,
-   "tone": "room_wallis"
-  },
-  {
    "id": "p5",
    "kind": "speech",
    "speaker": "PLAIN",
@@ -553,9 +448,9 @@
     0.0,
     9.38
    ],
-   "match_target_db": -21.0,
-   "comment": "PLAIN (Guyzo) | SCREEN-ONLY: plain==hareesh_spoken (no-op) — spoken gloss would repeat the translation verbatim (P5 finding @1:16)",
-   "render": false
+   "comment": "PLAIN (Guyzo) | SPOKEN answer (owner: Hareesh voice out of essay; his TEXT is the precise answer via plain) | -3dB explicit (was 2dB over Baumer)",
+   "render": true,
+   "gain_db": -2.2
   },
   {
    "id": "sw5",
@@ -573,12 +468,11 @@
     829.0,
     865.5
    ],
-   "match_target_db": -19.5,
-   "comment": "BAUMER answers Q5 — vat13-06 all what I feel now, I was already feeling that | owner: raise + clarity (de-box 220/410, -1.2k, +3dB shelf 8k)",
+   "comment": "BAUMER answers Q5 — vat13-06 all what I feel now, I was already feeling that | owner: raise + clarity (de-box 220/410, -1.2k, +3dB shelf 8k) | owner: LOUDER (-18 target, +compressor) + presence 3k/+1.5, shelf 8k +4 | loudnorm I=-17 TP=-1.5 (parity with Hareesh)",
    "reason": "excavation unit vat13-06 (13:49 +37s), quote-verified; peak 0.0 in source — gain caps at -1.5 | qwen-ear 2026-10-28: +100ms lead (orphan-breath/click margin), +50ms tail | end866->865.5: after \"with astonishment.\", before \"There remains\" onset",
    "lead": 0.4,
    "tail": 0.35,
-   "eq": "equalizer=f=220:t=q:w=1.4:g=-3,equalizer=f=410:t=q:w=1.6:g=-2,equalizer=f=1200:t=q:w=2:g=-1,highshelf=f=8000:g=3"
+   "eq": "equalizer=f=220:t=q:w=1.4:g=-3,equalizer=f=410:t=q:w=1.6:g=-2,equalizer=f=3000:t=q:w=1.2:g=1.5,highshelf=f=8000:g=4,loudnorm=I=-17:TP=-1.5:LRA=11:linear=true"
   },
   {
    "id": "land5",
